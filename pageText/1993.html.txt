@@ -1,0 +1,2514 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Research
+      ›› Research Notes
+      ›› Research Note Archive ›› 1993 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Research Notes Index - 1993
+
+        
+ 
+         
+         
+         
+         
+         Messie: An Email-based Collaborative Authoring Environment 
+ M.J. Handley , M.A. Sasse , S.C. Chuang 
+          RN/93/1 
+
+          January 1993 
+
+         pages count: to~appear 
+
+          Abstract: Abstract: 
+
+          Submission Status: Submitted to CSCW journal 
+
+          
+
+         
+ 
+          
+
+         Adding List Memory to Standard Machines 
+ P.A. Rounce , J-U. Dzikowski 
+          RN/93/2 
+
+          January 1993 
+
+         Abstract: Abstract: not possible to get direct access to any element. 
+
+          Submission Status: Not yet submitted 
+
+          
+
+         
+ 
+          
+
+         High Level Synthesis of Neural Network Chips 
+ M.E. Nigri , P.C. Treleaven 
+          RN/93/3 
+
+          December 1992 
+
+         Book: New Trends in Neural Computation: Proc. International Workshop on Artificial Neural Networks, IWANN'93, Sitges, Spain, June 9-11 1993 
+
+          City: Berlin 
+
+          Ed: J. Mira J. Cabestany A. Prieto 
+
+          Issuer: Springer-Verlag 
+
+          pages count: 448-453 
+
+          Abstract: Abstract: the generation of Application-Specific Neural Network Chips (ASNNCs) from a 
+
+          Submission Status: Not yet submitted 
+
+          
+
+         
+ 
+          
+
+         Support for Collaborative Authoring via Email: The MESSIE Environment 
+ M.A. Sasse , M.J. Handley , S.C. Chuang 
+          RN/93/4 
+
+          January/May 1993 
+
+         Book: Proc. Third European Conference on Computer-Supported Cooperative Work - ECSCW93 13-17 September 1993, Milan, Italy 
+
+          City: Dordrecht, The Netherlands 
+
+          Ed: Giorgio de Michelis Carla Simone Kjeld Schmidt 
+
+          Issuer: Kluwer Academic Publishers 
+
+          Pages: 16 
+
+          pages count: 249-264 
+
+          Abstract: Abstract: 
+
+          Submission Status: Not yet submitted 
+
+          
+
+         
+ 
+          
+
+         Fitting Spline Functions to Noisy Data using a Genetic Algorithm 
+ M. Manela , N. Thornhill , J.A. Campbell 
+          RN/93/5 
+
+          January 1993 
+
+         Book: Proc. Fifth International Conference on Genetic Algorithms, University of Illinois, 17-21 July 1993 
+
+          City: San Mateo 
+
+          Ed: Stephanie Forrest 
+
+          Issuer: Morgan Kaufmann 
+
+          pages count: 549-556 
+
+          Abstract: Abstract: part of an hybrid algorithm for fitting experimental noisy data with highly satisfactory and that the resulting spline does indeed capture 
+
+          Submission Status: Not yet submitted 
+
+          
+
+         
+ 
+          
+
+         On the Formation of Spiral Structure in Gas Discs through Tidal Interaction II: Retrograde Encounters 
+ S-A. S{\o}rensen 
+          RN/93/6 
+
+          July 1992 
+
+         Journal: Monthly Notices of the Royal Astronomical Society 
+
+          Keywords: CFD, spiral galaxies, swing amplification 
+
+          Pages: 14 
+
+          pages count: 1-9 
+
+          Vol: 263 
+
+          Abstract: Abstract: 
+
+          Submission Status: Not yet submitted 
+
+          
+
+         
+ 
+          
+
+         CLOWN, An Object-Oriented Simulation Environment 
+ S-A. S{\o}rensen 
+          RN/93/7 
+
+          
+
+         Book: Proc. International Conference on Modelling, Simulation and Control, AMSE MSC'92, October 1992, Hefei, China 
+
+          City: Hefei, Anhui, China 
+
+          Ed: Bao Yuanlu Shen Lian 
+
+          Issuer: USTC Press 
+
+          Keywords: modelling, simulation, graphical user interface, Hefei 
+
+          Pages: 7 
+
+          pages count: 2018-24 
+
+          Abstract: Abstract: 
+
+          Submission Status: Not yet submitted 
+
+          
+
+         
+ 
+          
+
+         Desktop Modelling using CLOWN 
+ I. Kojaman-Lay , S-A. S{\o}rensen 
+          RN/93/8 
+
+          October 1992 
+
+         Keywords: modelling, simulation, graphical user interface 
+
+          Pages: 7 
+
+          Abstract: Abstract: 
+
+          Submission Status: Submitted 
+
+          
+
+         
+ 
+          
+
+         Complexity and Interference in Multi-Media, Multi-User Systems 
+ M.A. Sasse 
+          RN/93/9 
+
+          February 1993 
+
+         Pages: 10 
+
+          Abstract: Abstract: stem from two sources: the overwhelming complexity of such systems, a modular user interface functionality, dialogue styles, 
+
+          Submission Status: Position Paper for the INTERCHI'93 Workshop on Multimodal and Multimedia Human-Computer Interfaces (Amsterdam, April 24-25, 1993) 
+
+          
+
+         
+ 
+          
+
+         Distributed Design of a Large Multimedia System 
+ S. Baydere , C. Easteal 
+          RN/93/10 
+
+          February 1993 
+
+         Pages: 16 
+
+          Abstract: Abstract: RACE'. The latter is a European Community research programme user partners in February and June, 1992. 
+
+          Submission Status: Submitted to the European Journal of Information Systems 
+
+          
+
+         
+ 
+          
+
+         Hybrid Programming Environments 
+ P.C. Treleaven , P.V. Rocha 
+          RN/93/11 
+
+          February 1993 
+
+         Book: New Trends in Neural Computation: Proc. International Workshop on Artificial Neural Networks, IWANN'93, Sitges, Spain, June 9-11 1993 
+
+          City: Berlin 
+
+          Ed: J. Mira J. Cabestany A. Prieto 
+
+          Issuer: Springer-Verlag 
+
+          Pages: 8 
+
+          pages count: 351-357 
+
+          Abstract: Abstract: assist application building. Each environment being 
+
+          Submission Status: Submitted to the European Journal of Information Systems 
+
+          
+
+         
+ 
+          
+
+         Remote Procedure Call: Not a Panacea for Distributed Computing Problems 
+ J. Crowcroft 
+          RN/93/12 
+
+          March 1993 
+
+         Keywords: Conferencing, Distributed Programming, RPC, Systolic, Synchronous 
+
+          Abstract: Abstract: familiar with the concept of RPC. 
+
+          Submission Status: Submitted to Journal of Internetworking Research and Experience 
+
+          
+
+         
+ 
+          
+
+         The CAR System: Multimedia in Support of Collaborative Design 
+ M. Handley 
+          RN/93/13 
+
+          January 1993 
+
+         Pages: 5 
+
+          Submission Status: Paper presented at IEE Colloquium on Multimedia and Professional Applications, London, January 1993 
+
+          
+
+         
+ 
+          
+
+         A Plethora of Paradigms: From Definitions of the Term `Paradigm' to a Philosophy for Software Engineering 
+ P. Wernick , R. Winder 
+          RN/93/14 
+
+          February 1993 
+
+         Keywords: Kuhn, Philosophy, Software Engineering, Paradigm, Disciplinary Matrix 
+
+          Abstract: Abstract: suggest that Kuhn's conception of the nature of a 
+
+          Submission Status: Submitted to The Computer Journal 
+
+          
+
+         
+ 
+          
+
+         A Note on Chapman's Modal Truth Criterion 
+ M. Fox , D. Long 
+          RN/93/15 
+
+          February 1993 
+
+         City: Berlin 
+
+          Issuer: Springer Verlag 
+
+          Volume: 727 
+
+          pages count: 307-311 
+
+          Series: Lecture Notes in Artificial Intelligence 
+
+          Abstract: Abstract: be sufficient but not necessary, as claimed. A corollary of this Chapman to be polynomially solvable, is now open. 
+
+          Submission Status: Progress in Artificial Intelligence - Proc. of 6th Portuguese Conference on Artificial Intelligence EPIA '93 
+
+          
+
+         
+ 
+          
+
+         Hierarchical Planning Using Abstraction 
+ M. Fox , D. Long 
+          RN/93/16 
+
+          January 1993 
+
+         Abstract: Abstract: presented. The planner is designed to develop plans from high found. The work differs from previous approaches to planning using plans can be maintained without breaking the abstractions. 
+
+          Submission Status: Submitted to the Journal of Intelligent Systems Engineering 
+
+          
+
+         
+ 
+          
+
+         Inverse Methods for Optical Tomography 
+ S.R. Arridge , M. Schweiger 
+          RN/93/17 
+
+          February 1993 
+
+         Book: Proc. Information Processing in Medical Imaging '93, June 1993 
+
+          City: Berlin 
+
+          Ed: H.H. Barrett A.F. Gmitro 
+
+          Issuer: Springer-Verlag 
+
+          Pages: 19 
+
+          pages count: 259-277 
+
+          Abstract: Abstract: 
+
+          Submission Status: Submitted to the Journal of Intelligent Systems Engineering 
+
+          
+
+         
+ 
+          
+
+         Performance of an iterative reconstruction algorithm for near infrared absorption and scatter imaging 
+ S.R. Arridge , M. Schweiger , M. Hiraoka , D.T. Delpy , number of factors influence the performance of the algorithm -- 
+          RN/93/18 
+
+          February 1993 
+
+         Book: Proc. SPIE-1888, January 1993, Los Angeles 
+
+          City: Bellingham, Washington, U.S.A. 
+
+          Ed: B. Chance 
+
+          Issuer: SPIE 
+
+          Pages: 13 
+
+          pages count: 360-371 
+
+          Abstract: Abstract: the trial solution, by a ``classical'' non-linear search in the that it employs analytical results for the gradient change 
+
+          Submission Status: Submitted to the Journal of Intelligent Systems Engineering 
+
+          
+
+         
+ 
+          
+
+         Comparison of a finite element forward model with experimental phantom results: application to image reconstruction 
+ M. Schweiger , S.R. Arridge , M. Hiraoka , M. Firbank , D.T. Delpy 
+          RN/93/19 
+
+          February 1993 
+
+         Book: Proc. SPIE-1888, January 1993, Los Angeles 
+
+          City: Bellingham, Washington, U.S.A. 
+
+          Ed: B. Chance 
+
+          Issuer: SPIE 
+
+          Pages: 12 
+
+          pages count: 179-190 
+
+          Abstract: Abstract: 16 intermediate locations using a streak camera. data generated with the FE forward model. 
+
+          Submission Status: Submitted to the Journal of Intelligent Systems Engineering 
+
+          
+
+         
+ 
+          
+
+         You cannot promote OSI Applications over OSI Networks 
+ P. Barker , C.J. Robbins 
+          RN/93/20 
+
+          February 1993 
+
+         Journal: ConneXions 
+
+          Keywords: OSI, X.25 
+
+          Volume: 5 
+
+          Pages: 9 
+
+          pages count: 16-22 
+
+          Vol: 7 
+
+          Abstract: Abstract: some of the protocol problems which hinder the acceptance of OSI the networking technology of choice. We also note how easy life noting a number of issues which have to be addressed before OSI allowing the use of prevalent, reliable networking technology, 
+
+          Submission Status: Submitted to the Journal of Intelligent Systems Engineering 
+
+          
+
+         
+ 
+          
+
+         NSC: A Neural Silicon Compiler 
+ M.E. Nigri , P.C. Treleaven 
+          RN/93/21 
+
+          April 1993 
+
+         Submission Status: Submitted to ICCAD'93 - November 7-11, 1993, Santa Clara, CA 
+
+          
+
+         
+ 
+          
+
+         Multimedia Integrated Conferencing for European Researchers (MICE): Piloting Activities and the Conference Management and Multiplexing Centre 
+ 
+          RN/93/21 
+
+          
+
+         Submission Status: Submitted to ICCAD'93 - November 7-11, 1993, Santa Clara, CA 
+
+          
+
+         
+ 
+          M. Handley 
+
+         Multimedia Integrated Conferencing for European Researchers (MICE): Piloting Activities and the Conference Management and Multiplexing Centre 
+ M. Handley , P. Kirstein , A. Sasse 
+          RN/93/22 
+
+          April 1993 
+
+         Journal: Computer Networks and ISDN Systems 
+
+          pages count: 275-290 
+
+          Vol: 26 
+
+          Abstract: Abstract: provide an outlook on the future of multimedia conferencing and 
+
+          Submission Status: Submitted to ICCAD'93 - November 7-11, 1993, Santa Clara, CA 
+
+          
+
+         
+ 
+          
+
+         Lexical Profiling: Theory and Practice 
+ C.D. Clack , S. Clayman , D.J. Parrott 
+          RN/93/23 
+
+          April 1993 
+
+         Journal: Journal of Functional Programming 
+
+          Volume: 2 
+
+          pages count: 225-277 
+
+          Vol: 5 
+
+          Abstract: Abstract: 
+
+          Submission Status: Submitted to ICCAD'93 - November 7-11, 1993, Santa Clara, CA 
+
+          
+
+         
+ 
+          
+
+         Analysis of Burstiness and Jitter in Real Time Communications 
+ Z. Wang , J. Crowcroft 
+          RN/93/24 
+
+          May 1993 
+
+         Book: Proc. Sigcomm'93, San Francisco, 17-19 September 1993 
+
+          City: New York 
+
+          Issuer: ACM Press 
+
+          pages count: 13-19 
+
+          Abstract: Abstract: the relationship between burstiness and jitter, and on 
+
+          Submission Status: Submitted to ICCAD'93 - November 7-11, 1993, Santa Clara, CA 
+
+          
+
+         
+ 
+          
+
+         A Dual-Window Model for Flow and Congestion Control 
+ Z. Wang , J. Crowcroft , dual-window model is presented, in which 
+          RN/93/25 
+
+          May 1993 
+
+         Issuer: IEE/BCS/IoP 
+
+          Journal: The Distributed Computing Engineering Journal 
+
+          Volume: 3 
+
+          pages count: 162-172 
+
+          Vol: 1 
+
+          Abstract: Abstract: 
+
+          Submission Status: Submitted to ICCAD'93 - November 7-11, 1993, Santa Clara, CA 
+
+          
+
+         
+ 
+          
+
+         Designing Good Pursuit Problems as Testbeds for Distributed AI: A Novel Application of Genetic Algorithms 
+ 
+          RN/93/25 
+
+          
+
+         Submission Status: Submitted to ICCAD'93 - November 7-11, 1993, Santa Clara, CA 
+
+          
+
+         
+ 
+          M. Manela 
+
+         Designing Good Pursuit Problems as Testbeds for Distributed AI: A Novel Application of Genetic Algorithms 
+ M. Manela , J.A. Campbell , basic $N \times M$ instance (game) of the Pursuit Problem is one in 
+          RN/93/26 
+
+          May 1993 
+
+         Abstract: Abstract: different multi-agent distributed architectures, and the $6 \times 2$ 
+
+          Submission Status: Accepted for 5th European Workshop on Modelling Autonomous Agents in a Multi-Agent World (MAAMAW 93), 25-27 August 1993, Neuchatel, Switzerland 
+
+          
+
+         
+ 
+          
+
+         Design of an Urban Point-to-Multipoint Millimetric Radio System with a Two Level Hierarchy 
+ R. Ramos , S-A. S{\o}rensen , A.H. Aghwami , M.A. Kitching 
+          RN/93/27 
+
+          May 1993 
+
+         Keywords: Multipoint Radio, Radio in the Access Network 
+
+          Pages: 7 
+
+          Abstract: Abstract: 
+
+          Submission Status: Accepted for 4th European Conference on Radio Relay Systems, 11-14 October 1993 
+
+          
+
+         
+ 
+          
+
+         Core Based Trees (CBT): A Scalable Inter-Domain Multicast Routing Architecture 
+ A. Ballardie , P. Francis , J. Crowcroft 
+          RN/93/28 
+
+          February 1993 
+
+         Book: Proc. Sigcomm'93, San Francisco, 17-19 September 1993 
+
+          Issuer: ACM Press 
+
+          Pages: 17 
+
+          pages count: 85-95 
+
+          Abstract: Abstract: 
+
+          Submission Status: Accepted for 4th European Conference on Radio Relay Systems, 11-14 October 1993 
+
+          
+
+         
+ 
+          
+
+         Computable Database Queries Revisited 
+ M. Levene , G. Loizou 
+          RN/93/29 
+
+          June 1993 
+
+         Pages: 
+
+          Abstract: Abstract: sets of records. In particular, we view a computable query as being ordering function, which orders the records in a set well as the values of each record in the set, computable queries and showing the equivalence of these subclasses ones already defined in the database literature. a computable query with respect to the said equivalence relation: $\delta$ realises exactly one computable query, $\delta$ realises a countably infinite set of computable queries. mappings is the set of all isomorphism-independent computable queries. 
+
+          Submission Status: Submitted for publication 
+
+          
+
+         
+ 
+          
+
+         A Formal Basis For Hierarchical Planning 
+ M. Fox 
+          RN/93/30 
+
+          May 1993 
+
+         City: Singapore 
+
+          Issuer: World Scientific Publishing Company 
+
+          pages count: 442 
+
+          Abstract: Abstract: in an abstract stage of refinement. considered. 
+
+          Submission Status: Proc. of 6th Australian Joint Conference on Artificial Intelligence, 16-19th November 1993, Melbourne, Australia 
+
+          
+
+         
+ 
+          
+
+         Identifying White Knights in Partial Plans 
+ M. Fox , D. Long 
+          RN/93/31 
+
+          May 1993 
+
+         Abstract: Abstract: shown, by counter-example, to be in error. A correction is proposed 
+
+          Submission Status: Submitted to European Workshop on Planning 
+
+          
+
+         
+ 
+          
+
+         Identifying White Knights Efficiently 
+ M. Fox , D. Long 
+          RN/93/32 
+
+          May 1993 
+
+         Abstract: Abstract: Chapman's modal truth criterion with the white knoght clause 
+
+          Submission Status: Submitted to Australian Joint Conference on AI, 1993 
+
+          
+
+         
+ 
+          
+
+         Truth Criteria for Hierarchical Refinement Planners 
+ M. Fox 
+          RN/93/33 
+
+          May 1993 
+
+         Abstract: Abstract: abstraction have been considered but little attention has so far been 
+
+          Submission Status: Submitted to European Workshop on Planning 
+
+          
+
+         
+ 
+          
+
+         Automating the OSI to Internet Management Conversion through the use of an Object-Oriented Platform 
+ G. Pavlou , S.N. Bhatti , G. Knight 
+          RN/93/34 
+
+          April 1993 
+
+         Book: Proc. IFIP TC6/WG6.4 International Conference on Advanced Information processing Techniques for LAN and MAN Manangement, Versailles, France, 7-9 April 1993 
+
+          City: Amsterdam 
+
+          Ed: J-P. Claude 
+
+          Issuer: Elsevier Science Pubs. 
+
+          pages count: 245-260 
+
+          Submission Status: Submitted to European Workshop on Planning 
+
+          
+
+         
+ 
+          
+
+         Preparing to Pilot OSI Authentication and Security Services on a Medium Scale 
+ P.T. Kirstein , P. Williams 
+          RN/93/35 
+
+          April 1993 
+
+         Book: Proc. 4th Joint European Networking Conference, Trondheim, Norway, May 10th-13th, 1993 
+
+          City: Amsterdam 
+
+          Issuer: RARE 
+
+          Pages: 5 
+
+          pages count: 50-54 
+
+          Submission Status: Submitted to European Workshop on Planning 
+
+          
+
+         
+ 
+          
+
+         Multimedia Integrated Conferencing for European Researchers 
+ P.T. Kirstein , M.J. Handley , A. Sasse 
+          RN/93/36 
+
+          
+
+         Book: Proc. INET'93, International Networking Conference 
+
+          City: Reston, Virginia 
+
+          Issuer: Internet Society 
+
+          pages count: DCA 1-12 
+
+          Submission Status: Submitted to European Workshop on Planning 
+
+          
+
+         
+ 
+          
+
+         Piloting Authentication and Security Services in the Password Project 
+ P.T. Kirstein , P. Williams 
+          RN/93/37 
+
+          
+
+         Book: Proc. INET'93, International Networking Conference 
+
+          City: Reston, Virginia 
+
+          Issuer: Internet Society 
+
+          Pages: 8 
+
+          pages count: BAC 1-8 
+
+          Submission Status: Submitted to European Workshop on Planning 
+
+          
+
+         
+ 
+          
+
+         A Caching Scheme for Time-Critical Knowledge-Based Computations 
+ 
+          RN/93/37 
+
+          
+
+         Submission Status: Submitted to European Workshop on Planning 
+
+          
+
+         
+ 
+          N. Chatterjee 
+
+         A Caching Scheme for Time-Critical Knowledge-Based Computations 
+ N. Chatterjee , J.A. Campbell 
+          RN/93/38 
+
+          May 1993 
+
+         Book: IEA/AIE 93: Proc. 6th International Conference on Industrial Engineering Applications of Artificial Intelligence and Expert Systems 
+
+          City: Yverdon, Switzerland 
+
+          Ed: P.W.H. Chung G. Lovegrove M. Ali 
+
+          Issuer: Gordon \& Breach Science Pubs. 
+
+          pages count: 61-70 
+
+          Abstract: Abstract: inputs that specify what is to be computed. A discussion of the use of ground operations in an airport. 
+
+          Submission Status: Submitted to European Workshop on Planning 
+
+          
+
+         
+ 
+          
+
+         Distributed Active Secure Managed Badges (DASMB) 
+ 
+          RN/93/38 
+
+          
+
+         Submission Status: Submitted to European Workshop on Planning 
+
+          
+
+         
+ 
+          J. Crowcroft 
+
+         Distributed Active Secure Managed Badges (DASMB) 
+ J. Crowcroft 
+          RN/93/39 
+
+          June 1993 
+
+         Abstract: Abstract: badge location information, and explain the motivation behind such a scheme. 
+
+          Submission Status: Submitted to the Journal of Collaborative Computing 
+
+          
+
+         
+ 
+          
+
+         Multimedia Applications and Services in the PREPARE Testbed 
+ D. Lewis , J. Crowcroft 
+          RN/93/40 
+
+          April 1993 
+
+         Submission Status: presented at 2nd International Conference on Broadband Islands, Athens, Greece 15-16 June 1993 
+
+          
+
+         
+ 
+          
+
+         Using Hippocampal `Place Cells' for Navigation, Exploiting Phase Coding 
+ N. Burgess , J. O'Keefe , M. Recce 
+          RN/93/41 
+
+          1993 
+
+         Book: Advances in Neural Information Processing Systems 5 
+
+          City: San Mateo 
+
+          Ed: S.J. Hanson J.D. Cowan C.L. Giles 
+
+          Issuer: Morgan Kaufmann 
+
+          pages count: 929-936 
+
+          Submission Status: presented at 2nd International Conference on Broadband Islands, Athens, Greece 15-16 June 1993 
+
+          
+
+         
+ 
+          
+
+         Flexible Operating Environment for Matrix Based Neurocomputers 
+ J.C. Taylor , M.L. Recce , A.S. Mangat 
+          RN/93/42 
+
+          June 1993 
+
+         Book: New Trends in Neural Computation: Proc. International Workshop on Artificial Neural Networks, IWANN'93, Sitges, Spain, June 9-11 1993 
+
+          City: Berlin 
+
+          Ed: J. Mira J. Cabestany A. Prieto 
+
+          Issuer: Springer-Verlag 
+
+          pages count: 382-387 
+
+          Abstract: Abstract: more virtual machines. The user interface allows a range of 
+
+          Submission Status: presented at 2nd International Conference on Broadband Islands, Athens, Greece 15-16 June 1993 
+
+          
+
+         
+ 
+          
+
+         Two Methods of Selecting Smoothing Splines Applied to Fermentation process Data 
+ N.F. Thornhill , M. Manela , K.M. Stone , J.A. Campbell 
+          RN/93/43 
+
+          June 1993 
+
+         Journal: Journal of the American Institute of Chemical Engineering 
+
+          Volume: 4 
+
+          Pages: 10 
+
+          pages count: 716-725 
+
+          Vol: 40 
+
+          Submission Status: presented at 2nd International Conference on Broadband Islands, Athens, Greece 15-16 June 1993 
+
+          
+
+         
+ 
+          
+
+         An Architecture for Implementing Control and Signal Processing Neural Networks 
+ R.P. Palmer , P.A. Rounce 
+          RN/93/44 
+
+          June 1993 
+
+         Book: New Trends in Neural Computation: Proc. International Workshop on Artificial Neural Networks, IWANN'93, Sitges, Spain, June 9-11 1993 
+
+          City: Berlin 
+
+          Ed: J. Mira J. Cabestany A. Prieto 
+
+          Issuer: Springer-Verlag 
+
+          pages count: 702-707 
+
+          Abstract: Abstract: small and medium sized systems, or operate as a preprocessor in 
+
+          Submission Status: presented at 2nd International Conference on Broadband Islands, Athens, Greece 15-16 June 1993 
+
+          
+
+         
+ 
+          
+
+         The {\it Generic Neuron\/} Architectural Framework for the Automatic Generation of ASICs. 
+ M.M.B.R Vellasco , P.C. Treleaven 
+          RN/93/45 
+
+          June 1993 
+
+         Book: New Trends in Neural Computation: Proc. International Workshop on Artificial Neural Networks, IWANN'93, Sitges, Spain, June 9-11 1993 
+
+          City: Berlin 
+
+          Ed: J. Mira J. Cabestany A. Prieto 
+
+          Issuer: Springer-Verlag 
+
+          pages count: 476-481 
+
+          Submission Status: presented at 2nd International Conference on Broadband Islands, Athens, Greece 15-16 June 1993 
+
+          
+
+         
+ 
+          
+
+         A RISC Architecture to support Neural Net Simulation 
+ M. Pacheco , P. Treleaven 
+          RN/93/46 
+
+          June 1993 
+
+         Book: New Trends in Neural Computation: Proc. International Workshop on Artificial Neural Networks, IWANN'93, Sitges, Spain, June 9-11 1993 
+
+          City: Berlin 
+
+          Ed: J. Mira J. Cabestany A. Prieto 
+
+          Issuer: Springer-Verlag 
+
+          pages count: 482-487 
+
+          Submission Status: presented at 2nd International Conference on Broadband Islands, Athens, Greece 15-16 June 1993 
+
+          
+
+         
+ 
+          
+
+         A review of the theory of pRAMs 
+ D. Gorse , J.G. Taylor 
+          RN/93/47 
+
+          April 1993 
+
+         Pages: 5 
+
+          Other Auth: Proc. Weightless Neural Network Workshop '93, 6-7 April 1993, University of York, pp13-17 
+
+          Abstract: Abstract: 
+
+          Submission Status: presented at 2nd International Conference on Broadband Islands, Athens, Greece 15-16 June 1993 
+
+          
+
+         
+ 
+          
+
+         An Object-Oriented Hybrid Environment for Integrating Neural Networks and Expert Systems 
+ S. Khebbal , P. Treleavan 
+          RN/93/48 
+
+          June 1993 
+
+         Book: Proc. ANNES'93 - 1st New Zealand International Two-Stream Conference on Artificial Neural Networks and Expert Systems, 24-26 November 1993, Dunedin, New Zealand 
+
+          City: Los Alamitos, USA 
+
+          Issuer: IEEE Computer Society Press 
+
+          Pages: 4 
+
+          pages count: 210-213 
+
+          Abstract: Abstract: combined for solving complex problems. The use of object-oriented 
+
+          Submission Status: presented at 2nd International Conference on Broadband Islands, Athens, Greece 15-16 June 1993 
+
+          
+
+         
+ 
+          
+
+         An Architecture for Application Specific Neural Network Processors 
+ R.P. Palmer , P.A. Rounce 
+          RN/93/49 
+
+          June 1993 
+
+         Journal: IEE Computing and Control Engineering Journal 
+
+          Volume: 6 
+
+          Pages: 22 
+
+          Vol: 5 
+
+          Abstract: Abstract: manufacture application specific neural devices, that can be 
+
+          Submission Status: presented at 2nd International Conference on Broadband Islands, Athens, Greece 15-16 June 1993 
+
+          
+
+         
+ 
+          
+
+         A Framework for Hybrid Intelligent Systems 
+ P.V. Rocha , S. Khebbal , P.C. Treleaven 
+          RN/93/50 
+
+          July 1993 
+
+         Book: Proc. ANNES'93 - 1st New Zealand International Two-Stream Conference on Artificial Neural Networks and Expert Systems, 24-26 November 1993, Dunedin, New Zealand. 
+
+          City: Los Alamitos 
+
+          Issuer: IEEE Computer Society Press 
+
+          pages count: 206-209 
+
+          Abstract: Abstract: 
+
+          Submission Status: presented at 2nd International Conference on Broadband Islands, Athens, Greece 15-16 June 1993 
+
+          
+
+         
+ 
+          
+
+         Implementation of a Graph-Based Data Model for Complex Objects 
+ M. Levene , A. Poulovassilis , K. Benkerimi , S. Schwartz , E.Tuv 
+          RN/93/51 
+
+          July 1993 
+
+         Journal: ACM SIGMOD Record 
+
+          Keywords: graph-based data model, hypernode, query and update language, storage manager, hypertext interface 
+
+          Volume: 4 
+
+          Pages: 6 
+
+          pages count: 26-31 
+
+          Vol: 22 
+
+          Abstract: Abstract: a project whose aims are threefold : (i) to ascertain the expressiveness the directed graph as a data structure supported throughout all levels of 
+
+          Submission Status: presented at 2nd International Conference on Broadband Islands, Athens, Greece 15-16 June 1993 
+
+          
+
+         
+ 
+          
+
+         Analysis of Burstiness and Jitter in Multimedia Communications 
+ Z. Wang , J. Crowcroft 
+          RN/93/52 
+
+          July 1993 
+
+         Book: Proc. IEEE GlobeComm'93, Houston, Texas, 29th November - 4th December 1993 
+
+          Pages: 3 
+
+          pages count: 1496-1500 
+
+          Abstract: Abstract: adaptive and the traffic stream can be divided into 
+
+          Submission Status: presented at 2nd International Conference on Broadband Islands, Athens, Greece 15-16 June 1993 
+
+          
+
+         
+ 
+          
+
+         The Origin of Venusian Channels: Modelling of Thermal Erosion by Lava 
+ D.B.J. Bussey , S-A. S{\o}rensen , J.E. Guest 
+          RN/93/53 
+
+          March 1993 
+
+         Book: Proc. Lunar and Planetary Science Conference No. 24, Houston, Texas 
+
+          Pages: 2 
+
+          pages count: 237-238 
+
+          Submission Status: presented at 2nd International Conference on Broadband Islands, Athens, Greece 15-16 June 1993 
+
+          
+
+         
+ 
+          
+
+         Avoiding Local Minima Using a Range Expansion Algorithm 
+ D. Gorse , A. Shepherd , J.G. Taylor 
+          RN/93/54 
+
+          June 1993 
+
+         Journal: Neural Network World 
+
+          Pages: 13 
+
+          pages count: 503-510 
+
+          Vol: 5 
+
+          Abstract: Abstract: 
+
+          Submission Status: presented at 2nd International Conference on Broadband Islands, Athens, Greece 15-16 June 1993 
+
+          
+
+         
+ 
+          
+
+         Tracking Global Minima by Progressive Range Expansion 
+ D. Gorse , A. Shepherd , J.G. Taylor 
+          RN/93/55 
+
+          May 1993 
+
+         Book: Proc. IJCNN'93, July 1993, Portland, Oregon. 
+
+          Pages: 4 
+
+          pages count: IV-350-353 
+
+          Abstract: Abstract: 
+
+          Submission Status: presented at 2nd International Conference on Broadband Islands, Athens, Greece 15-16 June 1993 
+
+          
+
+         
+ 
+          
+
+         Learning Real-Valued Functions Using a Hardware-Implementable Stochastic Reinforcement Algorithm 
+ D. Gorse , J.G. Taylor , T.G. Clarkson 
+          RN/93/56 
+
+          May 1993 
+
+         Book: Proc. IJCNN'93, July 1993, Portland, Oregon. 
+
+          Pages: 4 
+
+          pages count: III-303-306 
+
+          Abstract: Abstract: a neural network using spike-based stochastic reinforcement training. The 
+
+          Submission Status: presented at 2nd International Conference on Broadband Islands, Athens, Greece 15-16 June 1993 
+
+          
+
+         
+ 
+          
+
+         A Hardware-Implementable Algorithm for Learning Non-Linear Functions 
+ D. Gorse , J.G. Taylor , T.G. Clarkson 
+          RN/93/57 
+
+          June 1993 
+
+         Pages: 4 
+
+          Abstract: Abstract: a neural network using spike-based stochastic reinforcement training. The 
+
+          Submission Status: Submitted to IJCNN'93, October 25-29 1993, Nagoya 
+
+          
+
+         
+ 
+          
+
+         Object Factory 
+ A.H. Kamalati , R. Winder 
+          RN/93/58 
+
+          1993 
+
+         Pages: 2 
+
+          Abstract: Abstract: 
+
+          Submission Status: Submitted as an Poster Paper to OOPSLA'93 
+
+          
+
+         
+ 
+          
+
+         Collaborative Writing with Synchronous and Asynchronous Support Environments 
+ M-A. Sasse , M.J. Handley , case study of this approach led to the conclusion that it was an 
+          RN/93/59 
+
+          July 1993 
+
+         Book: Groupware and Authoring 
+
+          City: London 
+
+          Ed: R. Rada 
+
+          Issuer: Academic Press 
+
+          pages count: to~appear 
+
+          Abstract: Abstract: large-scale documents by teams of geographically distributed 
+
+          Submission Status: Submitted as an Poster Paper to OOPSLA'93 
+
+          
+
+         
+ 
+          
+
+         Application of Sensitivity Analysis Techniques to Neural Network Bond Forecasting 
+ U. Bilge , A. N. Refenes , C. Diamond , J. Shadbolt 
+          RN/93/60 
+
+          September 1993 
+
+         Book: Proc. of the First International Workshop Neural Networks in the Capital Markets, London Business School, November 18-19 1993 
+
+          Pages: 
+
+          Abstract: Abstract: an approximate measure of assessing the sensitivity of a network's output input parameters. 
+
+          Submission Status: Submitted as an Poster Paper to OOPSLA'93 
+
+          
+
+         
+ 
+          
+
+         Modelling of a point-to-multipoint (P-MP) fixed cellular millimetric radio system 
+ R.E. Ramos , S-A. S{\o}rensen , A.H. Aghvami 
+          RN/93/61 
+
+          September 1993 
+
+         Book: Proc. Communications Simulations and Modelling Techniques , 28th September 1993 
+
+          City: Stevenage 
+
+          Issuer: IEE 
+
+          Keywords: point-to-multipoint, radio access strategy, simulation 
+
+          Pages: 6 
+
+          pages count: 4/1-5 
+
+          Abstract: Abstract: conjunction with the chosen TDMA/TDM based RA technology, and its ability carry a limited set of multi-rate voice, data and video traffic types, the evaluation technique, Process Based Event Driven Simulation, and the 
+
+          Submission Status: Submitted as an Poster Paper to OOPSLA'93 
+
+          
+
+         
+ 
+          
+
+         Running OSI applications over a CLNS network 
+ P. Barker , C.J. Robbins 
+          RN/93/62 
+
+          October 1993 
+
+         Journal: ConneXions 
+
+          Keywords: OSI, CLNS 
+
+          Volume: 11 
+
+          Pages: 4 
+
+          pages count: 26-28 
+
+          Vol: 7 
+
+          Abstract: Abstract: implementations of the other OSI network protocol, CLNP. Our conclusion, 
+
+          Submission Status: Submitted as an Poster Paper to OOPSLA'93 
+
+          
+
+         
+ 
+          
+
+         A Unified Framework for Multicast Forwarding 
+ Zheng Wang , Jon Crowcroft , framework for multicast forwarding is presented, 
+          RN/93/63 
+
+          October 1993 
+
+         Book: Proc. Fourth International Workshop on Network and 
+
+          City: Lancaster, UK 
+
+          Issuer: Lancaster University Computing Department 
+
+          pages count: 263-268 
+
+          Abstract: Abstract: 
+
+          Submission Status: Submitted as an Poster Paper to OOPSLA'93 
+
+          
+
+         
+ 
+          
+
+         How do you choose your agents? How do you distribute your processes? 
+ M. Pebody 
+          RN/93/64 
+
+          October 1993 
+
+         City: Berlin 
+
+          Issuer: Springer Verlag 
+
+          Pages: 17 
+
+          pages count: to~appear 
+
+          Abstract: Abstract: 
+
+          Submission Status: Submitted to Proc. NATO Avanced Study Institute: The Biology and Technology of Intelligent Autonomous Agents 
+
+          
+
+         
+ 
+          
+
+         An Intelligent Hypertext System 
+ M. Hu , P.T.Kirstein 
+          RN/93/65 
+
+          October 1993 
+
+         Pages: 1-6 
+
+          Abstract: Abstract: issues existing in the hypertext environment, like automatic linking, hyper- judged as relevant to the user's information needs. This provides the new 
+
+          Submission Status: Submitted to the CIKM '93 - Conference on Information Knowledge Management Workshop on Intelligent Hypertext, November 5 1993, Washington DC 
+
+          
+
+         
+ 
+          
+
+         The Forward and Inverse Problems in Time Resolved Infra-Red Imaging 
+ S. Arridge , comparison of inverse methods are made and several regularisation 
+          RN/93/66 
+
+          October 1993 
+
+         Book: Medical Optical Tomography: Functional Imaging and Monitoring 
+
+          City: Bellingham, Washington 
+
+          Ed: G. M\"uller B. Chance R. Alfano S. Arridge J. Beuthan E. Gratton M. Kaschke B. Masters S. Svanberg P. van der Zee 
+
+          Issuer: SPIE Optical Engineering Press 
+
+          Pages: 30 
+
+          pages count: 35-64 
+
+          Abstract: Abstract: medical imaging, and describes the main theoretical principles behind 
+
+          Submission Status: Submitted to the CIKM '93 - Conference on Information Knowledge Management Workshop on Intelligent Hypertext, November 5 1993, Washington DC 
+
+          
+
+         
+ 
+          
+
+         Artificial Intelligence and Symbolic Mathematical Computations 
+ 
+          RN/93/66 
+
+          
+
+         Submission Status: Submitted to the CIKM '93 - Conference on Information Knowledge Management Workshop on Intelligent Hypertext, November 5 1993, Washington DC 
+
+          
+
+         
+ 
+          J. Campbell 
+
+         Artificial Intelligence and Symbolic Mathematical Computations 
+ J. Campbell , J. Calmet 
+          RN/93/67 
+
+          November 1993 
+
+         Book: Artificial Intelligence and Symbolic Mathematical Computing 
+
+          City: Berlin 
+
+          Ed: J. Campbell J. Calmet 
+
+          Issuer: Springer-Verlag 
+
+          pages count: 1-19 
+
+          Abstract: Abstract: 
+
+          Submission Status: Submitted to the CIKM '93 - Conference on Information Knowledge Management Workshop on Intelligent Hypertext, November 5 1993, Washington DC 
+
+          
+
+         
+ 
+          
+
+         PARVOL - A pulse sequence for the visualisation of partial volume voxels 
+ A.Simmons , G.J.Barker , P.S.Tofts , A.Gass , S.R.Arridge 
+          RN/93/68 
+
+          November 1993 
+
+         Pages: 10 
+
+          Abstract: Abstract: relaxation times, proton density, and magnetisation transfer contrast. For a often very difficult to assess the distribution and magnitude of the partial 
+
+          Submission Status: Submitted to Magnetic Resonance Imaging as a Technical Note 
+
+          
+
+         
+ 
+          
+
+         Neural Nets for Time Series Forecasting: Criteria for Performance with an Application in Gilt Futures Pricing. 
+ J. Kingdon 
+          RN/93/69 
+
+          November 1993 
+
+         Book: Proc. First International Workshop Neural Networks in the Capital Markets, London Business School, November 18-19 1993 
+
+          Pages: 15 
+
+          Abstract: Abstract: data pre-processing, number of training cycles) have profound 
+
+          Submission Status: Submitted to Magnetic Resonance Imaging as a Technical Note 
+
+          
+
+         
+ 
+          
+
+         Providing a Random Access List Structured Memory 
+ P.A. Rounce , processor has been designed and built with a novel list structured 
+          RN/93/70 
+
+          November 1993 
+
+         Abstract: Abstract: being created, deleted, extended and truncated. Thus the memory dynamic and run-time checks, which are performed in hardware the implementation, are necessary to check the validity memory accesses. To support this checking a tagged memory could be extended. 
+
+          Submission Status: submitted to The Computer Journal 
+
+          
+
+         
+ 
+          
+
+         Managing Broadband VPN Service in the PREPARE Testbed 
+ 
+          RN/93/70 
+
+          
+
+         Submission Status: submitted to The Computer Journal 
+
+          
+
+         
+ 
+          D. Lewis 
+
+         Managing Broadband VPN Service in the PREPARE Testbed 
+ D. Lewis , W. Donnelly , J.M. Schneider , M. Klotz 
+          RN/93/71 
+
+          November 1993 
+
+         Pages: 10 
+
+          Abstract: Abstract: 
+
+          Submission Status: presented at RACE IS&N Conference, 23rd-25th November 1993, Paris, France 
+
+          
+
+         
+ 
+          
+
+         Layered Management Service Provide Support for Multimedia Conferencing 
+ 
+          RN/93/71 
+
+          
+
+         Submission Status: presented at RACE IS&N Conference, 23rd-25th November 1993, Paris, France 
+
+          
+
+         
+ 
+          D. Lewis 
+
+         Layered Management Service Provide Support for Multimedia Conferencing 
+ D. Lewis 
+          RN/93/72 
+
+          November 1993 
+
+         Pages: 15 
+
+          Abstract: Abstract: 
+
+          Submission Status: presented at RACE IS&N Conference, 23rd-25th November 1993, Paris, France 
+
+          
+
+         
+ 
+          
+
+         Multimedia Application Requirements for Multicast Communications Services 
+ 
+          RN/93/72 
+
+          
+
+         Submission Status: presented at RACE IS&N Conference, 23rd-25th November 1993, Paris, France 
+
+          
+
+         
+ 
+          S. Chuang 
+
+         Multimedia Application Requirements for Multicast Communications Services 
+ S. Chuang , J. Crowcroft , S. Hailes , M. Handley , N. Ismail , D. Lewis , I. Wakeman 
+          RN/93/73 
+
+          November 1993 
+
+         Book: Proc. INET '93 International Networking Conference 
+
+          City: Reston, Virginia 
+
+          Issuer: Internet Society 
+
+          Pages: 10 
+
+          pages count: BFB 1-9 
+
+          Submission Status: presented at RACE IS&N Conference, 23rd-25th November 1993, Paris, France 
+
+          
+
+         
+ 
+          
+
+         Secure Remote Management in the ESPRIT MIDAS protect 
+ G. Knight , S. Bhatti , L. Deri 
+          RN/93/74 
+
+          November 1993 
+
+         Book: Proc. 1994 IFIP Upper Layer Protocols, Architecturea and Applications Conference, Barcelona, Spain, June 1994 
+
+          City: Amsterdam 
+
+          Ed: M. Medina N.S. Borenstein 
+
+          Government Order Number: 0444820477 
+
+          Issuer: North-Holland 
+
+          Pages: 11 
+
+          pages count: 77-86 
+
+          Submission Status: presented at RACE IS&N Conference, 23rd-25th November 1993, Paris, France 
+
+          
+
+         
+ 
+          
+
+         Extending the LAN via ISDN 
+ G. Knight 
+          RN/93/75 
+
+          November 1993 
+
+         Book: Proc. INET'93, International Networking Conference 
+
+          City: Reston, Virginia 
+
+          Issuer: Internet Society 
+
+          Pages: 7 
+
+          pages count: CDC 1-9 
+
+          Abstract: Abstract: 
+
+          Submission Status: presented at RACE IS&N Conference, 23rd-25th November 1993, Paris, France 
+
+          
+
+         
+ 
+          
+
+         Quality of Service Parameters for Commercial Application of Videotelephony 
+ F. Wilson , I. Wakeman , W. Smith 
+          RN/93/76 
+
+          November 1993 
+
+         Pages: 10 
+
+          Abstract: Abstract: well as for different encoding and network management strategies. The 
+
+          Submission Status: presented at Human Factors in Telecommunication, HFT'93, Darmstadt, Germany 
+
+          
+
+         
+ 
+          
+
+         The GAME Programming Environment Architecture 
+ J. Kingdon , J. Ribeiro~Filho , P. Treleaven 
+          RN/93/77 
+
+          November 1993 
+
+         Book: Parallel Genetic Algorithms: Theory and Applications 
+
+          City: Amsterdam 
+
+          Government Order Number: 9051990871 
+
+          Issuer: IOS Press 
+
+          Pages: 8 
+
+          pages count: 85-92 
+
+          Abstract: Abstract: 
+
+          Submission Status: presented at Human Factors in Telecommunication, HFT'93, Darmstadt, Germany 
+
+          
+
+         
+ 
+          
+
+         The GAME Virtual Machine Architecture 
+ L. Dekker , J. Ribeiro~Filho 
+          RN/93/78 
+
+          November 1993 
+
+         Book: Parallel Genetic Algorithms: Theory and Applications 
+
+          City: Amsterdam 
+
+          Government Order Number: 9051990871 
+
+          Issuer: IOS Press 
+
+          pages count: 93-110 
+
+          Abstract: Abstract: 
+
+          Submission Status: presented at Human Factors in Telecommunication, HFT'93, Darmstadt, Germany 
+
+          
+
+         
+ 
+          
+
+         Self Organizing Feature Map for Clustering in Persistent Object Stores 
+ E. Tuv , G. Loizou , novel approach to clustering would be to employ an incremental 
+          RN/93/79 
+
+          November 1993 
+
+         Pages: 9 
+
+          Other Auth: Proc. International Workshop on Next Generation Information Technologies and Systems, Haifa, Israel, 28th-30th June 1993, pp. 76-84. 
+
+          Abstract: Abstract: measured with respect to existing knowledge on the access patterns the underlying persistent object store 
+
+          Submission Status: presented at the International Workshop on Next Generation Information Technologies and Systems, Haifa, Israel, 28th-30th June 1993 
+
+          
+
+         
+ 
+          
+
+         An Intelligent Hypertext Storage Manager 
+ E. Tuv , G. Loizou 
+          RN/93/80 
+
+          November 1993 
+
+         Other Auth: Proc. Workshop on Intelligent Hypertext, Arlington,Virginia, USA, 5th November 1993. 
+
+          Abstract: Abstract: persistent object stores for supporting hypertext database incremental learning of clusters using the knowledge acquired during the 
+
+          Submission Status: presented at the Workshop on Intelligent Hypertext, Arlington,Virginia, USA, 5th November 1993. 
+
+          
+
+         
+ 
+          
+
+         The OSIMIS TMN Platform: Support for Multiple Technology Integrated Management Systems 
+ George Pavlou 
+          RN/93/81 
+
+          November 1993 
+
+         Abstract: Abstract: 
+
+          Submission Status: presented at the 1993 International Conference on 
+
+          
+
+         
+ 
+          
+
+         CMIP to SNMPv1 Translation Through Application Level Gateways 
+ Kevin McCarthy , George Pavlou , J.Neuman De Souza , Nazim Agoulmine 
+          RN/93/82 
+
+          November 1993 
+
+         Abstract: Abstract: 
+
+          Submission Status: presented at the1993 International Conference on 
+
+          
+
+         
+ 
+          
+
+         GAME's Library Structure 
+ J.Ribeiro~Filho 
+          RN/93/83 
+
+          
+
+         Book: Parallel Genetic Algorithms: Theory and Applications 
+
+          City: Amsterdam 
+
+          Government Order Number: 9051990871 
+
+          Issuer: IOS Press 
+
+          pages count: 111-116 
+
+          Abstract: Abstract: 
+
+          Submission Status: presented at the1993 International Conference on 
+
+          
+
+         
+ 
+          
+
+         A Survey of Current and Possible Future Uses of X.500 Directory Services 
+ P. Barker , T. Johannsen , C.J. Robbins 
+          RN/93/84 
+
+          1994 
+
+         Journal: Journal of Information Networking 
+
+          Keywords: X.500, Directory Services, White Pages 
+
+          Volume: 3 
+
+          Pages: 23 
+
+          pages count: 204-226 
+
+          Vol: 1 
+
+          Abstract: Abstract: noting that X.500 is not the only directory service on offer, and 
+
+          Submission Status: presented at the1993 International Conference on 
+
+          
+
+         
+ 
+          
+
+         Converting VAX C to Turbo C for Windows 
+ W.B. Langdon 
+          RN/93/85 
+
+          November 1993 
+
+         Journal: DECUS NEWS 
+
+          pages count: 2 
+
+          Vol: no 34 Autumn 1993 
+
+          Abstract: Abstract: these are described. 
+
+          Submission Status: presented at the1993 International Conference on 
+
+          
+
+         
+ 
+          
+
+         The Inductive Nature of Software Engineering and its Consequences 
+ R. Winder , P. Wernick 
+          RN/93/86 
+
+          November 1993 
+
+         Book: Proc. of BCS Information Systems Methodologies Specialist Group/UK Systems Society Conference, 1st-3rd September 1993, Edinburgh 
+
+          pages count: 431-443 
+
+          Abstract: Abstract: 
+
+          Submission Status: presented at the1993 International Conference on 
+
+          
+
+         
+ 
+          
+
+         Functional Dependencies in Relations Which May Be Incomplete 
+ M. Levene , G. Loizou 
+          RN/93/87 
+
+          November 1993 
+
+         Keywords: incomplete relation; functional dependencies; the additivity problem; 
+
+          Pages: 66 
+
+          Abstract: Abstract: In incomplete relations, i.e. relations which contain an incomplete relation if there exists a possible world of this relation which the FD is satisfied in the standard way. an incomplete relation if for all possible worlds of this relation and only if the set of FDs is monodependent. 
+
+          Submission Status: presented at the1993 International Conference on 
+
+          
+
+         
+ 
+          
+
+         GAME: A Framework for Programming Genetic Algorithms Applications 
+ J.L. Ribeiro~Filho , P. Treleaven 
+          RN/93/88 
+
+          December 1993 
+
+         Book: Proc. IEEE Conference on Evolutionary Computation, Florida USA, 26th June-2nd July 1994 
+
+          Pages: 6 
+
+          Submission Status: presented at the1993 International Conference on 
+
+          
+
+         
+ 
+          
+
+         MICE Multimedia Integrated Communications for Europe 
+ J. Crowcroft 
+          RN/93/89 
+
+          November 1993 
+
+         Journal: ConneXions 
+
+          Volume: 11 
+
+          Pages: 4 
+
+          pages count: 22-26 
+
+          Vol: 7 
+
+          Submission Status: presented at the1993 International Conference on 
+
+          
+
+         
+ 
+          
+
+         Piloting Authentication and Security Services in European Research Technical and Technical Development Community (the PASSWORD Project) 
+ P.T. Kirstein , P. Williams 
+          RN/93/90 
+
+          
+
+         Journal: Computer Networks and ISDN Systems 
+
+          pages count: to~appear 
+
+          Submission Status: presented at the1993 International Conference on 
+
+          
+
+         
+ 
+          
+
+         A Concurrent Object-Oriented Model for Parallel Distributed-Memory Architectures 
+ 
+          RN/93/90 
+
+          
+
+         Submission Status: presented at the1993 International Conference on 
+
+          
+
+         
+ 
+          A.T. Balou 
+
+         A Concurrent Object-Oriented Model for Parallel Distributed-Memory Architectures 
+ A.T. Balou , P.C. Treleaven 
+          RN/93/91 
+
+          December 1993 
+
+         Book: Advances in Parallel Computing 
+
+          Pages: 4 
+
+          pages count: to~appear 
+
+          Other Auth: presented at ParCo93 Conference on Parallel Computing 93, Grenoble, September 1993 
+
+          Abstract: Abstract: a consistent whole. 
+
+          Submission Status: presented at the1993 International Conference on 
+
+          
+
+         
+ 
+          
+
+         Building Hybrid Systems with Neural Networks and Genetic Algorithms 
+ P.C. Treleavan , D. Shamhong , S. Khebbal 
+          RN/93/92 
+
+          December 1993 
+
+         Book: Neural Networks 
+
+          City: Henley-on Thames 
+
+          Ed: J.G.Taylor 
+
+          Government Order Number: 1872474276 
+
+          Issuer: Alfred Waller in association with UNICOM 
+
+          pages count: 285-296 
+
+          Submission Status: Proc. of the UNICOM Seminar on ``Adaptive Computing and Information Processing'' 
+
+          
+
+         
+ 
+          
+
+         	
+           Translator  
+         
+
+
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Rachel Scott 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

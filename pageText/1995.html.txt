@@ -1,0 +1,2536 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Research
+      ›› Research Notes
+      ›› Research Note Archive ›› 1995 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Research Notes Index - 1995
+
+        
+ 
+         
+         
+         
+         
+         Evolving Data Structures Using Genetic Programming 
+ W. Langdon 
+          RN/95/1 
+
+          January 1995 
+
+         Pages: 10 
+
+          Abstract: Abstract: put and get. We show that GP can simultaneously evolve all the 
+
+          
+
+         
+ 
+          
+
+         Experiences in Multi-domain Management System Development 
+ D. Lewis , S. O'Connell , W. Donnelly , L. Bjerring 
+          RN/95/2 
+
+          January 1995 
+
+         Book: Intergrated Network Managent IV: Proceedings of the 4th international 
+
+          City: London 
+
+          Government Order Number: 0412 715708 
+
+          Issuer: Chapman Hall 
+
+          Pages: 12 
+
+          pages count: 494-505 
+
+          
+
+         
+ 
+          
+
+         Scheduling Planned Maintenance of the National Grid 
+ W. Langdon 
+          RN/95/3 
+
+          January 1995 
+
+         Pages: 15 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to the AISB workshop on Evolutionary Computation, 3-4 April 1995 
+
+          
+
+         
+ 
+          
+
+         Scheduling Planned Maintenance of the National Grid 
+ 
+          RN/95/3 
+
+          
+
+         Submission Status: submitted to the AISB workshop on Evolutionary Computation, 3-4 April 1995 
+
+          
+
+         
+ 
+          
+
+         Scheduling Planned Maintenance of the National Grid 
+ 
+          RN/95/3 
+
+          
+
+         Submission Status: submitted to the AISB workshop on Evolutionary Computation, 3-4 April 1995 
+
+          
+
+         
+ 
+          
+
+         Scheduling Planned Maintenance of the National Grid 
+ 
+          RN/95/3 
+
+          
+
+         Submission Status: submitted to the AISB workshop on Evolutionary Computation, 3-4 April 1995 
+
+          
+
+         
+ 
+          
+
+         Scheduling Planned Maintenance of the National Grid 
+ 
+          RN/95/3 
+
+          
+
+         Submission Status: submitted to the AISB workshop on Evolutionary Computation, 3-4 April 1995 
+
+          
+
+         
+ 
+          
+
+         Scheduling Planned Maintenance of the National Grid 
+ 
+          RN/95/3 
+
+          
+
+         Submission Status: submitted to the AISB workshop on Evolutionary Computation, 3-4 April 1995 
+
+          
+
+         
+ 
+          
+
+         Scheduling Planned Maintenance of the National Grid 
+ 
+          RN/95/3 
+
+          
+
+         Submission Status: submitted to the AISB workshop on Evolutionary Computation, 3-4 April 1995 
+
+          
+
+         
+ 
+          
+
+         The Interworking of Internet and ISDN Networks for Multimedia Conferencing 
+ S. Clayman , B. Hestnes, Norwegian Telecom Research , P. Kirstein 
+          RN/95/4 
+
+          January 1994 
+
+         Journal: Infomation Services and Use 
+
+          Pages: 28 
+
+          pages count: 75-101 
+
+          Vol: 15 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to the AISB workshop on Evolutionary Computation, 3-4 April 1995 
+
+          
+
+         
+ 
+          
+
+         Secure Remote Management 
+ S.N. Bhatti , G. Knight , D. Gurle (CNET) , P. Rodier (CNET) 
+          RN/95/5 
+
+          January 1995 
+
+         Pages: 14 
+
+          Abstract: Abstract: can not apply the mechanisms they describe due to restrictions in our 
+
+          Submission Status: to be presented at IEEE/IFIP International Symposium on Integrated Network Management (ISINM) '95, 1-5 May 1995, Santa Barbara, CA 
+
+          
+
+         
+ 
+          
+
+         Alarms: Heuristics for the Control of Reasoning Attention 
+ T.J. Norman , D.P. Long 
+          RN/95/6 
+
+          January 1995 
+
+         Book: Proc. of the Seventeenth Annual Conference of the Cognitive Science 
+
+          City: Mahwah, New Jersey 
+
+          Ed: Johanna D. Moore Jill Fain Lehmen 
+
+          Issuer: Lawrence Erlbaum Associates 
+
+          Keywords: Goals, planning, attention 
+
+          Pages: 6 
+
+          pages count: 494-499 
+
+          Abstract: Abstract: 
+
+          Submission Status: to be presented at IEEE/IFIP International Symposium on Integrated Network Management (ISINM) '95, 1-5 May 1995, Santa Barbara, CA 
+
+          
+
+         
+ 
+          
+
+         
+ A. Balou 
+          RN/95/7 
+
+          February 1995 
+
+         Submission Status: to be presented at IEEE/IFIP International Symposium on Integrated Network Management (ISINM) '95, 1-5 May 1995, Santa Barbara, CA 
+
+          
+
+         
+ 
+          
+
+         Exploiting geographic Spread (GS) for Wide-area Asynchronous Transfer Mode (ATM) Dynamic Multipoint Routing 
+ J. Kadirire , G. Knight 
+          RN/95/8 
+
+          February 1995 
+
+         Book: Proc. IEE Fifth Conference on Telecommunications, 26-29 March 1995, Brighton, UK 
+
+          City: London 
+
+          Issuer: IEE 
+
+          Pages: 6 
+
+          pages count: 262-267 
+
+          Submission Status: to be presented at IEEE/IFIP International Symposium on Integrated Network Management (ISINM) '95, 1-5 May 1995, Santa Barbara, CA 
+
+          
+
+         
+ 
+          
+
+         Reliable Audio for Use over the Internet 
+ V. Hardman , A. Sasse , M. Handley , A. Watson 
+          RN/95/9 
+
+          February 1994 
+
+         Keywords: Application Technology/Multimedia Technologies and Applications 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to INET95, Hawaii 1995 
+
+          
+
+         
+ 
+          
+
+         The Future for Object Technology and Object-oriented Programming 
+ R. Winder 
+          RN/95/10 
+
+          February 1995 
+
+         Pages: 7 
+
+          Submission Status: invited talk at EPSRC workshop on Object Technology 30-31 March 1995 
+
+          
+
+         
+ 
+          
+
+         Software Engineering as a Kuhnian Discipline 
+ P. Wernick , R. Winder 
+          RN/95/11 
+
+          February 1995 
+
+         Pages: 10 
+
+          Submission Status: accepted for publication of collected work 
+
+          
+
+         
+ 
+          
+
+         ReLaTe: Remote Language Teaching over SuperJANET 
+ J. Buckett , I. Campbell , T. Watson , M.A. Sasse , V. Hardman , A. Watson 
+          RN/95/12 
+
+          February 1995 
+
+         Book: Proc. Networkshop 23, March 28-30 1995, University of Leicester 
+
+          City: Didcot, Oxfordshire 
+
+          Issuer: UKERNA/JNT Association 
+
+          Pages: 5 
+
+          pages count: 209-213 
+
+          Submission Status: accepted for publication of collected work 
+
+          
+
+         
+ 
+          
+
+         Multimedia Conferencing Over The Internet: The MICE project and tools 
+ M.A. Sasse , R. Bennett 
+          RN/95/13 
+
+          March 1995 
+
+         Book: Proc. Networkshop 23, March 28-30 1995, University of Leicester 
+
+          City: Didcot, Oxfordshire 
+
+          Issuer: UKERNA/JNT Association 
+
+          Pages: 11 
+
+          pages count: 189-199 
+
+          Abstract: Abstract: to enable interworking between European researchers, and with their colleagues in 
+
+          Submission Status: accepted for publication of collected work 
+
+          
+
+         
+ 
+          
+
+         Multimedia Conferencing over the Internet - The MICE Project 
+ M.A. Sasse , R. Bennett 
+          RN/95/14 
+
+          March 1995 
+
+         City: London 
+
+          Issuer: Library Information Technology Centre 
+
+          Journal: Library \& Information Briefings 
+
+          Pages: 16 
+
+          pages count: 1-15 
+
+          Vol: 58 
+
+          Abstract: Abstract: SuperJANET can be used to transmit voice and video in real time, making 
+
+          Submission Status: accepted for publication of collected work 
+
+          
+
+         
+ 
+          
+
+         Multimedia Conferencing over the Internet - The MICE Project 
+ 
+          RN/95/14 
+
+          
+
+         Submission Status: accepted for publication of collected work 
+
+          
+
+         
+ 
+          
+
+         Painless Parallel Programming 
+ C. Clack 
+          RN/95/15 
+
+          March 1995 
+
+         pages count: 41-43 
+
+          Submission Status: Proceedings PPECC Workshop 95, 14-15 March 1995, Abingdon, Oxon 
+
+          
+
+         
+ 
+          
+
+         The World Wide Web - How Servers Work 
+ 
+          RN/95/15 
+
+          
+
+         Submission Status: Proceedings PPECC Workshop 95, 14-15 March 1995, Abingdon, Oxon 
+
+          
+
+         
+ 
+          Mark Handley 
+
+         The World Wide Web - How Servers Work 
+ Mark Handley , Jon Crowcroft 
+          RN/95/16 
+
+          March 1995 
+
+         Journal: Connexions magazine 
+
+          Volume: 2 
+
+          pages count: 12-24 
+
+          Vol: 9 
+
+          Submission Status: Proceedings PPECC Workshop 95, 14-15 March 1995, Abingdon, Oxon 
+
+          
+
+         
+ 
+          
+
+         The World Wide Web 
+ 
+          RN/95/16 
+
+          
+
+         Submission Status: Proceedings PPECC Workshop 95, 14-15 March 1995, Abingdon, Oxon 
+
+          
+
+         
+ 
+          Jon Crowcroft 
+
+         The World Wide Web 
+ Jon Crowcroft , Mark Handley 
+          RN/95/17 
+
+          March 1995 
+
+         Journal: Omnicom Newsletter 
+
+          Submission Status: Proceedings PPECC Workshop 95, 14-15 March 1995, Abingdon, Oxon 
+
+          
+
+         
+ 
+          
+
+         Normalisation of Incomplete Relational Databases 
+ M. Levene , G. Loizou 
+          RN/95/18 
+
+          March 1995 
+
+         Submission Status: Proceedings PPECC Workshop 95, 14-15 March 1995, Abingdon, Oxon 
+
+          
+
+         
+ 
+          
+
+         The Use of Plain Text Keys for Multimedia Conferences 
+ M. Handley 
+          RN/95/19 
+
+          March 1995 
+
+         Submission Status: Proceedings PPECC Workshop 95, 14-15 March 1995, Abingdon, Oxon 
+
+          
+
+         
+ 
+          
+
+         Multi Service Management in a Multi-provider Environment 
+ D. Lewis , T. Tiropanis 
+          RN/95/20 
+
+          March 1995 
+
+         Book: Proc. Fifth IEE Conference on `Telecommunications', 26-29 March 1995, Brighton, UK 
+
+          City: London 
+
+          Government Order Number: 0852966342 
+
+          Issuer: IEE 
+
+          Keywords: teleservice provider, service provider, customer, actor, role, TMN 
+
+          Pages: 5 
+
+          pages count: 292-296 
+
+          Abstract: Abstract: 
+
+          Submission Status: Proceedings PPECC Workshop 95, 14-15 March 1995, Abingdon, Oxon 
+
+          
+
+         
+ 
+          
+
+         Learning and Adaptivity: Enhancing Reactive Behaviour Architectures 
+ M. Pebody 
+          RN/95/21 
+
+          March 1995 
+
+         Issuer: Springer Verlag 
+
+          Pages: 12 
+
+          Abstract: Abstract: built into robot systems from the lowest levels is identified. An robustness as well as a simplification of the design process. An 
+
+          Submission Status: to appear in proceedings for: ECAL-95: 3rd European Conference on Artificial Life, Granada Spain, June 4 - 6 1995 
+
+          
+
+         
+ 
+          
+
+         Some Business Users of the Internet 
+ C.D. Clack 
+          RN/95/22 
+
+          March 1995 
+
+         Book: Proc. `The Internet, EDI & Email for Electonic Commerce', Royal Aeronautical Society, London, 29-30 March 1995 
+
+          City: London 
+
+          Issuer: PC User Group 
+
+          pages count: 5-6 
+
+          Submission Status: to appear in proceedings for: ECAL-95: 3rd European Conference on Artificial Life, Granada Spain, June 4 - 6 1995 
+
+          
+
+         
+ 
+          
+
+         The Shape of Space 
+ J. Kingdon , L. Dekker 
+          RN/95/23 
+
+          April 1995 
+
+         Pages: 6 
+
+          Abstract: Abstract: various parameter constraints. This paper discusses "the shape of 
+
+          Submission Status: to be published in IEE/IEEE International Conference `Genetic Algorithms in Engineering Systems: Innovations and Applications - GALESIA', Sheffield, September 1995 
+
+          
+
+         
+ 
+          
+
+         Alarms: An Implementation of Motivated Agency 
+ T.J. Norman , D. Long 
+          RN/95/24 
+
+          April 1995 
+
+         Book: Intelligent Agents II: Proc. of the IJCAI-95 Workshop on Agent 
+
+          City: Berlin 
+
+          Ed: M.J. Wooldridge J.P. Muller M. Tambe 
+
+          Issuer: Springer-Verlag 
+
+          Pages: 13 
+
+          pages count: 
+
+          Submission Status: to be published in IEE/IEEE International Conference `Genetic Algorithms in Engineering Systems: Innovations and Applications - GALESIA', Sheffield, September 1995 
+
+          
+
+         
+ 
+          
+
+         
+ A. Sasse , 
+          RN/95/25 
+
+          April 1995 
+
+         Submission Status: to be published in IEE/IEEE International Conference `Genetic Algorithms in Engineering Systems: Innovations and Applications - GALESIA', Sheffield, September 1995 
+
+          
+
+         
+ 
+          
+
+         Secure Document Interchange - A Secure User Agent 
+ Yoshiki Sameshima , Peter Kirstein 
+          RN/95/26 
+
+          April 1995 
+
+         Book: Proc. JENC6, 6th Joint European Networking Conference, Tel Aviv, Israel, 15-18 May 1995 
+
+          City: Amsterdam 
+
+          Ed: J. Barbera J. Kiers 
+
+          Issuer: TERENA 
+
+          Journal: Computer Networks and ISDN Systems 
+
+          Pages: 11 
+
+          pages count: to~appear 
+
+          Submission Status: to be published in IEE/IEEE International Conference `Genetic Algorithms in Engineering Systems: Innovations and Applications - GALESIA', Sheffield, September 1995 
+
+          
+
+         
+ 
+          
+
+         X.500 Index DSAs and Scaling Issues for an Indexed White Pages Directory Service 
+ Paul Barker 
+          RN/95/27 
+
+          April 1995 
+
+         Book: Proc. JENC6, 6th Joint European Networking Conference, Tel Aviv, Israel, May 15-18 1995 
+
+          City: Amsterdam 
+
+          Ed: J. Barbera J. Kiers 
+
+          Issuer: TERENA 
+
+          Pages: 10 
+
+          pages count: 421/1-10 
+
+          Submission Status: also to be published in Computer Networks and ISDN Systems 1995 
+
+          
+
+         
+ 
+          
+
+         X.500 Index DSAs and Scaling Issues for an Indexed White Pages Directory Service 
+ P.T. Kirstein , Action at a Distance 
+          RN/95/28 
+
+          April 1995 
+
+         Book: IEE Electronics Division Colloquium on `Extending the LAN - High Speed Data Services, Savoy Place, London, April 24th 1995 
+
+          City: London 
+
+          Issuer: IEE 
+
+          Pages: 4 
+
+          pages count: 6/1-6/4 
+
+          Submission Status: also to be published in Computer Networks and ISDN Systems 1995 
+
+          
+
+         
+ 
+          
+
+         Pareto, Population Partitioning, Price and Genetic Programming 
+ 
+          RN/95/28 
+
+          
+
+         Submission Status: also to be published in Computer Networks and ISDN Systems 1995 
+
+          
+
+         
+ 
+          W.B. Langdon 
+
+         Pareto, Population Partitioning, Price and Genetic Programming 
+ W.B. Langdon 
+          RN/95/29 
+
+          May 1995 
+
+         Keywords: Genetic Programming, demes, Multi-objective 
+
+          Pages: 12 
+
+          Submission Status: also to be published in Computer Networks and ISDN Systems 1995 
+
+          
+
+         
+ 
+          
+
+         A Comparison Study of Congestion Control for ABR Service in ATM Networks 
+ 
+          RN/95/29 
+
+          
+
+         Submission Status: also to be published in Computer Networks and ISDN Systems 1995 
+
+          
+
+         
+ 
+          Qin Li 
+
+         A Comparison Study of Congestion Control for ABR Service in ATM Networks 
+ Qin Li , Zheng Wang 
+          RN/95/30 
+
+          May 1995 
+
+         Ed: Demetres Kouvatsos 
+
+          Issuer: Bradford University, UK 
+
+          pages count: 7/1-7/10 
+
+          Abstract: Abstract: 
+
+          Submission Status: Proc. IFIP 3rd Workshop on Performance Modelling and Evaluation of ATM 
+
+          
+
+         
+ 
+          
+
+         Factors Influencing the Capability of Lava to Erode it's Substrate: Application to Venus. 
+ D. B. Bussey , S-A. Sorensen , J. E. Guest 
+          RN/95/31 
+
+          June 1995 
+
+         Journal: in press Journal of Geophysical Research (Planets) 
+
+          Keywords: thermal erosion, venus, sinuous rilles 
+
+          Submission Status: Proc. IFIP 3rd Workshop on Performance Modelling and Evaluation of ATM 
+
+          
+
+         
+ 
+          
+
+         The C-ODA Project - Experiences and Tools 
+ P.T. Kirstein , G. Montasser-Kohsari 
+          RN/95/32 
+
+          June 1995 
+
+         Submission Status: accepted by the Computer Journal 1995 
+
+          
+
+         
+ 
+          
+
+         Experiences with On-Line Access to Chemical Journals 
+ P.T. Kirstein , G. Montasser-Kohsari 
+          RN/95/33 
+
+          June 1995 
+
+         Submission Status: to be published in INET95, July 1995 
+
+          
+
+         
+ 
+          
+
+         A User's View of the EU Research Programmes 
+ P.T. Kirstein 
+          RN/95/34 
+
+          June 1995 
+
+         Book: Proc. JENC6 - 6th Joint European Networking Conference, Tel Aviv, Israel, May 15-18 1995 
+
+          City: Amsterdam 
+
+          Ed: J. Barbera J. Kiers 
+
+          Issuer: TERENA 
+
+          pages count: 531/1-9 
+
+          Submission Status: to be published in INET95, July 1995 
+
+          
+
+         
+ 
+          
+
+         Some Experiences with Secure Management 
+ G. Knight , S. Bhatti 
+          RN/95/35 
+
+          June 1995 
+
+         Book: Proc. JENC6 - 6th Joint European Networking Conference, Tel Aviv, Israel, May 15-18 1995 
+
+          City: Amsterdam 
+
+          Ed: J. Barbera J. Kiers 
+
+          Issuer: TERENA 
+
+          Keywords: security, systems management, network management 
+
+          pages count: 322/1-9 
+
+          Submission Status: to be published in INET95, July 1995 
+
+          
+
+         
+ 
+          
+
+         Recent Activities in the MICE Conferencing Project 
+ P.T. Kirstein , M. Handley , A. Sasse , S. Clayman 
+          RN/95/36 
+
+          June 1995 
+
+         Pages: 10 
+
+          Submission Status: To be presented at INET'95, Hawaii, July 1995 
+
+          
+
+         
+ 
+          
+
+         The Conference Control Channel Protocol (CCCP): A Scalable base for building Conference Control Applications 
+ M. Handley , I. Wakeman , J. Crowcroft 
+          RN/95/37 
+
+          June 1995 
+
+         Pages: 13 
+
+          Abstract: Abstract: 
+
+          Submission Status: To be presented at INET'95, Hawaii, July 1995 
+
+          
+
+         
+ 
+          
+
+         A Data and Telecommunications Gateway between the Internet and ISDN 
+ G. Knight , S.N. Bhatti 
+          RN/95/38 
+
+          June 1995 
+
+         Keywords: Internet, ISDN, Multi-media, Gateway 
+
+          Pages: 10 
+
+          Abstract: Abstract: the work is to provide a gateway that allows access to global Internet 
+
+          Submission Status: INET 95 Conference, Hawaii, June 1995 
+
+          
+
+         
+ 
+          
+
+         A Novel Algorithm for Matching Conceptual and Related Graphs 
+ J. Poole , J.A. Campbell 
+          RN/95/39 
+
+          June 1995 
+
+         Abstract: Abstract: shared information, and there is discussion of how this would 
+
+          Submission Status: to be presented at 3rd International Conference on Conceptual Structures 1995, August 14-18, Santa Cruz, CA 
+
+          
+
+         
+ 
+          
+
+         Multicast-Specific Security Threats and Counter Measures 
+ A.J. Ballardie 
+          RN/95/40 
+
+          June 1995 
+
+         Book: Proceedings of Internet Society Symposium on Network and Distributed System Security, February 16-17 1995, San Diego, CA 
+
+          City: Los Alamitos, CA 
+
+          Issuer: IEEE Computer Society Press 
+
+          pages count: 2-16 
+
+          Abstract: Abstract: date. We believe that wide-area multicast communication is at a substantially effective group access control, and from the fact that multicast 
+
+          Submission Status: to be presented at 3rd International Conference on Conceptual Structures 1995, August 14-18, Santa Cruz, CA 
+
+          
+
+         
+ 
+          
+
+         End-to-end Multimedia Services using the Telecommunication Management Network 
+ D. Lewis 
+          RN/95/41 
+
+          June 1995 
+
+         Pages: 3 
+
+          Submission Status: accepted to the Poster session of the Broadband Islands '95 
+
+          
+
+         
+ 
+          
+
+         Experiences in Multi-domain Managenment Service Development 
+ D. Lewis , A. Tiropanis , L.H. Bjerring , J. Hall 
+          RN/95/42 
+
+          June 1995 
+
+         Pages: 11 
+
+          Submission Status: accepted for the IS&N Conference '95 in Crete, October 1995 
+
+          
+
+         
+ 
+          
+
+         VLSI Demonstrator for a Short Signed Digit Coefficient Wave Digital Filter 
+ S. Summerfield , T. Wicks 
+          RN/95/43 
+
+          June 1995 
+
+         Pages: 4 
+
+          Submission Status: paper submitted to European Solid State Circuits Conference (Lille, France 
+
+          
+
+         
+ 
+          
+
+         Statistical Basis for the Determination of Optical Pathlengths in Tissue 
+ S.R. Arridge , M. Hiraoka , M. Schweiger 
+          RN/95/44 
+
+          June 1995 
+
+         Journal: Physics in Medicine and Biology 
+
+          Vol: 
+
+          Submission Status: paper submitted to European Solid State Circuits Conference (Lille, France 
+
+          
+
+         
+ 
+          
+
+         Sensitivity to Prior Knowledge in Optical Tomographic reconstruction 
+ S.R. Arridge , M. Schweiger 
+          RN/95/45 
+
+          June 1995 
+
+         Book: SPIE 
+
+          Ed: R. Alfano B. Chance 
+
+          pages count: in~press 
+
+          Submission Status: paper submitted to European Solid State Circuits Conference (Lille, France 
+
+          
+
+         
+ 
+          
+
+         Modelling of Noise for Near-infrared Transillumination Imaging 
+ S.R. Arridge , M. Hiraoka , M. Schweiger 
+          RN/95/46 
+
+          June 1995 
+
+         Book: SPIE 
+
+          Ed: R. Alfano B. Chance 
+
+          pages count: in~press 
+
+          Submission Status: paper submitted to European Solid State Circuits Conference (Lille, France 
+
+          
+
+         
+ 
+          
+
+         Near-infrared Imaging: Photon Measurement Density Functions 
+ M. Schweiger , S.R. Arridge 
+          RN/95/47 
+
+          June 1995 
+
+         Book: SPIE 
+
+          Ed: R. Alfano B. Chance 
+
+          pages count: in~press 
+
+          Submission Status: paper submitted to European Solid State Circuits Conference (Lille, France 
+
+          
+
+         
+ 
+          
+
+         The Finite Element Method for the Propagation of LLight in Scattering Media 
+ M. Schweiger , S.R. Arridge , M. Hiraoka , D.T. Delpy 
+          RN/95/48 
+
+          June 1995 
+
+         Journal: Medical Physics 
+
+          pages count: in~press 
+
+          Submission Status: paper submitted to European Solid State Circuits Conference (Lille, France 
+
+          
+
+         
+ 
+          
+
+         Reconstruction in Optical Tomography using MRI Based Prior Knowledge 
+ S.R. Arridge , M. Schweiger 
+          RN/95/49 
+
+          June 1995 
+
+         Book: Information Processing in Medical Imaging'95 
+
+          City: Berlin 
+
+          Ed: Y.Bizais C. Barillot R. di Paola 
+
+          Issuer: Springer-Verlag 
+
+          pages count: in~press 
+
+          Submission Status: paper submitted to European Solid State Circuits Conference (Lille, France 
+
+          
+
+         
+ 
+          
+
+         Fractal Feature Analysis and Classification of MS Lesions 
+ J. Schnabel , L. Wang , D. Rueckert , S.R. Arridge 
+          RN/95/50 
+
+          June 1995 
+
+         Book: Computer Assisted Radiology'95 
+
+          City: Berlin 
+
+          Ed: H. Lemke 
+
+          Issuer: Springer-Verlag 
+
+          pages count: in~press 
+
+          Submission Status: paper submitted to European Solid State Circuits Conference (Lille, France 
+
+          
+
+         
+ 
+          
+
+         Neural Nets and Financial Applications 
+ K. Feldman , J. Kingdon 
+          RN/95/51 
+
+          June 1995 
+
+         Journal: Journal of Applied and Mathematical Finance 
+
+          Volume: 2 
+
+          pages count: in~press 
+
+          Vol: 1 
+
+          Submission Status: paper submitted to European Solid State Circuits Conference (Lille, France 
+
+          
+
+         
+ 
+          
+
+         Genetic Algorithms and some Applications to Finance 
+ J. Kingdon , K. Feldman 
+          RN/95/52 
+
+          June 1995 
+
+         Journal: Journal of Applied and Mathematical Finance 
+
+          Volume: 3 
+
+          pages count: to~appear 
+
+          Vol: 1 
+
+          Submission Status: paper submitted to European Solid State Circuits Conference (Lille, France 
+
+          
+
+         
+ 
+          
+
+         Intelligent Techniques Applied in Finance 
+ J. Kingdon , K. Feldman 
+          RN/95/53 
+
+          
+
+         Book: Artificial Intelligence in Banking: A Comparative Examination of Evolutionary Trends and Operational Experiences 
+
+          City: Milan 
+
+          Ed: C. Nottola C. Rossignoli 
+
+          Issuer: FrancoAngeli 
+
+          pages count: 287-317 
+
+          Submission Status: paper submitted to European Solid State Circuits Conference (Lille, France 
+
+          
+
+         
+ 
+          
+
+         Developing a Reflective Model of Collaborative Systems 
+ P. Dourish 
+          RN/95/54 
+
+          June 1995 
+
+         Journal: ACM Transactions on Computer-Human Interaction 
+
+          Volume: 1 
+
+          pages count: 40-63 
+
+          Vol: 2 
+
+          Submission Status: paper submitted to European Solid State Circuits Conference (Lille, France 
+
+          
+
+         
+ 
+          
+
+         The Parting of the Ways: Divergence, Data Management and Collaborative Work 
+ P. Dourish 
+          RN/95/55 
+
+          June 1995 
+
+         Submission Status: to appear in Proceedings of the Fourth European Conference on Computer-Supported Collaborative Work, 
+
+          
+
+         
+ 
+          
+
+         Introducing Active Managed Objects for Effective and Autonomous Management in the TMN Framework 
+ A. Vassila , G. Gnight 
+          RN/95/56 
+
+          June 1995 
+
+         Abstract: Abstract: 
+
+          Submission Status: to be presented at 3rd International Conference on Intelligence in Services and Networks, Heraklion, Crete, Greece, October 16-20, 1995 
+
+          
+
+         
+ 
+          
+
+         Maintaining Consistency of Imprecise Relations 
+ M. Levene 
+          RN/95/57 
+
+          June 1995 
+
+         Journal: The Computer Journal 
+
+          Keywords: imprecise relations, functional dependencies, consistency, chase procedure, 
+
+          Volume: 2 
+
+          Pages: 14 
+
+          pages count: 114-123 
+
+          Vol: 39 
+
+          Abstract: Abstract: imprecise relation. The problem we tackle is the following: 
+
+          Submission Status: to be presented at 3rd International Conference on Intelligence in Services and Networks, Heraklion, Crete, Greece, October 16-20, 1995 
+
+          
+
+         
+ 
+          
+
+         Maintaining Consistency of Imprecise Relations 
+ 
+          RN/95/57 
+
+          
+
+         Submission Status: to be presented at 3rd International Conference on Intelligence in Services and Networks, Heraklion, Crete, Greece, October 16-20, 1995 
+
+          
+
+         
+ 
+          
+
+         Maintaining Consistency of Imprecise Relations 
+ 
+          RN/95/57 
+
+          
+
+         Submission Status: to be presented at 3rd International Conference on Intelligence in Services and Networks, Heraklion, Crete, Greece, October 16-20, 1995 
+
+          
+
+         
+ 
+          
+
+         A Lattice View of Functional Dependencies in Incomplete Relations 
+ M. Levene , set of FDs is monodependent if it satisfies both 
+          RN/95/58 
+
+          July 1995 
+
+         Keywords: incomplete relations, null values, functional dependencies, 
+
+          Pages: 20 
+
+          Abstract: Abstract: a set of functional dependencies (FDs), F, with the individual satisfaction of FDs is monodependent. Thus monodependence of a set of FDs is a desirable 
+
+          Submission Status: to be presented at 3rd International Conference on Intelligence in Services and Networks, Heraklion, Crete, Greece, October 16-20, 1995 
+
+          
+
+         
+ 
+          
+
+         A Lattice View of Functional Dependencies in Incomplete Relations 
+ 
+          RN/95/58 
+
+          
+
+         Submission Status: to be presented at 3rd International Conference on Intelligence in Services and Networks, Heraklion, Crete, Greece, October 16-20, 1995 
+
+          
+
+         
+ 
+          
+
+         A Probabilistic Approach to Navigation in Hypertext 
+ M. Levene , G. Loizou 
+          RN/95/59 
+
+          July 1995 
+
+         Keywords: Hypertext database, navigation problem, probabilistic automata, 
+
+          Pages: 17 
+
+          Abstract: Abstract: pages of information. The notion of a trail, which is a path in 
+
+          Submission Status: to be presented at 3rd International Conference on Intelligence in Services and Networks, Heraklion, Crete, Greece, October 16-20, 1995 
+
+          
+
+         
+ 
+          
+
+         A Probabilistic Approach to Navigation in Hypertext 
+ 
+          RN/95/59 
+
+          
+
+         Submission Status: to be presented at 3rd International Conference on Intelligence in Services and Networks, Heraklion, Crete, Greece, October 16-20, 1995 
+
+          
+
+         
+ 
+          
+
+         A Probabilistic Approach to Navigation in Hypertext 
+ 
+          RN/95/59 
+
+          
+
+         Submission Status: to be presented at 3rd International Conference on Intelligence in Services and Networks, Heraklion, Crete, Greece, October 16-20, 1995 
+
+          
+
+         
+ 
+          
+
+         Bandwidth-Delay Based Routing Algorithms 
+ Z. Wang , J. Crowcroft 
+          RN/95/60 
+
+          July 1995 
+
+         Book: Proc. IEEE GlobeCom'95, 13-17 November 1995, Singapore 
+
+          City: Los Alamitos, CA 
+
+          Issuer: IEEE 
+
+          pages count: 2129-2133 
+
+          Abstract: Abstract: path computation are examined and the rationales behind the 
+
+          Submission Status: to be presented at 3rd International Conference on Intelligence in Services and Networks, Heraklion, Crete, Greece, October 16-20, 1995 
+
+          
+
+         
+ 
+          
+
+         LCMIP: a Lightweight Protocol Architecture for Data and Telecommunication Network Management and Control 
+ G. Pavlou 
+          RN/95/61 
+
+          July 1995 
+
+         Submission Status: to be presented at 3rd International Conference on Intelligence in Services and Networks, Heraklion, Crete, Greece, October 16-20, 1995 
+
+          
+
+         
+ 
+          
+
+         Application of A Pulse-Based Reinforcement Algorithm for Learning Continuous Functions using pRAMs : The Sunspot Prediction Problem 
+ D. Gorse , D.A. Romano-Critchley 
+          RN/95/62 
+
+          July 1995 
+
+         Keywords: reinforcement learning, hardware realisable, pRAMs, time-series prediction 
+
+          Pages: 6 
+
+          Abstract: Abstract: 
+
+          Submission Status: accepted by ICANN '95 International Conference on Artificial Neural Networks 1995, Paris 
+
+          
+
+         
+ 
+          
+
+         The New ERA in Supervised Learning 
+ D. Gorse , A.J. Shepherd , J.G. Taylor 
+          RN/95/63 
+
+          July 1995 
+
+         Keywords: supervised learning, local minima, global optimisation, homotopy 
+
+          Pages: 26 
+
+          Abstract: Abstract: sub-optimal solutions. A new classical technique is presented which by almost every case. 
+
+          Submission Status: Neural Networks journal 
+
+          
+
+         
+ 
+          
+
+         A Pulse-Based Reinforcement Algorithm for Learning Continuous Functions 
+ D. Gorse , D. A Romano-Critchley , J. G Taylor 
+          RN/95/64 
+
+          July 1995 
+
+         Keywords: pRAMs, continuous-output reinforcement, pulse-coding, stochastic computing 
+
+          Pages: 32 
+
+          Abstract: Abstract: a neural network using spike-based reinforcement learning. Both the 
+
+          Submission Status: Neurocomputing journal 
+
+          
+
+         
+ 
+          
+
+         A Rough Comparison of the IETF and ATM Service Models 
+ J. Crowcroft , Z. Wang , A. Smith , J. Adams 
+          RN/95/65 
+
+          July 1995 
+
+         Journal: IEEE Networks 
+
+          Volume: 6 
+
+          Pages: 10 
+
+          pages count: 12-16 
+
+          Vol: 9 
+
+          Abstract: Abstract: 
+
+          Submission Status: Neurocomputing journal 
+
+          
+
+         
+ 
+          
+
+         UCL Experiences with High-Speed Pilots 
+ J. Crowcroft , M. Handley , A. Hutton , N. Ismail , P. Kirstein , D. Lewis , P. Su 
+          RN/95/67 
+
+          July 1995 
+
+         Book: Broadband Islands '95 - Global Broadband and Beyond, Proc. of the Fourth International Conference, Dublin, Ireland, 4-6 September 1995 
+
+          City: Dublin 
+
+          Ed: F. Williams H. Brake J. Nolan 
+
+          Issuer: Vesticom 
+
+          Keywords: ATM, UCL, high-speed pilots 
+
+          Pages: 14 
+
+          pages count: 77-90 
+
+          Abstract: Abstract: using various networks for particular projects. University College London 
+
+          Submission Status: Neurocomputing journal 
+
+          
+
+         
+ 
+          
+
+         The Dys-Functional Student 
+ 
+          RN/95/67 
+
+          
+
+         Submission Status: Neurocomputing journal 
+
+          
+
+         
+ 
+          Chris Clack 
+
+         The Dys-Functional Student 
+ Chris Clack , Colin Myers 
+          RN/95/68 
+
+          July 1995 
+
+         Submission Status: submitted to Functional Programming Languages in Education 1995 
+
+          
+
+         
+ 
+          
+
+         Dynamic Cyclic Data Structures in Lazy Functional Languages 
+ 
+          RN/95/68 
+
+          
+
+         Submission Status: submitted to Functional Programming Languages in Education 1995 
+
+          
+
+         
+ 
+          Chris Clack 
+
+         Dynamic Cyclic Data Structures in Lazy Functional Languages 
+ Chris Clack , Stuart Clayman , David Parrott 
+          RN/95/69 
+
+          August 1995 
+
+         Submission Status: submitted to: SIGPLAN Notices 
+
+          
+
+         
+ 
+          
+
+         Data Structures and Genetic Programming 
+ 
+          RN/95/69 
+
+          
+
+         Submission Status: submitted to: SIGPLAN Notices 
+
+          
+
+         
+ 
+          W. Langdon 
+
+         Data Structures and Genetic Programming 
+ W. Langdon 
+          RN/95/70 
+
+          August 1995 
+
+         Keywords: Genetic Programming, Genetic Algorithms, list, 
+
+          Pages: 20 
+
+          Abstract: Abstract: 
+
+          Submission Status: Advances in Genetic Programming 2 
+
+          
+
+         
+ 
+          
+
+         Data Structures and Genetic Programming 
+ 
+          RN/95/70 
+
+          
+
+         Submission Status: Advances in Genetic Programming 2 
+
+          
+
+         
+ 
+          
+
+         Data Structures and Genetic Programming 
+ model for maintaining evolved code is 
+          RN/95/70 
+
+          
+
+         Submission Status: Advances in Genetic Programming 2 
+
+          
+
+         
+ 
+          
+
+         Directed Crossover within Genetic Programming 
+ 
+          RN/95/70 
+
+          
+
+         Submission Status: Advances in Genetic Programming 2 
+
+          
+
+         
+ 
+          W.B. Langdon 
+
+         Directed Crossover within Genetic Programming 
+ W.B. Langdon 
+          RN/95/71 
+
+          August 1995 
+
+         Keywords: Genetic Programming, Genetic Algorithms, 
+
+          Pages: 4 
+
+          Abstract: Abstract: 
+
+          Submission Status: Advances in Genetic Programming 2 
+
+          
+
+         
+ 
+          
+
+         Directed Crossover within Genetic Programming 
+ 
+          RN/95/71 
+
+          
+
+         Submission Status: Advances in Genetic Programming 2 
+
+          
+
+         
+ 
+          
+
+         UC++: Parallel and Distributed Programming with C++ 
+ 
+          RN/95/71 
+
+          
+
+         Submission Status: Advances in Genetic Programming 2 
+
+          
+
+         
+ 
+          R. Winder 
+
+         UC++: Parallel and Distributed Programming with C++ 
+ R. Winder , G. Roberts , A. McEwan , J. Poole , P. Dzwig 
+          RN/95/72 
+
+          September 1995 
+
+         Book: Parallel Processing using C++ 
+
+          City: Cambridge, MA 
+
+          Ed: G. Wilson 
+
+          Issuer: MIT Press 
+
+          Pages: 34 
+
+          pages count: to~appear 
+
+          Submission Status: Advances in Genetic Programming 2 
+
+          
+
+         
+ 
+          
+
+         An Inter-domain Virtual Private Network Management Service 
+ D. Lewis , L. Bjerring , I. Thorarensen 
+          RN/95/73 
+
+          September 1995 
+
+         Pages: 12 
+
+          Submission Status: submitted to IEEE/IFIP 1996 
+
+          
+
+         
+ 
+          
+
+         Learning Real-Valued Univariate Time Series : An Application of 
+ D. Gorse , D.A. Romano-Critchley , D. Gorse , D.A. Romano-Critchley 
+          RN/95/75 
+
+          August 1995 
+
+         Keywords: real-to-binary mappings, binary-output reinforcement rule, probabilistic RAMs Reinforcement learning, probabilistic RAMs,time-series prediction 
+
+          Pages: 6 
+
+          Abstract: Abstract: 
+
+          Submission Status: Weightless Neural-Network Workshop 95 
+
+          
+
+         
+ 
+          pulse-based reinforcement algorithm for learning continuous 
+
+         Learning Real-Valued Univariate Time Series : An Application of 
+ pulse-based reinforcement algorithm for learning continuous 
+          RN/95/75 
+
+          
+
+         Submission Status: Weightless Neural-Network Workshop 95 
+
+          
+
+         
+ 
+          
+
+         Learning Real-Valued Univariate Time Series : An Application of 
+ 
+          RN/95/75 
+
+          
+
+         Submission Status: Weightless Neural-Network Workshop 95 
+
+          
+
+         
+ 
+          
+
+         Genetic Programming -- Computers using "Natural Selection" to generate programs 
+ W.B. Langdon , A. Qureshi 
+          RN/95/76 
+
+          October 1995 
+
+         Keywords: genetic algorithms, genetic programming, Automatic Programming, Machine Learning 
+
+          Pages: 45 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to IEEE Computer 
+
+          
+
+         
+ 
+          
+
+         The Expressive Power of the Relational Algebra with Linearly Ordered 
+ M. Levene , W. Ng 
+          RN/95/77 
+
+          October 1995 
+
+         Submission Status: submitted to IEEE Computer 
+
+          
+
+         
+ 
+          
+
+         Towards an Anthropological Approach to Agent Adaptation 
+ R.H. Bordini , J.A. Campbell 
+          RN/95/78 
+
+          October 1995 
+
+         Keywords: agent migration, anthropologically-based adaptation, MAS interoperability 
+
+          Pages: 10 
+
+          Abstract: Abstract: 
+
+          Submission Status: to be published at International Workshop on Decentralized Intelligent and 
+
+          
+
+         
+ 
+          
+
+         Anthropologically-Based Migration: a New Approach to Interoperability 
+ R.H. Bordini , J.A. Campbell 
+          RN/95/79 
+
+          October 19954 
+
+         Keywords: agent migration, anthropologically-based adaptation, MAS interoperability, believability 
+
+          Submission Status: to be published at International Workshop on Decentralized Intelligent and 
+
+          
+
+         
+ 
+          
+
+         Anthropologically-Based Migration: a New Approach to Interoperability 
+ Mark Levene , George Loizou 
+          RN/95/80 
+
+          
+
+         Submission Status: to be published at International Workshop on Decentralized Intelligent and 
+
+          
+
+         
+ 
+          Interaction of Functional and Noncircular Inclusion Dependencies 
+
+         Interaction of Functional and Noncircular Inclusion Dependencies 
+ given set of FDs interact with a given set of a set of INDs if 
+          RN/95/80 
+
+          October 1995 
+
+         Keywords: relation, database, logical implication, 
+
+          Pages: 7 
+
+          Abstract: Abstract: the given the set of INDs. 
+
+          Submission Status: to be published at International Workshop on Decentralized Intelligent and 
+
+          
+
+         
+ 
+          
+
+         A Hybrid System for Decision-making about Assets in English Divorce Cases 
+ K. Pal , J. Campbell , hybrid knowledge-base (combining rule-based and case-based material) system , multi-layed representation is used for the case material. In responding to 
+          RN/95/81 
+
+          October 1995 
+
+         City: Berlin 
+
+          Ed: J. Carbonell 
+
+          Issuer: Springer-Verlag 
+
+          pages count: to~appear 
+
+          Series: LNCS 
+
+          Abstract: Abstract: significant because on their own neither rules nor past cases are 
+
+          Submission Status: to be published at International Workshop on Decentralized Intelligent and 
+
+          
+
+         
+ 
+          
+
+         Quality of Service Routing for Supporting Multimedia Applications 
+ Z. Wang , J. Crowcroft 
+          RN/95/82 
+
+          November 1995 
+
+         Abstract: Abstract: 
+
+          Submission Status: submitted to IEEE Journal on Selected Areas of Communications 
+
+          
+
+         
+ 
+          
+
+         Tcl-MCMIS: Interpreted Management Access Facilities 
+ T. Tin , G. Pavlou , R. Shi 
+          RN/95/83 
+
+          November 1995 
+
+         Book: Proc. IFIP/IEEE International Workshop on Distributed Systems: Operations 
+
+          pages count: none, no publisher or place of publication 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to IEEE Journal on Selected Areas of Communications 
+
+          
+
+         
+ 
+          
+
+         Assessing the Usability and Effectiveness of a Remote Language Teaching 
+ A.Watson , A.Sasse 
+          RN/95/84 
+
+          November 1995 
+
+         Keywords: multimedia conferencing, language teaching, evaluation 
+
+          Pages: 6 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to ED-MEDIA '96, World Conference on Educational Multimedia and 
+
+          
+
+         
+ 
+          
+
+         Intelligent Systems for GIS 
+ R. Singh , P. Treleaven 
+          RN/95/85 
+
+          November 1995 
+
+         Book: Proc. GISRUK'95 - Geographical Information Systems Research Conference, 
+
+          City: Newcastle, UK 
+
+          Issuer: University of Newcastle 
+
+          Pages: 4 extended abstract (full paper12-13) 
+
+          pages count: 107-111 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to ED-MEDIA '96, World Conference on Educational Multimedia and 
+
+          
+
+         
+ 
+          
+
+         Supporting Multimedia Conferencing in Europe:The MICE National Support Centres 
+ N. Chatterjee , J.A. Campbell 
+          RN/95/86 
+
+          November 1995 
+
+         Pages: 8 
+
+          Abstract: Abstract: a step-by-step case-interpolation algorithm which considers the details past cases in comparison with a current problem (and vice versa) to various parameters associated with each action. The method finally 
+
+          Submission Status: submitted to AI-96, Toronto, Canada 21-24 May 1996 
+
+          
+
+         
+ 
+          Martina Angela Sasse 
+
+         Supporting Multimedia Conferencing in Europe:The MICE National Support Centres 
+ Martina Angela Sasse , Roy Bennett 
+          RN/95/87 
+
+          
+
+         Pages: 7 
+
+          Abstract: Abstract: a European network of National Support a range of public-domain multimedia 
+
+          Submission Status: submitted to JENC7 
+
+          
+
+         
+ 
+          
+
+         Supporting Multimedia Conferencing in Europe:The MICE National Support Centres 
+ 
+          RN/95/87 
+
+          
+
+         Submission Status: submitted to JENC7 
+
+          
+
+         
+ 
+          
+
+         Using a Neural Network to Learn General Knowledge in a Case-based System 
+ E. Reategui , J.A. Campbell , S. Borghetti 
+          RN/95/88 
+
+          November 1995 
+
+         Book: Case-Based Reasoning: Research and Development. First International Conference, ICCBR-95. Sesimbra, Portugal 
+
+          City: Springer Verlag Berlin 
+
+          Ed: M. Veloso A. Aamodt 
+
+          Pages: 9 
+
+          pages count: 528-537 
+
+          Series: LNCS 1010 
+
+          Submission Status: submitted to JENC7 
+
+          
+
+         
+ 
+          
+
+         Client-Server Approaches to Model Integration within GIS 
+ R. Sandhu , P. Treleaven 
+          RN/95/89 
+
+          December 1995 
+
+         Submission Status: to be presented Third International Conference/Workshop on Integrating 
+
+          
+
+         
+ 
+          
+
+         Supporting Multimedia Conferencing over the UK Mbone : MICE National Support Centres 
+ M.A. Sasse , R. Bennett 
+          RN/95/90 
+
+          December 1995 
+
+         Abstract: Abstract: 
+
+          Submission Status: to appear in: Network News 
+
+          
+
+         
+ 
+          
+
+         Supporting Multimedia Conferencing over the UK Mbone : MICE National Support Centres 
+ 
+          RN/95/90 
+
+          
+
+         Submission Status: to appear in: Network News 
+
+          
+
+         
+ 
+          
+
+         Specification for the Distributed Framework 
+ Sukhdev Khebbal , Philip Treleaven 
+          RN/95/91 
+
+          December 1995 
+
+         Submission Status: to appear in: Network News 
+
+          
+
+         
+ 
+          
+
+         	
+           Translator  
+         
+
+
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Rachel Scott 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

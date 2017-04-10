@@ -1,0 +1,444 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus ›› M077 - Computational Modelling for Biomedical Imaging 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPM077 - Computational Modelling for Biomedical Imaging
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPM077 (also taught as COMPGV17) 
+	Year	MSc
+	Prerequisites	
+	Term	2
+	Taught By	Danny Alexander (50%)Ivana Drobnjak/Gary Zhang (50%)
+
+	Aims	To expose students to the challenges and potential of computational modelling in a key application area. To explain how to use models to learn about the world. To teach parameter estimation techniques through practical examples. To familiarize students with handling real data sets.
+	Learning Outcomes	Students successfully completing this module should be able to:
+             	Understand tha aims of biomedical imaging
+	understand the advantages and limitations of model-based approaches and data-driven approaches
+	Have knowledge of standard techniques in modelling, experimental design and parameter estimation.
+	Understand the challenges of data modelling, experiment design and parameter estimation in practical situations
+	gain knowledge of handling real-world data in computer programs.
+
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         The course introduces the basics of mathematical modelling: the distinction between models and the real world; when and how models are useful; advantages and disadvantages of explicit model-based approaches.
+
+The course covers a range of model based approaches to biomedical imaging and basic computer science techniques that underpin them. The intention is to introduce the students to standard techniques of parameter estimation in a hands-on practical way within the context of model-based imaging. The course also gives exposure to common applications and challenges in biomedical imaging.
+
+The content draws from examples at a range of length scales from molecular imaging, cellular scales in microscopy, regional scales, whole organ and whole population scales. The course uses each example to introduce both new kinds of model and, more fundamentally, new algorithms and techniques for parameter estimation, optimization, sampling and validation.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lectures and lab classes. 
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	Coursework (100%)
+
+
+         To pass this course, students must:
+
+         	Achieve a mark of 50% or more from all sections combined
+
+
+
+
+         The Coursework consist of two pieces: Coursework 1 (35%) and Coursework 2 (15%); as well as a Group and individual project (50%).
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Most of the material will come form journal and conference papers, which will be condensed into lecture notes. A few books provide wider reading:
+
+         Keener and Sneyd, Mathematical Physiology, Springer, 1998
+
+         Murray, Mathematical Biology, 1993
+
+         Tofts, Quantitative MRI of the Brain, 2003
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

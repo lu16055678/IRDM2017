@@ -1,0 +1,443 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus
+      ›› MSc Robotics and Computation ›› GX01 - Robotic Systems Engineering 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGX01 - Robotic Systems Engineering
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPGX01
+	Year	MSc
+	Prerequisites	None
+	Term	1
+	Taught By	Danail Stoyanov (Lectures) 
+	Aims	The students will gain an introductory overview of robotics and autonomous systems. Technically they will gain an understanding of the concepts and principles of ROS, the underpinning software development environment for robot systems, through a number of example applications, leading to the capability of using ROS for advanced robot control, navigation, sensing and verification.
+	Learning Outcomes	Students successfully completing the module should understand:
+1. Basic ROS programming
+2. Foundations of robotic systems
+3. Basic kinematics and robot motion
+4. Working with a robot platform such as the KUKA Youbot or other teaching platform
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         
+
+
+
+            This module gives an overview of robotics in practice and research. Topics covered include motion planning, mobile mechanisms, kinematics, inverse kinematics, and sensors. The course will also expose students to some of the contemporary happenings in robotics, which includes current robot lab research, applications, robot contests and robots in the news and in industry. Other specific content in the course includes:
+           
+           
+
+            - Foundations and principles of robotic kinematics including transformations, forward kinematics. inverse kinematics. differential kinematics, manipulability. and basic equations of motion.
+           
+           
+
+            - Implementation of robotic standards within industry
+           
+          
+         
+         	
+	
+	
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         The module is delivered through a combination of lectures and lab classes.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components: 
+ 
+         Coursework (100%) 
+ 
+         To pass this course, students must: Obtain an overall pass mark of 50% for all sections combined. 
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Resources can be found on Moodle. 
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

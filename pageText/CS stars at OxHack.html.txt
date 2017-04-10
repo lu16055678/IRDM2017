@@ -1,0 +1,418 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         CS stars at OxHack
+ 
+         
+          
+          
+
+         
+ 
+         We were delighted that two teams of four UCL Computer Science students joined OxHack 2014. Running during 29th-30th November and hosted by Oxford Entrepreneurs (OE) and Major League Hacking, the event included over 150 participants from universities all over Europe and sponsorship and mentorship from Facebook, Google, Bloomberg, SendGrid, Mendeley and more. 
+ 
+         Sami Start, Paula Lopez Pozuelo, Divya Surendran and Zayed Al-Nehayan worked together to make an alarm clock that switches on Chromecast on your TV and plays personalised content in an alarm format to wake you up. The UI of the alarm was made on Android and triggered the Chromecast receiver application when the alarm was activated. 
+ 
+         Kartik Joshi, Leo Joffe, Eimi Okuno and Danny Ly collaborated to make a remote control for visualising 3D graphics that allows users to navigate using the gyroscopes in their mobile devices communicated over LAN. This also utilised 3rd party APIs to generate some creative 3D graphs displaying economic data. 
+ 
+         The experience was both extremely challenging and enjoyable with both teams completing working versions of their projects in just 24 hours. The ‘Chromecast Alarm Clock’ team were selected as finalists and presented their application to over 150 people at the closing ceremony, including a panel of venture capitalists and angel investors. 
+ 
+         To discover more about our students and their work see below: 
+ 
+         Sami Start www.samistart.com 
+ 
+         Paula Lopez Pozuelo uk.linkedin.com/pub/paula-lópez-pozuelo/86/bb3/89a/ 
+ 
+         Divya Surendran uk.linkedin.com/in/dsurendran 
+ 
+         
+ 
+         
+ 
+         
+           Posted 12 Dec 14 12:42 
+         
+ 
+          
+          
+           Next: UCL winners at HackNotts >
+
+          
+ 
+          
+           < Previous: Sebastian Riedel wins...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

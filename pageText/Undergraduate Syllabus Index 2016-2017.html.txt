@@ -1,0 +1,438 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Students
+      ›› Syllabus ›› Undergraduate Syllabus Index 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       Undergraduate Syllabus Index 2016-2017
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         1. To pass a computer science undergraduate module at First, Intermediate or Advanced Level (i.e. modules for 1st, 2nd and 3rd year students), you must:
+
+         	Obtain an overall pass mark of 40% for all components combined;
+	Obtain a minimum mark of 30% in each component worth ≥ 30% of the module as a whole.
+
+
+         2. To pass a computer science undergraduate module at Master's Level (i.e. modules for 4th year students), you must:
+
+         	Obtain an overall pass mark of 50% for all components combined;
+	Obtain a minimum mark of 40% in each component worth ≥ 30% of the module as a whole.
+
+
+         3. Be 'complete' for the coursework component (if there is one). For computer science modules, this means that you must have completed at least 35% of the coursework. Other departments might require a higher percentage, so please check with the departments concerned.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         	101P - Principles of Programming
+	102P - Theory I
+	103P - Object-Oriented Programming
+	104P - Theory II
+	105P - Robotics Programming
+	201P - Networking and Concurrency
+	202P - Logic and Database Theory
+	203P - Software Engineering and Human Computer Interaction
+	204P - Systems Engineering Project 1
+	205P - Systems Engineering Project 2
+	206P - Mathematics and Statistics
+	207P - Compilers
+	209P - Cognitive Systems and Intelligent Technologies
+	210P - Introduction to Programming
+	211P - Introduction to Programming
+	2012 - Directed Reading
+	3004 - Computational Complexity
+	3005 - Operating Systems
+	3011 - Functional Programming
+	3012 - Interaction Design
+	3013 - Database and Information Management Systems
+	3035 - Networked Systems
+	3058 - Artificial Intelligence and Neural Computing
+	3063 - Introduction to Cryptography
+	3072 - Image Processing
+	3080 - Computer Graphics
+	3091 - Individual Project
+	3095 - Research Methods
+	3096 - Research Group Project
+	3100 - Computer Science Study Abroad
+	310P - Web Development
+	311P - Systems Engineering
+	312P - Machine Learning and Neural Computing
+	313P - Robotic Systems
+	6010 - Computer Music
+	M007 - Operational Risk Measurement for Financial Institutions
+	M012 - Programming & Mathematical Methods for Machine Learning
+	M014 - Requirements Engineering and Software Architecture
+	M022 - Software Abstractions and Systems Integration
+	M023 - Validation and Verification
+	M024 - Tools and Environments
+	M026 - Financial Institutions and Markets
+	M027 - Financial Information Systems
+	M028 - Language Based Security
+	M030 - Distributed Systems and Security
+	M034 - Multimedia Systems
+	M041 - Web Economics
+	M042 - Complex Networks and Web
+	M050 - Advanced Topics in Machine Learning
+	M052 - Information Retrieval and Data Mining
+	M054 - Machine Vision
+	M055 - Supervised Learning
+	M056 - Graphical Models
+	M058 - Bioinformatics
+	M061 - People and Security
+	M062 - Computer Security I
+	M063 - Introduction to Cryptography
+	M064 - Applied Cryptography
+	M065 - Computer Security 2
+	M066 - Malware
+	M067 - Privacy Enhancing Technologies
+	M068 - Cryptanalysis
+	M072 - Mathematical Methods Algorithms and Implementations
+	M076 - Virtual Environments
+	M077 - Computational Modelling for Biomedical Imaging
+	M078 - Inverse Problems in Imaging
+	M080 - Acquisition and Processing of 3D Geometry
+	M081 - Geometry of Images
+	M082 - Affective Computing and Human-Robot Interaction
+	M085 - Computational Photography and Capture
+	M090 - Applied Machine Learning
+	M091 - Individual Project
+	ENGS101P - Integrated Engineering
+	ENGS102P - Design and Professional Skills
+
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

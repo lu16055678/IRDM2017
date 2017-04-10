@@ -1,0 +1,496 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Students
+      ›› Syllabus ›› 3072 - Image Processing 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMP3072 - Image Processing
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMP3072 (Also taught as: COMPGV12 Image Processing) 
+	Year	3
+	Prerequisites	Successful completion of years 1 and 2 of the Computer Science, Mathematics and Computer Science or other Physical Science or Engineering programme with sufficient mathematical and programming content. 
+	Term	1
+	Taught By	Lourdes Agapito (100%) 
+	Aims	The first half of this course introduces the digital image, describes the main characteristics of monochrome digital images, how they are represented and how they differ from graphics objects. It covers basic algorithms for image manipulation, characterisation, segmentation and feature extraction in direct space. The second half of the course proceeds to a more formal treatment of image filtering with some indication of the role and implications of Fourier space, and more advanced characterisation and feature detection techniques such as edge and corner detection, together with multiresolution methods, treatment of colour images and template matching techniques. The course allows students to explore a range of practical techniques, by developing their own simple processing functions either in a language such as Java and/or by using library facilities and tools such as MatLab or IDL. 
+	Learning Outcomes	To understand (i.e., be able to describe, analyse and reason about) how digital images are represented, manipulated, encoded and processed, with emphasis on algorithm design, implementation and performance evaluation. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         Introduction to the digital image
+Why digital images? 
+The (film and) digital camera. 
+Data types and 2d representation of digital images.
+
+Characteristics of grey-level digital images
+Discrete sampling model.
+ Quantisation.
+ Noise processes.
+ Image attributes.
+
+Segmentation
+Thresholding and thresholding algorithms.
+ Performance evaluation and ROC analysis.
+ Connected components labelling.
+ Region growing and region adjacency graph (RAG).
+ Split and merge algorithms.
+
+Image transformations
+Grey level transformations.
+ Histogram equalization.
+ Geometric transformations.
+ Affine transformations.
+ Polynomial warps.
+
+Morphological operation
+Erode and dilate as max and min operators on binary images.
+ Open, close, thinning and other transforms.
+ Medial axis transform.
+ Introduction to grey-level morphology. 
+ 
+         Image filtering
+Fourier descriptors.
+Linear and non-linear filtering operations.
+ Image convolutions.
+ Separable convolutions.
+ Sub-sampling and interpolation as convolution operations. 
+ 
+         FFeature characterisation
+Calculation of region properties.
+ Moment features.
+ Boundary coding line descriptors from boundary coding and from moments.
+ Image search and multi-resolution algorithms. 
+ 
+         EEdge and corner detection
+Edge enhancement by differentiation.
+ Effect of noise, edge detection and Canny implementation.
+ Edge detector performance evaluation.
+ Image structure tensor.
+ Relationship to image auto-correlation.
+ Characterisation and Harris corner detector.
+
+Colour images
+Representations of colour in digital images.
+ Colour metrics.
+ Pixel-wise (point) operations.
+ Colour invariants and Finlayson colour constancy algorithm.
+
+TeTemplate matching and advanced topics
+Similarity and dissimilarity matching metrics.
+ L2 metric and relationship to cross-correlation2D object detection, recognition, location. 
+ Sub-pixel accuracy and performance evaluation. 
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lecture presentations with associated class coursework and laboratory sessions. There are 4 pieces of coursework, all weighted equally. 
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	 Written Examination (2.5 hours, 80%);
+	Coursework Section (3 pieces, 20%).
+
+
+         To pass this course, students must:
+
+         	Obtain an overall pass mark of 40% for all componenets combined;
+	Obtain a minimum mark of 30% in each component worth ≥ 30% of the module as a whole. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         
+Gonzales/ Woods/ Eddins, Digital Image Processing using MATLAB, 2nd edition, Gatesmark Publishing, ISBN 9780982085400
+
+         N.Efford, Digital Image Processing, Addison Wesley 2000, ISBN 0-201-59623-7
+ 
+         M Sonka, V Hlavac and R Boyle, Image Processing, Analysis and Machine Vision, PWS 1999, ISBN 0-534-95393-X
+ 
+         W K Pratt, Digital Image Processing, John Wiley and Sons, 1991, ISBN 0-471-85766-1
+ 
+         R Jain, R Kasturi and B G Schunck, Machine Vision, McGraw-Hill, 1995, ISBN 0-07-113407-7 
+ 
+         Copy of lecture notes/overheads, Coursework assignments, Guidance notes for courseworks
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

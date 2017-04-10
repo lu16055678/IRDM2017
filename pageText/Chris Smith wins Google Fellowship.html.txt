@@ -1,0 +1,410 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         Chris Smith wins Google Fellowship
+ 
+         
+          
+          
+
+         
+ 
+         Chris Smith CS PhD student, has won a Google Fellowship (worth $60,000 per year, for 3 years) to carry out research in the area of data mining for development. In its 5th year, Google PhD Fellows from around the world are a select group recognized by Google researchers and their institutions as some of the most promising young academics in the world. Congratulations to Chris. 
+ 
+         Chris describes is research as ‘data mining for development’. 
+ 
+         ‘The increasing ubiquity of computing devices in peoples’ lives and the rich data they produce suggest a novel approach to tackling these problems. In my PhD I propose to mine the digital traces of urban residents found in large-scale datasets describing human mobility and communication patterns. This will result in the discovery of features that correlate with socioeconomic factors of neighbourhoods. In addition, I aim to increase our understanding of the wider effects of intervention and regeneration projects by modelling the spatial and temporal patterns of deprivation and inequality and the ways in which these patterns relate to the complex interactions between different parts of the city. 
+ 
+         From this I will then develop novel methods that exploit the continuous production of data from these sources in such a way that areas in most need of intervention can be identified quickly and at very low cost, and the effects of alternative strategies can be explored through predictive modelling and simulation. Finally, it is important to demonstrate the potential of the methods developed to provide real utility to public policymakers and citizens. I will therefore investigate, through user studies involving prototypes and simulations, the ways in which users interact with the data models, and how complexity and uncertainty can be successfully conveyed to users.’ 
+ 
+         
+ 
+         
+ 
+         
+           Posted 02 Jul 13 09:07 
+         
+ 
+          
+          
+           Next: UCL software reveals... >
+
+          
+ 
+          
+           < Previous: Niloy Mitra wins ACM...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

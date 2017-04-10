@@ -1,0 +1,586 @@
+
+    
+
+   	  
+
+
+ 
+
+	 Emergencies
+ DSE / Workstation
+ Policy Documents 
+ Further Information
+
+ Last Updated: 20th February 2009
+ 
+
+[back]	 Safety Arrangements in Computer Science
+ The following arrangements are made as an appendix to the Departments Statement of Safety Policy, located here. They describe the procedures for particular departmental activities and identified hazards.
+ 
+       	Accidents and Incident Reporting
+	Building Maintenance
+	Chemical Agents
+	Cooperation between organisations
+	Disabilities
+	Display screen equipment
+	Electricity
+	Emergencies
+	Fire safety
+	First aid
+	Inspections
+	Lone Working and Out of Hours
+	Manual handling
+	Noise
+	Office Work
+	Personal Protective Equipment
+	Pregnant workers
+	Purchasing arrangements
+	Record keeping
+	Review of safety management arrangements
+	Risk assessments
+	Safety Committee
+	Safety Officer duties
+	Safety Policy display
+	Safety Training
+	Slips, Trips or Falls
+	Smoking, eating and drinking
+	Supervision
+	Violence
+	Visitors and members of the public
+	Waste disposal
+	Working at heights
+	Workshops
+
+ 
+       
+ ACCIDENT/INCIDENT REPORTING
+ 
+ It is the responsibility of Managers and Supervisors to ensure that all accidents and incidents arising from departmental activities are reported so that problems can be identified and controls put in place. An Accident Report Form (available from the Safety Officer or here:pdf/doc) must be completed and returned to Safety Services.
+ The UCL form is designed to enable individuals (staff, students, visitors, etc.) to notify as soon as possible the significant details of any accident, near-miss incident or loss of and/or damage to equipment.
+ The form may be completed by any individual involved in an incident which has occurred on UCL premises or off-site on UCL business. These forms are usually completed by one of the following:
+ 
+       	the person who has had an accident, or
+	by a witness of an incident, or
+	by the supervisor of an injured person 
+
+ Reports should be sent with as little delay as possible to:
+ 
+        
+         Safety Services,  
+            
+            
+             50-51 Gordon Square
+             
+             
+          
+           
+            
+ 
+            
+           
+ 
+       
+ The form should be countersigned by someone in authority in the department as the department's formal record that an accident or incident has taken place. A copy should be given to JJ Giwa, the Safety Officer and the injured person (where applicable).
+ While space is provided for adding detail on the incident, this must not delay people from sending in the completed report. The purpose of the form is to enable staff to report accidents and incidents with the minimum of delay - providing sufficient information to record an occurrence (people, date, time, place, etc.) and to prompt further investigation if necessary. 
+ Back to top
+ 
+       
+ BUILDING MAINTENANCE
+ UCL MAINTENANCE EMERGENCIES
+
+ 
+       	
+           
+            EXT: 30000 
+           
+	
+           
+            8am to 5pm Mon-Fri
+           
+	
+           
+            020 7679 3000
+           
+
+	
+           
+            EXT: 33333 
+           
+	
+           
+            Out of Hours
+           
+	
+           
+             020 7679 3333
+           
+
+
+ Building faults should be reported to JJ Giwa on x37214, or by emailing building-faults@cs.ucl.ac.uk. Building and maintenance problems which are not emergencies must be reported to the Estates & Facilities Division - Maintenance Section, using the appropriate maintenance requisition form. 
+ The Estates & Facilities Division is responsible for managing all building works or "projects" at UCL. New projects should be initiated by writing to the Director of Estates & Facilities. There is a standard form (doc) available for this purpose, to be sent as an attachment to efdprojectrequest@ucl.ac.uk or r.furter@ucl.ac.uk
+  Safety problems, which are created by building work in progress, must be reported to the Project Manager who will contact Estates & Facilities Division or appropriate organisation. In the absence of the Project Manager, safety problems must be reported to the Safety Officer. 
+ 
+ Back to top
+ 
+       
+ CHEMICAL AGENTS
+ The Department follows the recommendations of the UCL Safety Officer regarding chemical agents and hazardous substances.? (See “Working with Substances” – Draft Approved Code of Practice, located here). 
+         
+        
+          
+         The Department has activities that involve only substances that fall under these categories:
+ 
+        
+        Category 1: Substances in category 1 may be accessed by the majority of staff groups e.g.
+ cleaning products, photocopier toner etc.
+ 
+        Category 2: Substances used in processes of a routine kind which are used in accordance with
+ standard procedures i.e. manufacturer's instructions or best practice e.g. impact
+ adhesives, degreasing agents, white spirit, cutting oil, etching reagents,.
+ 
+       
+ 
+           All purchases of this kind are made by Ms JJ Giwa, Ms Dawn Bailey or Ms Wendy Richards or any member of the Hardware Group, who are aware of these arrangements and the control which they must exercise. 
+ Persons not named in the above paragraph are not authorised to purchase these substances. Any extraordinary purchase that may be necessary will be subject to an individual risk assessment.
+ For Category 2 substances, the following additional controls are observed:
+ Category 2 Substances are ocassionally used in our workshop in 4.18; these are processes of a routine kind and the substances involved are always used in accordance with standard procedures i.e. manufacturer's instructions. It is Departmental policy that all users are made familiar with those procedures by their managers. 
+ The following people are authorised to use or supervise the use of the substances listed;
+ 
+ Manager: Denis Timm
+ Substance(s) or class of substances: photoresist developers, etching reagents, cutting oil, impact adhesives, degreasing agents, "super glue", white spirit, flux-cored solder.
+ 
+ The named manager will ensure that these materials are used only by competent staff who can be relied upon to use them in accordance with manufacturer's instructions or by less experienced staff under the supervision of experienced staff.
+ 
+ All staff are required to observe any precautionary advice given by the supplier or shown on the packaging of the product.
+ Copies of the Materials Safety Data Sheets, Risk Assessments, COSHH advice for the tasks (where appropriate) are maintained by the Safety Officer in 4.18.
+ 
+ Personal Protective equipment is provided. The substances are kept in an appropriate container, in a locked metal cupboard in the Workshop.
+ 
+ Back to top
+ 
+       
+ COOPERATION BETWEEN ORGANISATIONS
+ Staff working in other organisations are required to comply with the arrangements for safe working set by their Managers. The Manager or supervisor is responsible for ensuring that staff are aware of, and comply with, any required safe working arrangements set by the other organisation.
+ Back to top
+ 
+       
+ DISABILITIES
+ The Safety Officer must be notified as sooon as possible if a disabled person is or will be employed within the department. This also applies to research or postgraduate students. An Emergency Egress Risk Assessment (pdf / word) should be made as soon as possible in respect of the individual. 
+ Undergraduate students will normally notify the University during the admissions process, and Admissions Tutors must make an initial risk assessment in consultation with the Disability Coordinator before an offer is made to the student. More guidance regarding students is provided by Safety Services.(pdf)
+ The department must make reasonable adjustments to the disabled students timetable/programme to ensure that they have suitable access to lecture theatres, seminar rooms, study areas and tutorial staff. If practicable, arrangements should be made to have a "buddy" or "buddies" to accompany them classes, and for such persons to be prepared to assist the disabled student in the event of an emergency.
+ For members of staff, consideration should be taken when assigning a desk within the building. For example, if the disabled person has restricted mobility, they should not be assigned desk space on the upper floors. If this cannot be avoided, they should be located near to a suitable Fire Refuge or Safe Haven.
+ The managerial and practical arrangements that result from the Risk Assessment are documented in a Personal Emergency Evacuation Plan [pdf] which is signed off by the Head of Department and the individual.
+ Disabled Fire Refuges
+ Fire Refuges are located at the entrance of the front and rear staircases. On the first floor there are two at the rear (one for each level) and one at the front (which can be accessed using the wheelchair lift from the Lecture Theatre level). These are rated for 2 hours of fire protection and have dedicated communications link to the Fire crew or the Emergency Control Centre.
+ Back to top
+ 
+       
+ DISPLAY SCREEN EQUIPMENT (DSE)
+ Any member of staff who habitually uses DSE as a significant part of their normal work is considered to be a DSE user.
+ Assessment of workstations
+ All existing workstations are to be assessed with the objective of reducing risks to health and safety as far as possible. Priority will be given to users who have expressed concern or dissatisfaction with their workstations and to high intensity users such as administrative staff.
+ Departmental records are to be kept of each assessment using the standard form available from Safety Services (pdf / doc). The records should identify the assessor, the workstation and the user along with any deficiencies, action proposed and action taken. 
+ Users must comply with safety control measures introduced by the DSE assessor, and managers and supervisors must cooperate with the recommendations set out. Such control may involve attending training courses, changes in working practices or changes in office layout.? 
+ Provision of information and training
+ All staff and students should be provided with information to enable them to use workstations in a safe manner. This should include safe posture, workstation organisation and the risks associated with self taught typing. Further information is available from the departmental Safety Officer (Dave Twisleton) and on the CS Safety website. Information posters are also displayed in student laboratories and on the departmental safety notice board.
+ Eye Tests
+ Eye tests are available for designated users and can be arranged through the departmental Safety Officer. New, full time staff should be sent for an eye test as soon as practicable after they start work in the department.
+ Intervention
+ Early intervention is essential for the successful management of musculo-skeletal disorders. All symptoms thought to be related to DSE work should be reported within the department and to Occupational Health. For minor aches and pains, reassessment of the workstation and working technique should be sufficient. For more severe symptoms, DSE work should cease until there is a major reduction in symptoms. All problems identified in the reassessment must be put right before the user returns to DSE work, and the work should be reintroduced gradually.
+ Treatment will be under the direction of the individual’s GP but will be monitored by the Occupational Health Service.
+ Equipment
+ DSE equipment and office furniture must allow users to perform their tasks with minimal risks to injury or eyestrain. Faulty computer equipment such as monitors or mice must be reported to the Technical Support Group for replacement or repair. Faulty furniture must be reported to JJ Giwa x 37214.
+ Specialist equipment such as ergonomic chairs and keyboards can be provided to staff and research students after a complete workstation assesment. Users should not bring their own equipment without first consulting the Safety Officer.
+ Cleaning
+ Workstations are to be cleaned only by members of the hardware group unless permission has been granted to other parties. No flammable cleaning fluids are to be used. Non-flammable display cleaner is available on request from the helpdesk.
+ Further Information:   Computer Science DSE advice UCL ACOP
+ Back to top
+ 
+       
+ ELECTRICITY
+ The Technical Support Group will arrange for an annual visual inspection and maintenance of electrical equipment. 
+ New electrical equipment should be subject to a visual inspection before use, to include plug, wires and the condition of the equipment. All new equipment shoud be CE or BS (kite marked) standard.
+ Faulty Electrical Equipment
+ Each member of staff is responsible for visual inspection of the plugs and cables of the electrical equipment, which they use routinely:
+ 
+       	All faults must be reported to the Technical Support Group who will arrange for repairs (if possible) or replacement. 
+	Confirmed or suspected safety related defects must be labelled “DEFECTIVE – DO NOT USE”.
+
+ The broken/faulty equipment must be taken out of use until repaired or replaced. Repairs must be dealt with by a competent person, an approved contractor or the manufacturer.
+ Further Information: UCL ACOP
+ Back to top
+ 
+       
+ EMERGENCIES
+ Information is provided to Staff and Students on how to deal with Emergencies during their Local Fire Safety induction, on the website and in the Safety Guide leaflet (pdf) (which is also provided at reception for Visitors).
+ 
+ What to do if the Alarm sounds
+ What to do if you detect a Fire
+ What to do if you smell Gas
+ What to do if you have an Accident or require First Aid
+ How to identify Safety Signs throughout the building
+ 24 HOUR EMERGENCY SERVICES - DIAL 222
+ 
+ Out of office hours, and in all other emergencies call the College emergency switchboard. Please state the exact location of the incident and as much useful information as possible.
+ Back to top
+ 
+ 
+       
+ FIRE SAFETY
+ At all times, staff should ensure that:
+ 
+       	fire doors are not be wedged open;
+	corridors are kept clear and not used for storage of rubbish, furniture or equipment.
+
+  
+ The UCL Fire Safety Management Policy requires all Heads of Department to designate and provide sufficient staff to act as Fire Evacuation Marshals (FEMs) and that those nominated FEMs receive formal initial and regular fresher training at intervals not exceeding 18 months. The primary duties of Fire Evacuation Marshals (FEMs) are: 
+	 to take appropriate action if a fire occurs, i.e. raise the alarm or take appropriate action on hearing the fire alarm; 
+	assist in maintaining a "fire safe" environment for staff, students and visitors in their department.
+
+A list of Fire Marshalls and the areas they cover can be found here.
+ More information on Fire Evacuation Marshalls can be found here
+ The Department has a Fire Risk Assessment and Fire Action Plan which are regularly reviewed with the College's Fire Officer. These documents, as well as the Fire Strategy and Annual Fire Drill reports can be found on the UCL Fire Safety website. Back to top
+ 
+       
+ FIRST AID
+          
+ 
+ FIRST AIDERS 
+ 
+       	JJ Giwa / Room 5.25 (next to CS Reception)/ ext 37214 
+         	Senior Departmental Officer 
+
+ 
+ 
+	Tracy Williams / Room 5.22 / ext 37287 
+         	Advanced Graduate Administrator 
+
+ 
+
+  FIRST AID APPOINTED PERSONS
+  
+       	Denis Timm / Room 4.21 / ext 37283 
+         	Head of TSG 
+
+ 
+ 
+	Patricia Fenoy / Room 5.25 (next to CS Reception)/ ext 37214 
+         	Departmental Office Assistant 
+
+ 
+
+  First Aid Kits are available in the following locations:  
+       	Departmental Office, 5th Floor, room 5.25 (next to CS Reception) 
+	Admin Office, 5th floor, room 5.22 
+	Helpdesk, 4th Floor, room 4.22 
+
+ 
+           Back to top
+ 
+       
+ INSPECTIONS
+ The Departmental Safety Officer and the Departmental Administrator conduct safety tours of the building several times a year. Additional informal inspections are made by members of Technical Support Group staff when installing new equipment and reported to the Safety Officer.
+ Back to top
+ 
+       
+ LONE WORKING AND OUT OF HOURS
+ The Head of Department has considered the requirement for After Hours or Lone Working, which must be balanced with the safety of individuals concerned. Therefore the following arrangements are made for these groups of people.
+ 
+ During term time, the Departmental building is open from 
+         
+          8am
+          to 
+         
+          7pm
+          weekdays, and this should be considered "normal hours".
+ Undergraduate and Postgraduate Students on Taught Courses
+ During term time, the Departmental building is open from 
+         
+          8am
+          to 
+         
+          7pm
+          weekdays, with no access at weekends.
+ On occasion, student computer labs will be open until 
+         
+          9pm
+          , subject to:
+ 
+       	The availability of a designated person to cover these periods
+	Sufficient students using the labs 
+	Any constraints due to the move to the new building
+
+ An email will be sent out to students with the contact details of the designated person for that evening. The designated person has been trained as a First Aid Attender, will be the point of contact in the event of an emergency, and is available on their landline or the departmental mobile (dial #6436). The designated person is required to take a list of all people in the labs at 
+         
+          7.00pm
+          and at every hour till 
+         
+          9pm
+          . 
+ Students exiting the building after 
+         
+          7pm
+          will be unable to re-enter due to the security perimeter. If a student is the only occupant of a lab, they should move to one where there are other people. The designated person will remind them of this on their hourly room-checks.
+ Postgraduate Research Students, Academic Visitors, Technical, Academic and Research, Administrative Staff
+ Work outside the normal working hours will be considered "after hours working" and should be undertaken only after discussion with the supervisor or relavant manager, or in exceptional circumstances. As a precaution, staff should ensure that the door to their office is locked from the inside and must not allow entry to persons other than identified Security personnel. Emergency assistance is available by calling extension 222 from any internal phone, day or night.
+ No one should work entirely alone when involved in after hours working. Ideally, people should coordinate with colleagues in their area if they plan to work late.
+ See also: HSE Guide to Lone Working
+ Back to top
+ 
+       
+ MANUAL HANDLING
+ Managers and Supervisors must arrange for all manual handling tasks to be risk assessed. The assessment should take into account:
+ 
+       	the weight of the object
+	the capability of the person carrying the weight
+	the distance the object is to be carried.
+
+ In all cases staff must try and minimise the amount of manual handling that is necessary and wherever possible, mechanical means should be used.? The only members of staff who are trained in manual handling are some members of the Technical Support Group, due to the nature of their job activities.? Large, awkward and heavy office equipment should be handled by arrangement with the Porters via Central Services.
+ Additional advice for manual handling tasks can be found here.
+ Back to top
+ 
+       
+ NOISE
+ The 4th Floor Machine Room has a significant level of continuous noise, which can be annoying after long periods of work. Ear muffs and Plugs are provided in this room if required.
+ 
+ Any drilling and machining should be undertaken in the Workshop where possible.
+ 
+ There are no other areas of the department where noise is a risk. 
+ Back to top
+ 
+       
+ OFFICE WORK
+ Environmental factors in the office, such as lighting, ventilation and space will normally be considered when undertaking a DSE / Workstation Risk Assessment for an individual user. However, an assessment of the entire office may be more suitable, using the standard office safety inspection form (pdf / doc) available from Safety Services.
+ Problems with office furniture such as desks, filing cabinets or chairs, should be reported to JJ Giwa. Managers should consider the following guidelines when rearranging office spaces:
+  VOLUME PER WORKER
+ The volume of empty room divided by number of people must be at least 11m3 per person. Parts of the room more than 3m. high must be ignored. 
+ Furniture and fixtures are excluded from the calculation.
+ 
+ VENTILATION
+ Effective and suitable provision shall be made to ensure that the circulation of a sufficient quantity of fresh or purified air ventilates every enclosed workplace. Improved ventilation may be necessary depending on the number of computers to be provided, due to the increase in heat output.
+ 
+ LIGHTING
+ To be suitable and sufficient and so far as is reasonably practicable be natural.
+ 
+ Diffusers or louvres may be fitted where glare will interfere with the safe/comfortable use of equipment.
+ 
+ WORKSTATIONS AND SEATING
+ Workstations and seating must be suitable for the work to be undertaken and suitable for the person for whom it is provided.
+ 
+ FURNISHINGS
+ Chairs for display screen work must allow worker to achieve a comfortable position. The seat and back must have height adjustment, the back must also have tilt adjustment. Work surfaces may need to be larger than that for conventional non-screen office work. Clients must take size and anthropometrics into account.
+ (taken from http://www.ucl.ac.uk/efd/safety_services_www/guidance/offices/guidance.pdf)
+ 
+ Back to top
+ 
+       
+ PERSONAL PROTECTIVE EQUIPMENT
+ Any activity within the Department should be undertaken after a suitable Risk Assessment. This will identify any requirements for Personal Protective Equipment, which should be obtained before the activity begins.
+ 
+ The following are available:
+ Eye protection - Workshop and Machine room
+ Vinyl Gloves - Workshop
+ Ear Protection (muffs and ear plugs) - Machine room
+ 
+ Back to top
+ 
+       
+ PREGNANT WORKERS
+ A pregnant worker is identified as either:
+ 
+       	pregnant
+	having given birth within the previous six months (including still births after 24 weeks)
+	breast feeding.
+
+ When a woman informs the College (the employer) in writing that she is a pregnant worker as defined above, the College will arrange for a risk assessment of her work activities and where any risk to the mother or unborn child is identified, control that risk.
+ Below is the procedure to be followed if notification is made (items in bold are required of the pregnant worker).
+ 
+       	Notification should be made in writing to HR Division by the pregnant worker.
+	Receipt of written notification will be confirmed in writing and copied to the Head of Department. A copy of this confirmation will be sent with a risk assessment form and information relating to maternity benefits to the pregnant worker by the HR Division.
+	The risk assessment will be carried out jointly by the pregnant worker, Departmental Safety Officer and Manager/Supervisor. Managers may elect to have independent input from the UCL Safety Services.
+	The Departmental Safety will send the risk assessment form to the UCL Safety Services for scrutiny.
+	The UCL Safety Services will scrutinise the risk assessment form and where it is thought necessary, seek further information from the Departmental Safety Officer or Head of Department. Health advice may also be sought from the Occupational Health Service. After all concerns have been addressed, the risk assessment form can then be signed by the Supervisor/Manager to declare that there is no significant risk or that the risk has been controlled or that the pregnant worker has been assigned alternative duties.
+	Once the risk assessment is completed satisfactorily, the declaration is acknowledged by the pregnant worker.
+	The risk assessment is then passed by the EISD Manager to the HR Division for filing on the pregnant worker's personal file.
+	The pregnant worker completes and returns the forms for maternity benefits to the HR Division.
+
+ See UCL Safety Arrangements for Pregnant Workers.
+ Back to top
+ 
+       
+ PURCHASING ARRANGEMENTS
+ All substances and equipment must only be purchased:
+ 
+       	by designated staff who are appointed by the Head of Department.
+	from approved suppliers.
+
+ Purchase orders are kept by the finance administrators.
+ See also purchasing arrangements for CLEANING AGENTS and DISPLAY SCREEN EQUIPMENT.
+ Back to top
+ 
+       
+ REVIEW OF SAFETY MANAGEMENT ARRANGEMENTS
+ These arrangements are reviewed at least annually by the Head of Department and the Departmental Safety Officer. 
+ The date of last review was 20/2/09
+ Back to top
+ 
+       
+ RECORD KEEPING
+ Safety records are maintained by the Departmental Safety Officer in his office
+ Back to top
+ 
+       
+ RISK ASSESSMENTS
+ It is a statutory requirement included in the UCL and Departmental Statement of Safety Policy that risk assessments are undertaken for all activities - including working with substances hazardous to health, display screen equipment and manual handling. It is the responsibility of the Head of Department to implement a system of risk assessment.
+ A risk assessment should be carried out by a trained, competent person, using guidelines and forms provided by UCL Safety Services.? The risk assessment must consider the location of the activity, those involved in the activity and risks arising from the activity.
+ Safety control measures - including training - must be implemented to protect staff and others against identified risks.
+ Risk assessments must be recorded, filed and shown to those involved in the activity.
+ Back to top
+ 
+       
+ SAFETY COMMITTEE
+          
+ Safety issues will be raised and discussed at the Operations and Premises committee, of which the Safety Officer is a member.? This committee provides advice, oversight and coordination of the strategic and operational management of the department’s day-to-day operations, health and safety issues, and premises. (See http://www.cs.ucl.ac.uk/dept/cttee/premises) 
+           
+ Back to top
+ 
+       
+ SAFETY OFFICER DUTIES
+          
+ The role of Departmental Safety Officer is act on behalf of the Head of Department in order to:
+ 
+       	ensure that all units comply with the departmental statement of safety policy, arrangements and UCL regulations
+	manage the information flow about safety issues to and from the Head of Department and the UCL Safety Services
+	advise the Head of Department on measures to be takendents on notice boards and other media
+
+ Back to top
+ 
+       
+ SAFETY POLICY DISTRIBUTION AND DISPLAY
+ The Head of? Department must ensure that staff are aware of the safety policy and are able to consult the policy whenever necessary.? The Statement of Safety Policy will be displayed on the Safety noticed board (located on the 4th floor corridor outside 4.18) and also on the CS Safety Website (http://www.cs.ucl.ac.uk/safety/ssp_master.html).? These additional arrangements can also be found there.
+ Back to top
+ 
+       
+ SAFETY TRAINING
+ Local Fire Safety Induction
+ All new staff and research students must be enrolled to a mandatory Safety Induction Briefing which is organised by UCL Safety Services (pdf details and dates). This will be booked as part of the induction process by the Departmental Administrator.
+ The manager or supervisor is also required to ensure the new staff or research student is aware of:
+ 
+       	emergency procedures,
+	location of fire exits and extinguishers,
+	relevant safety information relevant to their work.
+
+ This should be recorded on the Local Fire Safety Induction form (pdf) and returned to the Safety Officer.
+ 
+ The Local Fire Safety Training will be refreshed at least annually, usually at a Departmental meeting or a specially organised session.
+ Taught students will attend a briefing at the start of term which covers Safety arrangements including First Aid, Fire and DSE use.
+ 
+ Fire Safety information is also provided to new staff, students and visitors in the Safety Guide (pdf).
+ 
+ Other Training
+ The Head of Department is responsible for identifying the safety training needs of their staff.  On behalf of the Head of Department, the Safety Officer will make arrangements for safety training and refresher courses in order to comply with the safety policy and other regulations.  The safety officer willl keep records of safety training undertaken.
+ Back to top
+ 
+       
+ SLIPS, TRIPS AND FALLS
+ Any near misses, slips, trips and falls should be reported through an accident/incident. If a building defect (e.g. loose floor tile) is the cause, these should be reporting as a maintenance fault.
+ Back to top
+ 
+       
+ SMOKING, EATING AND DRINKING
+ Smoking is not allowed on any UCL premises, and it is illegal to smoke in the building. Eating and drinking are only permitted in personal offices and common rooms.
+ Eating and drinking must never take place in machine rooms or computer labs due to risk of damage to equipment.
+ Back to top
+ 
+       
+ SUPERVISION
+ The Head of Department must ensure that those supervising?departmental activities are competent to do so and that members of staff are aware of the management structure.
+ Supervisors and Managers are responsible for risk assessment of all work activities under their control which should be completed by a competent person.
+ Supervisors and Managers are required to supervise the work of staff and visitors in their care/control. This will include, but is not limited to, discussion of the work to be done, the materials and methods to be used, health, safety and emergency procedures, waste disposal, etc. Managers must ensure that members of staff are trained and are competent to perform the tasks given.
+ Students are the responsibility of their departmental supervisor. While present in the building, they must comply with the Safety Policy and arrangements of this document.
+ Back to top
+ 
+       
+ VIOLENCE
+ All staff are instructed NOT TO TAKE ANY RISKS when dealing with potentially violent intruders.
+ 
+ They should report any incident immediately to Security stating name, location and circumstance - UCL Emergency ext: 222
+ They should also:
+ 
+       	inform the safety officer and Departmental manager of any incident;
+	fill in an Accident/Incident Report Form.
+
+ Back to top
+ 
+       
+ VISITORS AND MEMBERS OF THE PUBLIC
+ Managers and supervisors must make arrangements for visitors and members of the public. Where appropriate, visitors and members of the public must be made aware of emergency procedures and/or given a copy of appropriate safety arrangements, which are provided in the Safety Guide, available at Reception or on the Website (pdf).
+ 
+ All guests are the responsibility of the member of staff inviting them. 
+ Back to top
+ 
+       
+ WASTE DISPOSAL
+ All staff have a responsibility to keep their work area reasonably clean and free from the build-up of waste. Staff must report cleaning problems to a JJ Giwa. 
+ Waste must be disposed of in accordance with College policy (Domestic Services guidance) using colour-coded bags or other designated containers. For further information, please contact UCL Estates & Facilities. 
+          
+ 
+       	Domestic and office waste	clear plastic sacks
+	Recycling	 green plastic bags or designated boxes
+	Broken glass	put in a cardboard box, seal securely and label clearly - thereafter treat as domestic waste (as appropriate)
+	Clinical waste	 yellow plastic bags
+	Clinical waste sharps, etc	 yellow plastic medibins or sharps containers
+	waste boxes 
+ bulky rubbish 
+ electrical equipment 
+ computers 
+ fridges or freezers 	Complete the Online Facilities Request Form (here)
+ These items must not be stored or left in corridors pending collection.
+
+ Bags must be sealed (knotted or taped, not stapled).
+ ?Back to top
+ 
+       
+ WORKING AT HEIGHTS
+ There are no Departmental activities where people would be engaged in work at height for a prolonged period of time. 
+ For ocassional activities above head height, ladders, step ladders and kick stalls must be used. These are available to borrow from the Hardware group in 4.18. Two people must be present when a ladder is in use and care must be taken that it is secure at all times.
+ 
+ The working area must be flat and away from the movement of persons and vehicles. This is to minimise the risk of personal injury through falling and / or a potential risk to people below the work site being injured by falling objects.
+  Managers and Supervisors are responsible for the risk assessment of activities involving working at heights.
+ 
+ 
+ Back to top
+ 
+       
+ WORKSHOPS
+ 
+ The Departmental has a small workshop attached to room 4.18. 
+ Safety in workshops is the subject of the appropriate Risk Assessments and Codes of Practice. Use of the workshop equipment is restricted to members of the Hardware Group and other competent personnel who have had training in the use of the workshop equipment.
+ 
+       	No unauthorised persons are allowed in workshops.
+	No one may use the power equipment or portable power tools (Jig saws, Circular saws etc) without permission of the Hardware Group or the Departmental Safety Officer.
+	 No one may use the power equipment without or portable power tools without having had previous training in the use of the equipment.
+	Workshop must have the necessary safety signs and have appropriate safety equipment (Ear protectors, visors etc) as identified in the risk assessments.
+	 Personal protective equipment relating to the equipment being used must be worn e.g. safety glasses. / helmets, safety shoes, ear protection and overalls etc. 
+	If specialist training or certification is needed to work machinery, it must be obtained before use e.g. Abrasive wheels.
+	Workshop machinery must be regularly maintained. 
+	Manual handling tasks must be risk assessed and persons trained in manual handling and equipment provided where necessary.
+	 Safety guards fitted to machine tools, laboratory apparatus and other potential hazards must never be removed, except in the event of a breakdown or maintenance.
+	If the removal of a guard is necessitated, all possible sources of the hazard must first be neutralised (disconnection the power supply, etc).
+	Good workshop practice must be exercised e.g. machinery adequately guarded, push sticks used where appropriate etc.
+
+ Back to top
+ 
+		 
+       
+
+ The Safety Officer is Dave Twisleton
+ Room 4.18, Malet Place Engineering Building
+ 020 7679 3667 / ext 33667
+
+ 
+        
+
+
+ 
+ 

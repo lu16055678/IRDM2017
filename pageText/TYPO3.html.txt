@@ -1,0 +1,363 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Help ›› TYPO3 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        What is TYPO3?
+ 
+        TYPO3 is a web Content Management System. It helps with managing pages on the web server and provides facilities for creating new pages and editing existing ones. It can also ensure that pages have a consistent style. 
+ 
+        No special software has to be installed on your PC, you simply use your favourite browser. Once you have logged in, TYPO3 will show you a view of the pages in your part of the web "tree". You can then select a page and edit it, create a new page and so on. The system keeps track of what you are doing so that is possible to restore old versions of pages. You can also create new "hidden" versions of pages which you can show to colleagues prior to making them public. 
+ 
+        [Note. It is helpful to make sure your browser is set up in a way suitable for TYPO3. There are hints on this at the end of these notes.] 
+ 
+        Pages within TYPO3 are organised into a "tree" similar to that of the folders, sub-folders and files in a Windows or Unix file system. It is worth giving some thought to how your pages fit into this tree since TYPO3 will automatically generate indexes showing the "sub-pages" of a page so as to make it easy for users to navigate. 
+ 
+        There is a (very) brief PowerPoint presentation here. 
+ 
+        Documentation
+ 
+        CS Help Pages
+ 
+        This page and those that follow give very brief guides to using various features of TYPO3. Further help can be obtained from: 
+ 
+        TYPO3 Documentation
+
+        	TYPO3 online help. Every time you see the  icon you can click it and read the "official" TYPO3 help. In addition, pointing at a region on the screen will often pop-up relevant help.
+
+
+        	TYP03 documentation. There is a lot of documentation at typo3.org/documentation/document-library/. Much of this is rather technical and intended for TYPO3 administrators. The "Getting Started Guide" has some useful sections however.
+
+
+        Other Tutorials
+ 
+        TYPO3 is quite widely used in the University world so people have been busy writing tutorials. A couple are listed below. Do bear in mind that these are written for other people's set-ups and will differ from ours in some details.
+
+        	North Dakota State University tutorial
+	University of Toronto Mississauga tutorial
+
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

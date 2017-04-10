@@ -1,0 +1,1458 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Prospective Students ›› MSc WSBDA 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         
+          
+           
+            
+             
+            
+
+           
+
+          
+
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+         
+         
+          
+          	Overview
+	Course Structure
+	Entry Requirements
+	Fees & Funding
+	Employability
+	Contact
+	Apply
+
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+              The MSc in Web Science and Big Data Analytics is a specialist programme. It covers fundamental aspects of web related technologies and big data analytics ranging from information search and retrieval, data mining and analytics, large-scale distributed and cloud computing, to e-commerce and their business economic models, and to  the latest concepts of web 2.0 and social networks and the underlying networks science, with potential options in machine learning, artificial intelligence, finance, software engineering, and machine vision 
+ 
+              The MSc Web Science and Big Data Analytics programme is intended for students with a general science and engineering background who wish to learn all aspects of quantitative web science and big data analytical skills. 
+ 
+              We also offer the more Research orientated MRes Web Science and Big Data Analytics, which is also offered in conjunction with Channel 4. So if you've thought about taking the skills you'll learn into the media industry, then get a head start and apply for this Graduate Data Scientist role, a 2 year fixed term contract that will see you complete our MRes in year 1 and year 2 working full-time for Channel 4. You'll need to apply to Channel 4, by Midnight 15th March 2017, and UCL to be considered.
+ 
+               
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+               	2016/17
+	2017/18
+
+ 
+                
+                 
+                  
+                  
+                   
+                   
+                   
+                    
+                   The MSc Web Science Programme consists of 8 taught modules and a Dissertation. Of the taught modules, 4 are core modules and 4 are elective modules. 
+ 
+                   4 core modules include the following:
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGI15 Information Retrieval & Data Mining
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI15 Information Retrieval & Data Mining
+
+                       
+ 
+                        
+                        
+                       The course is aimed at an entry level study of information retrieval and data mining techniques. It is about how to find relevant information and subsequently extract meaningful patterns out of it. While the basic theories and mathematical models of information retrieval and data mining are covered, the course is primarily focused on practical algorithms of textual document indexing, relevance ranking, web usage mining, text analytics, as well as their performance evaluations. Practical retrieval and data mining applications such as web search engines, personalisation and recommender systems, business intelligence, and fraud detection will also be covered. 
+ 
+                       Students are expected to master both the theoretical and practical aspects of information retrieval and data mining. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGW01 Complex Networks and Web
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGW01 Complex Networks and Web
+
+                       
+ 
+                        
+                        
+                       This module introduces the fundamental concepts, principles and methods in the interdisciplinary academic field of network science, with a particular focus on the Internet, the World Wide Web and online social media networks. Topics covered include graphic structures of networks, mathematical models of networks, the Internet topology, structure of the Web, community structures, epidemic spreading, PageRank, temporal networks and spatial networks. 
+ 
+                       On successful completion of this module the students will be able to define and calculate basic network graphic metrics, describe structural features of the Internet and the Web, relate graphic properties to network functions and evolution, explore new angles to understand network collective behaviours, design and conduct analysis on large network datasets. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGW02 Web Economics
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGW02 Web Economics
+
+                       
+ 
+                        
+                        
+                       The course is intended to provide an introduction of the computing systems and their economics for the production, distribution, and consumption of (digital) goods and services over the Internet and web. While the basic economic principles are covered to understand the business aspects of web-based services, the course is primarily focused on the computational and statistical methods for implementing, improving and optimizing the internet-based businesses, including algorithmic mechanism design, online auctions, user behavior targeting, yield management, dynamic pricing, cloud-sourcing, social media mining and attention economics. Practical applications such as Google’s online advertising, Ebay’s online auction, and Amazon’s cloud computing will also be covered and discussed. 
+ 
+                       Students will be expected to master both the theoretical and practical aspects of web economics. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI19 Statistical Natural Language Processing
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI19 Statistical Natural Language Processing
+
+                       
+ 
+                        
+                        
+                       The course introduced the basics of statistical natural language processing (NLP) including both linguistics concepts such as morphology and syntax and machine learning techniques relevant for NLP. 
+ 
+                       Students successfully completing the module will understand relevant linguistic concepts; relevant ML techniques, what makes NLP challenging (and exciting), how to write programs that process language and how to rigorously formulate NLP tasks as learning and inference tasks, and address the computational challenges involved. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Optional Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGI01 Supervised Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI01 Supervised Learning
+
+                       
+ 
+                        
+                        
+                       This module covers supervised approaches to machine learning. It starts by reviewing fundamentals of statistical decision theory and probabilistic pattern recognition followed by an in-depth introduction to various supervised learning algorithms such as Perceptron, Backpropagation algorithm, Decision trees, instance-based learning, support vector machines. Algorithmic-independent principles such as inductive bias, side information, approximation and estimation errors. Assessment of algorithms by jackknife and bootstrap error estimation, improvement of algorithms by voting methods such as boosting. Introduction to statistical learning theory, hypothesis classes, PAC learning model, VC-dimension, growth functions, empirical risk minimization, structural risk minimization. 
+ 
+                       Students will gain an in-depth familiarity with various classical and contemporary supervised learning algorithms, understand the underlying limitations and principles that govern learning algorithms and ways of assessing and improving their performance, understand the underlying fundamentals of statistical learning theory, the complexity of learning and its relationship to generalization ability. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV10 Computer Graphics
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV10 Computer Graphics
+
+                       
+ 
+                        
+                        
+                       The course aims to introduce to students the fundamental concepts of 3D computer graphics and give the students all the knowledge needed for creating an image of a virtual world from first principles. 
+ 
+                       The students will be able to define a virtual world and create images of it. They will know how to write a basic ray tracer, and use a graphics library such as OpenGl (or equivalent). 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI14 Machine Vision
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI14 Machine Vision
+
+                       
+ 
+                        
+                        
+                       The course addresses algorithms for automated computer vision. It focuses on building mathematical models of images and objects and using these to perform inference. Students will learn how to use these models to automatically find, segment and track objects in scenes, perform face recognition and build three-dimensional models from images. 
+ 
+                       At the end of the course, students will be able to understand and apply a series of probabilistic models of images and objects in machine vision systems. To understand the principles behind face recognition, segmentation, image parsing, super-resolution, object recognition, tracking and 3D model building. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGC25 Interaction Design
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGC25 Interaction Design
+
+                       
+ 
+                        
+                        
+                       The module covers advanced topics in interaction design, focusing on the design of mobile and ubiquitous computing technologies. A central theme is how to design technologies to meet people's needs. 
+ 
+                       On successful completion of the course, students will have the knowledge and understanding of research topics in ubiquitous computing, an understanding of methods used in interaction design, the ability to conduct basic user research and the ability to design, prototype and evaluate a novel ubiquitous computing technology. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI09 Applied Machine Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI09 Applied Machine Learning
+
+                       
+ 
+                        
+                        
+                       This module aims to cover some of the issues that may arise in the practical application of machine learning in real-world problems. In addition, the course will cover some of the mathematics and techniques behind basic data analysis methods for both static and time-series data. 
+ 
+                       On completion of the module, students will have the ability to assess the effectiveness of solutions presented and to question them in an intelligent way; synthesise solutions to general open-ended problems covering material from the whole programme, tempered with information on commercial reality obtained from this course. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGC18 Entrepeneurship: Theory and Practice
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGC18 Entrepeneurship: Theory and Practice
+
+                       
+ 
+                        
+                        
+                       This module aims to provide students with the theory and practice necessary to launch a new business venture making maximum use of eCommerce strategies and software tools for entrepreneurs. 
+ 
+                       On the module, students will gain first hand experience of the selection and deployment of tools, techniques and theories for the identification, validation and structuring of a new business venture. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGZ03 Distributed Systems and Security
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGZ03 Distributed Systems and Security
+
+                       
+ 
+                        
+                        
+                       This modules explores, in a case-study fashion, the design and implementation of distributed systems, and computer system security. Among other things, the module provides students with expertise in handling correctness under concurrency by building a simple distributed system as part of coursework. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     BUCI029H7 Cloud Computing (Birkbeck)
+ 
+                      
+                       
+                       
+                        
+                       
+                        BUCI029H7 Cloud Computing (Birkbeck)
+
+                       
+ 
+                        
+                        
+                       Students in this module will learn to understand the emerging area of cloud computing and how it relates to traditional models of computing, and gain competence in MapReduce as a programming model for distributed processing of big data.
+ 
+                       This module aims to introduce back-end cloud computing techniques for processing "big data" (terabytes/petabytes) and developing scalable systems (with up to millions of users). We focus mostly on MapReduce, which is presently the most accessible and practical means of computing for "Web-scale" problems, but will discuss other techniques as well.
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                 
+ 
+                  
+                
+ 
+               
+ 
+                
+                 
+                  
+                  
+                   
+                   
+                   
+                    
+                   MSc Web Science and Big Data Analytics comprises 8 taught modules and a Group Project. Of the taught modules, 3 are core modules, with a minimum of 3 optional modules and a combination of optional elective modules for the remainder.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGW01 Complex Networks and Web
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGW01 Complex Networks and Web
+
+                       
+ 
+                        
+                        
+                       This module introduces the fundamental concepts, principles and methods in the interdisciplinary academic field of network science, with a particular focus on the Internet, the World Wide Web and online social media networks. Topics covered include graphic structures of networks, mathematical models of networks, the Internet topology, structure of the Web, community structures, epidemic spreading, PageRank, temporal networks and spatial networks. 
+ 
+                       On successful completion of this module the students will be able to define and calculate basic network graphic metrics, describe structural features of the Internet and the Web, relate graphic properties to network functions and evolution, explore new angles to understand network collective behaviours, design and conduct analysis on large network datasets. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGW02 Web Economics
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGW02 Web Economics
+
+                       
+ 
+                        
+                        
+                       The course is intended to provide an introduction of the computing systems and their economics for the production, distribution, and consumption of (digital) goods and services over the Internet and web. While the basic economic principles are covered to understand the business aspects of web-based services, the course is primarily focused on the computational and statistical methods for implementing, improving and optimizing the internet-based businesses, including algorithmic mechanism design, online auctions, user behavior targeting, yield management, dynamic pricing, cloud-sourcing, social media mining and attention economics. Practical applications such as Google’s online advertising, Ebay’s online auction, and Amazon’s cloud computing will also be covered and discussed. 
+ 
+                       Students will be expected to master both the theoretical and practical aspects of web economics. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI15 Information Retrieval & Data Mining
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI15 Information Retrieval & Data Mining
+
+                       
+ 
+                        
+                        
+                       The course is aimed at an entry level study of information retrieval and data mining techniques. It is about how to find relevant information and subsequently extract meaningful patterns out of it. While the basic theories and mathematical models of information retrieval and data mining are covered, the course is primarily focused on practical algorithms of textual document indexing, relevance ranking, web usage mining, text analytics, as well as their performance evaluations. Practical retrieval and data mining applications such as web search engines, personalisation and recommender systems, business intelligence, and fraud detection will also be covered. 
+ 
+                       Students are expected to master both the theoretical and practical aspects of information retrieval and data mining. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Optional Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     08COG29H7 Cloud Computing (Birkbeck)
+ 
+                      
+                       
+                       
+                        
+                       
+                        08COG29H7 Cloud Computing (Birkbeck)
+
+                       
+ 
+                        
+                        
+                       Students in this module will learn to understand the emerging area of cloud computing and how it relates to traditional models of computing, and gain competence in MapReduce as a programming model for distributed processing of big data.
+ 
+                       This module aims to introduce back-end cloud computing techniques for processing "big data" (terabytes/petabytes) and developing scalable systems (with up to millions of users). We focus mostly on MapReduce, which is presently the most accessible and practical means of computing for "Web-scale" problems, but will discuss other techniques as well.
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGC18 Entrepeneurship: Theory and Practice
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGC18 Entrepeneurship: Theory and Practice
+
+                       
+ 
+                        
+                        
+                       This module aims to provide students with the theory and practice necessary to launch a new business venture making maximum use of eCommerce strategies and software tools for entrepreneurs. 
+ 
+                       On the module, students will gain first hand experience of the selection and deployment of tools, techniques and theories for the identification, validation and structuring of a new business venture. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGC25 Interaction Design
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGC25 Interaction Design
+
+                       
+ 
+                        
+                        
+                       The module covers advanced topics in interaction design, focusing on the design of mobile and ubiquitous computing technologies. A central theme is how to design technologies to meet people's needs. 
+ 
+                       On successful completion of the course, students will have the knowledge and understanding of research topics in ubiquitous computing, an understanding of methods used in interaction design, the ability to conduct basic user research and the ability to design, prototype and evaluate a novel ubiquitous computing technology. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI01 Supervised Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI01 Supervised Learning
+
+                       
+ 
+                        
+                        
+                       This module covers supervised approaches to machine learning. It starts by reviewing fundamentals of statistical decision theory and probabilistic pattern recognition followed by an in-depth introduction to various supervised learning algorithms such as Perceptron, Backpropagation algorithm, Decision trees, instance-based learning, support vector machines. Algorithmic-independent principles such as inductive bias, side information, approximation and estimation errors. Assessment of algorithms by jackknife and bootstrap error estimation, improvement of algorithms by voting methods such as boosting. Introduction to statistical learning theory, hypothesis classes, PAC learning model, VC-dimension, growth functions, empirical risk minimization, structural risk minimization. 
+ 
+                       Students will gain an in-depth familiarity with various classical and contemporary supervised learning algorithms, understand the underlying limitations and principles that govern learning algorithms and ways of assessing and improving their performance, understand the underlying fundamentals of statistical learning theory, the complexity of learning and its relationship to generalization ability. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI08 Graphical Models
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI08 Graphical Models
+
+                       
+ 
+                        
+                        
+                       The module provides an entry into probabilistic modeling and reasoning, primarily of discrete variable systems. Very little continuous variable calculus is required, and students more familiar with discrete mathematics should find the course digestible. The emphasis is to demonstrate the potential applications of the techniques in plausible real-world scenarios related to information retrieval and analysis. Concrete challenges include questionnaire analysis, low-density parity check error correction, and collaborative filtering of Netflix data. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI09 Applied Machine Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI09 Applied Machine Learning
+
+                       
+ 
+                        
+                        
+                       This module aims to cover some of the issues that may arise in the practical application of machine learning in real-world problems. In addition, the course will cover some of the mathematics and techniques behind basic data analysis methods for both static and time-series data. 
+ 
+                       On completion of the module, students will have the ability to assess the effectiveness of solutions presented and to question them in an intelligent way; synthesise solutions to general open-ended problems covering material from the whole programme, tempered with information on commercial reality obtained from this course. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI14 Machine Vision
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI14 Machine Vision
+
+                       
+ 
+                        
+                        
+                       The course addresses algorithms for automated computer vision. It focuses on building mathematical models of images and objects and using these to perform inference. Students will learn how to use these models to automatically find, segment and track objects in scenes, perform face recognition and build three-dimensional models from images. 
+ 
+                       At the end of the course, students will be able to understand and apply a series of probabilistic models of images and objects in machine vision systems. To understand the principles behind face recognition, segmentation, image parsing, super-resolution, object recognition, tracking and 3D model building. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI17 Affective Computing and Human-Robot Interaction
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI17 Affective Computing and Human-Robot Interaction
+
+                       
+ 
+                        
+                        
+                       The module targets students who have no previous knowledge in cognitive science and emotion theory. The aim of Part 1 is to give a basic introduction to the theory of emotion from psychology and neuroscience viewpoints and to understand its importance in human decision and communication processes. Part 2 will concentrate on the application of machine learning techniques to emotion recognition by looking at current applications in entertainment, education, and health. Part 3 will focus on the challenges in designing robots that are capable of socially interacting with humans.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI18 Probabilistic & Unsupervised Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI18 Probabilistic & Unsupervised Learning
+
+                       
+ 
+                        
+                        
+                       This module provides students with an in-depth introduction to statistical modelling and unsupervised learning techniques. It presents probabilistic approaches to modelling and their relation to coding theory and Bayesian statistics. A variety of latent variable models will be covered including mixture models (used for clustering), dimensionality reduction methods, time series models such as hidden Markov models which are used in speech recognition and bioinformatics, independent components analysis, hierarchical models, and nonlinear models.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI19 Statistical Natural Language Processing
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI19 Statistical Natural Language Processing
+
+                       
+ 
+                        
+                        
+                       The course introduced the basics of statistical natural language processing (NLP) including both linguistics concepts such as morphology and syntax and machine learning techniques relevant for NLP. 
+ 
+                       Students successfully completing the module will understand relevant linguistic concepts; relevant ML techniques, what makes NLP challenging (and exciting), how to write programs that process language and how to rigorously formulate NLP tasks as learning and inference tasks, and address the computational challenges involved. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV10 Computer Graphics
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV10 Computer Graphics
+
+                       
+ 
+                        
+                        
+                       The course aims to introduce to students the fundamental concepts of 3D computer graphics and give the students all the knowledge needed for creating an image of a virtual world from first principles. 
+ 
+                       The students will be able to define a virtual world and create images of it. They will know how to write a basic ray tracer, and use a graphics library such as OpenGl (or equivalent). 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   You will need to choose a minimum of 45 and a maximum of 75 credits from the optional modules.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   You may choose up to 30 credits as elective modules. Normally this would need to be from Department of Computer Science Masters level modules (COMPG*) or relevant Masters modules offered by departments such a Department of Statistical Science.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Module Selection
+
+                   
+ 
+                    
+                    
+                   The modules that make up a programme are either core, optional or elective, which reflects whether they must be taken or can optionally be taken. The programme’s curriculum (also called a programme diet) will prescribe in what combinations modules can be taken, any restrictions on doing so, and how much credit can and must be taken. 
+ 
+                   Core/compulsory modules are fundamental to the programme’s curriculum and students must take these. You will be automatically allocated a place on any core modules for your programme and will not need to select these during the module selection process. There will be no timetable clashes between your programme’s core modules. 
+ 
+                   Optional modules are strongly related to the programme and students can choose which of these they wish to take, usually from within specific groups (for example, a student may be asked to choose two optional modules from one group and three from another, etc.) Places of optional modules are strictly limited (due to spatial, resource and timetable constraints) and will be allocated on a first come first serve basis. Some optional modules have pre-requisites which students will need to meet in order to be eligible for a place. 
+ 
+                   Elective modules are not programme specific, but allow students the opportunity to explore their interests more widely. Students are usually restricted to taking one or two elective modules. There is no guarantee of being accepted onto an elective module. These modules are core or optional on other programme diets, consequently students on these programmes will be given priority. Any remaining places will then be allocated on a first come first served basis. Some elective modules have pre-requisites which students will need to meet in order to be eligible for a place. 
+ 
+                   Please note: timetable clashes between optional and elective modules from different specialisations are inevitable and this can result in limiting the available choices. It is the student’s responsibility to select modules that do not clash in order to meet UCLs minimum attendance requirements. Please speak to your Programme Director and/ or Programme Administrator if you have any queries. 
+ 
+                   Non-Computer Science students should note that priority on COMP* modules will always be given to Computer Science students in the first instance.
+ 
+                    
+                  
+ 
+                   
+                   
+                 
+ 
+                  
+                
+ 
+               
+ 
+              
+ 
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             A minimum of an upper second-class UK Bachelor's degree (or overseas equivalent) in a quantitative subject as computer science, engineering, mathematics, physics or a quantitative social science subject.
+
+Applicants must be proficient in object-orientated and/or analytical programming, have strong communication skills, and an outstanding aptitude for quantitative analysis. 
+ 
+             English Language Requirements 
+ 
+             If your education has not been conducted in the English language, you will be expected to demonstrate evidence of an adequate level of English proficiency.
+
+The English language level for this programme is: Good
+
+Further information can be found on our English language requirements page. 
+ 
+             International students 
+ 
+             Country-specific information, including details of when UCL representatives are visiting your part of the world, can be obtained from the International Students website.
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+              UK/EU fees (FT):  £11,800 for 2017/18
+ 
+               
+             
+ 
+              
+              
+              
+               
+              Overseas fees (FT): £24,140 for 2017/18
+ 
+               
+             
+ 
+              
+              
+              
+               
+              For a comprehensive list of the funding opportunities available at UCL, including funding relevant to your nationality, please visit the Scholarship and Funding website. 
+ 
+              If you are holding an offer from the Department of Computer Science at UCL, you may be eligible for our Excellence Scholarship.
+ 
+               
+             
+ 
+              
+              
+              
+               
+              
+               Tuition Fee Deposit
+
+              
+ 
+               
+               
+               
+                
+               This programme requires that applicants firmly accepting their offer pay a deposit. This allows UCL to effectively plan student numbers, as students are more demonstrably committed towards commencing their studies with us. 
+ 
+               For full details about the UCL tuition fee deposit, please see the central UCL pages. 
+ 
+               Tuition fee deposits within the Department of Computer Science are currently listed as:
+
+               	UK/EU	Overseas
+	Full-time	*Part-time	Full-time	*Part-time
+	£2000	£1000	£2000	£1000
+	 
+	*where part-time is an available mode of study
+
+ 
+                
+              
+ 
+               
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             MSc Web Science's unique combination of technical skills makes graduates well equipped to proceed to scientific research or the ideal choice for the best employers in Internet related industries and the areas requiring large-scale data analytical skills.
+
+             	Top graduate destinations include:       
+
+                 	Microsoft
+	SAS
+	Google
+
+	Top graduate roles include:                
+
+                 	Big Data Architect
+	Senior Data Analyst
+	Technology Consultant
+
+	Top further study destinations:
+
+                 	University of Cambridge
+	UCL
+
+
+
+
+             Average starting salary £31,200 (Graduate Surveys, January 2015).
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             
+               
+                
+               Programme Administrator
+Samantha Bottomley
+Office 5.22, Malet Place Engineering Building 
+020 7679 0328
+advancedmsc-admissions@cs.ucl.ac.uk
+More information
+ 
+                
+              
+
+              
+               
+                
+                 
+                  
+                 
+
+                
+ 
+                
+                 
+                  
+                 
+
+                
+ 
+                
+                 
+                  
+                 
+
+                
+
+               
+
+              
+
+             
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             To apply now click here.
+ 
+             Students are advised to apply as early as possible due to competition for places. Those applying for scholarship funding (particularly overseas applicants) should take note of application deadlines.
+ 
+             Deadline 17th June 2017.
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+         
+ 
+        
+ 
+         
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 03 Apr 2017 and is maintained by 
+      Steve Marchant 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

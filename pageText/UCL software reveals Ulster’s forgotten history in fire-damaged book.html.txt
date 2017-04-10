@@ -1,0 +1,410 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         UCL software reveals Ulster’s forgotten history in fire-damaged book
+ 
+         
+          
+          
+
+         
+ 
+         Researchers from UCL have used specially designed software to digitise the Great Parchment book, a crucial historical text documenting the City of London’s role in 17th century Ulster that was previously unreadable for over 200 years due to fire damage. 
+ 
+         A team from UCL Computer Science and UCL Centre for Digital Humanities, led by Dr Tim Weyrich, worked with LMA to capture 50 to 60 high resolution images of each page. Kazim Pal, a PhD student working on the project, then built software to generate a 3D model which allowed viewing of the damaged pages at archival resolution. A key feature of the software is to dynamically flatten these models virtually on screen, allowing the contents of the book to be accessed more easily and without further handling of the document.  
+ 
+         Dr Weyrich said: “From the start, the project was a large collaborative undertaking in which the practical conservation of the Great Parchment Book was the essential first step, followed by the digital imaging work.” 
+ 
+         See here for more.
+ 
+         
+ 
+         
+ 
+         
+           Posted 02 Jul 13 09:16 
+         
+ 
+          
+          
+           Next: New CS teaching... >
+
+          
+ 
+          
+           < Previous: Chris Smith wins Google...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

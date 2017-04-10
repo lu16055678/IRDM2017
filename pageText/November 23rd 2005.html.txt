@@ -1,0 +1,376 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Student Information
+      ›› Staff-Student Committee
+      ›› Agendas ›› November 23rd 2005 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        The Computer Science Staff-Student Consultative Committee (SSCC)
+ 
+        Agenda for meeting to be held 1-2pm on Wednesday 23rd November 2005 in 114 Foster Court
+
+        	Apologies for absence
+	Notification of any other business
+	Approval of minutes of the last meeting (March 2nd 2005)
+	Matters arising from last minutes:
+- Student lockers
+- Quiet lab
+- Tutorial arrangements 
+- Late return of coursework 
+- 1B10 test feedback 
+- Recycling bins
+- Scholarships
+	Lab and Computing issues (Andy Maule, Ben Evans, David Tatarata)
+- Servers rebooting every night 
+- User shell changing not supported 
+- Public key authentication with ssh
+- Lab computers not running sshd 
+- Interaction with Helpdesk difficult
+- Cost of additional printer quota excessive 
+- Quicker response by helpdesk for installing software 
+- Wireless network
+	Email issues
+- Users setting up their own forwarding (Ben Evans)
+- Email sent to request from external account being ignored (Ben Evans) 
+- Automatic subscription to email lists (Andrew Cox)
+	Building issues
+- Coffee machine, drinking water, etc. (Andrew Cox, Stefanie Foerch) 
+- Bigger common room (David Tatarata)
+- Wheelchair lift and lift key (Steve Edwards)
+	January Exams (Andrew Cox)
+	Marking of PLINC101 (Prolog) Exam capped at 80% (David Tatarata)
+	Capping of resit and repeat marks at 35% not fair (David Tatarata)
+	2009 HCI Coursework deadline - moved a month forward (Andrew Cox)
+	Z26 Professional Practice, assessment for SSE students (George Diamantidis)
+	Workshops for GS02 Advanced Analysis and Design (George Diamantidis)
+	Summer Research Programme (David Tatarata)
+	Any Other Business
+
+
+        The next meeting is due in February 2006. In early June 2006 there will be end of year wrap-up sessions for each undergraduate year and for the MSc groups, providing a forum similar to that of the SSCC.
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

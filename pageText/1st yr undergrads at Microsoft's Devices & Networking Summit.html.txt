@@ -1,0 +1,414 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         1st yr undergrads at Microsoft's Devices & Networking Summit
+ 
+         
+          
+          
+
+         
+ 
+         In collaboration with Microsoft UK, Microsoft Research and Microsoft USA, the UCL Engduino has successfully been integrated with the TouchDevelop programming environment which was demonstrated at the Microsoft Research Devices and Networking Summit 2015 in Paris.
+ 
+         This hands-on model of teaching kids to program with devices and sensors opens doors to a huge arena of CS education. A cohort of first year Computer Science students have developed the UCL Coding Curriculum, which will be updated yearly with exercises for school children to learn to code with. 
+ 
+         At the Summit in Paris, five of the first year student projects this year were demonstrated to an audience of academics and companies. These included a slouching sensor app, an app for drones to collect readings in the air, an RFID card reader and a door security system. The Coding Curriculum materials were also explained, showing how our first years can help to teach school children.
+ 
+         Each attendee was also given a UCL Engduino to take away, sponsored by Microsoft Research. The UCL team that took part in presenting consisted of Dr Dean Mohamedally, Dr Venus Shum, Dr Yun Fu, Rae Harbird and Jan Medvesek. Several Professors attending the summit got the opportunity to trial the device and explore its features, including Prof Judith Bishop (http://research.microsoft.com/en-us/people/jbishop/), Head of Computer Science and Prof Bill Buxton (www.billbuxton.com ), Principal Researcher, both at Microsoft Research. 
+ 
+         Dr Mohamedally reports: "We are exceptionally proud of the first years CS work, which has led to the publication of several exercise examples for use in schools. They used ideas of Constructionism and problem-based learning to really engage with interesting and entertaining examples. We also thank the schools that came on board to trial with Rae and the teaching team. We look forward to the next iteration of our UCL Coding Curriculum and reaching out to a larger number of schools."
+ 
+         Please visit engduino.org for more information. We thank Microsoft for their continued support of our students projects.
+ 
+         
+ 
+         
+ 
+         
+           Posted 26 May 15 08:48 
+         
+ 
+          
+          
+           Next: Gordana Novakovic to... >
+
+          
+ 
+          
+           < Previous: Dr Steve Hailes receives...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

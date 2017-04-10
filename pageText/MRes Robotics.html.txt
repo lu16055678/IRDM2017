@@ -1,0 +1,1017 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Prospective Students ›› MRes Robotics 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         
+          
+           
+            
+             
+            
+
+           
+
+          
+
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+         
+         
+          
+          	Overview
+	Course Structure
+	Entry Requirements
+	Fees & Funding
+	Employability
+	Contact
+	Apply
+
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+              Robotics and autonomous systems (RAS) are set to shape innovation in the 21st Century, underpinning research in a wide range of challenging areas: the ageing population, efficient health care, safer transport, and secure energy. The UCL edge in scientific excellence, industrial collaboration and cross-sector activities make it ideally placed to deliver this MRes, which uniquely covers the whole spectrum of potential RAS research areas and application sectors. 
+ 
+              Recent investment across UCL in the Faculty of Engineering and The Bartlett Faculty of the Built Environment has created the infrastructure for an exciting UCL Robotics programme, which will be interdisciplinary and unique within the UK and Europe. UCL is also a founder member of the EPSRC UK Robotics and Autonomous Systems Network (UK-RAS Network). The Network will bring together the UK’s core academic capabilities in robotics innovation under national coordination for the first time and encourage academic and industry collaborations that will accelerate the development and adoption of robotics and autonomous systems.
+ 
+               
+             
+ 
+              
+              
+              
+               
+              
+               
+                
+                 
+                
+
+               
+
+              
+ 
+               
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+               	2016/17
+	2017/18
+
+ 
+                
+                 
+                  
+                  
+                   
+                   
+                   
+                    
+                    
+                      
+                       
+                       
+                        
+                       
+                        Course Structure 2016/17
+
+                       
+ 
+                        
+                        
+                       The programme is in three parts; a compulsory element (including a substantive research project); an optional element where you choose two modules according to your own interests from an options list; and finally a free selection of two elective modules from the portfolio of Masters level modules in the Department of Computer Science, Department of Medical Physics and Biomedical Engineering, the Department of Mechanical Engineering or The Bartlett School of Architecture. Elective modules will be subject to the approval of the Programme Director at the beginning of the year.
+ 
+                        
+                      
+ 
+                       
+                     
+
+                    
+ 
+                    
+                      
+                       
+                       
+                        
+                       
+                        Core Modules
+
+                       
+ 
+                        
+                        
+                        
+                        
+                         
+                         COMPGX01 Robotic Systems Engineering
+ 
+                          
+                           
+                           
+                            
+                           
+                            COMPGX01 Robotic Systems Engineering
+
+                           
+ 
+                            
+                            
+                           Students will gain an introductory overview of robotics and autonomous systems. Technically they will gain an understanding of the concepts and principles of ROS, the underpinning software development environment for robot systems, through a number of example applications, leading to the capability of using ROS for advanced robot control, navigation, sensing and verification. 
+ 
+                           Further syllabus information can be found here.
+ 
+                            
+                          
+ 
+                           
+                         
+ 
+                         COMPGX98 MRes Robotics Dissertation
+ 
+                          
+                           
+                           
+                            
+                           
+                            COMPGX98 MRes Robotics Dissertation
+
+                           
+ 
+                            
+                            
+                           The aim of this module will be for students to make a significant contribution to robotics and autonomous systems within a focused problem either theoretical or within an application domain. The students will go through the cycle of literature review, formulating a solution based on existing knowledge, and designing and validation framework involving extensive experimentation. Devising novel solutions to contribute to the implementation of existing technology will help students gain an insight into scientific research. The student will be expected to implement a working prototype of their system or algorithm design either in a practical implementation or within a simulation framework. The student will learn to write a thesis summarizing their project and to deliver presentations about their work as well as a demo as a proof of concept of their work. 
+ 
+                           Further syllabus information can be found here. 
+ 
+                            
+                          
+ 
+                           
+                         
+ 
+                        
+ 
+                       
+ 
+                        
+                        
+                      
+ 
+                       
+                     
+
+                    
+ 
+                   
+ 
+                  
+ 
+                   
+                   
+                 
+ 
+                  
+                
+ 
+               
+ 
+                
+                 
+                  
+                  
+                   
+                   
+                   
+                    
+                   The programme is in three parts; a compulsory element (including a substantive research project); an optional element where you choose two to three modules according to your own interests from an options list; and finally a free selection of one or two elective modules from the portfolio of Masters level modules in the Department of Computer Science, Department of Mechanical Engineering or Bartlett School of Architecture.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGX01 Robotic Systems Engineering
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX01 Robotic Systems Engineering
+
+                       
+ 
+                        
+                        
+                       Students will gain an introductory overview of robotics and autonomous systems. Technically they will gain an understanding of the concepts and principles of ROS, the underpinning software development environment for robot systems, through a number of example applications, leading to the capability of using ROS for advanced robot control, navigation, sensing and verification. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGX98 MRes Robotics Dissertation
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX98 MRes Robotics Dissertation
+
+                       
+ 
+                        
+                        
+                       The aim of this module will be for students to make a significant contribution to robotics and autonomous systems within a focused problem either theoretical or within an application domain. The students will go through the cycle of literature review, formulating a solution based on existing knowledge, and designing and validation framework involving extensive experimentation. Devising novel solutions to contribute to the implementation of existing technology will help students gain an insight into scientific research. The student will be expected to implement a working prototype of their system or algorithm design either in a practical implementation or within a simulation framework. The student will learn to write a thesis summarizing their project and to deliver presentations about their work as well as a demo as a proof of concept of their work. 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Optional Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGX02 Robotic Control Theory and Systems
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX02 Robotic Control Theory and Systems
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to give students an insight into robotics and autonomous systems control theory and practice, specifically:
+
+                       	Control loops. damping, feedback and stability analysis with a working understanding about how these are used for navigating a robot within an environment;
+	Insight into developing a working prototype of a control system for a robot that solves a specific task.
+
+
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGX03 Robotic Sensing, Manipulation and Interaction
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX03 Robotic Sensing, Manipulation and Interaction
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to make sure students are familiar with various concepts in robotic sensing and manipulation and to give them a working knowledge of haptic interfaces and haptic control. These concepts will be used to teach students the principles and practical implementation of a tele-manipulation system involving a user interface, end-effector and a haptic or visual display unit. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGX04 Robotic Vision and Navigation
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX04 Robotic Vision and Navigation
+
+                       
+ 
+                        
+                        
+                       Students will gain knowledge about robot navigation with specific focus on the use of vision as a primary sensor for mapping the environment. The module will provide students with an understanding and practical experience of recovering geometry from optical sensors and creating an environment map which a robot can use for navigation and motion planning. 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   You will need to choose a minimum of 30 and a maximum of 45 credits from the optional modules.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Elective Modules
+
+                   
+ 
+                    
+                    
+                   	Bartlett School of Architecture
+	Department of Computer Science
+	Department of Mechanical Engineering
+
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   You will need to choose a minimum of 15 and a maximum of 30 credits from the elective modules.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Module Selection
+
+                   
+ 
+                    
+                    
+                   The modules that make up a programme are either core, optional or elective, which reflects whether they must be taken or can optionally be taken. The programme’s curriculum (also called a programme diet) will prescribe in what combinations modules can be taken, any restrictions on doing so, and how much credit can and must be taken. 
+ 
+                   Core/compulsory modules are fundamental to the programme’s curriculum and students must take these. You will be automatically allocated a place on any core modules for your programme and will not need to select these during the module selection process. There will be no timetable clashes between your programme’s core modules. 
+ 
+                   Optional modules are strongly related to the programme and students can choose which of these they wish to take, usually from within specific groups (for example, a student may be asked to choose two optional modules from one group and three from another, etc.) Places of optional modules are strictly limited (due to spatial, resource and timetable constraints) and will be allocated on a first come first serve basis. Some optional modules have pre-requisites which students will need to meet in order to be eligible for a place. 
+ 
+                   Elective modules are not programme specific, but allow students the opportunity to explore their interests more widely. Students are usually restricted to taking one or two elective modules. There is no guarantee of being accepted onto an elective module. These modules are core or optional on other programme diets, consequently students on these programmes will be given priority. Any remaining places will then be allocated on a first come first served basis. Some elective modules have pre-requisites which students will need to meet in order to be eligible for a place. 
+ 
+                   Please note: timetable clashes between optional and elective modules from different specialisations are inevitable and this can result in limiting the available choices. It is the student’s responsibility to select modules that do not clash in order to meet UCLs minimum attendance requirements. Please speak to your Programme Director and/ or Programme Administrator if you have any queries. 
+ 
+                   Non-Computer Science students should note that priority on COMP* modules will always be given to Computer Science students in the first instance.
+ 
+                    
+                  
+ 
+                   
+                   
+                 
+ 
+                  
+                
+ 
+               
+ 
+              
+ 
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             	A minimum of an upper-second class UK Bachelor's degree in computer science, electrical engineering or mathematics, or an overseas qualification of an equivalent standard. Relevant work experience may also be taken into account. 
+English Language Requirements
+If your education has not been conducted in the English language, you will be expected to demonstrate evidence of an adequate level of English proficiency.
+
+The English language level for this programme is: Good
+
+Further information can be found on our English language requirements page.
+International students
+Country-specific information, including details of when UCL representatives are visiting your part of the world, can be obtained from the International Students website.
+
+
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+              UK/EU fees (FT):  £11,800 for 2017/18
+ 
+               
+             
+ 
+              
+              
+              
+               
+              Overseas fees (FT):  £25,130 for 2017/18
+ 
+               
+             
+ 
+              
+              
+              
+               
+              For a comprehensive list of the funding opportunities available at UCL, including funding relevant to your nationality, please visit the Scholarship and Funding website.
+ 
+               
+             
+ 
+              
+              
+              
+               
+              
+               Tuition Fee Deposit
+
+              
+ 
+               
+               
+               
+                
+               This programme requires that applicants firmly accepting their offer pay a deposit. This allows UCL to effectively plan student numbers, as students are more demonstrably committed towards commencing their studies with us. 
+ 
+               For full details about the UCL tuition fee deposit, please see the central UCL pages. 
+ 
+               Tuition fee deposits within the Department of Computer Science are currently listed as:
+
+               	UK/EU	Overseas
+	Full-time	*Part-time	Full-time	*Part-time
+	£2000	£1000	£2000	£1000
+	 
+	*where part-time is an available mode of study
+
+ 
+                
+              
+ 
+               
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             The Department's graduates are particularly valued as a result of the our international reputation, strong links with industry, and ideal location close to the City of London.
+ 
+             The MRes degree will develop skills widely relevant to a career in engineering industries and analytical problem-solving occupations. Graduates with skills to develop new robotics solutions and solve computational challenges in automation are likely to be in high demand globally.
+ 
+             Graduates will also be well placed to undertake PhD studies in robotics and computational research specific to robotics but translational across different analytical disciplines or applied fields that will be influenced by new robotic technologies and capabilities.
+
+             	Top MSc graduate destinations include:       
+
+                 	Cisco
+	Orange Labs
+	IBM
+	ARM
+
+	MSc graduate roles include:                     
+
+                 	Network Architect
+	Data & Communications Engineer
+	Software Developer
+	Business Analyst
+
+	Top further study destinations:
+
+                 	UCL
+	University of Cambridge
+	MIT
+
+
+
+
+             Average starting salary £34,120 (all data from Graduate Surveys, January 2015).
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             
+               
+                
+               Programme Administrator
+Dr Saini Manninen
+Office 5.22, Malet Place Engineering Building 
+0207 679 7937 
+ 
+               advancedmsc-admissions@cs.ucl.ac.uk 
+ 
+               More information
+ 
+                
+              
+
+              
+               
+                
+                 
+                  
+                 
+
+                
+ 
+                
+                 
+                  
+                 
+
+                
+ 
+                
+                 
+                  
+                 
+
+                
+
+               
+
+              
+
+             
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             To apply now click here.
+ 
+             Students are advised to apply as early as possible due to competition for places. Those applying for scholarship funding (particularly overseas applicants) should take note of application deadlines.
+ 
+             Deadline 17 June 2017.
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+         
+ 
+        
+ 
+         
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 03 Apr 2017 and is maintained by 
+      Sean Taylor 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

@@ -1,0 +1,435 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus ›› M030 - Distributed Systems and Security 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPM030 - Distributed Systems and Security
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPM030 (Also taught as: COMPGZ03) 
+	Year	4
+	Prerequisites	good understanding of object-oriented programming and design and networking protocols
+	Term	1
+	Taught By	Brad Karp (100%) 
+	Aims	The first half of the class explores the design and implementation of distributed systems in case-study fashion: students read classic and recent research papers describing ambitious distributed systems. In lecture, students critically discuss the principles that cause these systems to function correctly, the extent to which these systems solve the problem articulated by the authors and the extent to which the problem and solution chosen by the authors are relevant in practice. The second half of the class explores computer system security, again, largely in case-study fashion.
+	Learning Outcomes	Correctness under concurrency is a central challenge in distributed systems and one that can only fully be understood through experience of building such systems (and encountering subtle bugs in them). To give students experience of this sort, the module includes one significant programming coursework in C, in which the students implement a simple distributed system that must provide an ordering guarantee. Further written coursework helps students solidify their understanding of the security material in the class.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         	Course introduction; OS concepts
+	Design: Worse is Better; Concurrent IO; RPC & Transparency
+	Ivy: Distributed Shared Memory
+	Bayou: Weak Connectivity and Update Conflicts; GFS: The Google File System
+	RouteBricks: Cluster-Based IP Router; Introduction to Security; User Authentification
+	Cryptographic Primitives I; Cryptographic Primitives II;
+	Secure Sockets Layer (SSL); Reasoning Formally about Authentification : TAOS
+	Software Vulnerabilities and Exploits; Preventing Exploits
+	Containing Buggy Code: Software-based Fault Isolation; OKWS: Approximating Least Privilege in a Real-World Web Server 
+
+
+         
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lectures, case-studies
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	 Written Examination (2.5 hours, 70%)
+	Coursework Section (30%)
+
+
+         To pass this course, students must:
+
+         	Obtain an overall pass mark of 50% for all sections combined
+	Obtain a minimum mark of 40% in each component worth ≥ 30% of the module as a whole.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Lecture notes (Brad Karp)
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

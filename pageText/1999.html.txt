@@ -1,0 +1,1090 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Research
+      ›› Research Notes
+      ›› Research Note Archive ›› 1999 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Research Notes Index - 1999
+
+        
+ 
+         
+         
+         
+         
+         Biases Introduced by Adaptive Recombination Operators 
+ K. Vekaria , C. Clack 
+          RN/99/1 
+
+          January 1999 
+
+         Submission Status: submitted to Genetic and Evolutionary Computation COnference GECCO99 
+
+          
+
+         
+ 
+          
+
+         Three Ways to Grow Designs: A Comparison of Evolved Embryogenies for a 
+ Bentley, P.J. , Kumar, S. 
+          RN/99/2 
+
+          January 1999 
+
+         Submission Status: submitted to Genetic and Evolutionary Computation Conference (GECCO '99), July 14-17, 
+
+          
+
+         
+ 
+          
+
+         Is Evolution Creative? 
+ Bentley, P.J.. 
+          RN/99/3 
+
+          January 1999 
+
+         Submission Status: Submitted to AISB Symposium on Creative Evolutionary Systems, Edinburgh, 
+
+          
+
+         
+ 
+          
+
+         Evolving Fuzzy Rules for Pattern Classification 
+ Mallinson, H. , Bentley, P.J. 
+          RN/99/4 
+
+          January 1999 
+
+         Submission Status: to appear in International Conference on Computational Intelligence for 
+
+          
+
+         
+ 
+          
+
+         A Development Framework for Open Service Management Systems 
+ David Lewis 
+          RN/99/5 
+
+          January 1999 
+
+         Keywords: Service Management, Component Reuse, Business Process Re-engeineering 
+
+          Abstract: Abstract: Management systems for communication services only limited value to management system based on the modelling of business processes, currently espoused by the TeleManagement become much more central to the analysis 
+
+          Submission Status: to be published in Interoperable Communication Network Journal, Baltzar 
+
+          
+
+         
+ 
+          
+
+         Efficient Network Monitoring Using Mobile Agents 
+ A. Liotta , G. Knight , G. PAvlou 
+          RN/99/6 
+
+          February 1999 
+
+         Submission Status: to be published in Interoperable Communication Network Journal, Baltzar 
+
+          
+
+         
+ 
+          
+
+         A logic of sequences for knowledge discovery from time series 
+ E. Collopy , M. Levene 
+          RN/99/7 
+
+          February 1999 
+
+         Submission Status: to be published in Interoperable Communication Network Journal, Baltzar 
+
+          
+
+         
+ 
+          
+
+         Mining Navigation Patterns with Hypertext Probabilistic Grammars 
+ J. Borges , M. Levene 
+          RN/99/8 
+
+          February 1999 
+
+         Abstract: Abstract: browsing a given page, only the last n pages browsed affect the probability the next page to be visited. the grammar. 
+
+          Submission Status: submittted to KDD'99 
+
+          
+
+         
+ 
+          
+
+         Relating Argument to Design Problem Framing 
+ 
+          RN/99/8 
+
+          
+
+         Submission Status: submittted to KDD'99 
+
+          
+
+         
+ 
+          Simone Stumpf 
+
+         Relating Argument to Design Problem Framing 
+ Simone Stumpf , Janet McDonnell 
+          RN/99/9 
+
+          February 1999 
+
+         Abstract: Abstract: 
+
+          Submission Status: Accepted to: Design Thinking Research Symposium 1999, MIT, Boston, 23-25 April 
+
+          
+
+         
+ 
+          
+
+         The effects of interleaving on RTP header compression 
+ Colin Perkins , Jon Crowcroft 
+          RN/99/10 
+
+          February 1999 
+
+         Submission Status: Submitted to IWQoS'99 
+
+          
+
+         
+ 
+          
+
+         Hitchhikers Get Around 
+ 
+          RN/99/10 
+
+          
+
+         Submission Status: Submitted to IWQoS'99 
+
+          
+
+         
+ 
+          Kanta Vekaria 
+
+         Hitchhikers Get Around 
+ Kanta Vekaria , Chris Clack 
+          RN/99/11 
+
+          March 1999 
+
+         Submission Status: submitted to a workshop entitled "Evolvability" in Genetic and 
+
+          
+
+         
+ 
+          
+
+         The Future of Evolutionary Design Research 
+ P.J. Bentley 
+          RN/99/12 
+
+          March 1999 
+
+         Submission Status: Invited report for the Workshop on Morphogenetic Design, in 
+
+          
+
+         
+ 
+          
+
+         Hierarchical Non LInear Image Deformation with the Use of Finite Element 
+ 
+          RN/99/12 
+
+          
+
+         Submission Status: Invited report for the Workshop on Morphogenetic Design, in 
+
+          
+
+         
+ 
+          M. Valdivieso-Casique 
+
+         Hierarchical Non LInear Image Deformation with the Use of Finite Element 
+ M. Valdivieso-Casique , S. Arridge 
+          RN/99/13 
+
+          March 1999 
+
+         Submission Status: Invited report for the Workshop on Morphogenetic Design, in 
+
+          
+
+         
+ 
+          
+
+         On Bots and Bacteria: Ontology Independent Embodiment 
+ 
+          RN/99/13 
+
+          
+
+         Submission Status: Invited report for the Workshop on Morphogenetic Design, in 
+
+          
+
+         
+ 
+          Tom Quick 
+
+         On Bots and Bacteria: Ontology Independent Embodiment 
+ Tom Quick , Kerstin Dautenhahn , Chrystopher L. Nehaniv , Graham Roberts 
+          RN/99/14 
+
+          March 1999 
+
+         Submission Status: submitted to ECAL'99 (European Conference on Artificial Life) 
+
+          
+
+         
+ 
+          
+
+         Three Keys to Developing and Integrating Telecommunications Service 
+ Vincent P. Wade , David Lewis 
+          RN/99/15 
+
+          March 1999 
+
+         Abstract: Abstract: the provision of one-stop-shopping in which tailored managing these services across the different provider 
+
+          Submission Status: to be published in the May 1999 edition of IEEE Communications Magazine 
+
+          
+
+         
+ 
+          
+
+         Thoughts on Identifying and Managing Stakeholders 
+ G.H. Galal , A. Finkelstein 
+          RN/99/16 
+
+          March 1999 
+
+         Submission Status: to be published in the May 1999 edition of IEEE Communications Magazine 
+
+          
+
+         
+ 
+          
+
+         Non-Linear Image Deformation Algorith Using Pixel Intensity or Ridges 
+ 
+          RN/99/16 
+
+          
+
+         Submission Status: to be published in the May 1999 edition of IEEE Communications Magazine 
+
+          
+
+         
+ 
+          M. Valdivieso-Casique 
+
+         Non-Linear Image Deformation Algorith Using Pixel Intensity or Ridges 
+ M. Valdivieso-Casique , S. Arridge 
+          RN/99/17 
+
+          March 1999 
+
+         Submission Status: submitted to International Workshop on Biomedical Image Registration 
+
+          
+
+         
+ 
+          
+
+         Strategic export controls: the impact on cryptography 
+ Nicholas Bohm , Ian Brown , Brian Gladman 
+          RN/99/18 
+
+          March 1999 
+
+         Government Order Number: ISSN 0267 3649 
+
+          Journal: The Computer Law and Security Report 
+
+          Volume: 2 
+
+          Vol: 5 
+
+          Submission Status: submitted to International Workshop on Biomedical Image Registration 
+
+          
+
+         
+ 
+          
+
+         Building Symbolic Information for 3D Human Body Modeling from Range Data 
+ L. Dekker , I. Douros , B.F. Buxton , P. Treleaven 
+          RN/99/19 
+
+          March 1999 
+
+         Keywords: 3D image understanding 
+
+          Pages: 10 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to 3-D Imaging and Modeling conference, Ottawa Oct 1999 
+
+          
+
+         
+ 
+          
+
+         Watercasting: Distributed Watermarking of Multicast Media 
+ I. Brown , C. Perkins , J. Crowcroft 
+          RN/99/20 
+
+          March 1999 
+
+         Submission Status: Submitted to Globecom '99, Rio de Janeiro, December 1999. 
+
+          
+
+         
+ 
+          
+
+         Simple Scalable Internet Multicast 
+ 
+          RN/99/20 
+
+          
+
+         Submission Status: Submitted to Globecom '99, Rio de Janeiro, December 1999. 
+
+          
+
+         
+ 
+          Tony Ballardie, Consultant 
+
+         Simple Scalable Internet Multicast 
+ Tony Ballardie, Consultant , Radia Perlman, Sun Microsystems , Cheng-Yin Lee, Nortel , Jon Crowcroft 
+          RN/99/21 
+
+          March 1999 
+
+         Abstract: Abstract: both Internet Service Providers (ISPs) and end-users acknowledged to have attractive scaling properties, and protocol 
+
+          Submission Status: submitted to ACM SIGCOMM'99 
+
+          
+
+         
+ 
+          
+
+         Simple Scalable Internet Multicast 
+ 
+          RN/99/21 
+
+          
+
+         Submission Status: submitted to ACM SIGCOMM'99 
+
+          
+
+         
+ 
+          
+
+         Making Embodiment Measurable 
+ T. Quick , K. Dautenhahn 
+          RN/99/22 
+
+          April 1999 
+
+         Submission Status: submitted to KogWis 99 
+
+          
+
+         
+ 
+          
+
+         Embodiment as Situated Structural Coupling 
+ T. Quick 
+          RN/99/23 
+
+          April 1999 
+
+         Submission Status: submitted to GECCO'99 
+
+          
+
+         
+ 
+          
+
+         The Architectural Development Pattern 
+ 
+          RN/99/23 
+
+          
+
+         Submission Status: submitted to GECCO'99 
+
+          
+
+         
+ 
+          Jorge L. Ortega-Arjona 
+
+         The Architectural Development Pattern 
+ Jorge L. Ortega-Arjona , Graham Roberts 
+          RN/99/24 
+
+          April 1999 
+
+         Submission Status: accepted by the 4th European Conference on Pattern Languages of 
+
+          
+
+         
+ 
+          
+
+         A Pattern-based Simulation. Simulating the Actor Model using the 
+ 
+          RN/99/24 
+
+          
+
+         Submission Status: accepted by the 4th European Conference on Pattern Languages of 
+
+          
+
+         
+ 
+          Jorge L. Ortega-Arjona 
+
+         A Pattern-based Simulation. Simulating the Actor Model using the 
+ Jorge L. Ortega-Arjona , Graham Roberts 
+          RN/99/25 
+
+          April 1999 
+
+         Submission Status: submitted to the European Conference on Parallel Computing, Euro-Par'99. 
+
+          
+
+         
+ 
+          
+
+         Searching Basic Notions for Software Architecture Design 
+ 
+          RN/99/25 
+
+          
+
+         Submission Status: submitted to the European Conference on Parallel Computing, Euro-Par'99. 
+
+          
+
+         
+ 
+          Jorge L. Ortega-Arjona 
+
+         Searching Basic Notions for Software Architecture Design 
+ Jorge L. Ortega-Arjona , Graham Roberts 
+          RN/99/26 
+
+          April 1999 
+
+         Submission Status: accepted by the Object-Oriented Architectural Evolution Workshop (OOEA) 
+
+          
+
+         
+ 
+          
+
+         Positioning Human Body Models with Lagrange Multipliers 
+ 
+          RN/99/26 
+
+          
+
+         Submission Status: accepted by the Object-Oriented Architectural Evolution Workshop (OOEA) 
+
+          
+
+         
+ 
+          Gideon Amos 
+
+         Positioning Human Body Models with Lagrange Multipliers 
+ Gideon Amos , Bernard Buxton 
+          RN/99/27 
+
+          April 1999 
+
+         Abstract: Abstract: 
+
+          Submission Status: to be presented at "Digital Human Modelling for Design and Engineering" 
+
+          
+
+         
+ 
+          
+
+         The use of grounded theory in human-computer interaction 
+ M. A. Sasse , A. Adams 
+          RN/99/28 
+
+          April 1999 
+
+         Submission Status: submitted to Interacting with Computers 
+
+          
+
+         
+ 
+          
+
+         The Finite Element Model for the Propagation of Light in Scattering 
+ 
+          RN/99/28 
+
+          
+
+         Submission Status: submitted to Interacting with Computers 
+
+          
+
+         
+ 
+          Simon R. Arridge 
+
+         The Finite Element Model for the Propagation of Light in Scattering 
+ Simon R. Arridge , Hamid Dehghani, Department of Medical Physics, University College London, , Martin Schweiger , Eiji Okada, Department of Electronics and Electrical Engineering, Keio University, 
+          RN/99/29 
+
+          May 1999 
+
+         Submission Status: submitted to : "Medical Physics" (American Association of Physics) 
+
+          
+
+         
+ 
+          
+
+         Consideration of Receiver interest in Content for IP delivery 
+ 
+          RN/99/29 
+
+          
+
+         Submission Status: submitted to : "Medical Physics" (American Association of Physics) 
+
+          
+
+         
+ 
+          Brian Levine (UCSC( 
+
+         Consideration of Receiver interest in Content for IP delivery 
+ Brian Levine (UCSC( , Jon Crowcroft , Christophe Diot (sprint Lavbs) , JJ Garcia Luna Aceves (UCSC) , James Kurose (UMass) 
+          RN/99/30 
+
+          May 1999 
+
+         Abstract: Abstract: content that users are interest in receiving decreases. We show 
+
+          Submission Status: submitted to : "Medical Physics" (American Association of Physics) 
+
+          
+
+         
+ 
+          
+
+         Relying on Trust to find Reliable Information 
+ 
+          RN/99/30 
+
+          
+
+         Submission Status: submitted to : "Medical Physics" (American Association of Physics) 
+
+          
+
+         
+ 
+          Alfarez Abdul-Rahman 
+
+         Relying on Trust to find Reliable Information 
+ Alfarez Abdul-Rahman , Stephen Hailes 
+          RN/99/31 
+
+          May 1999 
+
+         Submission Status: accepted for presentation at the 1st International Symposium 
+
+          
+
+         
+ 
+          
+
+         Schema Propagation in Selective Crossover 
+ 
+          RN/99/31 
+
+          
+
+         Submission Status: accepted for presentation at the 1st International Symposium 
+
+          
+
+         
+ 
+          Kanta Vekaria 
+
+         Schema Propagation in Selective Crossover 
+ Kanta Vekaria , Chris Clack 
+          RN/99/32 
+
+          May 1999 
+
+         Submission Status: Submitted to: Late-Breaking Papers for the 1999 Genetic and Evolutionary Computation 
+
+          
+
+         
+ 
+          
+
+         A Taxonomy of Secure Network Communication 
+ Ian Brown , Peter Kirstein , Steve Hailes 
+          RN/99/32 
+
+          June 1999 
+
+         Submission Status: submitted to IEEE Network 
+
+          
+
+         
+ 
+          
+
+         Interpretive Evaluation in a Learning-oriented Requirements Process 
+ G.H. Galal , J.T. McDonnell 
+          RN/99/34 
+
+          June 1999 
+
+         Submission Status: submitted to IEEE Network 
+
+          
+
+         
+ 
+          
+
+         A Reinforcement Algorithm for Calculating Web-Views 
+ 
+          RN/99/34 
+
+          
+
+         Submission Status: submitted to IEEE Network 
+
+          
+
+         
+ 
+          N. Zin 
+
+         A Reinforcement Algorithm for Calculating Web-Views 
+ N. Zin , M. Levene 
+          RN/99/35 
+
+          June 1999 
+
+         Submission Status: submitted to IEEE Network 
+
+          
+
+         
+ 
+          
+
+         	
+           Translator  
+         
+
+
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Rachel Scott 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

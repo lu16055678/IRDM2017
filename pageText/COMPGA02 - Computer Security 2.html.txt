@@ -1,0 +1,428 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus ›› GA02 - Computer Security 2 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGA02 - Computer Security 2
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPGA02 (Also taught as COMPM065)
+	Year	MSc
+	Prerequisites	Computer Security I or equivalent introduction to security course required.
+	Term	2
+	Taught By	Emiliano De Cristofaro (50%) and Gianluca Stringhini (50%)
+	Aims	Providing an advanced understanding of network and computer security vulnerabilities and countermeasures in real-world systems.
+	Learning Outcomes	Students will learn how to think critically and creatively about security. They will learn how, when and why to apply security technologies for the most benefit. Students will be challenged with the study and the design of attacks and defenses to networks, systems, and software. 
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         Network protocols and vulnerabilities; Network defenses; Network Security tools; Firewalls, Intrusion & Anomaly Detection, Anti-virus protection; Software and system security: threats, vulnerabilities, and countermeasures via real-world examples; Malware and botnets;  Wireless Security; Denial of Service; Web Security 
+ 
+         Slides from 2014/2015 are available at: compsec2.cs.ucl.ac.uk
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lecture presentations and laboratory sessions with associated coursework 
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The module has the following assessments:
+
+         	 Written Examination (2.5 hours) (70%)
+	Coursework (30%) 
+
+
+         To pass this module, students must:
+
+         	Obtain a mark of at least 50% for the module overall.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Dieter Gollmann, "Computer Security" (3rd edition).
+Ross Anderson, “Security Engineering”.
+William Stallings, “Cryptography and Network Security”. 
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

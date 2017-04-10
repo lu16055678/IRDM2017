@@ -1,0 +1,439 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus Index 2017-2018 (Provisional)
+      ›› COMPGV ›› COMPGV20 - Computational MRI 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGV20 - Computational MRI
+
+       This database contains the 2017-18 versions of syllabuses. These are still being finalised and changes may occur before the start of the session.
+
+       Syllabuses from the 2016-17 session are available here.
+
+        
+         
+         
+          
+         	Code	COMPGV20
+	Year	MSc
+	Prerequisites	Students must be familiar with basic probability and statistics concepts. They must also have some familiarity with mathematical analysis.
+	Term	TBC
+	Taught By	Gary Zhang (100%)
+	Aims	The module aims to give the students an in-depth introduction to MRI from the computational perspective.  It is designed to be a core module for the students enrolled in the CDT in Medical Imaging who want to pursue a research project related to MRI.
+	Learning Outcomes	Students will develop an in-depth understanding of MRI through learning and implementing, in silico, all the key components of modern MRI systems
+ 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content
+
+         
+ 
+          
+          
+         The syllabus of the module is as follows:
+
+         	Introduction to magnetic resonance imaging.
+	Classical description of a magnetic field acting on a single nucleus (equation of motion, rotating frame of reference, concept of magnetic resonance).
+	Macroscopic magnetization: relaxation and the Bloch equation.
+	Introduction to signal detection and acquisition (free induction decay, spin echoes, inversion recovery, and spectroscopy).
+	Fourier imaging: the MR physics perspective (k-space, gradient echoes, slice excitation).
+	Fourier imaging: the signal processing perspective (fundamentals of continuous and discrete Fourier transforms, sampling theory, and image reconstruction).
+	Noise modelling and contrast mechanisms. 
+	Radiofrequency pulses.
+	Magnetic field inhomogeneity effects.
+	Fast imaging: Echo planar imaging.
+	Parallel imaging. Imaging applications (water/fat separation, spin density/T1/T2 quantification, diffusion, susceptibility, BOLD).
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction
+
+         
+ 
+          
+          
+         3 hours of lectures and 2 hour problem class/tutorial per week.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	Coursework (75%)
+	Project (25%)
+
+
+         To pass this course, students must:
+
+         	Obtain an overall pass mark of 50% for all sections combined.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources
+
+         
+ 
+          
+          
+         Recommended texts
+Brown, R.W., Cheng, Y.N., Haacke, E.M., Thompson, M.R., Venkatesan, R., Magnetic Resonance Imaging: Physical Properties and Sequence Design, 2nd edition, Wiley-Blackwell, 2014. 
+ 
+         Further books and other resources will be indicated during the course. 
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 04 Apr 2017 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

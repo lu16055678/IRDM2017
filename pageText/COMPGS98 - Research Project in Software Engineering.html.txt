@@ -1,0 +1,433 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus ›› GS98 - Research Project in Software Engineering 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGS98 - Research Project in Software Engineering
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPGS98 
+	Year	MSc
+	Prerequisites	Successful completion of COMPGS11 and COMPGS12; additionally you must be sponsored by a supervisor.
+	Term	2-3 and summer
+	Taught By	Various academic staff supervisors (coordinated by Earl Barr) (100%) 
+	Aims	To give students experience of undertaking and completing a large piece of work aimed at making a novel research contribution, applying techniques learned throughout the programme, including the technical skills of analysis, design and implementation.
+	Learning Outcomes	To be able to work individually developing a major project, plan and coordinate development activities, make realistic work commitments, effectively present the work accomplished in both written and oral form in a form suitable for submission to a first tier conference in computer science. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         Overview
+There is no set syllabus: students identify a member of the SSE faculty who is willing to supervise them. Together, a student and supervisor co-operate to specify and detail a project of mutual interest. The supervisor provides support and guidance. Students must sign up for the course during term 2. Although students are encouraged to start early and begin meeting with their supervisor as they have time between terms 2 and 3, the project becomes the students' full-time focus after the examination period (May/June) with the student responsible for organising themselves and their work, with advice from their supervisor. Students are expected to meet with their supervisor on a regular basis, as agreed with the supervisor. A typical project will extend and deepen the background reading, analysis and design that formed the nucleus of the GS11 project; its goal is to aim to do all the work necessary to write a paper aimed at a first tier venue, including but not limited to implementation, proof and experimentation. The final work products will be a paper in ACM sigplan conference format and a 20 minute presentation.
+Some projects are done in conjunction with other departments and others in conjunction with external organisations although supervision is always provided within the department. 
+ 
+         Project Report
+The main report documents the results of the project. The deadline for submission is normally the first week of September.
+The dissertation text, as mentioned above must be in ACM sigcom conference format, not exceeding 12 pages with an additional no more than two pages of references. At the sole discretion of the supervisor, appendices, also in ACM sigplan format, totaling no more than 10 pages may also be submitted. If code is included it should be brief, novel and written in pseudocode. The presentation slides, totaling no more than 30 slides, must also be submitted.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Individual, or small group work with support from the project supervisor.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	The paper, as specified above (80%) 
+	The presentation and slides (20%) 
+
+
+         To pass this course, students must:  
+ 
+         	Obtain an overall pass mark of 50% for all sections combined.
+
+
+         
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Books, papers, manuals, etc. relevant to the project. 
+ 
+         Detailed project guidelines will be available on Moodle in due course.
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

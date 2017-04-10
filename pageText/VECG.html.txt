@@ -1,0 +1,169 @@
+ 
+   
+   
+    
+     
+      
+       
+       
+       
+       
+       
+       
+       
+     
+ 
+    
+ 
+    
+    
+     
+     	   Virtual Environments and Computer Graphics   VECG  
+ 
+	
+
+ 
+      
+      	
+	 Publications 
+        	 2015 
+	 2014 
+	 2013 
+	 2012 
+	 2011 
+	 2010 
+	 2009 
+	 2008 
+	 ≤ 2007 
+
+ 
+	
+	 Research 
+	
+	 People 
+        	 Academic Staff 
+	 Research Staff 
+	 Doctoral Students 
+	 Visitors 
+
+ 
+	
+	 Courses 
+	
+	 Contact 
+	
+
+ 
+      
+     
+   
+ 
+  
+ 
+   
+   
+    
+     
+     
+      
+       
+        
+        
+        
+        
+      
+ 
+     
+ 
+    
+ 
+     
+     
+     
+      
+       
+     
+ 
+    
+
+    
+ 
+     
+     
+      
+      
+ 
+       
+       The virtual environments and computer graphics group's research spans the range from real-time computer graphics rendering to human factors issues in virtual reality. A common theme is that we want to understand how to make virtual reality effective. We carry out experiments with participants, in order to examine just what makes a difference to their sense of presence in the virtual environment, and their sense of co-presence with other people.
+ 
+       We research on the issues involved in populating our virtual environments with crowds. This is not only a technically interesting challenge, but we know from our experimental work that empty environments, places without people don't work.
+ 
+       We are very interested in making our virtual characters 'realistic', so that you will want to engage with them. But what does 'realistic' mean in this context? It does not mean photo or geometrically accurate realism. It does mean virtual people that carry out those tiny gestures and movements that we take so much for granted in everyday experience that we don't even notice them.
+ 
+       We carry out research on real-time rendering, and are particularly interested in how real-time can be maintained even in the context of global illumination for realistic lighting.
+ 
+       We are very interested in visibility algorithms. Why? - because our virtual environments are often very large (for example a model of the whole of London). Without intelligent processing of the model there is no chance for real-time interaction.
+ 
+       Our ultimate goal is a theory of virtual reality: to make it 'work' in a given application context and with given resources, what is the best approach to take, what is the best algorithm, interaction and rendering style to use? We don't know if any group will ever have a solution for this, but the quest is a driving force.
+ 
+      
+ 
+      
+ 
+     
+ 
+    
+ 
+   
+ 
+  
+ 
+   
+   
+    
+     
+      
+      Contact
+ 
+      Department of Computer Science
+ 
+      University College London
+ 
+      Gower Street
+ 
+      London
+ 
+      WC1E 6BT
+ 
+      Telephone: +44 (0)20 7679 7214
+ 
+     
+ 
+      
+      Links
+ 
+      	UCL
+	UCL Computer Science
+
+ 
+     
+ 
+      
+       
+       
+     
+ 
+    
+ 
+    © UCL VECG 2013
+ 
+   
+ 
+   
+   
+   
+   
+   
+   
+     
+ 

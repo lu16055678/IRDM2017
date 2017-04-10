@@ -1,0 +1,419 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         Can brain scans predict psychotic episode outcomes?
+ 
+         
+          
+          
+
+         
+ 
+         Scientists make progress towards using brain scans to predict outcome of psychotic episodes. 
+ 
+         Computer analysis of brain scans could help predict how severe the future illness course of a patient with psychosis will be, according to research funded by the Medical Research Council and the Wellcome Trust. The findings could allow doctors to make more accurate decisions about how best to treat patients. 
+ 
+         Psychosis is a condition that affects people’s minds, altering the way they think, feel and behave. It can be accompanied by hallucinations and delusions. The most common forms are part of mental health conditions such as schizophrenia and bipolar disorder, but symptoms of psychosis can also occur in conditions such as Parkinson’s disease and alcohol or drug abuse. 
+ 
+         Many patients recover from psychosis with minimal symptoms, but for others, the psychosis can be persistent and can affect their ability to function well and lead a normal life. At present, psychiatrists have no clear method of assessing a person’s risk of future episodes and predicting how the disease will progress. This is important in terms of guiding patients’ and their clinicians’ choices about appropriate treatments. 
+ 
+         Now, a study led by Dr Paola Dazzan and Dr Janaina Mourao-Miranda at the Institute of Psychiatry, King’s College London in collaboration with the Computer Science Department at University College London and published today in the journal Psychological Medicine reports the successful use of computer algorithms to analyse MRI scans and predict a patient’s outcome. 
+ 
+         Algorithms that quantify the risk of further episodes of disease are common in areas of medicine such as cardiovascular medicine and oncology, but no accurate tests are available to psychiatrists. Researchers have previously used MRI to predict outcome in psychosis, based on the analysis of specific brain regions. However, the changes in the brain associated with psychosis are often subtle and difficult to detect, and these approaches have therefore been of limited benefit for clinical practice. 
+ 
+         Dr Dazzan and colleagues worked with a cohort of 100 patients, taking MRI brain scans when they presented to clinical services with a first psychotic episode. In addition, the researchers scanned the brains of a control group of 91 healthy individuals. The patients were followed up around six years later and classified as having developed a continuous, episodic or intermediate illness course, depending on whether their symptoms remitted or not during this time. 
+ 
+         From this larger sample, the researchers then analysed scans from twenty-eight subjects with a continuous course of illness, the same number from patients with an episodic course and again, the same number from healthy controls. They used these scans as data to ‘train’ a software developed by a group led by Dr. Mourao-Miranda based on pattern recognition (a statistical approach that uses data from the whole brain rather than from a specific region) and, to distinguish between the different severities of the illness. The algorithm, applied to the scans collected at the first episode of psychosis, was able to differentiate between patients who then went on to develop continuous psychosis and those who went on to develop a more benign, episodic psychosis in seven out of ten cases. 
+ 
+         “Although we have some way to go to improve the accuracy of these tests and validate the results on independent large samples, we have shown that in principle it should be possible to use brain scans to identify, already at the first episode of illness, both patients who are likely to go on to have a continuous psychotic illness and those who will develop a less severe form of the illness,” says Dr Mourao-Miranda, a Wellcome Trust Research Career Development Fellow. “This suggests that even by the time that they have their first episode of psychosis, significant changes have already occurred to their brains.” 
+ 
+         “This is the first step towards being able to use brain imaging to provide tangible benefit to patients affected by psychosis,” says Dr Dazzan. “This could in future offer a fast and reliable way of predicting the outcome for an individual patient allowing us to optimise treatments for those most in need, while avoiding long-term exposure to antipsychotic medications in those with very mild forms. 
+ 
+         “Structural MRI scans can be obtained in as little as ten minutes and so this technique could be incorporated into routine clinical investigations. The information this provides could help inform the treatment options available to each patient and help us better manage their illness.”
+ 
+         
+ 
+         
+ 
+         
+           Posted 12 Oct 11 16:05 
+         
+ 
+          
+          
+           Next: International Software... >
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

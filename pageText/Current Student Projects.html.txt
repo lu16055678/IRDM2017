@@ -1,0 +1,43 @@
+
+  Simon Arridge
+ 
+   Here are some of my project ideas for this year. They will get updated from time to time. 
+
+   Optical Tomography with Compressive Sampling 
+
+   Ultra-Weak Variational Method for Ultrasound Modelling 
+
+   Fast 3D CT Reconstruction using Graphics Hardware 
+
+   3D Optical Tomography for Breast Cancer Detection 
+
+   Meshing the human head from boundary surface measurements 
+
+   
+     
+     Fast functional imaging of the brain using infrared light 
+
+   Time Series Analysis Methods in Optical Topography 
+
+    Solving the Radiative Transfer Equation with the Light Field Method 
+
+    Multi-Spectral Probabilistic Diffusion 
+
+    Stochastic Optimisation for boundary detection 
+
+   Multimodality Image Reconstruction with Mutual Information Constraint 
+
+    Multigrid methods for Finite Elements 
+
+    Parametric surface methods for Finite Elements 
+
+   Bubble Meshing 
+
+   Parallel FEM on the cluster 
+
+   
+    
+
+    Click here for Simon's Home page. 
+
+ 

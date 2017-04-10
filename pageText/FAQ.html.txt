@@ -1,0 +1,356 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Student Information
+      ›› Staff-Student Committee ›› FAQ 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        The following questions are asked regularly, and can result in lengthy discussion. However, for good reasons the answers we give will remain the same. Unless there is something new to say, these will not be included on SSCC agendas.
+
+        	Can we have model answers to past exam questions? 
+ No, the department does not provide full sets of answers to exam papers. Lecturers may work through some answers during revision lectures, but there is no academic value in simply providing complete answers to all questions in a paper. An individual student should study the relevant topics, aiming to gain sufficient understanding to be confident they can answer questions well in the real exam. The ability to achieve this is one of the measures we are using when awarding marks and degrees. This question has frequently been raised at SSCC meetings over many years, and discussed by the departmental teaching committee. There is a very strong consensus amongst academic staff that the current policy remains unchanged.
+	Can we have more labs?
+Only if UCL allocates more space to the department. Unfortunately, space within the Bloomsbury campus is limited, meaning that finding large spaces for additional labs is very difficult. The department has been very successful and has expanded in size considerably, resulting in serious space issues. We are now spread out over three buildings but do have an expectation of moving into a single much large building within 3-4 years.
+	Can we have a common room and more student space?
+The same answer as the previous question applies.
+	Can we have better, faster computers in the labs?
+ We aim to update at least one computer lab per year but the equipment is expected to last for 3-4 years once installed. As hardware improves very quickly it means that a lab due for an update will contain older equipment. We only have a finite budget, so have to stretch it as far as we can.
+	Late access to the computer laboratories.   
+ For legal reasons we cannot provide access to the labs unless there is a "designated person" on the premises. We have had limited success in recruiting and training designated persons, so regular late opening is difficult to arrange on a regular basis. From time to time we review the number and length of these late opening sessions taking into account the demand and our ability to provide a designated person. Unlimited access or access until midnight is not possible under any circumstances.
+ From past experience, late opening sessions are often not well attended.
+	Can we be taught programming language X?  
+ There are a number of programming languages we could use for teaching purposes but there is only a limited amount of time and a lot of other material to cover. We perfer to aim for depth of understanding, rather than more shallow coverage of lots of languages. We place strong emphasis on object-oriented programming principles and Java is very suitable for this. Our programming courses should provide a basis for students to learn various other programming languages themselves.  In particular, languages such as C/C++ have many similarities with java and students should be able to pick them up quite easily.
+	Can we have a canned drinks vending machine in the department?
+ There are two problems with this - finding a location that is near a power supply but does not cause a safety hazard, and the machine making enough money to cover its costs. There has been a machine in the past but it did not make enough money to pay for itself and was deemed to be a safety hazard when safety regulations were tightened up. Based on this experience this is no prospect of a replacement. There is easy access to the facilities in the foyer of the Engineering Front Building and Student Central is close by. 
+
+
+        If a problem or issue can be dealt with outside the committee, please approach the appropriate member of staff or the Help Desk. This can save a lot of time and get results a lot more quickly.
+
+        	See the Year Coordinators or your Programme Director about course and curriculum issues.
+	Ask at the Reception Desk on the 5th floor of the Malet Place building for building and facilities issues.
+
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

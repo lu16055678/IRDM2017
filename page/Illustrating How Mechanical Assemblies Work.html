@@ -1,0 +1,170 @@
+<html>
+ <head> 
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+  <title>Illustrating How Mechanical Assemblies Work</title> 
+  <link rel="stylesheet" href="./../css/research_format.css" type="text/css"> 
+ </head>
+ <body> 
+  <div class="icon_figure"> 
+   <img src="paper_docs/macaulay-vis.png" width="600"> 
+  </div> 
+  <div class="title">
+    Illustrating How Mechanical Assemblies Work 
+  </div> 
+  <div> 
+   <!--  <a href="http://graphics.stanford.edu/~niloy/">Niloy J. Mitra</a>, Yong-Liang Yang, <a href="http://www.cs.hku.hku/~dmyan">Dong-Ming Yan</a>, <a href="http://www.wilmotli.com">Wilmot Li</a> and <a href="http://vis.berkeley.edu/~maneesh/">Maneesh Agrawala</a><br> --> Niloy J. Mitra, Yong-Liang Yang, Dong-Ming Yan, Wilmot Li, Maneesh Agrawala 
+   <br> 
+   <a href="http://www.siggraph.org/s2010/" title="SIGGRAPH, Los Angeles"> ACM SIGGRAPH 2010</a> 
+  </div> 
+  <p class="my_space"></p> 
+  <div> 
+   <p class="heading"> Abstract: </p> 
+   <p class="my_justify move_rt">"How things work" visualizations use a variety of visual techniques to depict the operation of complex mechanical assemblies. We present an automated approach for generating such visualizations. Starting with a 3D CAD model of an assembly, we first infer the motions of individual parts and the interactions between parts based on their geometry and a few user specified constraints. We then use this information to generate visualizations that incorporate motion arrows, frame sequences and animation to convey the causal chain of motions and mechanical interactions between parts. We present results for a wide variety of assemblies.</p> 
+  </div> 
+  <div> 
+   <p class="my_space"></p> 
+   <p class="heading"> Results: </p> 
+   <table width="100%"> 
+    <tbody> 
+     <tr> 
+      <td><img src="paper_docs/teaser.png" alt="" align="" border="0" width="801px"></td> 
+     </tr> 
+     <tr> 
+      <td align="justify" width="801px"> (Top) Given a geometric model of a mechanical assembly, we analyze it to infer how the individual parts move and interact with each other. The relations and motion parameters are encoded as a time-varying interaction graph. Once the driver is indicated by the user, we compute the motion of the assembly and use it to generate an annotated illustration to depict how the assembly works. We also produce a corresponding causal chain sequence to help the viewer better mentally animate the motion. </td>
+     </tr> 
+     <tr>
+      <td height="40"> </td>
+     </tr> 
+     <tr> 
+      <td> 
+       <table>
+        <tbody>
+         <tr> 
+          <td align="justify" valign="top" width="240px"> (Right) Planetary gear arrangement. The same arrangement of mechanical parts can have significantly different motion depending on the chosen driver and the part constraints. The blue gear can be free (left), or can be marked to be fixed (right).</td> 
+          <td width="10px"></td> 
+          <td><img src="paper_docs/planetary.png" width="540px" alt="" border="0" align=""></td> 
+         </tr>
+        </tbody>
+       </table> </td>
+     </tr> 
+     <tr>
+      <td height="40"> </td>
+     </tr> 
+     <tr> 
+      <td><img src="paper_docs/leonardo-drum-all.png" alt="" align="" border="0" width="801px"></td> 
+     </tr> 
+     <tr> 
+      <td align="justify" width="801px"> (Top) Motion visualization and causal chain sequence of the Leonardo da Vinci's famous mechanical drum. </td>
+     </tr> 
+     <tr>
+      <td height="40">&nbsp;</td>
+     </tr> 
+     <tr> 
+      <td><img src="paper_docs/piston-keyframes.png" alt="" align="" border="0" width="801px"></td> 
+     </tr> 
+     <tr> 
+      <td align="justify" width="801px"> (Top) Highlighting Important Key Frames of Motion. Some assemblies contain parts that move in complex ways (e.g., the direction of motion changes periodically). Thus, static illustrations often include key frames that help clarify such motions. We automatically compute key frames of motion by examining each translational part in the model; if the part changes direction, we add key frames at the critical times when the part is at its extremal positions. We also add middle frames between extrema-based keyframes to help the viewer easily establish correspondence between moving parts. </td>
+     </tr> 
+     <tr>
+      <td height="40"> </td>
+     </tr> 
+     <tr> 
+      <td><img src="paper_docs/hammer-all.png" alt="" align="" border="0" width="801px"></td> 
+     </tr> 
+     <tr> 
+      <td align="justify" width="801px"> (Top) Motion visualization and causal chain sequence of Leonardo DaVinci's hammer in "Codex Madrid". </td>
+     </tr> 
+     <tr>
+      <td height="40">&nbsp;</td>
+     </tr> 
+     <tr> 
+      <td><img src="paper_docs/F15.png" alt="" align="" border="0" width="801px"></td> 
+     </tr> 
+     <tr> 
+      <td align="justify" width="801px"> (Top) Motion visualization and causal chain sequence of gear transformation mechanism. </td>
+     </tr> 
+     <tr>
+      <td height="40">&nbsp;</td>
+     </tr> 
+     <tr> 
+      <td><img src="paper_docs/F05.png" alt="" align="" border="0" width="801px"></td> 
+     </tr> 
+     <tr> 
+      <td align="justify" width="801px"> (Top) Illustration of rack-pinion mechanism. </td>
+     </tr> 
+     <tr>
+      <td height="40">&nbsp;</td>
+     </tr> 
+     <tr> 
+      <td align="center" width="800"> <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/dAdQRTsxkqU&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/dAdQRTsxkqU&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></object></td> 
+     </tr> 
+    </tbody>
+   </table> 
+   <div> 
+    <p class="my_space"></p> 
+    <p class="heading"> Acknowledgements: </p> 
+    <p class="my_justify move_rt">We thank Helmut Pottmann, Pat Hanrahan and Carlo Sequin for interesting discussions and suggestions, and the anonymous reviewers for their useful comments. This work was partially supported by a Microsoft young faculty fellowship and National Science Foundation grant CCF-0643552. We thank Bin Chan for helping with the video, Jonathan Balzer for the voice over, and Zhengzheng Kuang and Ruihua Ye for creating the Macaulay gear model. The hand-drill and chain-driver models are obtained from the Google 3D Warehouse, F15 and F05 from the Antique Mechanism Teaching Models Digital Museum, Leonardo's drum and hammer models from Exchange3D, and the piston-engine model from Designsimulation Technologies Inc.</p> 
+   </div> 
+   <div> 
+    <p class="my_space"></p> 
+    <p class="heading"> Bibtex: </p> 
+    <pre class="move_rt">@article{mitra_howThingsWork_sig_10,
+AUTHOR = "Niloy J. Mitra and Yong-Liang Yang and Dong-Ming Yan and Wilmot Li and Maneesh Agrawala",
+TITLE = "Illustrating How Mechanical Assemblies Work",
+JOURNAL = "ACM Transactions on Graphics",
+VOLUME = "29",
+NUMBER = "3",
+pages = {58:1--58:12},
+articleno = {58},
+numpages = {12},
+YEAR = "2010",
+}</pre> 
+   </div> 
+   <div> 
+    <p class="my_space"></p> 
+    <p> </p>
+    <table class="fix_size">
+     <tbody>
+      <tr> 
+       <td> 
+        <table> 
+         <tbody>
+          <tr> 
+           <td align="center"> <a href="paper_docs/howThingsWork_sigg10_large.pdf" title="paper(pdf)"> <img src="paper_docs/pdf_icon_motionvis_sig_10.png"></a></td> 
+           <td width="15"></td> 
+           <td align="center"> <a href="paper_docs/howThingsWork_sigg10_small.pdf"> <img src="paper_docs/pdf_icon_motionvis_sig_10.png"></a></td> 
+           <td width="15"></td> 
+           <td align="center"> <a href="paper_docs/motionvis_sig10.mov" title="video(mov)"> <img src="paper_docs/movie_icon_motionvis_sig_10.png"></a></td> 
+           <td width="15"></td> 
+           <td align="center"> <a href="paper_docs/howThingsWork_slides.zip" title="slides"> <img src="paper_docs/howThingsWork_slide_icon.jpg"></a></td> 
+          </tr> 
+          <tr> 
+           <td align="center">paper (15MB)</td> 
+           <td width="15"></td> 
+           <td align="center">paper (2MB)</td> 
+           <td width="15"></td> 
+           <td align="center">video (90MB)</td> 
+           <td width="15"></td> 
+           <td align="center">slides (20MB)</td> 
+          </tr>
+         </tbody>
+        </table> </td> 
+       <td align="right" valign="top"> 
+        <table> 
+         <tbody>
+          <tr> 
+           <td align="right"> <a href="http://www.graphics.stanford.edu/~niloy/research/index.html" title="Niloy's research page"> back to publications</a> </td>
+          </tr> 
+          <tr> 
+           <td align="right"> <a href="http://www.graphics.stanford.edu/~Eniloy/index.html" title="Niloy's homepage"> back to homepage</a> </td>
+          </tr> 
+         </tbody>
+        </table> </td> 
+      </tr> 
+     </tbody>
+    </table> 
+    <p></p> 
+   </div> 
+  </div>
+ </body>
+</html>

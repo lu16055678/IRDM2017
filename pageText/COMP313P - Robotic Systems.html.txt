@@ -1,0 +1,420 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Students
+      ›› Syllabus ›› 313P - Robotic Systems 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMP313P - Robotic Systems
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMP313P 
+	Prerequisites	None
+	Term	2
+	Taught By	Simon Julier 
+	Aims	The aim of this module is to allow students to take their knowledge of intelligent systems they have developed so far, and apply them to robot systems. Robots are an important class of intelligent system in which reasoning, representation and interpretation must be carried out using noisy and incomplete sensors, and must be translated into physical actions.
+This module will introduce the core ideas and concepts In the design of software for controlling robots or drones, with the emphasis on navigation, route planning, obstacle avoidance, decision making, autonomous behaviour and image recognition.
+ 
+	Learning Outcomes	There are two main outcomes:
+ 1. Understanding of the underlying theory and challenges associated with core capabilities of robotics.
+ 2. Develop experience applying these algorithms to understand both their strengths and limitations.
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         The proposed course outline is as follows. The content would vary according to the speed of progress of the students: 
+ 
+         • Topic 1: Develop basic wall following capabilities. These will let the students familiarize themselves with the robotic platform and explore basic low-level reactive behaviour.   
+ 
+         • Topic 2: Sensor models and systems. Develop an understanding of how to mathematically model the behaviours of sensors and systems and the uncertainty associated with them.  
+ 
+         • Topic 3: Localisation. Study the way in which the sensor data can be used by the robot to estimate its own position.   
+ 
+         • Topic 4: Obstacle avoidance and path planning. Given models of sensor data and information about the location of the robot, develop approaches to allow the robot to plan and avoid obstacles. Develop algorithms and methods to optimally move between locations in the environment.   
+ 
+         • Topic 5: Multi-robot interaction. Consider the case where multiple robots have to coordinate to perform tasks such as intercepting a moving robot. These require dynamic and reactive re-planning based oil of sensor data and localization information. 
+ 
+         Students will develop a good understanding of how the science and engineering of intelligent systems can be applied to the design and control of robotic systems. The course will have a strong practical element where students will develop and apply software-based solutions for a range of problems.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         There will be a strong emphasis on the tutorials / labs. Each week will consist of a single one-hour lecture in which a topic will be introduced and related material outlined. 
+ 
+         There will be two two-hour lab sessions for each student every week (four hours in total). these sessions will be staffed by TAs. Each topic will include a specific problem set that must be achieved. Students will write code in pairs, with most pairs remaining the same throughout the course. Supporting material will be made  available through Moodle. Most tasks will be binary marked.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components: 
+ 
+         5 x Lab based worksheets (8% x 5 = 40%) 
+ 
+         1 x written assignment (60%)
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

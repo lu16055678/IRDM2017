@@ -1,0 +1,107 @@
+ 
+   
+    
+  
+ 
+  
+    Illustrating How Mechanical Assemblies Work 
+  
+ 
+   
+    Niloy J. Mitra, Yong-Liang Yang, Dong-Ming Yan, Wilmot Li, Maneesh Agrawala 
+   
+ 
+    ACM SIGGRAPH 2010 
+  
+ 
+  
+ 
+   
+    Abstract: 
+ 
+   "How things work" visualizations use a variety of visual techniques to depict the operation of complex mechanical assemblies. We present an automated approach for generating such visualizations. Starting with a 3D CAD model of an assembly, we first infer the motions of individual parts and the interactions between parts based on their geometry and a few user specified constraints. We then use this information to generate visualizations that incorporate motion arrows, frame sequences and animation to convey the causal chain of motions and mechanical interactions between parts. We present results for a wide variety of assemblies.
+ 
+  
+ 
+   
+   
+ 
+    Results: 
+ 
+   	
+	 (Top) Given a geometric model of a mechanical assembly, we analyze it to infer how the individual parts move and interact with each other. The relations and motion parameters are encoded as a time-varying interaction graph. Once the driver is indicated by the user, we compute the motion of the assembly and use it to generate an annotated illustration to depict how the assembly works. We also produce a corresponding causal chain sequence to help the viewer better mentally animate the motion. 
+	 
+	 
+       	 (Right) Planetary gear arrangement. The same arrangement of mechanical parts can have significantly different motion depending on the chosen driver and the part constraints. The blue gear can be free (left), or can be marked to be fixed (right).		
+
+ 
+	 
+	
+	 (Top) Motion visualization and causal chain sequence of the Leonardo da Vinci's famous mechanical drum. 
+	 
+	
+	 (Top) Highlighting Important Key Frames of Motion. Some assemblies contain parts that move in complex ways (e.g., the direction of motion changes periodically). Thus, static illustrations often include key frames that help clarify such motions. We automatically compute key frames of motion by examining each translational part in the model; if the part changes direction, we add key frames at the critical times when the part is at its extremal positions. We also add middle frames between extrema-based keyframes to help the viewer easily establish correspondence between moving parts. 
+	 
+	
+	 (Top) Motion visualization and causal chain sequence of Leonardo DaVinci's hammer in "Codex Madrid". 
+	 
+	
+	 (Top) Motion visualization and causal chain sequence of gear transformation mechanism. 
+	 
+	
+	 (Top) Illustration of rack-pinion mechanism. 
+	 
+	 
+
+ 
+    
+    
+ 
+     Acknowledgements: 
+ 
+    We thank Helmut Pottmann, Pat Hanrahan and Carlo Sequin for interesting discussions and suggestions, and the anonymous reviewers for their useful comments. This work was partially supported by a Microsoft young faculty fellowship and National Science Foundation grant CCF-0643552. We thank Bin Chan for helping with the video, Jonathan Balzer for the voice over, and Zhengzheng Kuang and Ruihua Ye for creating the Macaulay gear model. The hand-drill and chain-driver models are obtained from the Google 3D Warehouse, F15 and F05 from the Antique Mechanism Teaching Models Digital Museum, Leonardo's drum and hammer models from Exchange3D, and the piston-engine model from Designsimulation Technologies Inc.
+ 
+   
+ 
+    
+    
+ 
+     Bibtex: 
+ 
+    @article{mitra_howThingsWork_sig_10,
+AUTHOR = "Niloy J. Mitra and Yong-Liang Yang and Dong-Ming Yan and Wilmot Li and Maneesh Agrawala",
+TITLE = "Illustrating How Mechanical Assemblies Work",
+JOURNAL = "ACM Transactions on Graphics",
+VOLUME = "29",
+NUMBER = "3",
+pages = {58:1--58:12},
+articleno = {58},
+numpages = {12},
+YEAR = "2010",
+}
+ 
+   
+ 
+    
+    
+ 
+     
+
+    	 
+        	  		  		  		  
+	paper (15MB)		paper (2MB)		video (90MB)		slides (20MB)
+
+ 	 
+        	  back to publications 
+	  back to homepage 
+
+ 
+
+ 
+    
+ 
+   
+ 
+  
+
+ 

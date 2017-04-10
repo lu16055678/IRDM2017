@@ -1,0 +1,400 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Student Information
+      ›› Staff-Student Committee
+      ›› Agendas ›› November 29th 2006 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        The Computer Science Staff-Student Consultative Committee (SSCC)
+ 
+        Agenda for meeting to be held 1-2.30pm on Wednesday 29th November 2006 in Fostor Court 101.
+
+        	Apologies for absence.
+	Notification of any other business.
+	Approval of minutes of the last meeting (28th Feb 2006)
+- Minutes should be signed by chair and at least one student representative. 
+	Matters arising from last minutes:
+- Denis Timm and other TSG staff have been added to student-reps mailing list, so will now receive notification of meetings. 
+- More tables in 5th floor of Roberts Building (Jill Saunders/JJ).
+- Liaison with Maths Department on MATH6301/B45 (Robin Hirsch) 
+	UCL Joint Staff-Student Committee (Graham Roberts) 
+- Everyone should be aware of its existence (see www.ucl.ac.uk/staff/committees/staff-student) 
+	Student representation on departmental committees (Graham Roberts) 
+- Places are available on the following: Operations and Premises Cttee, Technical Services Cttee & Teaching Cttee 
+	Student Common Room (UG reps)
+- Closure of the CS student common room. 
+   - Common room was too small, no projector, no factilities.
+- The lack of suitable common room space, especially for group working, is an issue.
+- The Engineering common room (5th floor Roberts building) has problems (e.g., too noisy, overcrowded, broken blinds, lack of tables and power points). Cafe prices are too expensive and it closes at 3pm. 
+	Lockers and Drinking Water (UG reps) 
+	1st floor labs
+- Continuing noise problems (Graham Roberts).
+- Lack of natural light and general environment in labs (Ian Stanton). 
+	Timetabling
+- One lecture per day and other issues (UG reps) 
+	Coursework 
+- Submission window, extending the number of days before a deadline that a coursework can be submitted (Alex Gillis)
+- Late return of coursework (a return date is now required when coursework is set) (Orlando Doehring) 
+- More use of electronic submission to reduce printing and the need to go to Reception (Orlando Doehring) 
+	Technical Issues (UG reps) 
+- Intermittent wireless networking on 4th floor.
+- Dirty keyboards in labs. 
+- Upgrading to OpenOffice 2.0 on lab machines. 
+- iMacs in the Quiet Lab (see Item A below).
+- Faster computers in Quiet Lab. 
+- More up to date software on computers in Quiet Lab (e.g., Java 5)
+- Replacing use of CS email with IS email.
+- Computer that can be booted off CDs, USB drives, etc.
+- Control of spam filtering - can it be turned off? 
+	COMP3004 Computational Complexity (UG reps) 
+- request for problem classes.
+- more guidance and examples.
+	COMP4030/GZ03 Distributed System and Security (David Tatarata)
+- See item B below. 
+	Teaching C (David Tatarata)
+- See item C below. 
+	Exams 
+- Model Answers, suggestion of an alternative to model answers as it is policy not to provide model answers (Ian Stanton)
+- March exam schedule too tight (Orlando Doehring)
+	Lack of feedback (UG reps)
+- Positive feedback on group work. 
+	Maths for students without standard entry requirements (UG reps) 
+	The role and importance of students within the department (All reps)
+- It is proposed that a separate meeting is arranged to discuss this. 
+	Any Other Business.
+	The next meeting is due in February 2007. In June 2007 there will be end of year wrap-up sessions for each undergraduate year, providing a forum similar to that of the SSCC.
+
+
+        Additional notes:
+
+        A: Could we begin trial of using iMacs, possibly to begin with with limited services? Quantity of Mac users has dramatically increased. The Bartlett (IT: Yusah Hamuth) have 50:50 macs:pcs. They might be able to give advice about security (digital and physical). They actually have a whole lab of g5 desktops with separate apple displays and manage to keep them secure. To make this more realistic for IT staff to find the time could we get rid of some old systems that aren't so necessary any more, for instance, email?
+
+        B: There was a coursework set this year in C on the CS Linux machines. However many students in the class did not really have the background required to do this coursework easily. It was more a C coursework then a Distributed coursework. Furthermore we have been told that it is going to be marked with a test-ticker program (we had access to see how we did before handing the work in), but the testing program has had numerous bugs in it giving 10/10 to unfinished work, and failing code which should be working. Students are worried about this coursework and about how it will be marked.
+
+        C: Some study abroad students mentioned that they have to teach themselves C before they went to study at other universities. They believe that it should be taught before the third year. It might integrate with the system architecture course and relate to MIPS. Pointers are easier to explain at this stage.
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

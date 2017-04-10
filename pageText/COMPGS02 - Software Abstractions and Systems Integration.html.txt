@@ -1,0 +1,435 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Students
+      ›› Syllabus ›› GS02 - Software Abstractions and Systems Integration 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGS02 - Software Abstractions and Systems Integration
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPGS02 (Also taught as: COMPM022) 
+	Year	MSc
+	Prerequisites	Practical experience of software design, programming, testing and debugging at least equivalent to UCL 3rd year undergraduate study. Since COMPGS02/M022 involves software development activities that build upon an industrial project started in COMPGS01/M014, we highly recommend students follow COMPGS01/M014 before following COMPGS02/M022. We also recommend students to have followed COMPGS04/M024 or alternatively to have good working experience of software development tools and environments.
+
+	Term	2
+	Taught By	Wolfgang Emmerich (33%), Emmanuel Letier (33%), Dean Mohamedally (33%)
+
+	Aims	Students will develop skills and knowledge to design, implement and integrate large-scale software systems from heterogeneous components and services. Emphasis will be put on fundamental principles and practical issues of system integration projects. Students will also develop essential research skills needed to stay at the leading edge of software development throughout their career.
+
+	Learning Outcomes	By the end of this module, students should be able to demonstrate knowledge and critical awareness of techniques and technologies for systems integration, to apply such knowledge to the development of a substantial system by teams of developers, to independently research and evaluate new techniques and technologies for system integration, and communicate their evaluation to a variety of stakeholders in a professional environment.
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         Scaling Agile
+Agile Architectures 
+Enterprise Integration Patterns 
+SOLID Design Principles
+Polylingual Software Systems
+Testable Architecture
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         This module is largely problem-based and self-directed. It involves software development activities where students will work in small groups on a substantial system integration project for a client. Lectures and reading materials will be provided to facilitate these activities and reflect on the work done.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	Coursework 1 (50%)
+	Coursework 2 (50%)
+
+
+         To pass this course, students must:
+
+         	Obtain an overall pass mark of 50% for all sections combined.
+
+
+         
+(The coursework components will include individual reports, group reports and group presentations.)
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Lecture notes and readings will be given during the course.
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

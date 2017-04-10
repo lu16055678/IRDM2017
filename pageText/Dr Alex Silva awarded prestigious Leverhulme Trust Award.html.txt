@@ -1,0 +1,424 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         Dr Alex Silva awarded prestigious Leverhulme Trust Award
+ 
+         
+          
+          
+
+         
+ 
+         The Leverhulme Trust has announced the winners of the 2016 Philip Leverhulme Prizes, which includes Dr Alex Silva, Senior Lecturer at UCL Computer Science and member of the Programming Principles, Logic and Verification Research Group. 
+ 
+         Philip Leverhulme Prizes have been awarded annually since 2001 in commemoration of the contribution to the work of the Trust made by Philip Leverhulme, the Third Viscount Leverhulme and grandson of William Hesketh Lever, the founder of the Trust.
+ 
+         The prizes recognise the achievement of outstanding researchers whose work has already attracted international recognition and whose future career is exceptionally promising. 
+ 
+         In 2016 the Trust offered 5 prizes in each of the following subject areas Archaeology; Chemistry; Economics; Engineering; Geography; and Languages and Literatures. Each of the 30 Prize Winners receives £100,000 which can be used over two or three years to advance their research.
+ 
+         Dr Alex Silva's award recognises her research on semantics of programming languages and modular development of algorithms, partly drawing on coalgebra, a mathematical framework established in recent decades.
+ 
+         UCL's full list of 2016 winners is:
+ 
+         Economics: Professor Uta Schönberg, Department of Economics 
+ 
+         Engineering: Dr Alexandra Silva, Department of Computer Science 
+ 
+         Geography: Dr Vanesa Castán Broto, Development Planning Unit, The Bartlett and Dr David Thornalley, Department of Geography 
+ 
+          
+ 
+         Languages and Literatures: Dr Lily Okalani Kahn, Department of Hebrew and Jewish Studies
+ 
+         
+ 
+         
+ 
+         
+           Posted 28 Oct 16 12:10 
+         
+ 
+          
+          
+           Next: UCL research scrutinises... >
+
+          
+ 
+          
+           < Previous: UCL Wins First Minerva...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

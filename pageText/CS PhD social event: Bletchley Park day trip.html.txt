@@ -1,0 +1,414 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         CS PhD social event: Bletchley Park day trip
+ 
+         
+          
+          
+
+         
+ 
+         Earlier this month 20 PhD students from various groups of Department of Computer Science enjoyed themselves from an interesting and meaningful day-out trip to the Bletchley park and the National Museum of Computing. After being welcomed by the staff of the park, they learned the history and importance of the park from a mini-lecture; then were showed around for the early development of code-breaking there, and principles of the famous Engima machine and the Bombe machine.
+
+After relaxing and dining in the atmospheric Victorian Mansion, visitors broke into small groups to discover more in war-time postoffice, the Toy museum, the classic garage, the boat-model exhibition, the wireless exhibition, and most importantly, the small courtyard where Dr. Alan Turing lived and his life-story exhibition.
+
+Later the student visitors gathered around to head to the National Museum of Computing, which also resides in the park. Seeing all kinds of computing machines dating back to 1940s, they were astonished by the rich collections of the museum, the evolvement of technology, as well as how smart machines could be in early ages. The Colossus, the first electronic, digital, and programmable computer runs at the speed of 12.2m/s rather than the familiarized GHz. One student who tried to lift a giant 0.6m diameter ring but failed as it’s too heavy, learned later that the ring was actually part of a hard-disk with a storage of 8MB on each side.
+
+The trip was well-worthy the cost and time and received highly recognition when it’s over. Not only it’s a good attempt for getting students outside their offices and labs to embrace spring while visiting something they’re really interested in, also most of them made new friends and shared experience in research.  
+ 
+         Shuai Yuan
+MPhil/PhD in Computer Science,
+www.yuan-shuai.info
+ 
+         
+ 
+         
+ 
+         
+           Posted 23 Apr 12 14:46 
+         
+ 
+          
+          
+           Next: CS Research Student wins... >
+
+          
+ 
+          
+           < Previous: UCL Academic Centre of...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

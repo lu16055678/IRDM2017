@@ -1,0 +1,617 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Help
+      ›› TYPO3 ›› The UCL-CS Templates 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+        
+
+        
+	Old readers start here
+
+	General Principles
+
+	The TYPO3 "Backend"
+
+	Content Elements
+
+	Editing Content
+
+	Rich Text Editor
+
+	Inserting Images
+
+	Managing Links
+
+	Formats and Styles
+
+	Creating New Pages
+
+	Page properties
+
+	Moving and Copying pages
+	The UCL-CS Templates
+
+	Adding Content
+
+	Dividers
+
+	The "Text and Images" element
+
+	Files and TYPO3
+
+	Automatic Menus
+
+	Someone is editing my page!
+
+	Cutting and Pasting
+
+	Spelling check
+
+	Managing your work
+
+	Tracking changes
+
+	Rolling Back
+
+	Hiding pages
+
+	Hiding content elements
+
+	Working in a Draft Workspace
+
+	Previewing your draft
+
+	Publishing from the Draft Workspace
+
+	Browser set-up
+
+	TYPO3 v4.5 - The main changes
+
+	TYPO3 v4.5 - Some more changes
+
+	TYPO3 v6.2 - Introduction
+
+	TYPO3 v6.2 - Files
+
+	TYPO3 v6.2 - Images
+
+	TYPO3 v6.2 - Extensions
+
+	Training
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       
+        
+         Prev | 
+         Next
+        
+
+        
+         First | 
+         Last
+        
+
+       
+
+       
+ 
+        
+        
+         
+        
+         UCL-CS Layouts
+
+        
+ 
+         
+         
+        
+          
+           
+          All pages created in this area of the UCL-CS website conform to a consistent style which is determined by a template. There are three template variants and 8 colour-schemes. You do not have to choose the colour-scheme - it will be set automatically depending on which area the page belongs to (students, admissions, business, etc.). You do have to choose the template variant and this is done by selecting a Page Layout on the page properties form using the Appearance tab.
+ 
+           
+         
+
+         
+          
+           
+            
+             
+            
+
+           
+
+          
+
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         The Two Column Template
+
+        
+ 
+         
+         
+        
+         
+          
+           
+             Fig 1. UCL-CS "Two Column" template
+            	
+
+
+          
+
+         
+
+          
+           
+          This is the default for all new pages (Fig. 1). The main column contains the principal text of the page while the left-hand column contains an automatically generated menu of neighbouring pages. 
+
+          You can add further items below the automatic menu in the left column if you choose. To do this you add a content element to the Left column of the page. It is suggested that the items you add should be formatted as a bullet list. They will appear as such when viewed in the Rich Text Editor but will be formatted like the automatic items (i.e. without bullets) when the page is viewed.
+ 
+           
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         The Single Column Template
+
+        
+ 
+         
+         
+        
+         
+          
+           
+             Fig 2. UCL-CS "One Column" template
+            	
+
+
+          
+
+         
+
+          
+           
+          This one eliminates the left-hand column (hence no menus) and the grey area on the right-hand side (Fig. 2).
+ 
+           
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         The Two Column with Image Template
+
+        
+ 
+         
+         
+        
+         
+          
+           
+             Fig 3. UCL-CS "Two Column plus Image" template
+            	
+
+
+          
+
+         
+
+          
+           
+          This one adds a poster image to the Two Column template (Fig. 3). 
+
+          If you simply select this template and do nothing else then the image will be chosen at random each time the page is displayed. 
+
+          If you want to choose the image yourself then you must create an Images only content element in the Right column. The image should be 660 pixels wide by 235 pixels high.
+ 
+           
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         The Two Column with Navigation Template
+
+        
+ 
+         
+         
+        
+         
+          
+           
+             Fig 4. UCL-CS "Two Column plus Navigation" template
+            	
+
+
+          
+
+         
+
+          
+           
+          This one adds navigation bars at the top and bottom of each page - arrowed in Fig. 4. It is used for the page you are reading. The navigation bars provide Prev, Next, First and Last links on each page and are useful in a lengthy series of linked pages that,   typically, are read in succession. 
+
+          Note that as currently set up this template assumes that all the related pages are on a single level.
+ 
+           
+         
+
+        
+ 
+         
+       
+ 
+        
+       
+        
+         Prev | 
+         Next
+        
+
+        
+         First | 
+         Last
+        
+
+       
+
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

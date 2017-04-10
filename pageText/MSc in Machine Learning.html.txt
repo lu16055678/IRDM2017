@@ -1,0 +1,475 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students ›› MSc ML 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         
+          
+           
+            
+             
+            
+
+           
+
+          
+
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         MSc Machine Learning
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        Please see the programme structure below, for links to Moodle for each of the modules available on this programme for 2016-17. 
+ 
+        For full syllabus content, please see the Postgraduate syllabus index. 
+ 
+        The 2016-17 timetable can be found online, in the common timetable, however, please always make sure to check your personal timetable.
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         Programme Diet
+
+        
+ 
+         
+         
+         
+         
+          
+          Core Modules
+ 
+           
+            
+            
+             
+            	COMPGI99 Individual Projects
+	COMPGI01 Supervised Learning
+
+ 
+             
+           
+ 
+            
+          
+ 
+          Optional Modules (Group 1) [Choose 1]
+ 
+           
+            
+            
+             
+            	COMPGI08 Graphical Models
+	COMPGI18 Probabilistic and Unsupervised Learning
+
+ 
+             
+           
+ 
+            
+          
+ 
+          Optional Modules (Group 2) [Choose 6]
+ 
+           
+            
+            
+             
+            	COMPGI07 Mathematical Programming & Research Methods
+	COMPGI09 Applied Machine Learning
+	COMPGI10 Bioinformatics
+	COMPGI13 Advanced Topics in Machine Learning
+	COMPGI14 Machine Vision
+	COMPGI15 Information Retrieval & Data Mining
+	COMPGI16 Approximate Inference and Learning in Probabilistic Models
+	COMPGI17 Affective Computing and Human-Robot Interaction
+	COMPGI19 Statistical Natural Language Processing
+	COMPGV08 Inverse Problems in Imaging
+	COMPGV17 Computational Modeling for Biomedical imaging
+	COMPGV19 Numerical Optimisation
+
+ 
+             
+           
+ 
+            
+          
+ 
+         
+ 
+        
+ 
+         
+         
+       
+ 
+        
+        
+        
+         
+        
+         Quick links for popular queries
+
+        
+ 
+         
+         
+        	Academic Manual (Student Guide)
+	Contacts - Department of Computer Science
+	Coursework Deadlines - Department of Computer Science
+	Coursework Header - Department of Computer Science
+	Exams and Awards - UCL
+	LectureCast - Department of Computer Science
+	Postgraduate Handbook - Department of Computer Science
+	Postgraduate Syllabus - Department of Computer Science
+	Technical Support Group - Department of Computer Science
+
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 06 Feb 2017 and is maintained by 
+      Samantha Bottomley 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

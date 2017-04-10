@@ -1,0 +1,422 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         UCL join forces with the English National Opera and Holition
+ 
+         
+          
+          
+
+         
+ 
+          UCL Computer Science third year student Delia Gander's dissertation project is investigating how state of the art face-tracking technology combined with a novel user experience can benefit make-up artists, costume designers, performers and young audiences to the ENO. Together with Ana Moutinho, lead UX Designer, Professor Yvonne Rogers, Director of UCLIC, and Natasha Freedman, Head of Baylis, ENO, Delia has been helping to create a virtual make up app to explore how people can engage and interact with new technology in order to ’step into character’. The MagicFace app, that was developed, applies virtual theatrical make-up onto the reflection of a user to make it appear as if it really is on their face. When they move their face when looking in the mirror app the virtual make-up also moves in real time.
+ 
+          The aim of the project is to measure how singers, make-up artists and visitors to the ENO approach and interact with technology. Do they suspend disbelief and think the virtual make-up is real? The team are studying how immersive experiences, that use this kind of Augmented Reality, can enable people to feel like an opera singer and learn more about what it is like ‘behind the scenes’ for a production at the ENO. The ENO has given access to its production of Akhnaten to enable this research to be conducted. Holition created two virtual Egyptian looks from the production, using their proprietary face-tracking technology which ‘sees’ and locates features on a face and is intuitive enough to discern between the skin of the lips, eyes, and other facial contours. The digital skill used to create the Egyptian visualisation mimics the way a make-up artist applies make-up to a face - the styling, shading and final effect.
+ 
+          The project was funded by UCL’s EPSRC Impact Acceleration Account, matched by in-kind support from Holition. The results from initial user testing with groups of singers, make-up artists and school children has been most revealing, demonstrating the value of this technology for a variety of uses.
+ 
+          For Delia Gander it has been an incredible learning experience and a unique opportunity to work at the interface of academia, industry and the arts.  “The opportunity to work on such a collaborative and creative project is something I never expected I would be able to do as an undergraduate. I'm extremely proud of what we've been able to accomplish.”
+ 
+          ENO’s new production of Philip Glass’s Akhnaten directed by Phelim McDermott is on stage at the London Coliseum 4th- 18th March 2016. For more information see 
+ 
+          She is investigating how state of the art face-tracking technology combined with a novel user experience can benefit make-up artists, costume designers, performers and young audiences to the ENO. Together with Ana Moutinho, lead UX Designer, Professor Yvonne Rogers, Director of UCLIC, and Natasha Freedman, Head of Baylis, ENO, Delia has been helping to create a virtual make up app to explore how people can engage and interact with new technology in order to ’step into character’. The MagicFace app, that was developed, applies virtual theatrical make-up onto the reflection of a user to make it appear as if it really is on their face. When they move their face when looking in the mirror app the virtual make-up also moves in real time. 
+ 
+          The aim of the project is to measure how singers, make-up artists and visitors to the ENO approach and interact with technology. Do they suspend disbelief and think the virtual make-up is real? The team are studying how immersive experiences, that use this kind of Augmented Reality, can enable people to feel like an opera singer and learn more about what it is like ‘behind the scenes’ for a production at the ENO. The ENO has given access to its production of Akhnaten to enable this research to be conducted. Holition created two virtual Egyptian looks from the production, using their proprietary face-tracking technology which ‘sees’ and locates features on a face and is intuitive enough to discern between the skin of the lips, eyes, and other facial contours. The digital skill used to create the Egyptian visualisation mimics the way a make-up artist applies make-up to a face - the styling, shading and final effect. 
+ 
+          The project was funded by UCL’s EPSRC Impact Acceleration Account, matched by in-kind support from Holition. The results from initial user testing with groups of singers, make-up artists and school children has been most revealing, demonstrating the value of this technology for a variety of uses. 
+ 
+          For Delia Gander it has been an incredible learning experience and a unique opportunity to work at the interface of academia, industry and the arts.  “The opportunity to work on such a collaborative and creative project is something I never expected I would be able to do as an undergraduate. I'm extremely proud of what we've been able to accomplish.” 
+ 
+          ENO’s new production of Philip Glass’s Akhnaten directed by Phelim McDermott is on stage at the London Coliseum 4th- 18th March 2016. For more information see www.eno.org/whats-on/akhnaten.
+ 
+         
+ 
+         
+ 
+         
+           Posted 15 Mar 16 17:08 
+         
+ 
+          
+          
+           Next: Saving Bletchley Park:... >
+
+          
+ 
+          
+           < Previous: Computer Science...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

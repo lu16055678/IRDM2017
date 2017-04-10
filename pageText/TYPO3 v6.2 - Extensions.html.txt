@@ -1,0 +1,483 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Help
+      ›› TYPO3 ›› TYPO3 v6.2 - Extensions 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+        
+
+        
+	Old readers start here
+
+	General Principles
+
+	The TYPO3 "Backend"
+
+	Content Elements
+
+	Editing Content
+
+	Rich Text Editor
+
+	Inserting Images
+
+	Managing Links
+
+	Formats and Styles
+
+	Creating New Pages
+
+	Page properties
+
+	Moving and Copying pages
+
+	The UCL-CS Templates
+
+	Adding Content
+
+	Dividers
+
+	The "Text and Images" element
+
+	Files and TYPO3
+
+	Automatic Menus
+
+	Someone is editing my page!
+
+	Cutting and Pasting
+
+	Spelling check
+
+	Managing your work
+
+	Tracking changes
+
+	Rolling Back
+
+	Hiding pages
+
+	Hiding content elements
+
+	Working in a Draft Workspace
+
+	Previewing your draft
+
+	Publishing from the Draft Workspace
+
+	Browser set-up
+
+	TYPO3 v4.5 - The main changes
+
+	TYPO3 v4.5 - Some more changes
+
+	TYPO3 v6.2 - Introduction
+
+	TYPO3 v6.2 - Files
+
+	TYPO3 v6.2 - Images
+	TYPO3 v6.2 - Extensions
+
+	Training
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       
+        
+         Prev | 
+         Next
+        
+
+        
+         First | 
+         Last
+        
+
+       
+
+       
+ 
+        
+        
+         
+        
+         Extensions
+
+        
+ 
+         
+         
+        
+          
+           
+          In addition to the core software, TYPO3 comes with a large number of optional extensions. We use a number of these. As far as can be judged, most seem to work as before. However, if you encounter problems please email g.knight@cs.ucl.ac.uk. 
+ 
+          A couple are worth mentioning: 
+ 
+          Responsible
+ 
+          This extension produced the date and ownership of a page - usually right at the bottom. The extension no longer works. However, the same function is now provided via a different route. Please contact g.knight@cs.ucl.ac.uk if this is not working satisfactorily. 
+ 
+          Mouseoverimages
+ 
+          This implemented various visual effects when the mouse cursor entered an image. It does not work with TYPO3 v6.2 and there is no obvious replacement. An alternative has been implemented which allows images to be lightened or darkened when the mouse cursor crosses them.
+ 
+           
+         
+
+         
+          
+           
+            
+             
+               Fig. 4 Setting an image "mouseover" effect.
+              	
+
+
+            
+
+           
+
+          
+
+         
+
+        
+ 
+         
+       
+ 
+        
+       
+        
+         Prev | 
+         Next
+        
+
+        
+         First | 
+         Last
+        
+
+       
+
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

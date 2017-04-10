@@ -1,0 +1,452 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus ›› GF04 - Financial Market Modelling and Analysis 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGF04 - Financial Market Modelling and Analysis
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPGF04
+	Year	MSc
+	Prerequisites	N/A
+	Term	2
+	Taught By	Chris Clack (100%)
+	Aims	This module will introduce students to the field of modelling and analysing financial markets with emphasis on (i) the wide variety of deterministic and discrete-time methods that are available; and (ii) numerical simulation of the financial markets, including agent-based modeling.
+
+	Learning Outcomes	The students will be able to distinguish between different types of modeling and analysis, and explain the advantages and disadvantages of each method; they will gain an understanding of discrete-time dynamic optimisation methods; they will gain an understanding of numerical simulation methods, including both agent-based techniques and the use of recurrence relations.
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content
+
+         
+ 
+          
+          
+         1. Introduction to the Financial Markets    
+Market Microstructure    
+Order-driven and Quote-driven markets    
+Orders, Quotes and Trades 
+Post-trade processing
+Regulation
+Trading Strategies   
+Risk Management 
+ 
+         2. Markets
+Auctions
+Markets
+Dealer Markets and Order-Book Markets
+Market Making
+Low latency and High Frequency Trading     
+ 
+         3. Introduction to Techniques
+Game Theory
+Minority Games
+Agent Based Models
+Dynamic Optimisation 
+ 
+         4. Specific models
+Day & Juang - Bulls, Bears and Market Sheep
+Lyons - The Foreign Exchange Hot Potato   
+Huang et al - Optimal Market Making with Risk Aversion
+Instability arising from coupled dealer algorithms 
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction
+
+         
+ 
+          
+          
+         Lecture presentations.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment
+
+         
+ 
+          
+          
+         The course has the following assessment component: 
+ 
+         	Written Examination (2.5 hours, 100%)
+
+ 
+         To pass this course, students must: 
+ 
+         	Obtain an overall pass mark of 50% 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources
+
+         
+ 
+          
+          
+         A full list of resources will be available on the Moodle site for this module. 
+ 
+         Web resources
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

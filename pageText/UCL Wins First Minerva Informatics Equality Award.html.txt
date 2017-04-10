@@ -1,0 +1,440 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         UCL Wins First Minerva Informatics Equality Award
+ 
+         
+          
+          
+
+         
+ 
+         The winner of the first edition of the Minerva Informatics Equality Award is UCL Computer Science Department for its comprehensive gender policy, the diversity of initiatives put in place as well as the strong evidence of positive impact.
+ 
+         This year’s edition of the Minerva Informatics Equality Award focused on gender equality initiatives and policies that help develop the careers of female faculty. The Award, organised by Informatics Europe and sponsored by Google, was presented at a special ceremony held in Budapest, Hungary, during the 2016 European Computer Science Summit. Dr Alexandra Silva accepted the Award on behalf of UCL and presented the scope and impact of their initiative.
+ 
+         Three years ago, the Computer Science Department at UCL started the ADVANCE initiative to increase the number of female lecturers and achieve subsequent promotions through the ranks. ADVANCE was led by Dr Ivana Drobnjak and Professor John Shawe-Taylor.
+ 
+         It is part of the department’s wider Athena Swan initiative, motivated by the UK Athena Swan Charter established in 2005 to encourage and recognize commitment to advancing the careers of women in STEMM disciplines (Science, Technology, Engineering, Mathematics and Medicine). 
+ 
+         To help women move from a research career into an academic one, a structured programme for career progression was put in place that focuses in particular on the transition from contract research positions to permanent lectureships. Further actions under the ADVANCE initiative support women once they are on the academic track, addressing life-work balance issues, improving promotion procedures, organising awareness training for all staff, as well as providing support for informal networking and mentoring.
+ 
+         The appointment and promotion figures for female staff at the Computer Science Department at UCL provide clear evidence of the positive impact of the measures adopted.  One of the key reasons for the success of the ADVANCE initiative was the strong support of the Head of the Department, Professor John Shawe-Taylor.
+ 
+         “The Computer Science Department at UCL is to be congratulated for its strong commitment and comprehensive approach to gender equality,” comments Micheline Beaulieu, Emeritus Professor of Information Science, University of Sheffield, UK and Chair of the Award Committee.  “They implemented several effective strategies which are far reaching and provide a model of sustainable good practice.”
+ 
+         John Shawe-Taylor adds: “I am very proud of this achievement of our department. Our committed Athena Swan team works very hard towards implementing strategies to remove obstacles in the path of women’s careers in computer science disciplines. My personal involvement in the process has been extremely gratifying and I am very pleased to see the progress we have made.
+ 
+         "Women have already made huge contributions to computing: in the case of Ada Lovelace it could be argued founding the field. The fact that women have been reluctant to follow this career has cost the discipline dear in terms of missed opportunities and talent. Led by our Athena Swan Champions 
+ 
+         Dr Ivana Drobnjak and Dr Alexandra Silva, our efforts now are very much focused on providing training and mentoring to other departments and universities, and I am very much looking forward to the interesting work awaiting in the future.”
+ 
+          The winner was selected by a prominent team of international experts in an evaluation process that ran from May to August 2016.   
+ 
+         About the Minerva Informatics Equality Award 
+ 
+         The Minerva Informatics Equality Award, organised by Informatics Europe, recognizes best practices in Departments or Faculties of European Universities and Research Labs that encourage and support the careers of women in Informatics research and education. On a three-year cycle, the award focuses each year on a different stage of the career pipeline: developing the careers of female faculty; supporting the transition for PhD and postdoctoral researchers into faculty positions; and encouraging female students to enroll in Computer Science/Informatics programmes and retaining them.
+ 
+         The 2016 award is devoted to gender equality initiatives and policies to develop the careers of female faculty. It seeks to celebrate successful initiatives that have had a measurable impact on the careers of women within the institution. The award grant is to be used for further work on promoting gender equality.
+ 
+         Visit http://www.informatics-europe.org/awards/minerva-informatics-equality-award.html to learn more about the Minerva Informatics Equality Award. 
+ 
+         Visit http://www.informatics-europe.org/working-groups/women-in-icst-research-and-education.html to learn more about the Informatics Europe Working Group: Women in Informatics Research and Education. 
+ 
+         About Informatics Europe
+ 
+         Informatics Europe represents the academic and research community in Information and Computer Sciences in Europe. Bringing together university departments and research laboratories, it creates a strong common voice to safeguard, shape and stimulate quality research and teaching in Informatics in Europe. With over 100 member institutions across 25 countries, Informatics Europe works to define and promote common policies and tackle common issues. 
+ 
+         www.informatics-europe.org 
+ 
+         
+ 
+         
+ 
+         
+           Posted 28 Oct 16 11:58 
+         
+ 
+          
+          
+           Next: Dr Alex Silva awarded... >
+
+          
+ 
+          
+           < Previous: AI predicts outcome of...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

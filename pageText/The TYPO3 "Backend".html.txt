@@ -1,0 +1,512 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Help
+      ›› TYPO3 ›› The TYPO3 "Backend" 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+        
+
+        
+	Old readers start here
+
+	General Principles
+	The TYPO3 "Backend"
+
+	Content Elements
+
+	Editing Content
+
+	Rich Text Editor
+
+	Inserting Images
+
+	Managing Links
+
+	Formats and Styles
+
+	Creating New Pages
+
+	Page properties
+
+	Moving and Copying pages
+
+	The UCL-CS Templates
+
+	Adding Content
+
+	Dividers
+
+	The "Text and Images" element
+
+	Files and TYPO3
+
+	Automatic Menus
+
+	Someone is editing my page!
+
+	Cutting and Pasting
+
+	Spelling check
+
+	Managing your work
+
+	Tracking changes
+
+	Rolling Back
+
+	Hiding pages
+
+	Hiding content elements
+
+	Working in a Draft Workspace
+
+	Previewing your draft
+
+	Publishing from the Draft Workspace
+
+	Browser set-up
+
+	TYPO3 v4.5 - The main changes
+
+	TYPO3 v4.5 - Some more changes
+
+	TYPO3 v6.2 - Introduction
+
+	TYPO3 v6.2 - Files
+
+	TYPO3 v6.2 - Images
+
+	TYPO3 v6.2 - Extensions
+
+	Training
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       
+        
+         Prev | 
+         Next
+        
+
+        
+         First | 
+         Last
+        
+
+       
+
+       
+ 
+        
+        
+         
+        
+          
+           
+          When you log in to TYPO3 you see a screen like the one below:
+ 
+           
+         
+
+         
+          
+           
+            
+             
+            
+
+           
+
+          
+
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        There are three main areas (labeled 1, 2 & 3 above):
+
+        	The left-hand menu allows you to switch between various TYPO3 modules. As shown, the "Page" module is in use. This is the most common module to use when editing pages. (Note that the precise list of modules available may differ between users).
+	The second column shows the "page tree" (as it always does when the page module is in use). This shows all the pages available on the website - or at any rate the pages in the part of the website you are entitled to edit. The pages are organised in a tree - rather like the files and folders on a PC). Currently the page entitled "Exercise 1" is selected. The full path to this page can be read from the tree. It is:
+
+Help ›› TYPO3 ›› Editing Existing Content 
+
+This path will be shown in the "breadcrumb trail" when the page is viewed.
+	The third column shows the editing panel - see below.
+
+ 
+         
+       
+ 
+        
+        
+        
+         
+        The editing panel
+ 
+        The panel has three column labeled "LEFT", "NORMAL" and "RIGHT". The CS website uses these columns as follows:
+
+        	
+          LEFT
+         
+	
+          This is used for adding custom menu items to the left-hand column of a web page. Frequently this will be left blank in which case the left-hand column will just show the automatically generated menu. (see 
+          Automatic Menus)
+         
+	
+          NORMAL
+         
+	
+          This is where the main page content is placed. See below for how to add and edit content.
+         
+	
+          RIGHT
+         
+	
+          CS pages do not have a right-hand column so in the great majority of cases this column can be ignored. (It is used for a few pages which have specialised layout requirements but this can be ignored for now).
+         
+
+ 
+         
+       
+ 
+        
+       
+        
+         Prev | 
+         Next
+        
+
+        
+         First | 
+         Last
+        
+
+       
+
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

@@ -1,0 +1,457 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus Index 2017-2018 (Provisional)
+      ›› COMPGL ›› COMPGL01 - Introduction to Logic, Semantics and Verification 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGL01 - Introduction to Logic, Semantics and Verification
+
+       This database contains the 2017-18 versions of syllabuses. These are still being finalised and changes may occur before the start of the session.
+
+       Syllabuses from the 2016-17 session are available here.
+
+        
+         
+         
+          
+         	Code	COMPGL01 (Also taught as COMPM086)
+	Year	MSc
+	Prerequisites	Students must be familiar with basic probability and statistics concepts. They must also have some familiarity with mathematical analysis.
+	Term	1
+	Taught By	Alexandra Silva (100%)
+	Aims	The module aims to familiarize students with formal methods for reasoning about transition systems and programs.
+	Learning Outcomes	Students will be able to acquire a sound understanding of various algebras and logics and their application in program reasoning.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content
+
+         
+ 
+          
+          
+         Part I: Logic basics
+
+         	Classical propositional & predicate logic.
+	Basic Modal Logic: Kripke frames, Axioms, tableaus.
+	Multimodal logic, Propositional Dynamic Logic.
+
+
+         Part II: Kleene algebra and applications
+
+         	Kleene algebra: basic definitions and semantics.
+	Kleene algebra with tests (KAT).
+	Program analysis using KAT.
+
+
+         Part III: Formal semantics of programming languages
+
+         	Different approaches to formal semantics: operational, denotational and axiomatic semantics.
+	Proofs by induction on derivations and structure.
+	Semantics of programs with computational effects and interaction with the environment (overview).
+
+
+         Part IV: Intro to Separation Logic
+
+         	Logical foundations of separation logic.
+	Inductive definitions.
+	Bunched logic/substructural logic.
+
+
+          Part V: Verification
+
+         	Owicki-Gries and Rely/Guarantee methods.
+	Hoare logics and type theory.
+	Interactive theorem proving.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction
+
+         
+ 
+          
+          
+         3 hours of lectures per week and 5 hours of problem classes across the term.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	Coursework (100%)
+
+
+         To pass this course, students must:
+
+         	Obtain an overall pass mark of 50% for all sections combined.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources
+
+         
+ 
+          
+          
+         Recommended texts
+Chellas, B.F., 1980. Modal Logic: an introduction. Cambridge: Cambridge University Press 
+ 
+         Further books and other resources will be indicated during the course.
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 04 Apr 2017 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

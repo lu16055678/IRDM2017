@@ -1,0 +1,251 @@
+ 
+   
+  	 
+       
+      	
+          
+           UCL DEPARTMENT OF COMPUTER SCIENCE
+           
+ 
+           Information for Students
+          
+ 
+          
+           
+          
+
+		 
+           
+            
+            
+            
+            
+            
+            
+          
+ 		Home	Admissions	Students	Careers	Research	Business	People	Help	
+					
+
+ 
+	 
+      			
+	
+	
+	 
+           
+            
+            
+            
+            
+            
+            
+          
+ | Getting Here |
+ | Contact |
+ 
+ 
+	
+	  
+	 
+           
+           
+          
+ Syllabi 
+          
+ Curriculum 
+          
+ Timetables 
+          
+ Coursework 
+          
+ Past Examination Papers  
+          
+ Assessment 
+          
+ Personal pages 
+          
+ Tutorials 
+          
+ Libraries 
+          
+ 
+           
+           
+	  
+
+ 	 	  
+	  
+	 
+      		  
+           
+           
+           Text size A A A A A  
+          
+ 
+          
+  | STUDENTS 
+             > 1st Year > Tutorials 2008/9
+             |  
+          
+ 
+           1st year tutorials are held once every two weeks. Your tutor will tell you when and where to meet. A tutor's role is to monitor your progress and be someone to talk to about your work or any problems you are having.
+ Tutorials are compulsory. If you cannot attend, contact your tutor as soon as possible to explain why.
+ The 1st year tutors are:
+ 
+          	 Initials	 Name	Email address	Room
+	DG	Dr. Denise Gorse	D.Gorse@cs.ucl.ac.uk	
+              
+               8.02
+              
+
+	GAR	Dr. Graham Roberts	G.Roberts@cs.ucl.ac.uk	
+              
+               6.17
+              
+
+	JD	Dr. John Dowell 	J.Dowell@cs.ucl.ac.uk	
+              
+               8.25
+              
+
+	JK	Dr. Jan Kautz 	J.Kautz@cs.ucl.ac.uk	
+              
+               6.18
+              
+
+	KB	Dr. Kevin Bryson	K.Bryson@cs.ucl.ac.uk	
+              
+               8.04
+              
+
+	LC	Dr. Licia Capra 	L.Capra@cs.ucl.ac.uk	
+              
+               7.17
+              
+
+	SJ	Dr. Simon Juiler 	S.Julier@cs.ucl.ac.uk	
+              
+               6.04
+              
+
+	SP	Dr. Simon Prince 	S.Prince@cs.ucl.ac.uk	
+              
+               5.06
+              
+
+
+ A photosheet of all the 1st year tutors is here. 
+ The tutorial groups are: 
+ 
+           
+           	Family Name 	First Name 	Tutor	Degree
+ Programme
+	Ali	Muhammad	DG	MEngCS
+	Cheung	Gee-Ho	DG	BScCS
+	Chow	Chung	DG	MEngCS
+	Cowell	Alexander	DG	BScCS
+	Kozlowski	Jakub	DG	MEngCS
+	Mayor	William	DG	BScCS
+	Patel	Sneha	DG	BScCS
+	Tupas	Edmund	DG	MEngCS
+	Alwar	Dinesh	GAR	BScCS
+	Couste	Amaury	GAR	MEngCS (int)
+	Hogan	Luke	GAR	MEngCS
+	Kuganesan	Ahillen	GAR	BScCS
+	Kyriakides	Ermos	GAR	BScCS
+	Mcnulty	Eoghan	GAR	MEngCS
+	Pie	James	GAR	BScCS
+	Bennett	Zakerey	JD	MEngCS
+	Cvetkovic	Nikola	JD	MEngCS
+	Howson	Emma	JD	MEngCS
+	Lack	Chris	JD	MEngCS
+	Mahmood	Soheb	JD	MEngCS (int) 
+	Meighan	Edward	JD	MEngCS (int)
+	Powell	Daniel	JD	MEngCS
+	Bokana	Dady	JK	MEngCS
+	Cui	Qian Ji 	JK	BScCS
+	Law	Marvin	JK	MEngCS
+	Muller	Alexander	JK	BScCS
+	Park	Jin	JK	MEngCS
+	Patel	Harshin	JK	MEngCS
+	Sharif	Mohammed	JK	MEngCS
+	Alsayedahmad	Mohamad	KB	MEngCS
+	Bui	Ian	KB	BScCS
+	Gale	Michael	KB	BScCS
+	Kayungu-Nyeledi	Lauriane	KB	BScCS
+	Kowalski	Konrad	KB	BScCS
+	Lin	Hsiao-Hsin	KB	MEngCS
+	Tian	Yang	KB	BScCS
+	Ali	Rayad	LC	BScCS
+	Cai	Wei	LC	BScCS
+	Gupta	Suneeta	LC	MEngCS
+	Lisovyi	Rostyslav	LC	BScCS
+	Ngo	Jason	LC	BScCS
+	Wang	Ruili	LC	BScCS
+	Chen	Bing	SJ	BScCS
+	Chen	Hunadi	SJ	MSciMACS
+	Guitierrez Calzado 	Maria	SJ	BScCS
+	Halai	Sunil	SJ	BScCS
+	Martin	William	SJ	MEngCS
+	Simionescu	Andrei	SJ	MSciMACS
+	Yan	Cheng	SJ	BScCS
+	Ceapa	Irina	SP	MEngCS
+	Gurjar	Jerus	SP	BScCS
+	Koodeswaran	Kksri	SP	MEngCS
+	Lobo	Anthony	SP	MEngCS
+	Olatunbosun	Olutoye	SP	MEngCS
+	Peiciu	Nicolae	SP	BScCS
+	Wibberley	Christopher	SP	MEngCS
+
+ 
+          
+ If your name is missing, incorrect or shown with the wrong tutor, email the Departmental Tutor (g.roberts@cs.ucl.ac.uk). 
+ 
+          
+ Groups from previous years 
+ 
+          	2005/6
+	2006/7
+	2007/8
+
+  
+ 
+           	
+	   
+ 
+	 This page last modified: 
+          11 December, 2008
+           by 
+           Graham Roberts 
+           
+
+ 
+       
+	 
+       
+       
+      
+ Computer Science Department - University College London - Gower Street - London - WC1E 6BT -  +44 (0)20 7679 7214 - Copyright Â© 1999-2007 UCL
+ 
+       
+       	Disclaimer | 
+	Accessibility | 
+	Privacy | 
+	Advanced Search | 
+	Help
+
+ 
+      
+ 
+ 
+       
+       
+        
+      
+ 
+
+ 
+   
+    
+   
+ 

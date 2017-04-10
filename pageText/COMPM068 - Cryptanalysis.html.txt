@@ -1,0 +1,451 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus ›› M068 - Cryptanalysis 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPM068 - Cryptanalysis
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPM068 (Also taught as COMPGA18)
+	Year	4
+	Prerequisites	Introduction to Cryptography COMPGA03
+	Term	2
+	Taught By	Nicolas Courtois and Christophe Petit
+	Aims	Study of major topics in cryptanalysis. Showing a variety of ways to break, fix/repair and to measure/evaluate the security of cryptographic primitives. Understanding the maths, the security design principles, the internal structure and important properties of major cryptosystems. Study of major computational hard problems in cryptography (symmetric and public key). Step by step analysis of mathematical/algebraic/statistical attacks, methods and algorithms in cryptanalysis. 
+
+	Learning Outcomes	Knowledge and understanding of how current cryptographic security technologies are built with individual components and their interaction, how they are (sometimes) defeated and how they can be designed or enhanced to be more robust. Understanding security goals, attacks and defences and other requirements in cryptographic systems. Understanding different types of attacks (e.g. key recovery vs. decryption). Learning how to evaluate the practical feasibility of attacks in terms of time, memory, pre-computation, data and the protocol / context in which they can be executed. 
+Understanding the role of keyed operations, non-linearity, randomness, one-wayness, diffusion, side-channel vulnerabilities, permutations, security reductions, etc in the design of cryptographic protections. Discovering with software of key properties which are relevant to their security. Learning how to use standard crypto libraries, computer algebra software and software cryptanalysis tools. Learning how cryptosystems fail (theory/practice). 
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content
+
+         
+ 
+          
+          
+         Historical cryptanalysis. LFSR-based stream ciphers. Modern block ciphers(DES/AES/other). Differential cryptanalysis, linear cryptanalysis, algebraic cryptanalysis in block and stream ciphers. Self-similarity attacks. Groups, finite fields. Number theory. Attacks on public key cryptosystems. RSA, factoring, discrete logarithms, elliptic curves, lattice attacks. Cryptographic explorations with software. Protocol/mode/initialization attacks. Side channel attacks. 
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction
+
+         
+ 
+          
+          
+         Tutor-led class sessions, problem-solving, student projects with programming, participation in code-breaking competitions, private study. Concepts will be illustrated by practical computations with software and computer explorations.  
+ 
+         Students will execute individual small projects in which they will focus on study/analysis/discovery/implementation of particular cryptanalytic attacks.  
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment
+
+         
+ 
+          
+          
+         There is NO written examination.  The course has the following assessment components:  
+ 
+         One Individual Exploratory Programming Project (50%)  
+ 
+         and  
+ 
+         One Participation in a Code Breaking Competition (Jan-May 50%).  
+ 
+         The competition will be similar yet different than last years competition: https://www.benthamsgaze.org/2015/06/24/ucl-code-breaking-competition/ 
+ 
+         In code breaking competitions students will be assessed on:  
+ 
+         1) their engagement, participation, team spirit, intellectual attitude and curiosity,  
+ 
+         2) mastery of underlying mathematical/algorithmic concepts and operational tools and techniques, and  
+ 
+         3) scientific and practical achievements, exploration visualisation and exploitation of data and results.  
+ 
+         To pass this course, students must:  
+ 
+         Submit both the programming project and participate in the competition, and 
+ 
+         	Obtain an overall combined mark of 50% for both components.
+	Obtain a minimum mark of 40% in each component worth ≥ 30% of the module as a whole.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources
+
+         
+ 
+          
+          
+         Lecture notes provided Moodle (Page ID = 28993) 
+ 
+         Examples of slides and software used in past years: http://blog.bettercrypto.com/?page_id=1368 
+ 
+         Refrence books:  
+ 
+         Antoine Joux: Algorithmic Cryptanalysis, CRC Press  
+ 
+         Menezes, van Oorschot, Vanstone: Handbook of Applied Cryptography, CRC Press. www.cacr.math.uwaterloo.ca/hac&nbsp; 
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

@@ -1,0 +1,1748 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Prospective Students ›› MSc RC 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         
+          
+           
+            
+             
+            
+
+           
+
+          
+
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+         
+         
+          
+          	Overview
+	Course Structure
+	Entry Requirements
+	Fees & Funding
+	Employability
+	Contact
+	Apply
+
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+              Robotics and Autonomous Systems (RAS) are set to shape technology innovation in the 21st Century, underpinning research in a wide range of challenging areas: the ageing population, efficient health care, safer transport, and secure energy. UCL's edge in scientific excellence, industry collaboration and cross-sector activities make it ideally placed to drive IT robotics and automation education in the UK. 
+ 
+              Recent investment across UCL in the Faculty of Engineering and The Bartlett Faculty of the Built Environment has created the infrastructure for an exciting UCL Robotics programme, which will be interdisciplinary and unique within the UK and Europe. UCL is also a founder member of the EPSRC UK Robotics and Autonomous Systems Network (UK-RAS Network). The Network will bring together the UK’s core academic capabilities in robotics innovation under national coordination for the first time and encourage academic and industry collaborations that will accelerate the development and adoption of robotics and autonomous systems.
+ 
+               
+             
+ 
+              
+              
+              
+               
+              
+               
+                
+                 
+                
+
+               
+
+              
+ 
+               
+             
+ 
+              
+              
+              
+               
+              
+               
+
+              
+ 
+               
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+               	2016/17
+	2017/18
+
+ 
+                
+                 
+                  
+                  
+                   
+                   
+                   
+                    
+                   The programme is in three parts; a compulsory element; an optional element where you choose four modules according to your own interests from an options list; and finally a substantial individual project carried out in the summer term.
+ 
+                    
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGX02 Robotic Control Theory and Systems
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX02 Robotic Control Theory and Systems
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to give students an insight into robotics and autonomous systems control theory and practice, specifically:
+
+                       	Control loops. damping, feedback and stability analysis with a working understanding about how these are used for navigating a robot within an environment;
+	Insight into developing a working prototype of a control system for a robot that solves a specific task.
+
+
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGX03 Robotic Sensing, Manipulation and Interaction
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX03 Robotic Sensing, Manipulation and Interaction
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to make sure students are familiar with various concepts in robotic sensing and manipulation and to give them a working knowledge of haptic interfaces and haptic control. These concepts will be used to teach students the principles and practical implementation of a tele-manipulation system involving a user interface, end-effector and a haptic or visual display unit. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGX01 Robotic Systems Engineering
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX01 Robotic Systems Engineering
+
+                       
+ 
+                        
+                        
+                       Students will gain an introductory overview of robotics and autonomous systems. Technically they will gain an understanding of the concepts and principles of ROS, the underpinning software development environment for robot systems, through a number of example applications, leading to the capability of using ROS for advanced robot control, navigation, sensing and verification. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGX04 Robotic Vision and Navigation
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX04 Robotic Vision and Navigation
+
+                       
+ 
+                        
+                        
+                       Students will gain knowledge about robot navigation with specific focus on the use of vision as a primary sensor for mapping the environment. The module will provide students with an understanding and practical experience of recovering geometry from optical sensors and creating an environment map which a robot can use for navigation and motion planning. 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Optional Modules
+
+                   
+ 
+                    
+                    
+                   Students take a minimum of two modules and a maximum of four modules from the following list.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                    
+                    
+                     
+                     COMPGV18 Acquisition & Processing of 3D Geometry
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV18 Acquisition & Processing of 3D Geometry
+
+                       
+ 
+                        
+                        
+                       This  module will expose students to the challenges and potential of geometry processing in relevant application areas. It aims to explain how to use acquire 3D model, and subsequently process, analyze, and manipulate the data, and familiarize students with handling real data sets. Students will gain necessary practical skills to work directly with real-world 3D data, and be able to formulate and solve problems using the geometric tools they learn as part of the module.
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV17 Computational Modelling for Biomedical Imaging
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV17 Computational Modelling for Biomedical Imaging
+
+                       
+ 
+                        
+                        
+                       This module aims to expose students to the challenges and potential of computational modelling in a key application area. It will explain how to use models to learn about the world; how to teach parameter estimation techniques through practical examples; and how to familiarize students with handling real data sets.
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV12 Image Processing
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV12 Image Processing
+
+                       
+ 
+                        
+                        
+                       The first half of this module introduces the digital image, describes the main characteristics of monochrome digital images, how they are represented and how they differ from graphics objects. It covers basic algorithms for image manipulation, characterisation, segmentation and feature extraction in direct space. The second half of the module proceeds to a more formal treatment of image filtering with some indication of the role and implications of Fourier space, and more advanced characterisation and feature detection techniques such as edge and corner detection, together with multiresolution methods, treatment of colour images and template matching techniques.
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGC26 Artificial Intelligence & Neural Computing 
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGC26 Artificial Intelligence & Neural Computing 
+
+                       
+ 
+                        
+                        
+                       Prerequisites:The GC26 module is only available to students that have done Computer Science, Mathematics or Philosophy degrees that contain an existing formal logic module covering propositional and predicate logic. This module also required strong mathematical skills.
+ 
+                       This module introduces artificial intelligence and neural computing as both technical subjects and as fields of intellectual activity. The overall aims are: to present basic methods of expressing knowledge in forms suitable for holding in computing systems, together with methods for deriving consequences from that knowledge by automated reasoning; to present basic methods for learning knowledge; and to introduce neural computing as an alternative knowledge acquisition/representation paradigm, to explain its basic principles and their relationship to neurobiological models, to describe a range of neural computing techniques and their application areas.
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV08 Inverse Problems in Imaging
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV08 Inverse Problems in Imaging
+
+                       
+ 
+                        
+                        
+                       To introduce the concepts of optimisation, and appropriate mathematical and numerical tools applications in image processing and image reconstruction. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI14 Machine Vision
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI14 Machine Vision
+
+                       
+ 
+                        
+                        
+                       The course addresses algorithms for automated computer vision. It focuses on building mathematical models of images and objects and using these to perform inference. Students will learn how to use these models to automatically find, segment and track objects in scenes, perform face recognition and build three-dimensional models from images. 
+ 
+                       At the end of the course, students will be able to understand and apply a series of probabilistic models of images and objects in machine vision systems. To understand the principles behind face recognition, segmentation, image parsing, super-resolution, object recognition, tracking and 3D model building. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV01 Mathematical Methods Algorithms & Implementations
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV01 Mathematical Methods Algorithms & Implementations
+
+                       
+ 
+                        
+                        
+                       To provide a rigorous mathematical approach: in particular to define standard notations for consistent usage in other modules. To present relevant theories and results. To develop algorithmic approach from mathematical formulation through to hardware implications. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI18 Probabilistic & Unsupervised Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI18 Probabilistic & Unsupervised Learning
+
+                       
+ 
+                        
+                        
+                       This module provides students with an in-depth introduction to statistical modelling and unsupervised learning techniques. It presents probabilistic approaches to modelling and their relation to coding theory and Bayesian statistics. A variety of latent variable models will be covered including mixture models (used for clustering), dimensionality reduction methods, time series models such as hidden Markov models which are used in speech recognition and bioinformatics, independent components analysis, hierarchical models, and nonlinear models.
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV16 Research Methods & Reading
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV16 Research Methods & Reading
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to introduce students to research methods and guide them through writing a critical literature review of their chosen area. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI01 Supervised Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI01 Supervised Learning
+
+                       
+ 
+                        
+                        
+                       This module covers supervised approaches to machine learning. It starts by reviewing fundamentals of statistical decision theory and probabilistic pattern recognition followed by an in-depth introduction to various supervised learning algorithms such as Perceptron, Backpropagation algorithm, Decision trees, instance-based learning, support vector machines. Algorithmic-independent principles such as inductive bias, side information, approximation and estimation errors. Assessment of algorithms by jackknife and bootstrap error estimation, improvement of algorithms by voting methods such as boosting. Introduction to statistical learning theory, hypothesis classes, PAC learning model, VC-dimension, growth functions, empirical risk minimization, structural risk minimization. 
+ 
+                       Students will gain an in-depth familiarity with various classical and contemporary supervised learning algorithms, understand the underlying limitations and principles that govern learning algorithms and ways of assessing and improving their performance, understand the underlying fundamentals of statistical learning theory, the complexity of learning and its relationship to generalization ability. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV19 Numerical Optimisation
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV19 Numerical Optimisation
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to provide the students with an overview of the optimisation landscape and a practical understanding of most popular optimisation techniques and an ability to apply these methods to problems they encounter in their studies e.g. MSc project/dissertation and later in their professional career. 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     CEGEG081 Positioning
+ 
+                      
+                       
+                       
+                        
+                       
+                        CEGEG081 Positioning
+
+                       
+ 
+                        
+                        
+                       The aim is to facilitate the development of a thorough understanding and knowledge of the basic principles of GNSS and other positioning and navigation systems, the detailed operation of phase-based GNSS, and of the ways in which these systems are used and integrated in a variety of practical situations. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     CEGEG084 Terrestrial Data Acquisition
+ 
+                      
+                       
+                       
+                        
+                       
+                        CEGEG084 Terrestrial Data Acquisition
+
+                       
+ 
+                        
+                        
+                       The module will provide students with structured material on close range photogrammetry and laser scanning and will provide them with the practical experiences necessary to work with and evaluate the techniques using commercial software and image data. 
+ 
+                       Students will acquire knowledge and understanding of the concepts of close range photogrammetry and laser scanning using terrestrial data sets. They will be able to derive practical solutions to given problems and will have an understanding of the application and limitations of the techniques. 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   Students can take up to 30 credits from Postgraduate modules available from the Department of Computer Science, Department of Mechanical Engineering, and the Bartlett Faculty of the Built Environment.  
+ 
+                   All choices are subject to timetabling constraints and the approval of the relevant Module Tutor and the Programme Director.  
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   The individual project completes the programme.
+ 
+                    
+                  
+ 
+                   
+                   
+                 
+ 
+                  
+                
+ 
+               
+ 
+                
+                 
+                  
+                  
+                   
+                   
+                   
+                    
+                   MSc Robotics and Computation comprises 8 taught modules and a Dissertation. Of the taught modules, 4 are core modules, with a minimum of 2 option modules and a combination of optional and elective modules for the remainder.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGX01 Robotic Systems Engineering
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX01 Robotic Systems Engineering
+
+                       
+ 
+                        
+                        
+                       Students will gain an introductory overview of robotics and autonomous systems. Technically they will gain an understanding of the concepts and principles of ROS, the underpinning software development environment for robot systems, through a number of example applications, leading to the capability of using ROS for advanced robot control, navigation, sensing and verification. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGX02 Robotic Control Theory and Systems
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX02 Robotic Control Theory and Systems
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to give students an insight into robotics and autonomous systems control theory and practice, specifically:
+
+                       	Control loops. damping, feedback and stability analysis with a working understanding about how these are used for navigating a robot within an environment;
+	Insight into developing a working prototype of a control system for a robot that solves a specific task.
+
+
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGX03 Robotic Sensing, Manipulation and Interaction
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX03 Robotic Sensing, Manipulation and Interaction
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to make sure students are familiar with various concepts in robotic sensing and manipulation and to give them a working knowledge of haptic interfaces and haptic control. These concepts will be used to teach students the principles and practical implementation of a tele-manipulation system involving a user interface, end-effector and a haptic or visual display unit. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGX04 Robotic Vision and Navigation
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX04 Robotic Vision and Navigation
+
+                       
+ 
+                        
+                        
+                       Students will gain knowledge about robot navigation with specific focus on the use of vision as a primary sensor for mapping the environment. The module will provide students with an understanding and practical experience of recovering geometry from optical sensors and creating an environment map which a robot can use for navigation and motion planning. 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGX99 Dissertation
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX99 Dissertation
+
+                       
+ 
+                        
+                        
+                       Further syllabus information will be available shortly.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Optional Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     CEGEG081 Positioning
+ 
+                      
+                       
+                       
+                        
+                       
+                        CEGEG081 Positioning
+
+                       
+ 
+                        
+                        
+                       The aim is to facilitate the development of a thorough understanding and knowledge of the basic principles of GNSS and other positioning and navigation systems, the detailed operation of phase-based GNSS, and of the ways in which these systems are used and integrated in a variety of practical situations. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     CEGEG084 Terrestrial Data Acquisition
+ 
+                      
+                       
+                       
+                        
+                       
+                        CEGEG084 Terrestrial Data Acquisition
+
+                       
+ 
+                        
+                        
+                       The module will provide students with structured material on close range photogrammetry and laser scanning and will provide them with the practical experiences necessary to work with and evaluate the techniques using commercial software and image data. 
+ 
+                       Students will acquire knowledge and understanding of the concepts of close range photogrammetry and laser scanning using terrestrial data sets. They will be able to derive practical solutions to given problems and will have an understanding of the application and limitations of the techniques. 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGC26 Artificial Intelligence & Neural Computing 
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGC26 Artificial Intelligence & Neural Computing 
+
+                       
+ 
+                        
+                        
+                       Prerequisites: The GC26 module is only available to students that have done Computer Science, Mathematics or Philosophy degrees that contain an existing formal logic module covering propositional and predicate logic. This module also requires strong mathematical skills.
+ 
+                       This module introduces artificial intelligence and neural computing as both technical subjects and as fields of intellectual activity. The overall aims are: to present basic methods of expressing knowledge in forms suitable for holding in computing systems, together with methods for deriving consequences from that knowledge by automated reasoning; to present basic methods for learning knowledge; and to introduce neural computing as an alternative knowledge acquisition/representation paradigm, to explain its basic principles and their relationship to neurobiological models, to describe a range of neural computing techniques and their application areas.
+ 
+                        
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV01 Mathematical Methods Algorithms & Implementations
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV01 Mathematical Methods Algorithms & Implementations
+
+                       
+ 
+                        
+                        
+                       To provide a rigorous mathematical approach: in particular to define standard notations for consistent usage in other modules. To present relevant theories and results. To develop algorithmic approach from mathematical formulation through to hardware implications.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV08 Inverse Problems in Imaging
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV08 Inverse Problems in Imaging
+
+                       
+ 
+                        
+                        
+                       To introduce the concepts of optimisation, and appropriate mathematical and numerical tools applications in image processing and image reconstruction.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV12 Image Processing
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV12 Image Processing
+
+                       
+ 
+                        
+                        
+                       The first half of this module introduces the digital image, describes the main characteristics of monochrome digital images, how they are represented and how they differ from graphics objects. It covers basic algorithms for image manipulation, characterisation, segmentation and feature extraction in direct space. The second half of the module proceeds to a more formal treatment of image filtering with some indication of the role and implications of Fourier space, and more advanced characterisation and feature detection techniques such as edge and corner detection, together with multiresolution methods, treatment of colour images and template matching techniques.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV16 Research Methods & Reading
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV16 Research Methods & Reading
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to introduce students to research methods and guide them through writing a critical literature review of their chosen area.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV18 Acquisition & Processing of 3D Geometry
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV18 Acquisition & Processing of 3D Geometry
+
+                       
+ 
+                        
+                        
+                       This  module will expose students to the challenges and potential of geometry processing in relevant application areas. It aims to explain how to use acquire 3D model, and subsequently process, analyze, and manipulate the data, and familiarize students with handling real data sets. Students will gain necessary practical skills to work directly with real-world 3D data, and be able to formulate and solve problems using the geometric tools they learn as part of the module.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV19 Numerical Optimisation
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV19 Numerical Optimisation
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to provide the students with an overview of the optimisation landscape and a practical understanding of most popular optimisation techniques and an ability to apply these methods to problems they encounter in their studies e.g. MSc project/dissertation and later in their professional career. 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   You will need to choose a minimum of 30 and a maximum of 60 credits from the optional modules.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Elective Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGI01 Supervised Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI01 Supervised Learning
+
+                       
+ 
+                        
+                        
+                       This module covers supervised approaches to machine learning. It starts by reviewing fundamentals of statistical decision theory and probabilistic pattern recognition followed by an in-depth introduction to various supervised learning algorithms such as Perceptron, Backpropagation algorithm, Decision trees, instance-based learning, support vector machines. Algorithmic-independent principles such as inductive bias, side information, approximation and estimation errors. Assessment of algorithms by jackknife and bootstrap error estimation, improvement of algorithms by voting methods such as boosting. Introduction to statistical learning theory, hypothesis classes, PAC learning model, VC-dimension, growth functions, empirical risk minimization, structural risk minimization. 
+ 
+                       Students will gain an in-depth familiarity with various classical and contemporary supervised learning algorithms, understand the underlying limitations and principles that govern learning algorithms and ways of assessing and improving their performance, understand the underlying fundamentals of statistical learning theory, the complexity of learning and its relationship to generalization ability. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI14 Machine Vision
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI14 Machine Vision
+
+                       
+ 
+                        
+                        
+                       The course addresses algorithms for automated computer vision. It focuses on building mathematical models of images and objects and using these to perform inference. Students will learn how to use these models to automatically find, segment and track objects in scenes, perform face recognition and build three-dimensional models from images. 
+ 
+                       At the end of the course, students will be able to understand and apply a series of probabilistic models of images and objects in machine vision systems. To understand the principles behind face recognition, segmentation, image parsing, super-resolution, object recognition, tracking and 3D model building. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI17 Affective Computing and Human-Robot Interaction
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI17 Affective Computing and Human-Robot Interaction
+
+                       
+ 
+                        
+                        
+                       The module targets students who have no previous knowledge in cognitive science and emotion theory. The aim of Part 1 is to give a basic introduction to the theory of emotion from psychology and neuroscience viewpoints and to understand its importance in human decision and communication processes. Part 2 will concentrate on the application of machine learning techniques to emotion recognition by looking at current applications in entertainment, education, and health. Part 3 will focus on the challenges in designing robots that are capable of socially interacting with humans.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI18 Probabilistic & Unsupervised Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI18 Probabilistic & Unsupervised Learning
+
+                       
+ 
+                        
+                        
+                       This module provides students with an in-depth introduction to statistical modelling and unsupervised learning techniques. It presents probabilistic approaches to modelling and their relation to coding theory and Bayesian statistics. A variety of latent variable models will be covered including mixture models (used for clustering), dimensionality reduction methods, time series models such as hidden Markov models which are used in speech recognition and bioinformatics, independent components analysis, hierarchical models, and nonlinear models.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                    
+                     
+                    	All Department of Computer Science Masters modules
+	All Bartlett/Built Environment Masters modules
+	All Mechanical Engineering Masters modules
+
+ 
+                    You may choose up to 30 credits as elective modules.
+ 
+                     
+                   
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Module Selection
+
+                   
+ 
+                    
+                    
+                   The modules that make up a programme are either core, optional or elective, which reflects whether they must be taken or can optionally be taken. The programme’s curriculum (also called a programme diet) will prescribe in what combinations modules can be taken, any restrictions on doing so, and how much credit can and must be taken. 
+ 
+                   Core/compulsory modules are fundamental to the programme’s curriculum and students must take these. You will be automatically allocated a place on any core modules for your programme and will not need to select these during the module selection process. There will be no timetable clashes between your programme’s core modules. 
+ 
+                   Optional modules are strongly related to the programme and students can choose which of these they wish to take, usually from within specific groups (for example, a student may be asked to choose two optional modules from one group and three from another, etc.) Places of optional modules are strictly limited (due to spatial, resource and timetable constraints) and will be allocated on a first come first serve basis. Some optional modules have pre-requisites which students will need to meet in order to be eligible for a place. 
+ 
+                   Elective modules are not programme specific, but allow students the opportunity to explore their interests more widely. Students are usually restricted to taking one or two elective modules. There is no guarantee of being accepted onto an elective module. These modules are core or optional on other programme diets, consequently students on these programmes will be given priority. Any remaining places will then be allocated on a first come first served basis. Some elective modules have pre-requisites which students will need to meet in order to be eligible for a place. 
+ 
+                   Please note: timetable clashes between optional and elective modules from different specialisations are inevitable and this can result in limiting the available choices. It is the student’s responsibility to select modules that do not clash in order to meet UCLs minimum attendance requirements. Please speak to your Programme Director and/ or Programme Administrator if you have any queries. 
+ 
+                   Non-Computer Science students should note that priority on COMP* modules will always be given to Computer Science students in the first instance.
+ 
+                    
+                  
+ 
+                   
+                   
+                 
+ 
+                  
+                
+ 
+               
+ 
+              
+ 
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             	A minimum of an upper-second class UK Bachelor's degree in computer science, electrical engineering or mathematics, or an overseas qualification of an equivalent standard. Relevant work experience may also be taken into account. 
+English Language Requirements
+If your education has not been conducted in the English language, you will be expected to demonstrate evidence of an adequate level of English proficiency.
+
+The English language level for this programme is: Good
+
+Further information can be found on our English language requirements page.
+International students
+Country-specific information, including details of when UCL representatives are visiting your part of the world, can be obtained from the International Students website.
+
+
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+              UK/EU fees (FT):  £11,800 for 2017/18
+ 
+               
+             
+ 
+              
+              
+              
+               
+              Overseas fees (FT): £25,890 for 2017/18
+ 
+               
+             
+ 
+              
+              
+              
+               
+              For a comprehensive list of the funding opportunities available at UCL, including funding relevant to your nationality, please visit the Scholarship and Funding website. 
+ 
+              If you are holding an offer from the Department of Computer Science at UCL, you may be eligible for our Excellence Scholarship.
+ 
+               
+             
+ 
+              
+              
+              
+               
+              
+               Tuition Fee Deposit
+
+              
+ 
+               
+               
+               
+                
+               This programme requires that applicants firmly accepting their offer pay a deposit. This allows UCL to effectively plan student numbers, as students are more demonstrably committed towards commencing their studies with us. 
+ 
+               For full details about the UCL tuition fee deposit, please see the central UCL pages. 
+ 
+               Tuition fee deposits within the Department of Computer Science are currently listed as:
+
+               	UK/EU	Overseas
+	Full-time	*Part-time	Full-time	*Part-time
+	£2000	£1000	£2000	£1000
+	 
+	*where part-time is an available mode of study
+
+ 
+                
+              
+ 
+               
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             The Department's graduates are particularly valued as a result of the our international reputation, strong links with industry, and ideal location close to the City of London.
+ 
+             Robotics is a growing field encompassing many technologies with applications across different industry sectors, spanning manufacturing, security, mining, design, transport, exploration and health care. This degree prepares graduates to enter a robotics-related industry or any other occupation requiring engineering or analytical skills. Graduates with skills to develop new robotics solutions and solve computational challenges in automation are likely to be in demand globally.
+ 
+             Graduates will also be well placed to undertake PhD studies in robotics and computational research specific to robotics but translational across different analytical disciplines or applied fields that will be influenced by new robotic technologies and capabilities.
+
+             	Top MSc graduate destinations include:       
+
+                 	Cisco
+	Orange Labs
+	IBM
+	ARM
+
+	MSc graduate roles include:                     
+
+                 	Network Architect
+	Data & Communications Engineer
+	Software Developer
+	Business Analyst
+
+	Top further study destinations:
+
+                 	UCL
+	University of Cambridge
+	MIT
+
+
+
+
+             Average starting salary £34,120 (all data from Graduate Surveys, January 2015).
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             
+               
+                
+               Programme Administrator
+Dr Saini Manninen
+Office 5.22, Malet Place Engineering Building 
+0207 679 7937 
+ 
+               advancedmsc-admissions@cs.ucl.ac.uk 
+ 
+               More information
+ 
+                
+              
+
+              
+               
+                
+                 
+                  
+                 
+
+                
+ 
+                
+                 
+                  
+                 
+
+                
+ 
+                
+                 
+                  
+                 
+
+                
+
+               
+
+              
+
+             
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             To apply now click here.
+ 
+             Students are advised to apply as early as possible due to competition for places. Those applying for scholarship funding (particularly overseas applicants) should take note of application deadlines.
+ 
+             Deadline 17 June 2017.
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+         
+ 
+        
+ 
+         
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 03 Apr 2017 and is maintained by 
+      Steve Marchant 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

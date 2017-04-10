@@ -1,0 +1,933 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students ›› Degree Programme 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Degree Programme Information
+
+        
+ 
+         
+         
+        Use the links below to find detailed information about your degree programme and management of your studies.
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         Undergraduate Programmes
+
+        
+ 
+         
+         
+        Information about your curriculum, module syllabuses, tutorials etc.
+ 
+         
+       
+ 
+        
+        
+        
+         
+         
+         
+          
+          First Year
+ 
+           
+            
+            
+             
+            	General Information
+	Tutorials
+	Curriculum - BSc & MEng Computer Science
+	Curriculum - MEng Mathematical Computation
+
+ 
+             
+           
+ 
+            
+          
+ 
+          Second Year
+ 
+           
+            
+            
+             
+            	Welcome Back
+	Tutorials
+	Curriculum Year 2 BSc and MEng Computer Science
+	Curriculum Year 2 MEng Mathematical Computation
+
+ 
+             
+           
+ 
+            
+          
+ 
+          Third Year
+ 
+           
+            
+            
+             
+            	Welcome Back
+	Tutorials
+	COMP3091 Project
+	Curriculum - BSc
+	Curriculum - MEng CS
+	Curriculum - MEng International
+	Curriculum Year 3 MEng Mathematical Computation
+
+ 
+             
+           
+ 
+            
+          
+ 
+          Fourth Year
+ 
+           
+            
+            
+             
+            	Welcome Back
+	COMPM091 Individual Projects
+	Tutorials
+	Curriculum
+	Curriculum - Year 4 MEng Mathematical Computation
+
+ 
+             
+           
+ 
+            
+          
+ 
+          MEng Computer Science (International)
+ 
+           
+            
+            
+             
+            
+             
+              
+               
+                
+                 
+                
+
+               
+
+              
+
+             
+
+            
+ 
+             
+           
+ 
+            
+            
+            
+             
+            
+             MEng Computer Science International Programme: G403
+
+            
+ 
+             
+             
+            This page contains information for UCL Computer Science undergraduate students who are interested in studying for a period abroad as part of their degree programme. Students from other universities who are considering studying for a period at UCL should consult the page for affiliate students. If, having read this information, you have any questions please contact:
+
+            	The departmental Study Abroad Tutor: Dr Earl Barr (for departmental queries)
+	The UCL Study Abroad Office (general advice)
+
+
+            Please also see the Study Abroad Website, particularly the UCL Study Abroad Student Handbook. 
+ 
+            Study Abroad Information Session 
+ 
+            The Study Abroad Team will be holding an information session for students interested in spending their third year abroad in 2015/16. See here for more details - they are managed by UCL’s study abroad team.
+ 
+             
+           
+ 
+            
+            
+            
+             
+            
+             Introduction
+
+            
+ 
+             
+             
+            UCL Computer Science is very pleased to be able to offer a variant of its MEng programme to include a study abroad year. This year is taken in place of the third year, offering you the opportunity to:
+
+            	continue advanced education in computer science;
+	experience education in a different cultural and/or linguistic setting;
+	access high level teaching and research expertise from outside UCL.
+
+ 
+            The MEng degree is awarded to students who successfully complete the programme including usually no less than two units of project work. In other words, you normally need to complete the equivalent of a unit of project work while abroad in your third year.
+ 
+             
+           
+ 
+            
+            
+            
+             
+             
+             
+              
+              Partner Institutions
+ 
+               
+                
+                
+                 
+                We have a range of partner institutions, all 'elite' institutions with excellent academic reputations in computer science: 
+ 
+                European countries on Erasmus agreements with the Department:
+
+                	Italy: Universita di Pisa, Polytechnico di Milano
+
+	Germany: Technische Universität Dresden, Karlsruhe Institute of Technology (KIT), Universität Paderborn, Universität Duisberg-Essen
+
+	Spain: Universitat de Valencia, 
+Universitat Politècnica de Catalunya
+
+	France: University of Montpellier II, 
+
+
+
+                	Switzerland: ETH Zurich
+
+
+                Other countries on agreements at a Faculty or UCL level
+
+                	Australia: University of Melbourne, The University of Queensland, University of Western Australia
+
+	Canada: McGill University, University of British Columbia, University of Waterloo, University of Toronto
+
+	United States: Caltech, Rensselaer Polytechnic, University of Wisconsin-Madison, Columbia University, Rutgers - State University of New Jersey, University of Illinois Urbana Champaign, University of North Carolina at Chapel Hill, University of Washington, John Hopkins University, University of Massachussets - Amherst, University of Texas at Austin, Georgia Institute of Technology
+
+	Hong Kong: Chinese University of Hong Kong, Hong Kong University of Science and Technology, City University Hong Kong
+
+	Japan: Waseda University (Tokyo),
+
+	Singapore: National University of Singapore
+	New Zealand: University of Auckland
+	Mexico: Tecnológico de Monterrey
+
+
+ 
+                 
+               
+ 
+                
+              
+ 
+              Application and Deadlines
+ 
+               
+                
+                
+                 
+                Ideally, you should have registered your interest by email to the department's Study Abroad Tutor, Dr Earl Barr, giving details of your first year grades and the reasons for wanting to study abroad in the first week of your second year. You will have to go to the Study Abroad Information Session organised by the faculty in October. 
+ 
+                 You then have to go to the Study Abroad Fair <http://www.ucl.ac.uk/studyabroad/study-abroad-events> organised by the Study Abroad Team. Immediately after the fair you have to apply to transfer to the International Programme and meet with the department's Study Abroad Tutor, Dr Earl Barr. If it your application is approved, you can transfer to to the International Programme. 
+ 
+                If your application is successful, you will be registered in the Study Abroad Preparation Programme which is running in the spring term. 
+ 
+                If you are already on the International Programme, you have to follow the same procedure. In the case that your application to the Study Abroad Team is not successful or your performance in the second year is not sufficient, you will be transferred to the normal MEng Computer Science Programme. 
+ 
+                 
+               
+ 
+                
+              
+ 
+              Eligibility
+ 
+               
+                
+                
+                 
+                You have to have a 2.1 average in the first year to be able to transfer to or stay on the International Programme. You also have to maintain a 2.1 average in your 2nd year or risk not being allowed to go abroad. 
+ 
+                If you wish to study in a language other than English, you must be able to demonstrate linguistic competence through qualifications and/or following UCL Centre for Languages and International Education courses. The Department may ask the Centre to assess students seeking to study abroad.
+ 
+                 
+               
+ 
+                
+              
+ 
+              Financial Support
+ 
+               
+                
+                
+                 
+                UCL's Access Agreement includes support for students on programmes which include a year abroad. Further information about finance is available from the Study Abroad web site.
+ 
+                 
+               
+ 
+                
+              
+ 
+              Your studies whilst abroad
+ 
+               
+                
+                
+                 
+                Students studying abroad must follow a programme that is to the fullest extent possible agreed in advance with the Study Abroad Tutor. The programme MUST:
+
+                	be overall of equivalent depth to that of the UCL 3rd year MEng Computer Science programme;
+	be substantially composed of courses in computer science or closely allied disciplines such as electrical engineering and mathematics;
+	have a significant engineering orientation (as defined by UK-SPEC), be compliant with the QAA benchmark framework;
+	be of equal workload to that of the UCL 3rd year MEng that is, using accepted equivalence measures, be of 4 course-units;
+	be formally assessed by the host institution and the results of the assessment independently reported to the  Study Abroad Tutor;
+	include taught courses/units, that is should not consist solely of project work;
+	be formally documented by the student in an up to date written study plan, signed by the Study Abroad Tutor and kept by the Departmental Tutor.
+
+
+                The UCL Study Abroad Office monitors attendance. You will be required to submit an attendance form signed and stamped by the host institution (one for each term/semester you are on placement). 
+ 
+                You MUST follow the guidance of the UCL Study Abroad office and the British Embassy with respect to personal safety and conduct while overseas. You must also adhere to the disciplinary rules and requirements of your host institutions. You will be required to report any circumstances that might affect your academic progress, such as illness or other problems, immediately to both UCL and the International Office of your host institution. The Department will arrange for at least one visit during the study abroad programme from a member of staff. You are required to make yourself available for such a visit. 
+ 
+                The Study Abroad Office organises preparatory courses and briefings. Completion of these, and the accompanying UCL Study Abroad Passport, is a required element of this programme. 
+ 
+                Equivalence of courses and marks is to be determined based on UCL practice covering the European Credit Transfer Scheme (ECTS) as currently used in the on-going pilot scheme, and other credit transfer schemes as from time to time approved by UCL.  The results reported will be reviewed by a panel consisting of the Chair of the Board of Examiners, the Departmental Tutor and the Study Abroad Tutor, reporting to the Board of Examiners.
+ 
+                 
+               
+ 
+                
+              
+ 
+              When you return to UCL
+ 
+               
+                
+                
+                 
+                On returning to Year 4, you must have your option courses agreed by the Study Abroad Tutor and Departmental Tutor in order to ensure that any possible gap in subject coverage caused by attending an overseas institution, is duly filled. Particular attention will be paid to coverage of the 3 compulsory courses in Year 3.
+ 
+                 
+               
+ 
+                
+              
+ 
+             
+ 
+            
+ 
+             
+             
+           
+ 
+            
+          
+ 
+         
+ 
+        
+ 
+         
+         
+       
+ 
+        
+        
+        
+         
+        
+         Postgraduate Programmes
+
+        
+ 
+         
+         
+        The home page of your programme.
+ 
+         
+       
+ 
+        
+        
+        
+         
+         
+         
+          
+          Specialist MSc Programmes
+ 
+           
+            
+            
+             
+            	MSc Business Analytics
+	MSc Computational Finance
+	MSc Computational Statistics and Machine Learning
+	MSc Computer Graphics, Vision and Imaging
+	MSc Computer Science - Mahidol University - Thailand
+	MSc Data Science (Computer Science)
+	MSc Financial Systems Engineering
+	MSc Financial Risk Management
+	MSc Human-Computer Interaction with Ergonomics
+	MSc ICT Innovation
+	MSc Information Security
+	MSc Machine Learning
+	MSc Software Systems Engineering
+	MSc Web Science and Big Data Analytics
+
+ 
+             
+           
+ 
+            
+          
+ 
+          Generalist MSc Programmes
+ 
+           
+            
+            
+             
+            	MSc in Computer Science
+
+ 
+             
+           
+ 
+            
+          
+ 
+          Research Degree Programmes
+ 
+           
+            
+            
+             
+            	EngD VEIV
+	MPhil/PhD
+	Centre for Doctoral Training in Financial Computing & Analytics
+
+ 
+             
+           
+ 
+            
+          
+ 
+         
+ 
+        
+ 
+         
+         
+       
+ 
+        
+        
+        
+         
+        
+         General Information
+
+        
+ 
+         
+         
+        Information about assessment, coursework, exams, feedback and more.
+ 
+         
+       
+ 
+        
+        
+        
+         
+         
+         
+          
+          Information for all students
+ 
+           
+            
+            
+             
+            	Timetables
+	Coursework Deadlines
+	Coursework Cover Sheet
+	Syllabus Information
+	Exam Results
+	Staff-Student Committee
+	FAQ for Non-CS Students
+	Individual Projects
+
+ 
+             
+           
+ 
+            
+          
+ 
+          Information for undergraduates
+ 
+           
+            
+            
+             
+            	Year 3 BSc CS
+	Curriculum
+	Assessment
+
+ 
+             
+           
+ 
+            
+          
+ 
+          Academic Accreditation of CS Programmes
+ 
+           
+            
+            
+             
+            
+             Academic Accreditation of CS Programmes
+
+            
+ 
+             
+             
+            1. Undergraduate programmes
+ 
+            We’re very pleased to report that all our undergraduate programmes are fully or partly accredited (as appropriate) by both the IET (Institution of Engineering and Technology) and the BCS (the Chartered Institute for IT). Please see below for current details.
+
+            
+ 
+            G400 BSc Computer Science:
+ 
+            IET 
+            	CEng (partial fulfilment). This programme is CEng accredited and fulfils the educational requirements for registration as a Chartered Engineer when presented with an accredited MSc. In addition, the programme meets the educational requirements for registration as an Incorporated Engineer.
+
+ 
+            BCS
+            
+(Note that CITP and CSci are new accreditation arrangements applying to students starting in 2014, 2015, 2016, 2017, 2018 and 2019): 
+            	CITP = Accredited by BCS, The Chartered Institute for IT, for the purposes of fully meeting the academic requirement for registration as a Chartered IT Professional. 
+	CSci (partial fulfilment) = Accredited by BCS, The Chartered Institute for IT on behalf of the Science Council for the purposes of partially meeting the academic requirement for registration as a Chartered Scientist.
+
+ 
+            
+ 
+            G401 MEng (Hons) Computer Science, and  
+            G403 MEng (Hons) Computer Science (International Programme):
+ 
+            IET 
+            	CEng. These programmes are CEng accredited and fulfil the educational requirement for registration as a Chartered Engineer.
+
+ 
+            BCS
+            
+(Note that CITP and CSci are new accreditation arrangements applying to students starting in 2015, 2016, 2017, 2018 and 2019: 
+            	CITP = Accredited by BCS, The Chartered Institute for IT, for the purposes of fully meeting the academic requirement for registration as a Chartered IT Professional. 
+	CSci (partial fulfilment) = Accredited by BCS, The Chartered Institute for IT on behalf of the Science Council for the purposes of partially meeting the academic requirement for registration as a Chartered Scientist.
+
+ 
+            
+  
+            
+G430 MEng Mathematical Computation:
+ 
+            IET 
+            	CEng. This programme is CEng accredited and fulfils the educational requirement for registration as a Chartered Engineer.
+
+    
+            
+ 
+            2. Master's Programmes
+ 
+            MSc Software Systems Engineering,  
+            MSc Financial Systems Engineering, and  
+            MSc Networked Computer Systems:
+ 
+            IET 
+            	Partial CEng (Further Learning). These programmes are CEng accredited and fulfil the educational requirements for registration as a Chartered Engineer when presented with a CEng accredited Bachelors programme.
+
+ 
+            BCS 
+            	CITPFL = Accredited by BCS, The Chartered Institute for IT, for the purposes of fully meeting the further learning academic requirement for registration as a Chartered IT Professional. 
+	CEng (partial fulfilment) = Accreditation by the BCS, The Chartered Institute for IT on behalf of the Engineering Council, for the purposes of partially meeting the academic requirement for registration as a Chartered Engineer.
+The cohorts covered by the BCS accreditation are those starting 2012-2019.
+
+ 
+            
+ 
+            	For more detail about the categories of accreditation listed above please see the BCS guidelines at http://www.bcs.org/content/ConTab/79 and the IET pages at http://www.theiet.org/academics/accreditation/
+
+ 
+            
+ For other enquiries about accreditation, please contact 
+            Denise Gorse or 
+            Nisha Gosai 
+            
+ 
+             
+           
+ 
+            
+          
+ 
+         
+ 
+        
+ 
+         
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 10 Feb 2017 and is maintained by 
+      Steve Marchant 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

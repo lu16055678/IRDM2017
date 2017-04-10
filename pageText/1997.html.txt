@@ -1,0 +1,1712 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Research
+      ›› Research Notes
+      ›› Research Note Archive ›› 1997 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Research Notes Index - 1997
+
+        
+ 
+         
+         
+         
+         
+         Ascription of Intensional Ontologies in Anthropological 
+ R. Bordini , J.A. Campbell , R. Vieira 
+          RN/97/1 
+
+          January 1997 
+
+         Book: Proc. of the First International Workshop on Cooperative Information 
+
+          City: Berlin 
+
+          Issuer: Springer-Verlag 
+
+          pages count: to~appear 
+
+          Series: Lecture Notes in Artificial Intelligence series, v. 1202, 
+
+          
+
+         
+ 
+          
+
+         Prospects for Internet Technology 
+ B. Carpenter , J. Crowcroft 
+          RN/97/2 
+
+          January 1997 
+
+         Pages: 13 
+
+          Submission Status: submitted to Distributed Systems Engineering 
+
+          
+
+         
+ 
+          
+
+         An Object-Oriented Functional Approach to Information Systems Engineering 
+ L. Braine , C. Clack 
+          RN/97/3 
+
+          February 1997 
+
+         Submission Status: to be presented at CAiSE'97 - Fourth Doctoral Consortium on Advanced 
+
+          
+
+         
+ 
+          
+
+         Integrating Object-Oriented and Functional Programming 
+ L. Braine 
+          RN/97/4 
+
+          February 1997 
+
+         Submission Status: position paper submitted to "Software Engineering Association 
+
+          
+
+         
+ 
+          
+
+         Multicast Audio: The Next Generation 
+ Colin Perkins , Vicky Hardman , Angela Sasse , Isidor Kouvelas 
+          RN/97/5 
+
+          February 1997 
+
+         Submission Status: submitted a paper to the INET'97 conference 
+
+          
+
+         
+ 
+          
+
+         A Reliable Multicast Data Distribution Protocol Based on Software FEC Techniques 
+ Luigi Rizzo, Dipartimento di Ingegneria dell'Informazione, Universita di Pisa , Lorenzo Vicisano 
+          RN/97/6 
+
+          February 1997 
+
+         Book: Proc. of The Fourth IEEE Workshop on the Architecture and Implementation 
+
+          Submission Status: submitted a paper to the INET'97 conference 
+
+          
+
+         
+ 
+          
+
+         Low-level Edge Detection Using Genetic Programming: Performance, 
+ C. Harris , B. Buxton 
+          RN/97/7 
+
+          January 1997 
+
+         Pages: 23 
+
+          Submission Status: submitted to special edition of Image & Vision Computing 
+
+          
+
+         
+ 
+          
+
+         Object Flow 
+ L. Braine , C. Clack 
+          RN/97/8 
+
+          February 1997 
+
+         Submission Status: submitted on 26/02/97 to "1997 IEEE Symposium on Visual Languages" (VL'97), 
+
+          
+
+         
+ 
+          
+
+         Experiences in Integrating Multimedia Services, Service Management and 
+ 
+          RN/97/8 
+
+          
+
+         Submission Status: submitted on 26/02/97 to "1997 IEEE Symposium on Visual Languages" (VL'97), 
+
+          
+
+         
+ 
+          David Lewis 
+
+         Experiences in Integrating Multimedia Services, Service Management and 
+ David Lewis , Thanassis Tiropanis , Alistair McEwan , Cliff Redmond , Vincent Wade , Ralf Bracht 
+          RN/97/9 
+
+          February 1997 
+
+         Book: Proc. First IFIP/IEEE International Confernce on Management of 
+
+          Keywords: Inter-domain service management, TINA Service Architecture, reusable 
+
+          pages count: to~appear 
+
+          Abstract: Abstract: the results of this practical development work, detailing the 
+
+          Submission Status: submitted on 26/02/97 to "1997 IEEE Symposium on Visual Languages" (VL'97), 
+
+          
+
+         
+ 
+          
+
+         Conceptual Design Reconsidered 
+ Louise Clark , Angela Sasse 
+          RN/97/10 
+
+          February 1997 
+
+         Abstract: Abstract: identified a metaphor which could be extended into a design model the design model. The case study demonstrates the potential of 
+
+          Submission Status: to appear in People and Computers XII - Proc. of HCI'97, Bristol, August 
+
+          
+
+         
+ 
+          
+
+         On Management of Future Digital Services over Residential Broadband 
+ S. Bhatti , G. Knight 
+          RN/97/11 
+
+          February 1997 
+
+         Submission Status: submitted to IEEE Journal on Selected Areas in Communications 
+
+          
+
+         
+ 
+          
+
+         Issues in Residential Broadband Internet Service Provision 
+ S. Bhatti , G. Knight 
+          RN/97/12 
+
+          
+
+         Submission Status: Proc. 8th Joint European Networking Conference (JENC8), Edinburgh, 
+
+          
+
+         
+ 
+          
+
+         Making Passwords Secure and Usable 
+ A. Adams , P. Lunt 
+          RN/97/13 
+
+          February 1997 
+
+         Book: Proc. BCS HCI specialist group conference, the XII HCI conference 
+
+          Keywords: Security, Passwords, Grounded Theory, Human & Organisational Factors. 
+
+          pages count: to~appear 
+
+          Abstract: Abstract: the number of passwords and frequency of password use. In-depth analysis the interview data revealed that the degree to which users conform to 
+
+          Submission Status: Proc. 8th Joint European Networking Conference (JENC8), Edinburgh, 
+
+          
+
+         
+ 
+          
+
+         Building Shared Trees Using a One-to-Many Joining Mechanism 
+ K. Carlberg , J. Crowcroft 
+          RN/97/14 
+
+          February 1997 
+
+         Journal: ACM SIGCOMM Computer Communication Review 
+
+          Volume: 1 
+
+          pages count: 5-11 
+
+          Vol: 27 
+
+          Submission Status: Proc. 8th Joint European Networking Conference (JENC8), Edinburgh, 
+
+          
+
+         
+ 
+          
+
+         Worst Case Traffic of Independent Leaky Bucket Sources: The Myth of the 
+ Philippe Oechslin 
+          RN/97/15 
+
+          March 1997 
+
+         Book: Proc. IFIP Fifth International Workshop on Quality of Service (IWQoS '97), 
+
+          Pages: 9 
+
+          pages count: 67-76 
+
+          Abstract: Abstract: typical of an ATM switch or in a wider sense of an RSVP capable 
+
+          Submission Status: Proc. 8th Joint European Networking Conference (JENC8), Edinburgh, 
+
+          
+
+         
+ 
+          
+
+         Multimedia Conferencing via Multicast: Determining the 
+ A. Watson , M. A. Sasse 
+          RN/97/16 
+
+          March 1997 
+
+         Submission Status: submitted to 1997 International Workshop on Audio-Visual Services over 
+
+          
+
+         
+ 
+          
+
+         Declarative Object-Oriented Spreadsheets 
+ 
+          RN/97/16 
+
+          
+
+         Submission Status: submitted to 1997 International Workshop on Audio-Visual Services over 
+
+          
+
+         
+ 
+          Chris Clack 
+
+         Declarative Object-Oriented Spreadsheets 
+ Chris Clack , Lee Braine 
+          RN/97/17 
+
+          April1997 
+
+         Pages: 15 
+
+          Submission Status: submitted to: Ninth International Symposium on Programming 
+
+          
+
+         
+ 
+          
+
+         Trouble with Types 
+ 
+          RN/97/17 
+
+          
+
+         Submission Status: submitted to: Ninth International Symposium on Programming 
+
+          
+
+         
+ 
+          Chris Clack 
+
+         Trouble with Types 
+ Chris Clack , Colin Myers 
+          RN/97/18 
+
+          April 1997 
+
+         Pages: 13 
+
+          Submission Status: Submitted to: First International Conference on Declarative Programming 
+
+          
+
+         
+ 
+          
+
+         Redundancy Control in Real-Time Internet Audio Conferencing 
+ I. Kouvelas , O. Hodson , V. Hardman , J. Crowcroft 
+          RN/97/19 
+
+          April 1997 
+
+         Submission Status: extended abstract submitted to AVSPN'97 - International Workshop 
+
+          
+
+         
+ 
+          
+
+         A Study of the Obstacles to Increased Stakeholder Participation in 
+ Russel Winder , Ismail Ismail 
+          RN/97/20 
+
+          April 1997 
+
+         Keywords: SISP, Participation, Stakeholder Empowerment, Democracy. 
+
+          Pages: 10 
+
+          Abstract: Abstract: 
+
+          Submission Status: Submitted to the BCS Information Systems Methodologies Specialist Group 
+
+          
+
+         
+ 
+          
+
+         A Knowledge-Based Apprpach To Fast Frequency 
+ N. Chatterjee , J. Campbell 
+          RN/97/21 
+
+          May 1997 
+
+         Abstract: Abstract: the consultants who often use their heuristics on prevailing geo-physical 
+
+          Submission Status: submitted for publication in the journal Engineering Applications of Artificial Intelligence 
+
+          
+
+         
+ 
+          
+
+         Framework For Reliable Multicast Application Design 
+ 
+          RN/97/21 
+
+          
+
+         Submission Status: submitted for publication in the journal Engineering Applications of Artificial Intelligence 
+
+          
+
+         
+ 
+          Z. Wang 
+
+         Framework For Reliable Multicast Application Design 
+ Z. Wang , J. Crowcroft , C. Diot, INRIA , A. Ghosh, UTS 
+          RN/97/22 
+
+          May 1997 
+
+         Submission Status: Submitted to Hipparch'97 
+
+          
+
+         
+ 
+          
+
+         CacheMesh: A Distributed Cache System For World Wide Web 
+ 
+          RN/97/22 
+
+          
+
+         Submission Status: Submitted to Hipparch'97 
+
+          
+
+         
+ 
+          Z. Wang 
+
+         CacheMesh: A Distributed Cache System For World Wide Web 
+ Z. Wang , J. Crowcroft 
+          RN/97/23 
+
+          May 1997 
+
+         Submission Status: Submitted to Web Cache Workshop'97 
+
+          
+
+         
+ 
+          
+
+         Routing in the Integrated SDH and ATM Networks 
+ G.Knight , R.Shi 
+          RN/97/24 
+
+          May 1997 
+
+         Submission Status: Accepted by NOC'97, June 1997, Antwerp Belguim 
+
+          
+
+         
+ 
+          
+
+         QoS Routing Solutions for Hybrid ATM and SDH Networks 
+ C.Verdier , M.Chartzaki , G.Knight , R.Shi 
+          RN/97/25 
+
+          May 1997 
+
+         Submission Status: accepted by IS&N 97, May 1997, Comer Italy 
+
+          
+
+         
+ 
+          
+
+         An Extension of OSQL to Support Ordered Domains in Relational Databases. 
+ W. Ng , M. Levene 
+          RN/97/26 
+
+          May 1997 
+
+         Book: IEEE Proc. of the International Database Engineering and 
+
+          pages count: to~appear 
+
+          Submission Status: accepted by IS&N 97, May 1997, Comer Italy 
+
+          
+
+         
+ 
+          
+
+         The Development of Ordered SQL Packages to Support Data Warehousing 
+ W. Ng , M. Levene 
+          RN/97/27 
+
+          May 1997 
+
+         Book: Proc. of the 8th International Database Workshop, Hong 
+
+          pages count: to~appear 
+
+          Submission Status: accepted by IS&N 97, May 1997, Comer Italy 
+
+          
+
+         
+ 
+          
+
+         Design Patterns for Parallelizing Vision-related Applications on Network 
+ 
+          RN/97/27 
+
+          
+
+         Submission Status: accepted by IS&N 97, May 1997, Comer Italy 
+
+          
+
+         
+ 
+          Sanjay Kadam 
+
+         Design Patterns for Parallelizing Vision-related Applications on Network 
+ Sanjay Kadam , Graham Roberts , Bernard Buxton 
+          RN/97/28 
+
+          June 1997 
+
+         Submission Status: to be presented at 11th Annual International Symposium on High Performance 
+
+          
+
+         
+ 
+          
+
+         Three-Dimensional Versus Two-Dimensional Depictions for 
+ M.A. Brown , M. Slater 
+          RN/97/29 
+
+          June 1997 
+
+         Book: Proc. of the 10th International Sessions, The 34th 
+
+          pages count: 92-95 
+
+          Submission Status: to be presented at 11th Annual International Symposium on High Performance 
+
+          
+
+         
+ 
+          
+
+         The Sensitivity of Presence to Collision Response 
+ S. Uno , M. Slater 
+          RN/97/30 
+
+          June 1997 
+
+         Submission Status: accepted for publication, Proceedings of the IEEE Virtual Reality Annual 
+
+          
+
+         
+ 
+          
+
+         Incremental Updates to Scenes Illuminated by Area Light Sources 
+ Y. Chrysanthou , M. Slater 
+          RN/97/31 
+
+          June 1997 
+
+         Submission Status: to appear in Proceedings of 8th EUROGRAPHICS Workshop on Rendering, Saint Etienne, 
+
+          
+
+         
+ 
+          
+
+         Three-Dimensional Versus Two-Dimensional Displays for Air 
+ M. Brown , M. Slater 
+          RN/97/32 
+
+          June 1997 
+
+         Submission Status: to appear in Proc. American Institute of Aeronautics and Astronautics 
+
+          
+
+         
+ 
+          
+
+         View Volume Culling Using a Probabilistic Caching Scheme 
+ M. Slater , Y. Chrysanthou 
+          RN/97/33 
+
+          June 1997 
+
+         Submission Status: to appear in Proc.ACM Virtual Reality Software and Technology VRST'97, Lausanne, 
+
+          
+
+         
+ 
+          
+
+         Low-level Edge Detection Using Genetic Programming: Performance, 
+ C. Harris 
+          RN/97/34 
+
+          June 1997 
+
+         Submission Status: submitted to a special edition of Image Vision Computing journal on Evolutionary Computation in 
+
+          
+
+         
+ 
+          
+
+         Strongly Typed Genetic Programming To Promote Hierarchy Through Explicit 
+ C. Harris 
+          RN/97/35 
+
+          June 1997 
+
+         Submission Status: submitted as a late-breaking paper to Genetic Programming 1997 conference 
+
+          
+
+         
+ 
+          
+
+         Agents with Moral Sentiments Playing the Iterated Prisoner's Dilemma. 
+ A. Bazan , R. Bordini , J.A. Campbell 
+          RN/97/36 
+
+          June 1997 
+
+         Submission Status: to be presented in the Socially Intelligent Agents Symposium, held with 
+
+          
+
+         
+ 
+          
+
+         Genetic Programming with Gene Dominance 
+ K. Vekaria , C. Clack 
+          RN/97/37 
+
+          June 1997 
+
+         Book: Genetic Programming 1997: Proceedings of the 
+
+          Ed: Koza, John R., Deb, Kalyanmoy, Dorigo, Marco, Fogel, David 
+
+          Issuer: Morgan Kaufmann 
+
+          Submission Status: poster paper 
+
+          
+
+         
+ 
+          
+
+         A User Survey on Ordered SQL 
+ W. Ng , M. Levene 
+          RN/97/38 
+
+          June 1997 
+
+         Submission Status: submitted to ACM Sigmod Record 
+
+          
+
+         
+ 
+          
+
+         Application of weak classifier architectures to protein structure 
+ Denise Gorse 
+          RN/97/39 
+
+          June 1997 
+
+         Keywords: neural networks, ensemble methods, protein structure prediction 
+
+          Pages: 4 
+
+          Abstract: Abstract: extended from its original two-class formulation to deal with the 
+
+          Submission Status: Oral presentation at ECSAP'97, Prague, June 1997 and to appear in 
+
+          
+
+         
+ 
+          
+
+         USERS ARE NOT THE ENEMY... 
+ A. Adams , M-A. Sasse 
+          RN/97/40 
+
+          June 1997 
+
+         Abstract: Abstract: controlled. The general consensus is that most users are careless and 
+
+          Submission Status: Oral presentation at ECSAP'97, Prague, June 1997 and to appear in 
+
+          
+
+         
+ 
+          
+
+         A Distributed Trust Model 
+ 
+          RN/97/40 
+
+          
+
+         Submission Status: Oral presentation at ECSAP'97, Prague, June 1997 and to appear in 
+
+          
+
+         
+ 
+          Alfarez Abdul-Rahman 
+
+         A Distributed Trust Model 
+ Alfarez Abdul-Rahman , Stephen Hailes 
+          RN/97/41 
+
+          June 1997 
+
+         Submission Status: to appear in Proceedings of New Security Paradigms Workshop 97 
+
+          
+
+         
+ 
+          
+
+         The PGP Trust Model 
+ 
+          RN/97/41 
+
+          
+
+         Submission Status: to appear in Proceedings of New Security Paradigms Workshop 97 
+
+          
+
+         
+ 
+          Alfarez Abdul-Rahman 
+
+         The PGP Trust Model 
+ Alfarez Abdul-Rahman 
+          RN/97/42 
+
+          June 1997 
+
+         Journal: EDI-Forum: The Journal of Electronic Commerce 
+
+          Volume: 3 
+
+          pages count: 27-31 
+
+          Vol: 10 
+
+          Submission Status: to appear in Proceedings of New Security Paradigms Workshop 97 
+
+          
+
+         
+ 
+          
+
+         A Distributed Trust Model 
+ 
+          RN/97/42 
+
+          
+
+         Submission Status: to appear in Proceedings of New Security Paradigms Workshop 97 
+
+          
+
+         
+ 
+          Alfarez Abdul-Rahman 
+
+         A Distributed Trust Model 
+ Alfarez Abdul-Rahman , Stephen Hailes 
+          RN/97/43 
+
+          June 1997 
+
+         Submission Status: presented at DIMACS Workshop on Trust Management in Networks 
+
+          
+
+         
+ 
+          
+
+         Multi-Spectral Probabilistic Diffusion using Baysian Classification 
+ S. Arridge , A. Simmons 
+          RN/97/44 
+
+          June 1997 
+
+         pages count: to-appear 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         Optical Imaging in Medicine 1: Experimental Techniques 
+ J.C. Hebden , S. Arridge , D.T. Delpy 
+          RN/97/45 
+
+          June 1997 
+
+         Journal: Physics in Medicine and Biology 
+
+          Volume: 5 
+
+          pages count: 825-840 
+
+          Vol: 42 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         Optical Imaging in Medicine II: Modelling and Reconstruction 
+ S. Arridge , J. Hebden 
+          RN/97/46 
+
+          June 1997 
+
+         Journal: Physics in Medicine and Biology 
+
+          Volume: 5 
+
+          Vol: 42 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         Imaging Through Scattering Media by the Use of an Analytical Model of 
+ J. Hebden , S. Arridge 
+          RN/97/47 
+
+          June 1997 
+
+         Journal: Applied Optics 
+
+          Volume: 34 
+
+          pages count: 6788-6796 
+
+          Vol: 35 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         A Theoretical and experimental Investigation of Near Infrared Light 
+ E. Okada , M. Firbank , M. Schweiger , S. Arridge , M. Cope , D. Delpy 
+          RN/97/48 
+
+          June 1997 
+
+         Journal: Applied Optics 
+
+          Volume: 1 
+
+          pages count: 21-31 
+
+          Vol: 36 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         One to Many Reliable Bulk-Data Transfer in the MBone 
+ L. Vicisano , J. Crowcroft 
+          RN/97/49 
+
+          June 1997 
+
+         Book: Proc. of the Third International Workshop on High Performance Protocol 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         Recent Activities in the MERCI Conferencing Project 
+ P. Kirstein , R. Bennett 
+          RN/97/50 
+
+          June 1997 
+
+         Book: Proc. 8th Joint European Networking Conference, JENC8, Edinburgh, 
+
+          pages count: 923-1 - 923-11 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         Real-Time Audio and Video Transmission of IEEE GLOBECOM'96 over the 
+ C. Perkins , J. Crowcroft 
+          RN/97/51 
+
+          June 1997 
+
+         Journal: IEEE Communications Magazine 
+
+          pages count: 30-33 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         Prospects for Internet Technology 
+ B. Carpenter , J. Crowcroft 
+          RN/97/52 
+
+          June 1997 
+
+         Government Order Number: 0967-1846 
+
+          Journal: Distributed Systems Engineering 
+
+          pages count: 78-86 
+
+          Vol: 4 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         The MERCI Project- Improving Multimedia Conferencing for Research 
+ R. Bennett , P. Kirsein 
+          RN/97/53 
+
+          June 1997 
+
+         Book: Proc. UKERNA Videoconferencing Workshop, Nottingham, May 1996 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         Combining a Neural Network with Case-based Reasoning in a Dionostic System 
+ J. Campbell , E. Reategui , B. Leao 
+          RN/97/54 
+
+          June 1997 
+
+         Journal: Artificial Intelligence in Medicine 
+
+          pages count: 5- 
+
+          Vol: 9 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         A Perspective on Symbollic Mathematical Computing and Artificial 
+ J.A. Campbell , J. Calmet 
+          RN/97/55 
+
+          June 1997 
+
+         Journal: Annals of Mathematics and Artificail Intelligence 
+
+          pages count: 1- 
+
+          Vol: 9 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         Integrated Services in the Internet: State of the Art 
+ P. White , J. Crowcroft 
+          RN/97/56 
+
+          June 1997 
+
+         Book: NetWorkshop 25, March 1997 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          P. White 
+
+         RSVP and Integrated Services in the Internet: a Tutorial 
+ P. White , J. Crowcroft 
+          RN/97/57 
+
+          
+
+         Journal: IEEE Communications Magazine 
+
+          pages count: ? 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         Reservations about Reservations 
+ F. Baker , J. Crowcroft , R. Guerin , H. Schulzrinne , L. Zhang 
+          RN/97/58 
+
+          June 1997 
+
+         Book: Proc. 5th IFIP International Workshop on Quality of Service, May 21-23 
+
+          pages count: 325-331 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         Implementing TMN-like Management Services in a TINA Compliant 
+ D. griffin , G. Pavlou , T. Tin 
+          RN/97/59 
+
+          June 1997 
+
+         Book: Proc. Fourth International Conference on Intelligence in Broadband 
+
+          pages count: to~appear 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         A General Framwwork for Routing Management in Multi-Service ATM Networks 
+ P. Geogatsos , D. Griffin 
+          RN/97/60 
+
+          June 1997 
+
+         Book: Proc. 5th IFIP/IEEE International Smposium on Integrated Network Management 
+
+          pages count: ? 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         Unified Fault, Resource Management and Control in ATM-Based IBCNs 
+ S. Sartzetakis , P. Geogatsos , G. Konstantoulakis , G. Pavlou , D. Griffin 
+          RN/97/61 
+
+          June 1997 
+
+         Book: Proc. 5th IFIP/IEEE International Symposium on Integrated Network 
+
+          pages count: ? 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         A Methodology for Developing Integrated Multi-Domain Service Management 
+ V. Wade , D. Lewis , M. Sheppard , M. Tschichholz , J. Hall 
+          RN/97/62 
+
+          July 1997 
+
+         Book: Proc. 4th International Conference on Intelligence in Services and 
+
+          City: Berlin 
+
+          Government Order Number: 3540631356 
+
+          Issuer: Springer-Verlag 
+
+          pages count: 243-254 
+
+          Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         A Comparison of Channel Coding Techniques for Internet Audio 
+ 
+          RN/97/62 
+
+          
+
+         Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          Orion Hodson 
+
+         A Comparison of Channel Coding Techniques for Internet Audio 
+ Orion Hodson , Colin Perkins , Anna Watson , Vicky Hardman 
+          RN/97/63 
+
+          July 1997 
+
+         Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          
+
+         Design Issues of the Fetch Pipeline Stage of the Superflux Superscalar 
+ 
+          RN/97/63 
+
+          
+
+         Submission Status: to appear in Proc. Scale Space'97 
+
+          
+
+         
+ 
+          Alberto Ferreira de Souza 
+
+         Design Issues of the Fetch Pipeline Stage of the Superflux Superscalar 
+ Alberto Ferreira de Souza , Eliseu Monteiro Chaves Filho , Peter Rounce 
+          RN/97/64 
+
+          July 1997 
+
+         Submission Status: submitted to IX SBAC - PAD, Brazilian Symposium on Computer Architectures and High Performance Processing 
+
+          
+
+         
+ 
+          
+
+         Ticket Based Service Access for the Mobile User 
+ 
+          RN/97/64 
+
+          
+
+         Submission Status: submitted to IX SBAC - PAD, Brazilian Symposium on Computer Architectures and High Performance Processing 
+
+          
+
+         
+ 
+          Bhrat Patel 
+
+         Ticket Based Service Access for the Mobile User 
+ Bhrat Patel , Jon Crowcroft 
+          RN/97/65 
+
+          July 1997 
+
+         Submission Status: to appear in: Proceedings of the Third Annual ACM/IEEE International 
+
+          
+
+         
+ 
+          
+
+         Evaluating Real-Time Multimedia Audio and Video Quality 
+ Anna Watson 
+          RN/97/66 
+
+          July 1997 
+
+         Book: Proc. CHI'97 
+
+          Keywords: Multimedia conferencing, MBone, speech intelligibility, speech quality, 
+
+          Pages: 2 
+
+          pages count: 73-74 
+
+          Abstract: Abstract: 
+
+          Submission Status: Doctoral consortium at CHI '97 
+
+          
+
+         
+ 
+          
+
+         TCP-like Congestion Control for Layered Multicast Data Transfer 
+ L. Vicisano , L. Rizzo , J. Crowcroft 
+          RN/97/67 
+
+          July 1997 
+
+         Pages: 25 
+
+          Submission Status: submitted to IEEE INFOCOM'98 
+
+          
+
+         
+ 
+          
+
+         Interpolation of Rules: A Means of Fast Decision Making for Real-Time Problem Solving 
+ 
+          RN/97/67 
+
+          
+
+         Submission Status: submitted to IEEE INFOCOM'98 
+
+          
+
+         
+ 
+          N. Chatterjee 
+
+         Interpolation of Rules: A Means of Fast Decision Making for Real-Time Problem Solving 
+ N. Chatterjee , J.A. Campbell 
+          RN/97/68 
+
+          September 1997 
+
+         Abstract: Abstract: not go together; RBR (being search-intensive, and therefore open-ended in 
+
+          Submission Status: accepted for the ANNUAL CONFERENCE - EXPERT SYSTEMS '97 
+
+          
+
+         
+ 
+          
+
+         Interpolation of Rules: A Means of Fast Decision Making for Real-Time Problem Solving 
+ 
+          RN/97/68 
+
+          
+
+         Submission Status: accepted for the ANNUAL CONFERENCE - EXPERT SYSTEMS '97 
+
+          
+
+         
+ 
+          
+
+         Interpolation of Rules: A Means of Fast Decision Making for Real-Time Problem Solving 
+ 
+          RN/97/68 
+
+          
+
+         Submission Status: accepted for the ANNUAL CONFERENCE - EXPERT SYSTEMS '97 
+
+          
+
+         
+ 
+          
+
+         	
+           Translator  
+         
+
+
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Rachel Scott 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

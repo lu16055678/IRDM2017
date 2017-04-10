@@ -1,0 +1,445 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus Index 2017-2018 (Provisional) ›› COMPM055 - Supervised Learning 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPM055 - Supervised Learning
+
+       This database contains the 2017-18 versions of syllabuses. These are still being finalised and changes may occur before the start of the session.
+
+       Syllabuses from the 2016-17 session are available here.
+
+        
+         
+         
+          
+         	Code	COMPM055 (Also taught as: COMPGI01 Supervised Learning)
+	Year	4
+	Prerequisites	Basic mathematics, Calculus, Probability, Linear algebra 
+	Term	1
+	Taught By	Mark Herbster (50%), John Shawe-Taylor (30%), Massi Pontil (20%)
+	Aims	This module covers supervised approaches to machine learning. 
+	Learning Outcomes	Gain in-depth familiarity with various classical and contemporary supervised learning algorithms, understand the underlying limitations and principles that govern learning algorithms and ways of assessing and improving their performance. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         The course consists of both foundational topics for supervised learning such as Linear Regression, Nearest Neighbors and Kernelisation as well contemporary research areas such as multi-task learning and optimisation via proximal methods.  In a given year topics will be drawn non-exclusively from the following.
+
+         	Nearest Neighbors
+	Linear Regression
+	Kernels and Regularisation
+	Support Vector Machines
+	Gaussian Processes
+	Decision Trees
+	Ensemble Learning
+	Sparsity Methods 
+	Multi-task Learning
+	Proximal Methods
+	Semi-supervised Learning
+	Neural Networks
+	Matrix Factorization 
+	Online Learning
+	Statistical Learning Theory
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lecture presentations with associated class problems
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	 Written Examination (2.5 hours, 75%)
+	Coursework Section (25%)
+
+To pass this course, students must:
+
+
+         	Obtain an overall pass mark of 50% for all sections combined.
+
+
+         
+For full details of coursework see the course web page.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Text Book 1: The Elements of Statistical Learning: Data Mining, Inference and Prediction, Hastie.T., Tibshirani.R., and Friedman.J., Springer [2001]
+Reference Book 1: Pattern Classification, Duda.R.O., Hart.P.E., and Stork.D.G., John Wiley and Sons (2001) 
+Reference Book 2: Pattern Recognition and Machine Learning, Bishop, Christopher M., Springer (2006)
+Reference Book 3: An Introduction to Support Vector Machines, Shawe-Taylor J. and Cristianini N., Cambridge University Press (2000)
+Reference Book 4: Kernel Methods for Pattern Analysis, Shawe-Taylor.J, and Cristianini N., Cambridge University Press (2004) 
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 03 Apr 2017 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

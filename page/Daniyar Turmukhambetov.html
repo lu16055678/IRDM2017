@@ -1,0 +1,337 @@
+<html>
+ <head> 
+  <title>Daniyar Turmukhambetov</title> 
+  <style type="text/css">
+body
+{
+    text-align: center;
+    font-family: "Lucida", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    background-color: #fafafb;
+    font-size: 14px;
+}
+div#content
+{
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 8px;
+    text-align: left;
+}
+div#textcontent
+{
+    padding-left: 0px;
+    padding-bottom: 5px;
+    padding-right: 0px;
+}
+img#myFaceImage
+{
+}
+div.paragraph
+{
+    margin-left: 0px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 0px;
+}
+div.publication
+{
+    width: 715px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-left: -15px;
+    margin-right: 4px;
+    margin-bottom: 20px;
+    background-color: #fdfdfd;
+    -moz-box-shadow: 8px 8px 4px #99a;
+    -webkit-box-shadow: 8px 8px 4px #99a;
+    box-shadow: 8px 8px 4px #99a;
+}
+div.thumbnail
+{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    vertical-align: middle;
+    width: 210px;
+}
+div.details
+{
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 1.3em;
+    padding-left: 10px;
+    width: 480px;
+}
+div.spacer
+{
+	clear: both;
+}
+img
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+h2
+{
+	font-size: 23px;
+	font-weight: 600;
+	margin-top: 23px;
+	margin-left: 0px;
+	margin-bottom: 5px;
+	letter-spacing: 0; 
+	color: #000;
+}
+li
+{
+	margin-left: 5px;
+}
+</style> 
+ </head> 
+ <body> 
+  <div id="content"> 
+   <img id="myFaceImage"> 
+   <script type="text/javascript">
+    var images = [
+    'images/7.jpg'
+    ];
+var titles = [
+'Daniyar Turmukhambetov'
+];
+<!--
+'London, UK. Autumn 2010.', 
+'London, UK. Autumn 2011.', 
+'Grenoble, France. Summer 2012.', 
+'Oxford, UK. Autumn 2013.', 
+'Almaty, Kazakhstan. Winter 2014.', 
+'Edinburgh, UK. Spring 2015.',
+'Versailles, France. Winter 2017.'
+-->
+
+for (var j=images.length; j--;) {
+	var img = new Image();
+	img.scr = images[j];
+}
+
+var i = Math.floor(Math.random() * images.length);
+document.getElementById('myFaceImage').src = images[i];
+document.getElementById('myFaceImage').title = titles[i];
+
+document.getElementById('myFaceImage').addEventListener('click', 
+function() {
+	this.src = images[i>= images.length - 1 ? i=0 : ++i];
+	this.title = titles[i];
+}, false);
+</script> 
+   <div id="textcontent"> 
+    <h2>Dr. Daniyar Turmukhambetov</h2> 
+    <div class="paragraph">
+      I'm a post-doctoral research associate with 
+     <a href="http://www.cs.ucl.ac.uk/staff/G.Brostow">Dr. Gabriel Brostow</a> at University College London working on EU-FP7 project 
+     <a href="http://www.cr-play.eu/">"Capture-Reconstruct-Play"</a> and 
+     <a href="https://batslive.wordpress.com/">"Nature-Smart Cities - Sensing Nature in the Queen Elizabeth Olympic Park"</a> EPSRC Impact project. 
+    </div> 
+    <div class="paragraph">
+      I completed my PhD in the Department of Computer Science at University&nbsp;College&nbsp;London under supervision of 
+     <a href="http://jankautz.com">Prof.&nbsp;Jan&nbsp;Kautz</a> and 
+     <a href="http://www0.cs.ucl.ac.uk/external/s.prince">Dr.&nbsp;Simon&nbsp;Prince</a> in collaboration with 
+     <a href="http://cs.bath.ac.uk/~nc537">Dr.&nbsp;Neill&nbsp;D.F.&nbsp;Campbell</a>. My PhD thesis, titled "Synthesizing and Editing Photo-realistic Visual Objects", explores image synthesis by combining computer graphics techniques with probabilistic generative models of computer vision. During my PhD I did a summer research internship at Creative Technologies Lab of Adobe in Seattle with 
+     <a href="http://www.danbgoldman.com/">Dr.&nbsp;Dan&nbsp;B&nbsp;Goldman</a>. 
+    </div> 
+    <div class="paragraph">
+      Before starting my PhD, I finished 
+     <a href="http://www.cs.ucl.ac.uk/admissions/msc_cgvi">MSc in Computer Graphics, Vision and Imaging</a> at UCL with distinction. My Master Thesis "Intrinsic Images from Color and Depth", supervised by 
+     <a href="http://www.cs.ucl.ac.uk/staff/G.Brostow/">Dr.&nbsp;Gabriel Brostow</a>, has won "BBC Best Project Prize". 
+    </div> 
+    <div class="paragraph">
+      Previously, I completed my bachelor degree at 
+     <a href="http://www.tsinghua.edu.cn">Tsinghua&nbsp;University</a> with a scholarship from China National Petroleum Corporation. 
+    </div> 
+    <div class="paragraph"> 
+     <a href="shortbio.txt">Short bio</a> 
+    </div> 
+    <h2>Publications</h2> 
+    <div class="spacer"></div> 
+    <div class="publication"> 
+     <div class="thumbnail"> 
+      <img src="papers/harmonicNets.png"> 
+     </div> 
+     <div class="details">
+       "
+      <b>Harmonic Networks: Deep Translation and Rotation Equivariance</b>"
+      <br> Daniel E. Worrall, Stephan J. Garbin, Daniyar Turmukhambetov and Gabriel J. Brostow
+      <br> In 
+      <i>Conference on Computer Vision and Pattern Recognition</i>, 2017
+      <br> 
+      <a href="http://visual.cs.ucl.ac.uk/pubs/harmonicNets/">project webpage</a>
+      <br> 
+      <a href="https://arxiv.org/abs/1612.04642v1">arxiv</a>
+      <br> 
+      <a href="papers/harmonicNets.pdf">preprint(PDF, 4.1Mb)</a>
+      <br> 
+     </div> 
+    </div> 
+    <div class="spacer"></div> 
+    <div class="publication"> 
+     <div class="thumbnail"> 
+      <img src="papers/hilcIUI2017.png"> 
+     </div> 
+     <div class="details">
+       "
+      <b>Help, It Looks Confusing: GUI Task Automation Through Demonstration and Follow-up Questions</b>"
+      <br> Thanapong Intharah, Daniyar Turmukhambetov and Gabriel J. Brostow
+      <br> In 
+      <i>ACM Intelligent User Interfaces (IUI)</i>, 2017
+      <br> Best Student Paper Honorable Mention
+      <br> 
+      <a href="http://visual.cs.ucl.ac.uk/pubs/HILC/">project webpage</a>
+      <br> 
+      <a href="https://arxiv.org/abs/1611.03906">draft(PDF, 5.4Mb)</a>
+      <br> 
+     </div> 
+    </div> 
+    <div class="spacer"></div> 
+    <div class="publication"> 
+     <div class="thumbnail"> 
+      <img src="papers/phdthesis.png"> 
+     </div> 
+     <div class="details">
+       "
+      <b>Synthesizing and Editing Photo-realistic Visual Objects</b>"
+      <br> Daniyar Turmukhambetov
+      <br> PhD Thesis at University College London, 2016
+      <br> 
+      <a href="papers/phdthesis.pdf">monograph(PDF, 57.5Mb)</a>
+      <br> 
+      <a href="http://discovery.ucl.ac.uk/1531112/">UCL Discovery</a>
+      <br> 
+     </div> 
+    </div> 
+    <div class="spacer"></div> 
+    <div class="publication"> 
+     <div class="thumbnail"> 
+      <img src="papers/cccaCVPR2015.png"> 
+     </div> 
+     <div class="details">
+       "
+      <b>Modeling Object Appearance using Context-Conditioned Component Analysis</b>"
+      <br> Daniyar Turmukhambetov, Neill D.F. Campbell, Simon J.D. Prince and Jan Kautz
+      <br> In 
+      <i>Conference on Computer Vision and Pattern Recognition</i>, 2015
+      <br> 
+      <a href="http://visual.cs.ucl.ac.uk/pubs/ccca/">project webpage</a>
+      <br> 
+      <a href="papers/cccaCVPR2015.pdf">paper(PDF, 5.2Mb)</a>
+      <br> 
+      <a href="papers/cccaCVPR2015.bib">bibtex</a> 
+     </div> 
+    </div> 
+    <div class="spacer"></div> 
+    <div class="publication"> 
+     <div class="thumbnail"> 
+      <img src="papers/isdisCGF2015.png"> 
+     </div> 
+     <div class="details">
+       "
+      <b>Interactive Sketch-Driven Image Synthesis</b>"
+      <br> Daniyar Turmukhambetov, Neill D.F. Campbell, Dan B Goldman and Jan Kautz
+      <br> In 
+      <i>Computer Graphics Forum</i>, 2015
+      <br> 
+      <a href="http://visual.cs.ucl.ac.uk/pubs/isdis/">project webpage</a>
+      <br> 
+      <a href="http://onlinelibrary.wiley.com/doi/10.1111/cgf.12665/abstract">Free Access to Article at Wiley Online Library</a>
+      <br> 
+      <a href="papers/isdisCGF2015pre.pdf">preprint(PDF, 9.5Mb)</a>
+      <br> 
+      <a href="papers/isdisCGF2015.bib">bibtex</a>
+      <br> 
+     </div> 
+    </div> 
+    <div class="spacer"></div> 
+    <div class="publication"> 
+     <div class="thumbnail"> 
+      <img src="papers/mscthesis.png"> 
+     </div> 
+     <div class="details">
+       "
+      <b>Intrinsic Images from Color and Depth</b>"
+      <br> Daniyar Turmukhambetov
+      <br> MSc Thesis at University College London, 2011
+      <br> 
+      <a href="papers/mscthesis.pdf">monograph(PDF, 11.9Mb)</a>
+      <br> 
+     </div> 
+    </div> 
+    <div class="spacer"></div> 
+    <!--
+
+<h2>Teaching</h2>
+
+<div class="paragraph">
+I worked as lab demonstrator at UCL for following courses:
+</div>
+<ul>
+<li> COMP M072/GV01 Mathematical Methods, Algorithmics and Implementations (Autumn 2011)
+<li> COMP M054/GI14 Machine Vision (Autumn 2011)
+<li> MSc CGVI Introduction to Matlab (Autumn 2011)
+</ul>
+
+<div class="paragraph">
+I taught practical sessions at <a href="http://www.iitu.kz">IITU</a> for following courses:
+</div>
+
+<ul>
+<li> Introduction to Programming (Spring 2010)
+<li> Algorithms and Programming Languages (Autumn 2009)
+</ul>
+
+<h2>Matlab Examples</h2>
+
+<div class="paragraph">
+<a href="matlab_examples/mex/">Matlab Mex</a>
+</div>
+
+<div class="paragraph">
+<a href="matlab_examples/omp/">Matlab+OpenMP</a>
+</div>
+
+<div class="paragraph">
+<a href="matlab_examples/cuda/">Matlab+CUDA</a>
+</div>
+--> 
+    <h2>Curriculum Vitae</h2> 
+    <div class="paragraph"> 
+     <a href="dturmukh.pdf">PDF</a> 
+    </div> 
+    <h2>Links</h2> 
+    <div class="paragraph"> 
+     <a href="https://github.com/dantkz"> <img src="github.png" width="50" height="20" alt="View Daniyar Turmukhambetov's profile on Github" style="border:0px;"></a> 
+    </div> 
+    <div class="paragraph"> 
+     <a href="https://uk.linkedin.com/pub/daniyar-turmukhambetov/20/ab7/a56"> <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_profile_greytxt_80x15.png" width="80" height="15" alt="View Daniyar Turmukhambetov's profile on LinkedIn" style="border:0;px"></a> 
+    </div> 
+    <div class="paragraph"> 
+     <a href="http://vecg.cs.ucl.ac.uk/">Virtual Environments and Computer Graphics Group</a> 
+    </div> 
+    <div class="paragraph"> 
+     <a href="http://www0.cs.ucl.ac.uk/staff/D.Worrall/VRG/VRG.html">Computer Vision Reading Group</a> 
+    </div> 
+    <h2>Contact Details</h2> 
+    <div class="paragraph"> 
+     <a href="mailto:daniyar.turmukhambetov.10 (at) ucl.ac.uk">daniyar.turmukhambetov.10 (at) ucl.ac.uk</a>
+     <br> Department of Computer Science 
+     <br> University College London 
+     <br> Gower Street, London WC1E 6BT 
+     <br> United Kingdom 
+     <br> 
+    </div> 
+   </div>   
+  </div>
+ </body>
+</html>

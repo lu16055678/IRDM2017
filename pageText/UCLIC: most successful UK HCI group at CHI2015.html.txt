@@ -1,0 +1,526 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         UCLIC: most successful UK HCI group at CHI2015
+ 
+         
+          
+          
+
+         
+ 
+          Authors from UCL will have a great presence at CHI 2015, the premier conference in Human-Computer Interaction, which takes place in Seoul, Korea, April 18 - 23 2015.
+ 
+          Check out this list, which makes UCL Interaction Centre the most successful UK HCI group at #chi2015!
+ 
+          We are delighted that four of our papers received Best of CHI Honorable Mentions. 
+ 
+         For over 30 years, the CHI conference  has attracted the world’s leading researchers and practitioners in the field of HCI from businesses and universities to share ground-breaking research and innovations related to how humans interact with digital technologies. 
+ 
+          The theme for CHI 2015 is "Crossings": crossing borders, crossing boundaries, crossing disciplines, crossing people and technology, crossing past and future, crossing physical and digital, crossing art and science, … crossing you and me.
+ 
+          Here is a sneak peek at our accepted contributions: 
+ 
+         Full Papers: 12
+
+         	Working 9-5? Professional Differences in Email and Boundary Management Practices.
+ Cecchinato, M.E., Cox, A.L., Bird, J.
+	The Emergence of Interactive Behaviour: A Model of Rational Menu Search.
+ Chen, X., Bailly, G., Brumby, D.P., Oulasvirta, A., Howes, A.
+	Display Blindness? Looking Again at the Visibility of Situated Displays Using Eye Tracking.
+ Dalton, N., Collins, E., Marshall, P.
+	WATCHCONNECT: A Toolkit for Prototyping Smartwatch-Centric Cross-Device Applications.
+ Houben, S., Marquardt, N.
+	Moving Beyond Fun: Evaluating Serious Experience in Digital Games.
+ HONORABLE MENTION AWARD
+ Iacovides, I., Cox, A.L.
+	"Everyone Is Talking about It!": A Distributed Approach to Urban Voting Technology and Visualisations.
+ HONORABLE MENTION AWARD
+ Koeman, L., Kalnikaitė, V., Rogers, Y.
+	Concealing or Revealing Mobile Medical Devices? Designing for Onstage and Offstage Presentation.
+ O'Kane, A.A., Rogers, Y., Blandford, A.
+	Contextual Influences on the Use and Non-Use of Digital Technology while Exercising at the Gym.
+ Patel, M., O'Kane, A.A.
+	Spatially-Aware or Spatially-Agnostic? Elicitation and Evaluation of User-Defined Cross-Device Interactions.
+ Rädle, R., Jetter, H.-C., Schreiner, M., Lu, Z., Reiterer, H., Rogers, Y.
+	Beyond Self-Tracking and Reminders: Designing Smartphone Apps that Support Habit Formation.
+ Stawarz, K., Cox, A.L., Blandford, A.
+	As Light as your Footsteps: Altering Walking Sounds to Change Perceived Body Weight, Emotional State and Gait.
+ HONORABLE MENTION AWARD
+ Tajadura-Jiménez, A., Basia, M., Deroy, O., Fairhurst, M., Marquardt, N., Bianchi-Berthouze, N.
+	Más Tecnología, Más Cambio? Investigating an Educational Technology Project in Rural Peru.
+ Therias, E., Bird, J., Marshall, P.
+
+
+         Notes: 5
+
+         	Visual Grouping in Menu Interfaces.
+ Brumby, D.P., Zhuang, S.
+	Balancing Boundaries: Using Multiple Devices to Manage Work-Life Balance.
+ Fleck, R., Cox, A.L., Robison, R.A.V.
+	Push-Edge and Slide-Edge: Scrolling by Pushing Against the Viewport Edge.
+ Malacria, S., Aceituno, J., Quinn, P., Casiez, G., Cockburn, A., Roussel, N.
+	An Experimental Comparison of Vertical and Horizontal Dynamic Peephole Navigation.
+ Müller, J., Rädle, R., Jetter, H.-C., Reiterer, H.
+	Resilience Ex Machina: Learning a Complex Medical Device for Haemodialysis Self-Treatment.
+ HONORABLE MENTION AWARD
+ Noble, P.
+
+
+         Courses: 2
+
+         	Methods for Human-Computer Interaction Research.
+ Gould, S.J.J., Brumby, D.P., Cox, A.L., Fitzpatrick, G., Hoonhout, J., Lamas, D., Law, E.
+ More information available at bit.ly/hci-methods-course
+	Sketching User Experiences: The Hands-on Course.
+ Marquardt, N., Greenberg, S.
+ More information available at sketchbook.cpsc.ucalgary.ca
+
+
+         Doctoral Consortium: 1
+
+         	Apps with Habits: Adaptive Interfaces for News Apps.
+ Constantinides, M.
+
+
+         Works-in-Progress: 3
+
+         	Smartwatches: the Good, the Bad and the Ugly?
+ Cecchinato, M.E., Cox., A.L., Bird, J.
+	Task Lockouts Induce Crowdworkers to Switch to Other Activities.
+ Gould, S.J.J., Cox, A.L., Brumby, D.P.
+	Connichiwa – A Framework for Cross-Device Web Applications.
+ Schreiner, M., Rädle, R., Jetter, H.-C., Reiterer, H.
+
+
+         Workshop Organised: 1
+
+         	Knowledge Production in Interaction Design.
+ Höök, K., Dalsgaard, P., Reeves, S., Bardzell, J., Löwgren, J., Stolterman, E., Rogers, Y.
+
+
+         Workshop Papers: 10
+
+         	Supporting Collaborative Curation of Historic Documents with Mobile Ad Hoc Cross-Device Interactions.
+ Brudy, F., Marquardt, N., Jetter, H.-C., Houben, S., Sellen, A., Rogers, Y.
+ Workshop: Mobile Collocated Interactions: From Smartphones to Wearables. 
+	Online vs Offline: Implications for Work Identity.
+ Cecchinato, M.E., Fleck, R., Bird, J., Cox, A.L.
+ Workshop: Between the Lines: Reevaluating the Online/Offline Binary. 
+	Shared PI: Sharing Personal Data to Support Reflection and Behaviour Change.
+ Fleck, R., Harrison, D.
+ Workshop: Beyond Personal Informatics: Designing for Experiences with Data. 
+	Control and Confounds in Cross-Cultural Crowdsourced Experiments.
+ Gould, S.J.J., Cox, A.L., Brumby, D.P.
+ Workshop: How WEIRD is HCI? Extending HCI Principles to other Countries and Cultures. 
+	Challenges in Watch-Centric CrossDevice Applications.
+ Houben S., Brudy, F., Marquardt N.
+ Workshop: Mobile Collocated Interactions: From Smartphones to Wearables. 
+	A Human-Data Design Approach to Physically Experiencing Data.
+ Houben S., Gallacher S., Golsteijn, C., Marquardt N., Capra L., Rogers Y.
+ Workshop: Exploring the Challenges of Making Data Physical. 
+	Tiny Data: Situated Data Analysis to Support Community Decision Making.
+ Jones, G., Rogers, Y., Marquardt, N.
+ Workshop: Designing Alternative Systems for Local Communities. 
+	Who Should Lead the Development of Community Technology?.
+ Koeman, L., Jetter, H.-C.
+ Workshop: Designing Alternative Systems for Local Communities. 
+	Case Studies: Understanding Players and the Contexts in which they Play.
+ Iacovides, I., Cox, A.L.
+ Workshop: Crossing Domains: Diverse Perspectives on Players. 
+	Designing for Health Behavior Change: HCI Research Alone Is Not Enough.
+ Stawarz, K., Cox, A.L.
+ Workshop: Crossing HCI and Health: Advancing Health and Wellness Technology Research in Home and Community Settings. ​ 
+
+ 
+         
+ 
+         
+ 
+         
+           Posted 19 Mar 15 14:04 
+         
+ 
+          
+          
+           Next: UCL Interaction Centre... >
+
+          
+ 
+          
+           < Previous: Fourth Annual Alumni...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

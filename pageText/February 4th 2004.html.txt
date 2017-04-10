@@ -1,0 +1,382 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Student Information
+      ›› Staff-Student Committee
+      ›› Agendas ›› February 4th 2004 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        	Agenda for the SSCC meeting 4th February 2004
+The meeting will be held at 1:00 pm in room 229.
+
+            	Apologies for absence: Toan Hoang, Amir Nabi
+	Notification of any other business.
+	Approval of minutes of the last meeting (12th November 2003).
+	Matters arising from previous minutes.
+- Printing: Service is now laser printer only, the print quota has been increased.
+- Departmental Strategy for Teaching and Learning is now available on the web.
+- Pearson Society has now been re-activated.
+- BSc MACS students taking a Maths project. Discussed at teaching committee and agreed to take issue up with Maths.
+
+
+	Online availability of Z21/4C33 lecture notes. [Avtar Raikmo]
+	Spam and irrelevant messages on CS mail lists. [Aingaran Somaskandarajah]
+	Request to lecturers to make more use of course mailing lists to inform students of lecture changes and cancellations, and coursework deadlines. [Avtar Raikmo]
+	Sample exam papers for new courses and missing past papers on the library web site. [Avtar Raikmo]
+	Recording of lectures and making recordings available to students. [Aingaran Somaskandarajah]
+	Student access to wireless network. [Aingaran Somaskandarajah]
+	Certain clashes in Timetables for CS EE students: E746 Control systems Lecture (Friday @ 2.00pm - 3.00pm, Nina Thornhill (Professor), Gow 002) Clashes with the 3C05 Advanced Software Engineering Lecture (Friday @ 2.00pm - 3.00pm, W Emmerich, 229 Pearson). Approx 4 MSci CS-EE students are affected... the two courses are mandatory for the students and so they are having difficulty. Is it possible to amend the times for these lectures. [Aingaran Somaskandarajah]
+	CS Centric Application/Interview/CV training sessions. Many students have been having difficulties in making applications and attending interviews for jobs/internships in the IT/CS Sector. There are current sessions available for all students at the Careers Advise Center but this is a very general thing and has not helped CS students that well. Is there anyway of setting up a CS version. Possibly setup by Chris Clack? [Aingaran Somaskandarajah]
+	The guidelines for -- and the implementation of -- the MPhil/PhD Transfer process are woefully inadequate. 
+There seems to be a gross imbalance between 
+i) what is expected from the student; and 
+ii) the efforts made to make these expectations clear.
+The rationale behind the transfer process is largely historical, rather than pragmatic; and it comes at a significant cost to the student's time for what is, by definition, a transitionary and intermittent report. [Philip Bonhard]
+	Radiators in the PhD offices (specifically for rooms 116 + 212).  They cannot be regulated and thus generate too much heat, making it uncomfortable to work in the office. [Philip Bonhard]
+	Are nightly reboots of the college machines necessary?  This makes it necessary to run programs that have to run over night on private machines. [Philip Bonhard]
+	What is happening about the water cooler?  Will there at least be a filter at some point? Why is it taking so long (2 months by now) to be resolved? [Philip Bonhard]
+	Any Other Business
+
+Graham Roberts (Chair, SSCC)
+Current numbers of student representatives:
+
+            	1st year u/g	2	 
+	2nd year u/g	2	 
+	3rd year u/g	2	 
+	4th year u/g	2	 
+	Maths & CS	1	(also served by 1st-4th year reps)
+	MScCS	2	 
+	MScDCNDS	1	 
+	MScIS	1	 
+	MScVIVE	1	 
+	MResCVIPGS	1	 
+	Graduate research students
+	3
+
+
+
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

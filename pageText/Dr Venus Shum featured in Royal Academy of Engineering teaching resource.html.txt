@@ -1,0 +1,412 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         Dr Venus Shum featured in Royal Academy of Engineering teaching resource
+ 
+         
+          
+          
+
+         
+ 
+         Dr Venus Shum, Senior Research Associate at UCL Computer Science, and member of UCL's world leading Human-Computer Interaction Centre (UCLIC) is featured in maths learning resources for teachers in secondary schools that have been developed by UCL’s London Knowledge Lab, the Royal Academy of Engineering and Cornerstone Maths.
+ 
+         The new mathematics learning resource based on the Linear Function module of the Cornerstone Maths software, features profiles of real life app and game developers in order to highlight the links between maths and real-world coding and how coders, app developers and game designers use maths in their work and research. The resource will be distributed throughout the 28 Connecting STEM Teachers Networks across the UK as well as to over 400 schools. 
+ 
+         Venus' work has incorporated the development of numerous devices. The Engduino was designed to be a teaching tool, originally for use at UCL with visiting schoolchildren. The Engduino is, at heart, an Arduino, and it is programmed using the Arduino IDE. The Arduino is a simple, cost-effective and flexible platform that can be used for a wide variety of tasks, particularly when coupled with the various shields that are available, or when connected to LEDs, buttons, etc. 
+ 
+         CodeMe is another novel starter toolkit with a difference: fusing creativity and coding through a range of exciting and sometimes mysterious making and programing activities. CodeMe transforms programming into seamless creating and coding; for example, one minute you will be constructing a cube, the next making a pattern of LEDs light up while shaking the cube, the next watching an interconnected set of cubes placed in a room light up like a Mexican wave. 
+ 
+         Venus' future work includes cutting edge wireless sensing networks to monitor air and sea pollution  levels, and wearable technologies to monitor heart rates of different people, including Olympic swimmers.
+ 
+         
+ 
+         
+ 
+         
+           Posted 03 May 16 08:54 
+         
+ 
+          
+          
+           Next: Professor Peter O’Hearn... >
+
+          
+ 
+          
+           < Previous: Athena SWAN Silver Award...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

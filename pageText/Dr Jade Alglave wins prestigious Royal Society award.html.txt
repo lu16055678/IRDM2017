@@ -1,0 +1,435 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         Dr Jade Alglave wins prestigious Royal Society award
+ 
+         
+          
+          
+
+         
+ 
+         Dr Jade Alglave, Lecturer and member of the Programming Principles, Logic & Verification Research Group at UCL Computer Science, has been named as the winner of the Brian Mercer Award for Innovation by the Royal Society. 
+ 
+         The award funds researchers to build on their concepts to bring new ideas to market, and aims to promote links between the academic community, business and industry. 
+ 
+         Dr Alglave’s research into multiprocessor technology has led to the development of .cat, a standard verification format for hardware chips. 
+ 
+         Multiprocessors by ARM, AMD, IBM, Intel, or NVidia are found in devices ranging from smartphones to supercomputers, cars to aeroplanes. Programming software to run on multiprocessors is a form of concurrent programming, where multiple computations are executed during overlapping time periods. Sadly, due to the great number of possibleoutcomes of a given program, concurrent programming is error prone and “buggy”, and difficult to test. 
+ 
+         Dr Alglave has developed a tool to test and model proprietary hardware which ensures that software runs consistently across a range of platforms, reducing delays and costs caused by errors and inconsistencies. 
+ 
+         Professor David Price, UCL Vice-Provost (Research) said: 
+ 
+         <box class="indent"> 
+ 
+         "I’d like to extend my congratulations to Dr Alglave for her award. Innovative research is at the heart of UCL and Dr Alglave’s work will enable the development of pioneering new technology." 
+ 
+         </box> 
+ 
+         Professor John Shaw Taylor, Head of UCL Computer Science said: 
+ 
+         <box class="indent"> 
+ 
+         "I am immensely proud of Jade and her success in ensuring her deep theoretical work and understanding is directed so precisely at a pressing problem facing the computer industry. This exactly aligns with our maxim of experimental computer science: fundamental work that addresses real-world problems and delivers practical solutions." 
+ 
+         </box> 
+ 
+         The Brian Mercer Awards were established in 2001 to support research into the built environment, clean technology and energy, electrotechnology and nanoscience.
+
+         
+          (The image is of two ponies. The pony on the left is computed with an Intel CPU and doesn’t look buggy, the one on the right is computed with an Nvidia GPU and looks buggy. This is because the one on the right is computed using an Octree that uses a message passing idiom. Images computed by Tyler Sorensen, UCL Computer Science.)
+
+         
+ 
+         
+ 
+         
+ 
+         
+           Posted 23 Feb 15 13:41 
+         
+ 
+          
+          
+           Next: Jan Kautz’s co-authored... >
+
+          
+ 
+          
+           < Previous: *NEW* DUCO prizes for...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

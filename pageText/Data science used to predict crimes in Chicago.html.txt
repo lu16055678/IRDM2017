@@ -1,0 +1,418 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         Data science used to predict crimes in Chicago
+ 
+         
+          
+          
+
+         
+ 
+         Victor Yip, Ilias Antoniou and Vladislav Ligay have built an interactive website to visualise and predict crimes in Chicago using data science. The team, comprised of students working towards an MSc Business Analytics at UCL http://busics.cs.ucl.ac.uk/, has built the prescriptive analytic tool with the aim of assisting the Chicago Police Force in mobilising patrol units.
+ 
+         With data from the Chicago Data Portal and Twitter, they were able to visualise the occurrence of crimes and tweets between 7 April & 12 May 2016.
+ 
+         They have trained a support vector machines model to predict likelihood of crime occurrence at a specific location and time, based on spatial, Twitter and natural language and temporal clues. The tool is offered online through an interactive website with a dashboard summarizing current crime situation in Chicago; and prediction overlying a map engine.
+ 
+         The team evaluated the models based on the “surveillance graph” - a plot of the proportion of crimes contained versus the proportion of city covered. The models with Twitter augmentation outperformed the baseline model without Twitter data. Titled ‘Crime Scene’, website can be found at 
+ 
+          
+ 
+         http://bit.ly/crimeChicago. 
+ 
+         The trio have gone on to present the worl at UCL’s Centre for Advanced Spatial Analysis http://www.bartlett.ucl.ac.uk/casa.
+ 
+         A video of the team’s presentation is here https://youtu.be/0C7TDMnpyN4.
+ 
+         
+ 
+         
+ 
+         
+           Posted 07 Jun 16 15:52 
+         
+ 
+          
+          
+           Next: Anthony Finkelstein... >
+
+          
+ 
+          
+           < Previous: UCL hosts first-ever...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

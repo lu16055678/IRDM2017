@@ -1,0 +1,477 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Students
+      ›› Syllabus ›› GC02 - Design 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGC02 - Design
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPGC02 
+	Year	MSc Computer Science
+	Prerequisites	This course should be taken in conjunction with the core courses for this programme (ie GC01, GC03, GC04 and GC05)
+	Term	1
+	Taught By	Dean Mohamedally (50%), Lorna Wall (50%)
+	Aims	This course introduces the concepts and methods required for the design and construction of apps software systems. It aims to develop a broad understanding of the disciplines of software engineering, project management and human computer interaction (HCI). It seeks to complement this with a detailed knowledge of techniques for the analysis, design and implementation of complex software intensive systems. It aims to set these techniques in an appropriate engineering, societal and managerial context. It applies the principles of OO programming (COMPGC01) in parallel with the development of apps via learning-by-doing and problem based learning (PBL) approaches. 
+This is an intensely practical module and full student engagement outside of lectures and in lab classes is critical to successful completion of the module. To ensure that the process of designing and implementing mobile and cloud applications is fully understood, the module requires students to undertake a major group project where they must work with an external client to develop and deliver a working application. This takes students through all the stages of a software development project, applying the concepts taught via lectures and online material. Outcomes in addition to the software deliverable include real-world client engagement, team management and project documentation deliverables.    
+The project clients come from a wide range of backgrounds, including companies of all sizes, the NHS, academic organisations and charities. Each client defines an application and technologies that they have a real need for and will put into use. A successful project will not only deliver a working application but also have it ready either for distribution via an app store at their client’s request or for handover as research materials. The interaction with clients to develop software meeting real-world needs and practical understanding of the human-computer interaction methods is a unique and defining characteristic of this module, and provides students with a thorough introduction to the processes and challenges involved.
+
+	Learning Outcomes	After completing the module attendees will:   
+ 
+             	Be able to demonstrate the principles of appropriate HCI, project management and software engineering methods.
+	Be able to design, document and implement the software for a real-world client application, which could be a mobile app, cloud app or webservice.
+	Be able to design and implement graphical user interfaces suitable for scaling on multiple devices and resolutions.
+	Have experience of effective team work methods, project documentation and project organisation skills.
+	Have experience of interacting with a real client with user centred design methods considerations weighted strongly in the design aspect of the project.
+
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         Topics covered in lectures or via online material: 
+ 
+         Human Computer Interaction:
+Overview of HCI
+Gathering Data from Users
+Understanding user needs/requirements
+Design Guidelines
+Sketching and Prototyping
+Evaluation  
+ 
+         User interfaces:
+Principles of graphical user interface design and implementation. 
+ 
+         Mobile, Cloud and Web Service development:
+Designing an app application.
+Event driven programming.
+Mobile app frameworks.
+User interface design and implementation for touch based user interfaces.
+Storing data. 
+ 
+         Client and Project Management:
+Working as an effective software development team
+Preparing project timelines and document templates
+Reporting effectively with clients to meet requirements 
+ 
+         Project work:
+The apps development project begins at the start of term in September, and continues through to early January when the final submission is made.  
+ 
+         Group formation: Students are split into project groups with around 2-3 members, each group being allocated a client who provides the requirements for the app to be developed. Project groups are selected by the module organisers, who also provide the clients. Clients will enter a partnership agreement with the student team via UCL Advances. Project groups are responsible for organising themselves, submitting regular progress reports and working with the client. Lecturers and teaching assistants monitor progress and provide feedback. 
+ 
+         Group deliverables: Regularly bi-weekly progress reports and three milestone submissions are made during the course of the project. The final submission includes the working version of the client’s application, video of the application and project report documentation for both the client and for examination.  
+ 
+         Individual deliverable: Each student is required to submit an individual report giving an evaluation of the project and an assessment of each group member including themselves. 
+
+         
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lecture presentations and online material. Group project tutorials and group working (self-directed learning). 
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment component: 
+ 
+         	Coursework (1 piece, 100%)
+
+ 
+         To pass this course, students must: 
+ 
+         	Obtain an overall pass mark of 50%
+
+
+         
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         A UCL Library reading list can be found on Moodle.  
+ 
+         The recommended OO programming text is:
+Developing Java Software, 3rd Edition, R.Winder and G.Roberts, John Wiley and Sons, 2006 (ISBN: 0-470-09025-1-0)  
+ 
+         A useful Android text is:
+Beginning Android Application Development, W. Lee, John Wiley and Sons, 2012 (ISBN 978-1-118-01711-1)
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

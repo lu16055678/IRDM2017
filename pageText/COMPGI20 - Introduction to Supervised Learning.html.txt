@@ -1,0 +1,471 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Students
+      ›› Syllabus ›› GI20 - Introduction to Supervised Learning 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGI20 - Introduction to Supervised Learning
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPGI20 
+	Year	MSc
+	Prerequisites	N/A
+	Term	1
+	Taught By	Iasonas Kokkinos (100%)
+	Aims	To have a full understanding of the learning outcomes.
+	Learning Outcomes	Students successfully completing the module should understand:
+Linear regression, regularisation
+Kernels and support vector machines
+Linear algebra tools for machine learning
+Neural Networks
+Structured Prediction
+Programming in either Matlab or Python
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content
+
+         
+ 
+          
+          
+         Introduction to Machine Learning
+ - Elements of Decision Theory, Bayes’ rule
+ - Nearest Neighbours
+ - Linear Regression, Ridge Regression
+- Generalization, Cross-Validation 
+ 
+          
+ Logistic Regression
+ - Probabilistic interpretation, cross-entropy
+ - Newton-Raphson method 
+ - Applications in vision
+ 
+ Support Vector Machines
+ - Functional and Geometric Margins
+ - SVM optimisation problem - primal and dual formulations
+ - Kernel trick
+ - Applications in vision
+ 
+ Boosting
+ - Ensemble methods
+- Weak learners
+ - Adaboost
+ - Applications in vision
+ 
+ Neural Networks
+ - Multi-layer perceptrons
+- Stochastic Gradient Descent 
+- Weight decay, momentum, batch normalization.
+ - Convolutional Neural Networks
+ - Applications in vision
+ 
+ Elements of structured prediction
+ - Markov Random Fields, Conditional Random Fields, Bayesian Networks
+ - Inference in chain/tree-structured graphs: max/sum-product
+ - CNN-CRF hybrids
+ - Applications in vision
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction
+
+         
+ 
+          
+          
+         Lectures and lab classes.  
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	Written Examination (2.5 hours, 50%)
+	Coursework Section (50%)
+
+
+         To pass this course, students must: 
+
+         	Obtain an overall pass mark of 50% for all sections combined. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources
+
+         
+ 
+          
+          
+         D. Barber: Bayesian Reasoning and Machine Learning. Cambridge University Press (2012) 
+ 
+         K. Murphy, Machine Learning: A Probabilistic Perspective, MIT Press (2013) 
+ 
+         D.J.C. MacKay: Information Theory, Inference and Learning Algorithms. Cambridge University Press. 
+ 
+         C. M. Bishop: Pattern Recognition and Machine Learning. Springer (2006)
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

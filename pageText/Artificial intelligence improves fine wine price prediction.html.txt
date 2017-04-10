@@ -1,0 +1,418 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         Artificial intelligence improves fine wine price prediction
+ 
+         
+          
+          
+
+         
+ 
+         The price fluctuation of fine wines can now be predicted more accurately using a novel artificial intelligence approach developed by researchers at UCL. The method could be used to help fine wine investors make more informed decisions about their portfolios and encourage non-wine investors to start looking at wine in this manner and hence increase the net trade of wine. It is expected that similar techniques will be used in other ‘alternative assets’ such as classic cars.
+ 
+         Co-author, Dr Tristan Fletcher, an academic at UCL and founder of quantitative wine asset management firm Invinio, said: “People have been investing in wine for hundreds of years and it's only very recently that the way they are doing it has changed. Wine investment is becoming more accessible and is a continually growing market, primarily brokered in London: the world-centre of the wine trade. We’ve shown that price prediction algorithms akin to those routinely used by other markets can be applied to wines.”
+ 
+         The study, published today in the Journal of Wine Economics with guidance from Invinio, found more complex machine learning methods outperformed other simpler processes commonly used for financial predictions. When applied to 100 of the most sought-after fine wines from the Liv-ex 100 wine index, the new approach predicted prices with greater accuracy than other more traditional methods by learning which information was important amongst the data.
+ 
+         Co-author, Professor John Shawe-Taylor, co-Director of the UCL Centre for Computational Statistics & Machine Learning and Head of UCL Computer Science, said: “Machine learning involves developing algorithms that automatically learn from new data without human intervention. We’ve created intelligent software that searches the data for useful information which is then extracted and used, in this case for predicting the values of wines. Since we first started working on machine learning at UCL, our methods have been used in a wide variety of industries, particularly medical and financial, but this is the first time we have entered the world of fine wine.”
+ 
+         For this study, the team tested two forms of machine learning including ‘Gaussian process regression’ and the more complex ‘multi-task feature learning’, which was first invented by UCL scientists in 2006 but has had significant enhancements recently.  These methods are able to extract the most relevant information from a variety of sources, as opposed to their more standard counterparts, which typically assume every data point is of interest, spurious or otherwise.
+ 
+         Analysis shows that machine learning methods based on Gaussian process regression can be applied to all the wines in the Liv-ex 100 with an improvement in average predictive accuracy of 15% relative to the most effective of the traditional methods. Machine learning methods based on multi-task feature learning only worked for half of the wines analysed as it required a stronger relationship between prices from one day to the next. However, where multi-task feature learning was applied, accuracy of predictions increased by 98% relative to more standard benchmarks.
+ 
+         Primary author and UCL MSc graduate, Michelle Yeo, said: “Other areas of finance already use automated processes for identifying meaningful trends but these haven’t been tested on the fine wine market until now. We’re pleased we were able to develop models applicable to fine wines and we hope our findings give the industry confidence to start adopting machine learning methods as a tool for investment decisions.”
+ 
+         Invinio plans to continue its collaboration with UCL in order to refine the algorithms and improve the tools it provides for existing and potential wine investors through its site. In doing so, the team say they need to strike a balance between the complexity of algorithms being developed and the actual improvements they offer in terms of performance. They are considering applying these techniques to the world of classic cars next.
+ 
+         
+ 
+         
+ 
+         
+           Posted 05 Aug 15 11:33 
+         
+ 
+          
+          
+           Next: Interactive design... >
+
+          
+ 
+          
+           < Previous: Coding 'transplant'...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

@@ -1,0 +1,451 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus Index 2017-2018 (Provisional)
+      ›› COMPG0 ›› COMPG015 - Algorithmic Trading 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPG015 - Algorithmic Trading
+
+       This database contains the 2017-18 versions of syllabuses. These are still being finalised and changes may occur before the start of the session.
+
+       Syllabuses from the 2016-17 session are available here.
+
+        
+         
+         
+          
+         	Code	COMPG015
+	Year	MSc
+	Prerequisites	None
+	Term	1
+	Taught By	Julius Bonart (100%)
+	Aims:
+	The module aims at introducing algorithmic trading or risk premia strategies, their rationales, properties, design and use. These are presented as an introduction to the primary strategies and common themes in algorithmic trading, together with areas for further study and development. 
+ The goal is to give a broad overview of strategies in common use, so students can be equipped with methods for implementing these and exploring their known and provable properties. In parallel, students will know means of approaching new strategies, design and research themes for the development of new strategies, and pitfalls in all strategy design.
+
+	Learning Outcomes	Students will be able to understand each major source of algorithmic trading income: momentum, carry, value, mean reversion, volatility, implementation details, statistical properties, performance expectations, use in diversified portfolios, together with practical areas of research for refinements of strategies and new areas of strategy development.
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content
+
+         
+ 
+          
+          
+         	Preliminaries: Industry overview, the place of medium and low-frequency algorithmic trading strategies in asset management. Review of relevant statistics.
+	Trend following and momentum strategies: rationale, design, statistical properties, benefits.
+	Mean reversion, cointegration, pairs trading, relative value strategies: rationale, design, payoff profiles, testing frameworks, new directions.
+	Risk premia, P measure and Q measure, properties of risk premia, carry as a measure of premium.
+	Value, cointegration and fundamental valuation models, longer term risk premia.
+	Options, Greeks, hedging, volatility risk premia, properties of short-gamma strategies.
+	Portfolio allocation methods for alternative risk premia, scaling rules, performance measures.
+	Overfitting, P-hacking, data snooping. Tests, adjustments, methodology for avoidance, robust machine learning.
+
+
+          Throughout the course there will be exercises emphasizing the use of Python and/or R for the implementation of trading strategies and the analysis of their performance.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction
+
+         
+ 
+          
+          
+         3 hours of lectures per week.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	Coursework (40%)
+	Written examination (2.5 hours, 60%)
+
+
+         To pass this course, students must:
+
+         	Obtain an overall pass mark of 50% for all sections combined.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources
+
+         
+ 
+          
+          
+         Recommended texts 
+ 
+         Ernest, C., Quantitative Trading, Wiley & Sons, 1st edition (2013) 
+ 
+         Further reading 
+ 
+         Tulchinsky, I., Finding Alphas: A Quantitative Approach to Building Trading Strategies, Wiley & Sons, 1st edition (2015)
+ Narang, R. K. , Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading, Wiley & Sons 2nd edition (2015)
+ Aartea, A., Jaimungal, S. and Penalva, J., Algorithmic and High-Frequency Trading, 1st edition, Cambridge University Press (2015)
+ Acar, E., Satchell, S., Advanced Trading Rules, Butterworth-Heinemann 2nd edition (2002)
+ Johnson, B., Algorithmic Trading and DMA: An introduction to direct access trading strategies, 1st edition, 4Myeloma Press (2010)
+ Aldridge, I., High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems, Wiley & Sons, 2nd edition (2013)
+ McKinney, W., Python for Data Analysis, O’Reilly, 1st edition (2012)
+ Hilpisch, Y., Python for Finance, O’Reilly, 1st edition (2014) 
+ 
+         Further books and other resources will be indicated during the course.
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 04 Apr 2017 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

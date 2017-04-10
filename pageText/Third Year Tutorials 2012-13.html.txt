@@ -1,0 +1,570 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Degree Programme
+      ›› Third Year
+      ›› Tutorials ›› Third Year Tutorials 2012-13 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        Tutors
+ 
+        Your tutor will continue to be the same person as in the first and second years, unless there have been any staff changes. You should continue to meet at least twice per term during terms 1 and 2. BSc students will also have a project supervisor for their final year project (who does not have to be the same person as your tutor!). 
+ 
+        The tutor/tutee list is: 
+
+        
+
+
+         	Prof. Simon Arridge
+
+          	Andreas Adamides
+
+
+
+	Dr. David Barber
+
+
+          	James Bracewell
+
+
+
+	Dr. Gabriel Brostow
+
+          	Yik Chan 
+	Andrew Li
+
+
+
+	Dr. Kevin Bryson
+
+          	Valentina Bodurova
+	Faheem Ebrahim
+	William Hines
+
+
+
+	Dr. Licia Capra
+
+          	Kingsley Boey Qi Yi
+	Marios Fekkos
+
+
+
+	Chris Clack
+
+          	Konstantin Borodin
+
+
+
+	Dr. Nicolas Courtois
+
+
+          	Zuhaib Sharif-Butt
+	Jihyun Han
+
+
+
+	Prof. Ingemar Cox
+
+          	Andreas Charalambous
+	Joshua Hood
+
+
+
+	Dr. John Dowell
+
+
+          	Manvir Grewal
+	Rehaan Khan
+
+
+
+	Dr. Nicolas Gold
+
+
+          	Oliver Kantyka
+	Yasaman Sepanj
+
+
+
+	Dr. Denise Gorse
+
+
+          	Elliott Omosheye
+	Fatima Sarbuland
+
+
+
+	Dr. Lewis Griffin
+
+          	Onyinye Dike
+
+
+
+	Dr. Jens Groth
+
+
+          	Praneeth Palliyaguru
+
+
+
+	Prof. Steve Hailes
+
+
+          	Sachin Pande
+
+
+
+	Prof. Mark Handley
+
+
+          	Octav-Emilian Sandu
+
+
+
+	Dr. Mark Herbster
+
+          	Zafira Inam
+
+
+
+	Dr. Robin Hirsch
+
+          	Cho Au
+	Shahriar Tajbakhsh
+
+
+
+	Prof. Tony Hunter
+
+          	Victor Jegede
+	Adiba Maduegbuna
+	Jeegar Shah
+
+
+
+	Prof. David Jones
+
+          	Luke Whitaker
+
+
+
+	Dr. Simon Julier
+
+          	Liam Mcardle
+	Anders Whitford-Bartle
+
+
+
+	Dr. Brad Karp
+
+          	Seyed Milani Hosseini
+	Haolin Zou
+
+
+
+	Dr. Jan Kautz
+
+          	Philipp Boing
+	Shi Ng
+
+
+
+	Dr. Emmanuel Letier
+
+          	Alexandra Browne
+	Ross Phillips
+
+
+
+	Prof. Zhaoping Li
+
+          	No third year tutees
+
+
+
+	Dr. Graham Roberts
+
+          	Richard Everett
+	Nazerke Safina
+	Sonal Shah
+
+
+
+	Prof. John Shawe-Taylor
+
+          	Erin Oerton
+
+
+
+	Prof. Anthony Steed
+
+          	Kamil Przekwas
+	Ezgi Ulugol
+
+
+
+	Prof. Philip Treleaven
+
+
+          	Arun Kumar
+
+
+
+	Dr. Jun Wang
+
+          	Waseem Ilyas
+	Soon Yee
+
+
+
+	Dr. Tim Weyrich
+
+          	Pawat Supaongprapa
+
+
+
+	Dr. Shi Zhou
+
+
+          	No third year tutees
+
+
+
+
+
+
+         
+        If your name is missing, incorrect or shown with the wrong tutor, email the Departmental Tutor (g.roberts@cs.ucl.ac.uk).
+
+        
+ 
+         Groups from previous years
+ 
+        	2011/12
+
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Steve Marchant 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

@@ -1,0 +1,365 @@
+<!doctype html>
+<!--[if IE 7]> <html lang="en" class="lt-ie9 lt-ie8 no-js"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="lt-ie9 no-js"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" class="no-js">
+ <!--<![endif]-->
+ <head> 
+  <base href="http://www.ucl.ac.uk/economics/study/undergraduate/module-list/econ3014/"> 
+  <!-- Head injector Script --> 
+  <title>ECON3014 - Game Theory</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0"> 
+  <meta name="og:title" content="ECON3014 - Game Theory"> 
+  <meta name="contact.name" content="Web Services"> 
+  <meta name="contact.email" content="silva-support@ucl.ac.uk"> 
+  <meta name="dcterms.created" content="2010-06-23"> 
+  <meta name="dcterms.modified" content="2016-08-17"> 
+  <meta name="ucl.content-hidden" content="hide"> 
+  <meta name="ucl.content_type" content="Silva Document"> 
+  <meta name="og:article:published_time" content="2016-08-17"> 
+  <link href="//cdn.ucl.ac.uk/skins/font-awesome/css/font-awesome.min.css" rel="stylesheet"> 
+  <link rel="stylesheet" media="screen, projection" href="//cdn.ucl.ac.uk/indigo/css/screen.min.css"> 
+  <link rel="stylesheet" media="screen, projection" href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/brightblue.min.css"> 
+  <link rel="stylesheet" media="screen, projection" href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/economics-theme/css/economics.min.css"> 
+  <link rel="stylesheet" media="screen, projection" href="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/css/screen/uclSearch.min.css"> 
+  <!--[if IE]>
+            <link media="screen, projection"
+                  rel="stylesheet"
+                  href="//cdn.ucl.ac.uk/indigo/css/ie.min.css" />
+            <link rel="stylesheet"
+                  media="screen, projection"
+                  href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/ie.min.css">
+        <![endif]--> 
+  <!--[if lt IE 8]>
+            <link media="screen, projection"
+                  rel="stylesheet"
+                  href="//cdn.ucl.ac.uk/indigo/css/ie-old.css" />
+            <link rel="stylesheet"
+                  media="screen, projection"
+                  href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/ie-old.min.css">
+
+        <![endif]--> 
+  <link media="print" rel="stylesheet" href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/print.css"> 
+  <link rel="shortcut icon" href="//cdn.ucl.ac.uk/indigo/images/favicon.ico"> 
+  <link rel="apple-touch-icon-precomposed" href="//cdn.ucl.ac.uk/indigo/images/favicon-152.png"> 
+  <meta name="msapplication-TileColor" content="#000000"> 
+  <meta name="msapplication-TileImage" content="//cdn.ucl.ac.uk/indigo//images/favicon-144.png"> 
+  <script src="//cdn.ucl.ac.uk/indigo/js/lib/modernizr-custom.js"></script> 
+  <script>
+            var cuttingTheMustard = document.querySelector && window.localStorage && window.addEventListener;
+
+            Modernizr.load({
+                //cutting the mustard as used by the BBC
+                test : cuttingTheMustard
+                //if old browser load the shiv
+                ,nope : [
+                    '//cdn.ucl.ac.uk/indigo/js/lib/html5shiv-printshiv.min.js'
+                    ,'//cdn.ucl.ac.uk/indigo/js/lib/respond.min.js'
+                    ,'//cdn.ucl.ac.uk/indigo/js/lib/respond.proxy.min.js'
+                ]
+            });
+            //set conditional assets for main.js
+            var globalSiteSpecificVars = {
+                pathToJquery: '//cdn.ucl.ac.uk/indigo/js/lib/jquery-1.9.1.min'
+                ,googleAnalyticsIdsArray: []//specify array of site specific id's NOT UCL generic UA-943297-1
+            }
+            if(cuttingTheMustard){
+                globalSiteSpecificVars.pathToJquery = '//cdn.ucl.ac.uk/indigo/js/lib/jquery-2.1.1.min';
+            }
+        </script> 
+  <script src="//cdn.ucl.ac.uk/indigo/js/lib/require.min.js"></script> 
+  <script src="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/main.js"></script> 
+  <script>require(['app/general','theme/indigo-autocomplete-ga','theme/silva','app/searchWithAutoComplete','app/lightbox','theme/economics']);//load the default stuff</script> 
+  <script>
+(function(){
+  if (window.BOOMR && window.BOOMR.version) { return; }
+  var dom,doc,where,iframe = document.createElement("iframe"),win = window;
+
+  function boomerangSaveLoadTime(e) {
+    win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+  }
+  if (win.addEventListener) {
+    win.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (win.attachEvent) {
+    win.attachEvent("onload", boomerangSaveLoadTime);
+  }
+
+  iframe.src = "javascript:void(0)";
+  iframe.title = ""; iframe.role = "presentation";
+  (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+  where = document.getElementsByTagName("script")[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    if (dom) { this.domain = dom; }
+    js.id = "boomr-if-as";
+    js.src = "//c.go-mpulse.net/boomerang/" +
+    "SUWW2-HAKPB-Q4WN7-TQ6VL-GTMT2";
+    BOOMR_lstart=new Date().getTime();
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+})();
+</script> 
+  <link id="respond-proxy" rel="respond-proxy" href="//cdn.ucl.ac.uk/indigo/js/respond-x-domain/respond-proxy.html"> 
+  <link href="/globals/respond.proxy.gif" id="respond-redirect" rel="respond-redirect"> 
+ </head> 
+ <body id="economics-study-undergraduate-module-list-econ3014" class="layout-vertical layout-vertical--nav-1col section-economics section-study section-undergraduate section-module-list section-econ3014"> 
+  <!--noindex--> 
+  <header class="header header--desktop"> 
+   <a class="header__close" href="#"> <img src="//cdn.ucl.ac.uk/indigo/images/close.png" alt="X">Close</a> 
+   <div id="top" class="masthead"> 
+    <div class="wrapper clearfix"> 
+     <div class="masthead__search"> 
+      <form action="//search2.ucl.ac.uk/s/search.html" method="get"> 
+       <div class="search-form"> 
+        <input type="search" placeholder="Search UCL websites, degrees, short courses, people and more" class="search-form__input search-form__input--search" name="query" value=""> 
+       </div> 
+       <input type="hidden" name="collection" value="website-meta"> 
+       <input type="hidden" name="profile" value="_website"> 
+       <input type="hidden" name="tab" value="websites"> 
+       <input type="submit" name="submit" value="Go" class="btn search-form__input search-form__input--submit"> 
+      </form> 
+     </div> 
+     <nav class="masthead__nav m-clear"> 
+      <ul class="masthead__list"> 
+       <li class="masthead__item"><a href="//www.ucl.ac.uk/" class="masthead__link">UCL Home</a> </li> 
+       <li class="masthead__item"><a href="//www.ucl.ac.uk/prospective-students/" class="masthead__link">Prospective students</a> </li> 
+       <li class="masthead__item"><a href="//www.ucl.ac.uk/students/" class="masthead__link">Current students</a> </li> 
+       <li class="masthead__item"><a href="//www.ucl.ac.uk/staff/" class="masthead__link">Staff</a> </li> 
+       <li class="masthead__item"><a href="//www.ucl.ac.uk/campaign" class="give-link masthead__link">Give</a> </li> 
+      </ul> 
+     </nav> 
+    </div> 
+   </div>
+   <!-- end #global-masthead --> 
+   <div class="wrapper"> 
+    <div class="photograph"> 
+     <div class="brand"> 
+      <p class="brand__heading"> Economics<br> </p> 
+      <a class="brand__link" href="//www.ucl.ac.uk/"><span class="visually-hidden">Home</span></a> 
+      <img alt="UCL logo" id="logo" class="brand__logo" src="//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg"> 
+     </div> 
+    </div>
+    <!-- end .photograph --> 
+    <div class="sidebar"> 
+     <!-- mobile nav --> 
+     <nav class="nav nav--mobile"> 
+     </nav> 
+     <!-- desktop nav --> 
+     <nav class="nav nav--left"> 
+      <ul> 
+       <li><a href="http://www.ucl.ac.uk/economics" class="navitem">Home</a> </li> 
+       <li> <a href="http://www.ucl.ac.uk/economics/index_right" class="navitem"></a> </li> 
+       <li> <a href="http://www.ucl.ac.uk/economics/study" class="selected-section">Study</a> 
+        <ul> 
+         <li> <a href="http://www.ucl.ac.uk/economics/study/index_right" class=""></a> </li> 
+         <li> <a href="http://www.ucl.ac.uk/economics/study/undergraduate" class="">Undergraduate</a> 
+          <ul> 
+           <li> <a href="http://www.ucl.ac.uk/economics/study/undergraduate/prospective" class="">Prospective Students</a> </li> 
+           <li> <a href="http://www.ucl.ac.uk/economics/study/undergraduate/handbook" class="">Handbook</a> </li> 
+           <li> <a href="http://www.ucl.ac.uk/economics/study/undergraduate/information-for-students" class="">Information for Continuing Students</a> </li> 
+           <li> <a href="http://www.ucl.ac.uk/economics/study/undergraduate/studentsoutsideecon" class="">Registration information for Students outside Economics</a> </li> 
+           <li> <a href="http://www.ucl.ac.uk/economics/study/undergraduate/index_right" class=""></a> </li> 
+           <li> <a href="http://www.ucl.ac.uk/economics/study/undergraduate/module-text-box" class="">Modules</a> </li> 
+           <li> <a href="http://www.ucl.ac.uk/economics/study/undergraduate/UGContact_Information" class=""></a> </li> 
+          </ul> </li> 
+         <li> <a href="http://www.ucl.ac.uk/economics/study/affiliates" class="">Affiliates</a> </li> 
+         <li> <a href="http://www.ucl.ac.uk/economics/study/masters" class="">Masters in Economics</a> </li> 
+         <li> <a href="http://www.ucl.ac.uk/economics/study/postgraduate" class="">Postgraduate</a> </li> 
+        </ul> </li> 
+       <li> <a href="http://www.ucl.ac.uk/economics/centres-papers" class="navitem">Research</a> </li> 
+       <li> <a href="http://www.ucl.ac.uk/economics/people" class="navitem">People</a> </li> 
+       <li> <a href="http://www.ucl.ac.uk/economics/non-seminar" class="navitem">Events</a> </li> 
+       <li> <a href="http://www.ucl.ac.uk/economics/news" class="navitem">News</a> </li> 
+       <li> <a href="http://www.ucl.ac.uk/economics/job-market" class="navitem">Job Market</a> </li> 
+       <li> <a href="http://www.ucl.ac.uk/economics/alumni" class="navitem">Alumni</a> </li> 
+       <li> <a href="http://www.ucl.ac.uk/economics/index_left" class="navitem"></a> </li> 
+       <li> <a href="http://www.ucl.ac.uk/economics/about" class="navitem">About the Department</a> </li> 
+       <li> <a href="http://www.ucl.ac.uk/economics/seminars_events" class="navitem">Seminar events</a> </li> 
+       <li> <a href="http://www.ucl.ac.uk/economics/staff" class="navitem">For Staff</a> </li> 
+       <li> <a href="http://www.ucl.ac.uk/economics/vacancies" class="navitem">Vacancies</a> </li> 
+       <li> <a href="http://www.ucl.ac.uk/economics/visitors-agenda" class="navitem">Visitors</a> </li> 
+      </ul> 
+     </nav> 
+    </div> 
+    <!-- end #sidebar --> 
+    <nav class="nav nav--top"> 
+     <ul> 
+      <li><a href="http://www.ucl.ac.uk/economics" class="navitem">Home</a></li> 
+      <li><a href="http://www.ucl.ac.uk/economics/index_right" class="navitem"></a></li> 
+      <li><a href="http://www.ucl.ac.uk/economics/study" class="navitem selectednav">Study</a></li> 
+      <li><a href="http://www.ucl.ac.uk/economics/centres-papers" class="navitem">Research</a></li> 
+      <li><a href="http://www.ucl.ac.uk/economics/people" class="navitem">People</a></li> 
+      <li><a href="http://www.ucl.ac.uk/economics/non-seminar" class="navitem">Events</a></li> 
+      <li><a href="http://www.ucl.ac.uk/economics/news" class="navitem">News</a></li> 
+      <li><a href="http://www.ucl.ac.uk/economics/job-market" class="navitem">Job Market</a></li> 
+      <li><a href="http://www.ucl.ac.uk/economics/alumni" class="navitem">Alumni</a></li> 
+      <li><a href="http://www.ucl.ac.uk/economics/index_left" class="navitem"></a></li> 
+      <li><a href="http://www.ucl.ac.uk/economics/about" class="navitem">About the Department</a></li> 
+      <li><a href="http://www.ucl.ac.uk/economics/seminars_events" class="navitem">Seminar events</a></li> 
+      <li><a href="http://www.ucl.ac.uk/economics/staff" class="navitem">For Staff</a></li> 
+      <li><a href="http://www.ucl.ac.uk/economics/vacancies" class="navitem">Vacancies</a></li> 
+      <li><a href="http://www.ucl.ac.uk/economics/visitors-agenda" class="navitem">Visitors</a></li> 
+     </ul> 
+    </nav> 
+   </div> 
+   <!-- end .wrapper --> 
+  </header>
+  <!-- end #nav-wrap --> 
+  <!--endnoindex--> 
+  <div class="wrapper site-content"> 
+   <!--noindex--> 
+   <header class="header header--mobile default-header"> 
+    <a class="header header__open" href="#"> <img src="//cdn.ucl.ac.uk/indigo/images/mob-nav.png" alt="Menu"> </a> 
+   </header> 
+   <!--endnoindex--> 
+   <div class="site-content__inner clearfix"> 
+    <div class="site-content__body"> 
+     <!--noindex--> 
+     <nav class="breadcrumb clearfix"> 
+      <ul class="breadcrumb__list"> 
+       <li class="breadcrumb__item"> <a href="http://www.ucl.ac.uk">UCL Home</a> 
+        <!--[if lte IE 7]>&raquo;<![endif]--> </li> 
+       <li class="breadcrumb__item"> <a href="http://www.ucl.ac.uk/economics">Economics</a> 
+        <!--[if lte IE 7]>&raquo;<![endif]--> </li> 
+       <li class="breadcrumb__item"> <a href="http://www.ucl.ac.uk/economics/study">Study</a> 
+        <!--[if lte IE 7]>&raquo;<![endif]--> </li> 
+       <li class="breadcrumb__item"> <a href="http://www.ucl.ac.uk/economics/study/undergraduate">Undergraduate</a> 
+        <!--[if lte IE 7]>&raquo;<![endif]--> </li> 
+       <li class="breadcrumb__item"> <a href="http://www.ucl.ac.uk/economics/study/undergraduate/module-list">Module List</a> 
+        <!--[if lte IE 7]>&raquo;<![endif]--> </li> 
+       <li class="breadcrumb__item"> <a href="http://www.ucl.ac.uk/economics/study/undergraduate/module-list/econ3014">ECON3014 - Game Theory</a> </li> 
+      </ul> 
+     </nav> 
+     <!--endnoindex--> 
+     <div class="site-content__main"> 
+      <article class="article clearfix"> 
+       <!-- Start Silva content --> 
+       <h1 class="heading">ECON3014 - Game Theory</h1> 
+       <h2 class="heading">Term 1</h2> 
+       <p class="p"> <br><br><strong>Aims: </strong><br></p> 
+       <p class="p"> To provide students with an intellectual framework to analyse situations in which the behaviour of agents is driven by strategic considerations and, with a set of analytical tools, to interpret a wide range of phenomena in the social sciences.<strong><br></strong></p> 
+       <p class="p"> <strong>Objectives:</strong></p> 
+       <p class="p"> At the end of the module students should:</p> 
+       <ul class="disc"> 
+        <li>Be able to use the concept of Nash equilibrium in simple oligopolistic games, and voting games</li> 
+        <li>Understand the concept of Subgame Perfect Equilibrium and apply it to games of lobbying and bargaining</li> 
+        <li>Understand the logic of Bayesian games and use them to analyse real-world selling mechanisms such as auctions </li> 
+       </ul> 
+       <table class="silvatable silvatable datagrid" width="100%" cellspacing="0" cellpadding="3"> 
+        <colgroup>
+         <col class="align-left"> 
+         <col width="100%" class="align-left"> 
+        </colgroup>
+        <tbody> 
+         <tr class="odd"> 
+          <td class="align-left"> <strong>Taught by:</strong><br> </td> 
+          <td class="align-left"> <a href="http://www.ucl.ac.uk/economics/people/prof_readers_lecturers/p_z">Nikita Roketskiy</a><br> </td> 
+         </tr> 
+         <tr class="even"> 
+          <td class="align-left"> <strong>Assessment:</strong> </td> 
+          <td class="align-left"> 20 hours of lectures, 4 practical sessions and 4 compulsory tutorial classes. Problem sets will be given out regularly and students have to hand in written solutions. The problems will then be discussed in the tutorial classes and the Practicals. There will be a 2-hour unseen written examination in Term 3. Affiliate students leaving in December will take a 2-hour written examination set up by the Department at the end of Term 1. </td> 
+         </tr> 
+         <tr class="odd"> 
+          <td class="align-left"> <strong>Suitable for:</strong><br> </td> 
+          <td class="align-left"> 3rd year students with a good mathematical background.<strong><br></strong> </td> 
+         </tr> 
+         <tr class="even"> 
+          <td class="align-left"> <strong>Prerequisites:</strong> </td> 
+          <td class="align-left"> <strong></strong>Although there are no formal prerequisites and the mathematical tools are limited, nevertheless the module requires students to possess a strong ability in logical reasoning. </td> 
+         </tr> 
+         <tr class="odd"> 
+          <td class="align-left"> <strong>Maximum module enrolments:</strong> </td> 
+          <td class="align-left"> 175<br> </td> 
+         </tr> 
+         <tr class="even"> 
+          <td class="align-left"> <strong>Module Evaluation (Previous year):</strong> </td> 
+          <td class="align-left"> <a href="https://www.ucl.ac.uk/economics/undergraduate/information-for-students/general-info" target="_blank">ECON3014</a><br> </td> 
+         </tr> 
+         <tr class="odd"> 
+          <td class="align-left"> <strong>Moodle page:</strong><br> </td> 
+          <td class="align-left"> <a href="http://moodle.ucl.ac.uk/course/view.php?id=6989" target="_self">ECON3014</a> </td> 
+         </tr> 
+        </tbody> 
+       </table> 
+       <!-- End Silva content --> 
+      </article> 
+      <div class="content-footer"> 
+       <hr> 
+       <div id="content-footer"></div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--noindex--> 
+  <footer class="footer wrapper"> 
+   <div class="footer__inner clearfix"> 
+    <article class="block block--col-1"> 
+     <h2 class="as-h5">UCL facilities</h2> 
+     <ul class="footer__list list-unstyled"> 
+      <li class="footer__item"><a href="//www.ucl.ac.uk/departments/faculties">Faculties and departments</a></li> 
+      <li class="footer__item"><a href="//www.ucl.ac.uk/library/">Library</a></li> 
+      <li class="footer__item"><a href="//www.ucl.ac.uk/museums">Museums and Collections</a></li> 
+      <li class="footer__item"><a href="//www.thebloomsbury.com/">UCL Bloomsbury Theatre</a></li> 
+     </ul> 
+    </article> 
+    <article class="block block--col-2"> 
+     <h2 class="as-h5">UCL locations</h2> 
+     <ul class="footer__list list-unstyled"> 
+      <li class="footer__item"><a href="//www.ucl.ac.uk/maps">Maps and buildings</a></li> 
+      <li class="footer__item"><a href="//www.ucl.ac.uk/london">UCL and London</a></li> 
+      <li class="footer__item"><a href="//www.ucl.ac.uk/global">UCL Global</a></li> 
+     </ul> 
+    </article> 
+    <article class="block block--col-3"> 
+     <h2 class="as-h5">Connect with UCL</h2> 
+     <ul class="footer__list list-unstyled"> 
+      <li class="footer__item"><a href="//www.ucl.ac.uk/alumni">Alumni</a></li> 
+      <li class="footer__item"><a href="//www.ucl.ac.uk/enterprise">Businesses</a></li> 
+      <li class="footer__item"><a href="//www.ucl.ac.uk/media">Media Relations</a></li> 
+      <li class="footer__item"><a href="//www.ucl.ac.uk/hr/jobs/">Jobs</a></li> 
+      <li class="footer__item"><a href="//www.ucl.ac.uk/alumni/donations-gbp-single?PROJECT_CODE=U00003">Support us</a></li> 
+     </ul> 
+    </article> 
+    <div class="clearfix"></div> 
+    <ul id="social" class="list-inline"> 
+     <!-- <li class="follow">Follow UCL's updates on:</li> --> 
+     <li><a href="//twitter.com/ucl"><img src="//cdn.ucl.ac.uk/img/twitter.png" alt="Twitter" width="35" height="35"></a></li> 
+     <li><a href="//www.facebook.com/uclofficial"><img src="//cdn.ucl.ac.uk/img/facebook.png" alt="Facebook" width="35" height="35"></a></li> 
+     <li><a href="//www.youtube.com/ucltv"><img src="//cdn.ucl.ac.uk/img/youtube-icon-square.png" alt="YouTube" width="35" height="35"></a></li> 
+     <li><a href="//soundcloud.com/uclsound"><img src="//cdn.ucl.ac.uk/img/soundcloud.png" alt="SoundCloud" width="35" height="35"></a></li> 
+     <li><a href="//www.flickr.com/photos/uclnews"><img src="//cdn.ucl.ac.uk/img/flickr.png" alt="Flickr" width="35" height="35"></a></li> 
+     <li><a href="//www.instagram.com/ucl/"><img src="//cdn.ucl.ac.uk/img/instagram-badge.png" alt="Instagram" width="35" height="35"></a></li> 
+     <li><a href="//medium.com/ucl-antenna"><img src="//cdn.ucl.ac.uk/img/antenna.png" alt="Antenna" width="35" height="35"></a></li> 
+    </ul> 
+    <hr class="clear"> 
+    <ul class="footer__list list-unstyled zero-bottom"> 
+     <li class="footer__item"> University College London, Gower Street, London, WC1E 6BT +44 (0)20 7679 2000 </li> 
+    </ul> 
+    <ul class="footer__links list-inline footer__list list-unstyled list-inline--divided"> 
+     <li class="footer__item"> Copyright © 2017 UCL </li> 
+     <li class="footer__item"> <a href="http://www.ucl.ac.uk/disclaimer">Disclaimer</a> </li> 
+     <li class="footer__item"> <a href="http://www.ucl.ac.uk/foi">Freedom of Information</a> </li> 
+     <li class="footer__item"> <a href="http://www.ucl.ac.uk/accessibility">Accessibility</a> </li> 
+     <li class="footer__item"> <a href="http://www.ucl.ac.uk/legal-services/privacy">Privacy and Cookies</a> </li> 
+     <li> <a href="http://www.ucl.ac.uk/procurement/suppliers/slavery-stmt">Slavery statement</a> </li> 
+     <li class="footer__item"> <a href="http://www.ucl.ac.uk/contact-list">Contact Us</a> </li> 
+     <li class="footer__item"> <span class="silva-edit-cross"><a rel="nofollow" href="http://www.ucl.ac.uk/economics/study/undergraduate/module-list/econ3014/edit"><img class="zero-bottom lazy" height="10" width="10" alt="Edit Icon" title="Edit Content" src="//cdn.ucl.ac.uk/img/blank.gif" data-src="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif" id="edit_button"></a></span> </li> 
+    </ul> 
+   </div> 
+  </footer> 
+  <!--endnoindex-->   
+ </body>
+</html>

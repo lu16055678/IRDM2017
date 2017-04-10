@@ -1,0 +1,113 @@
+ 
+  
+ Image Processing
+ UCL Computer Science GV12 / 3072
+  
+ 
+  
+ Instructor: 
+  Gabriel Brostow
+  
+ Demonstrator: 
+  Josias P. Elisee 
+  
+ 
+  
+ Lectures:
+  
+ Monday     09:00-10:00 in Malet Place Eng 1.20
+  
+ Monday     11:00-13:00 in Rockefeller 337 (3B on this 
+  map)
+  
+ 
+  
+ Lab sessions:
+  
+ Monday         10-11 (Malet Place Eng 1.05)
+  
+ Tuesday         14-15 (Malet Place Eng 4.06)
+  
+ Wednesday     11-12 (Malet Place Eng 1.05)
+  
+ 
+  
+ 
+  
+    
+ 
+   	      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 	
+ 	Topics
+ 	Homeworks
+ 	Notes
+ 
+	29-Sep
+ 	Introdcution & Digital Images
+ 	
+ 	
+ 
+	06-Oct
+ 	Image segmentation
+ 	CW1, due 22nd Oct
+ 	
+ 
+	13-Oct
+ 	Image transformations (Simon Prince)
+ 	
+ 	
+ 
+	20-Oct
+ 	Morphological operations
+ 	CW2, due 12th Nov
+ 	
+ 
+	27-Oct
+ 	Feature characterization
+ 	
+ 	
+ 
+	03-Nov
+ 	Reading Week (no lectures)
+ 	
+ 	
+ 
+	10-Nov
+ 	Image filtering
+ 	
+ 	
+ 
+	17-Nov
+ 	Edge detection
+ 	CW3, due 3 Dec 	
+ 
+	24-Nov
+ 	Corner detection
+ 	
+ 	Simon Prince's SVD slides
+ (more supplemental links coming soon)
+	01-Dec
+ 	Color images
+ 	CW4, due 14 Jan 2009
+ 	For fun: Is color a vector space?
+ 
+	08-Dec
+ 	Matching & Flow
+  	
+ 	
+ 
+
+ 
+  
+   
+ 

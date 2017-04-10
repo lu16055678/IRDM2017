@@ -1,0 +1,422 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Student Information
+      ›› Staff-Student Committee
+      ›› Minutes ›› 27 November 2015 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        UCL Department of Computer Science 
+ 
+        Departmental Staff Student Consultative Committee (DSSCC) Minutes 
+ 
+        Wednesday 27th November 2015 at 13:00 – Malet Place Eng 1.20 
+ 
+        Staff present:  
+ 
+        Graham Roberts (Departmental Tutor, DEOLO, Director of Studies), Jill Saunders (Departmental Manager), Tracy Williams (Senior Postgraduate Administrator), Emmanuel Letier (Senior Lecturer), Mark Herbster (MSc Intelligent Systems Programme Director) 
+ 
+        Student Academic Representatives present:  
+ 
+        Apinan Hasthanasonihat (2nd Year UG Rep), Christopher Hammond (1st year UG Rep), Anna Negrisoli (MSc CF), Alex Gamble (3rd Year UG Rep), Necati Munir (4th Year UG Rep), Manoj Vaseekharan (4th Year UG Rep), Tak Loon Ng (MSc WS&BDA), Angelos Pillos (MSc FSE), Akul Sayal (MSc FRM), Ruba Abu-Salma (1st Year PhD), Lucky Onwuzurike (2nd Year PhD) 
+ 
+        In Attendance: 
+ 
+        Carol Xue Yang, MSc CS (Chair) 
+ 
+        Simone Thompson, Undergraduate Administrator (Secretary) 
+ 
+        1.            Apologies 
+ 
+        The Chair welcomed the committee and noted apologies from the following: James Atkinson, Kevin Bryson, Konstantine Eleftherios Metallinos, Latal Jaromir, Lourdes Apapito, Nisha Gosai, Rohan Kopparapu, Victor Yip. 
+ 
+        2.            Notification of any other business 
+ 
+        Four issues were raised (see item 6). 
+ 
+        3.            Approval of minutes of the last meeting held on 14th October 2015. 
+ 
+        The minutes of the meeting held on Wednesday 14th October were approved as an accurate record. 
+ 
+        4.            Matters arising from the minutes of the previous meeting  
+ 
+        4.1       Coursework return date specified by tutor 
+ 
+        Manoj Vaseekharan and Necati Munir reported that several tutors did specify the return date of coursework as agreed, however the majority were failing to comply with the new system and were not specifying a time frame. 
+ 
+        4.2       Lab timetable 
+ 
+        Jill Saunders reported that the Lab timetable was being posted as actioned at the last meeting.  The student reps also requested that the online link be added to the physical timetable as well. The Lab timetable can be found here: http://www.cs.ucl.ac.uk/students/student_information/timetables/ 
+ 
+        Action: Nisha Gosai to add online Lab timetable link to physical timetable. 
+ 
+        4.3       Students to report programme strengths and weaknesses to Jill Saunders and Graham Roberts for ASER  
+ 
+        Graham Roberts reported that the ASER report had officially been submitted to the Vice-Provost Anthony Smith and the CS senior management team were due to meet with him to discuss the results. He said a great deal was happening behind the scenes to tackle the problem areas. Jill Saunders explained that report was ‘backward looking’ and the feedback collated related to the 2014/15 academic year. 
+ 
+        5.            New Items  
+ 
+        5.1       Student Barometer – completion of the student survey 
+ 
+        Jill reported that only 20% of students completed the Student Barometer survey last year and asked the student reps whether students were aware that it needed completing. Several reps agreed that students might not be aware that the survey required completion and suggested that the time the survey was sent out might contribute to the low response rate.  
+ 
+        5.2       U/G External Examiners Report  
+ 
+        Jill referred to the two external examiners reports circulated at the beginning and informed the committee that UCL is aiming for greater transparency. Manoj asked whether teaching assistants marked exam papers due to over hearing one of them criticising the answers given by a student in a public place.  Graham stated that was very concerning and asked Manoj to send him further information about the incident so he could investigate.  Alex also wanted to know whether the ‘scaling method’ was used to mark coursework.  Graham explained that scaling was only used if external examiners found an error with a question. 
+ 
+        Action: Manoj Vaseekharan to send Graham Roberts more information regarding the above. 
+ 
+        5.3       HoD and Deputies ‘Open Hour’  
+ 
+        Jill highlighted that the department has organised a series of ‘open hour’ sessions with several members of academic staff to allow students to discuss any issues or concerns that they may have about the programme in an informal manner. Jill said the aim of the sessions is to ensure that any problems students may have are brought to the programmes attention as promptly as possible and keep students involved in the decision making process.The schedulecan be found at:  http://www.cs.ucl.ac.uk/teaching_learning/have_your_say/ 
+ 
+        6.            Any other business 
+ 
+        6.1       Departmental Student survey  
+ 
+        Graham highlighted that a departmental student survey, which is more specific to the programme in general, had been sent to students via Moodle. He encouraged completion of the survey as it was useful for understanding which areas of the programme where successful and which required more attention. A discussion followed about how to encourage student participation. A good suggestion was that the survey could be completed 10 minutes before or after an end of term lecture. 
+ 
+        Action: Graham to investigate ways of raising student participation in departmental survey 
+ 
+        6.2       Departmental Christmas Dinner 
+ 
+        Graham announced that the department was planning to hold a Christmas party with a tentative date of the last Wednesday of term.  The general consensus was that this was a good idea however due to the large number of students in the department the party should only be open to final year undergraduate students. 
+ 
+        6.3       Teaching Group – Space 
+ 
+        Graham asked the students reps for their opinion on removing the Lab computers in order to help solve the space issue.  He said most students has their own laptops and suggested operating ‘backup loan’ service for students that currently rely on the Lab computers. Most students agreed that it was a good idea, however they stressed that the ‘backup service’ must be defined in more detail and work effectively when in operation.  They were also concerned about the actual number of students that relied on the Lab computers so it was difficult to assert whether the loan system would work. 
+ 
+        Action:  Class reps to find out how many students rely on Lab computers. 
+ 
+        6.4       Use of Microphones in lectures 
+ 
+        Christopher Hammond asked whether it was compulsory for lecturers to use microphones during lectures.  Graham explained that it was currently at the discretion of the lecturer, however, should plans go forward for all UCL lectures to be recorded via Lecturecast then lecturers would be required to use microphones. 
+ 
+        7.         Date of the next meeting 
+ 
+        The date of the next meeting to be confirmed. 
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Simone Thompson 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

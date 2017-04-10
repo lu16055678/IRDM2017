@@ -1,0 +1,471 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus
+      ›› MSc Financial Risk Management ›› G008 - Stochastic Processes for Finance 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPG008 - Stochastic Processes for Finance
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPG008
+	Year	MSc
+	Prerequisites	Calculus, Basic Probability
+
+	Term	1
+	Taught By	Guido Germano (100%)
+
+	Aims	Rehearse/survey probability theory and give a systematic introduction to stochastic processes and their applications without stressing too much the measure-theoretical aspects and other mathematical formalisms. The main target are students with an undergraduate degree in engineering, physics, computer science and the like, who have a good basis in calculus and have already come into contact with aspects of probability and statistics for ad hoc applications like transport equations, laboratory data treatment, and quantum mechanics, but have not attended yet a dedicated course on stochastic processes. The course material will unfold with references to its historical development and early applications in physics/engineering the students may already heard of, ending with current-day applications in finance.
+
+	Learning Outcomes	Familiarity with probability theory, stochastic processes in discrete and continuous time, stochastic calculus, and basic applications in physics/engineering and, mainly, in finance.
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content
+
+         
+ 
+          
+          
+         1. Probability Theory - a Survey (3 or 4 weeks) 
+ 
+         Definitions, Kolmogorov's axioms
+ Joint and conditional probabilities, Bayes' theorem
+ Probability distribution and density functions
+ Multivariate and marginal distributions
+ Mean, variance, covariance, correlation, moments, cumulants
+ Moment/cumulant-generating functions, characteristic function, entropy
+ Sum and transformation of random variables
+ Gaussian and Poisson distributions
+ Law of large numbers and central limit theorem 
+ 
+         2. Stochastic Processes (6 or 7 weeks) 
+ 
+          Definitions and classification
+ Markov and semi-Markov processes, Chapman-Kolmogorov equation
+ Jump processes: the master equation
+ Diffusion processes: the Fokker-Planck equation
+ Deterministic processes: the Liouville equation
+ General processes; martingales and semimartingales
+ Evolution equations, forward and backward equations
+ Stationary and homogeneous Markov processes, ergodicity
+ Auto- and cross-covariance/correlation
+ Random walk, Brownian motion, Wiener process
+ Poisson process, compound Poisson process
+ Renewal process, continuous-time random walk
+ Stochastic integration: Ito and Stratonovich; Ito's formula
+ Langevin equation, stochastic differential equations, Feynman-Kac theorem
+ Euler-Maruyama and Milstein algorithms
+ Geometric Brownian motion and Black-Scholes equation
+ Ornstein-Uhlenbeck process and Vasicek model
+ Rayleigh and Bessel processes, Cox-Ingersoll-Ross model
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction
+
+         
+ 
+          
+          
+         30 hours of lectures plus homework and assignments.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment
+
+         
+ 
+          
+          
+         The course has the following assessment components: 
+
+         	 Written exam (2.5 hours, 100%)
+
+
+         To pass this course, students must:
+
+         	Obtain a pass mark of 50%.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources
+
+         
+ 
+          
+          
+         Recommended book 
+ 
+         Crispin W. Gardiner, Stochastic Methods - A Handbook for the Natural and Social Sciences, 4th ed., Springer 2009, Chapters 1-4, 10, 15, plus a few other selected parts, for a total of 150-200 out of 420 pages. See table of contents on http://www.springer.com/physics/complexity/book/978-3-540-70712-7 and a review of the 3rd edition (2004) on http://www.ejwagenmakers.com/2006/GardinerBookReview2006.pdf. 
+ 
+         Further books
+
+         	J. L. McCauley, Stochastic Calculus and Differential Equations for Physics and Finance, Cambridge University Press, 2013.
+	N. van Kampen, Stochastic Processes, 3rd edition, Elsevier, 2007.
+	W. Paul, J. Baschnagel, Stochastic Processes, Springer, 1999.
+	Sheldon N. Ross, Stochastic Processes, 2nd edition, Wiley, 1996. 
+	S. Karlin, H. M. Taylor, An Introduction to Stochastic Modeling, 3rd edition, Academic Press, 1998.
+	S. Karlin, H. M. Taylor, A Second Course in Stochastic Processes, Academic Press, 1981.
+	S. Karlin, H. M. Taylor, A First Course in Stochastic Processes, 2nd edition, Academic Press, 1975.
+
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

@@ -1,0 +1,446 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Students
+      ›› Syllabus ›› GI18 - Probabilistic and Unsupervised Learning 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGI18 - Probabilistic and Unsupervised Learning
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	 COMPGI18 
+	Year	MSc
+	Prerequisites	A good background in statistics, calculus, linear algebra, and computer science. You should thoroughly review the maths in the cribsheet provided at www.gatsby.ucl.ac.uk/teaching/courses/ml1-2008/cribsheet.pdf before the start of the module. You must either know Matlab or Octave, be taking a class on Matlab/Octave, or be willing to learn it on your own. Any student or researcher at UCL meeting these requirements is welcome to attend the lectures. Students wishing to take it for credit should consult with the module lecturer. 
+	Term	1
+	Taught By	Maneesh Sahani (Gatsby Computational Neuroscience Unit) (100%) 
+	Aims	This course provides students with an in-depth introduction to statistical modelling and unsupervised learning techniques It presents probabilistic approaches to modelling and their relation to coding theory and Bayesian statistics. A variety of latent variable models will be covered including mixture models (used for clustering), dimensionality reduction methods, time series models such as hidden Markov models which are used in speech recognition and bioinformatics, independent components analysis, hierarchical models, and nonlinear models. The course will present the foundations of probabilistic graphical models (e.g. Bayesian networks and Markov networks) as an overarching framework for unsupervised modelling. We will cover Markov chain Monte Carlo sampling methods and variational approximations for inference. Time permitting, students will also learn about other topics in probabilistic (or Bayesian) machine learning. 
+	Learning Outcomes	To be able to understand the theory of unsupervised learning systems; to have in-depth knowledge of the main models used in Unsupervised Learning; to understand the methods of exact and approximate inference in probabilistic models; to be able to recognise which models are appropriate for different real-world applications of machine learning methods. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         Basics of Bayesian learning and regression. 
+ 
+         Latent variable models, including mixture models and factor models. 
+ 
+         The Expectation-Maximisation (EM) algorithm. 
+ 
+         Time series, including hidden Markov models and state-space models.
+Spectral learning. 
+ 
+         Graphical representations of probabilistic models. 
+ 
+         Belief propagation, junction trees and message passing. 
+ 
+         Model selection, hyperparameter optimisation and Gaussian-process regression.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lecture presentations with associated class problems. 
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	Written Examination (2.5 hours, 50%)
+	Coursework Section (3 pieces, 50%)
+
+
+         To pass this course, students must: 
+ 
+
+         	Obtain an overall pass mark of 50% for all sections combined.
+
+
+         The examination rubric is: 
+ 
+         Answer all questions
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         There is no required textbook. However, the following in an excellent sources for many of the topics covered here. David J.C. 
+ 
+          MacKay (2003) Information Theory, Inference, and Learning Algorithms, Cambridge University Press. (also available online) 
+ 
+         
+ 
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

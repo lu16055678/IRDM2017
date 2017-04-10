@@ -1,0 +1,420 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         UCL receives Google grant towards automated fact-checking
+ 
+         
+          
+          
+
+         
+ 
+         Google has given €150,000 to three UK organisations, including UCL, who are working on fact-checking projects to help journalists and the public avoid falling for fake stories and bogus claims.
+ 
+         The funding announcement comes amid heated debate about the role of companies such as Facebook and Google in spreading fake stories that some claim influenced the results of the US election. The money is part of a €24m (£20.5m) round of funding from Google’s digital news initiative, which backs innovative projects in news across Europe.
+ 
+         €50,000 is being given to a project called Factmata, developed at UCL and the University of Sheffield, led by Dhruv Ghulati, MSc Computer Science graduate, with Dr Sebastian Riedel, Reader in Natural Language Processing and Machine Learning.
+ 
+         In its pitch to Google, Factmata’s founder, Dhruv Ghulati, said it would use machine intelligence “to empower people to question the digital content they read on a daily basis, and not take anything for granted”.
+ 
+         He adds: “By putting advanced fact-checking tools in the hands of the people, we want to make fact checking fun, engaging, and empowering.” 
+ 
+         Dhruv was able to develop his ideas on political fact checking while studying for a Masters Degree in Computer Science: "I took the  MSc to learn to program and dedicate myself to improving my technical skills. UCL Computer Science was flexible enough to allow me to pursue a summer projectwith UCL's Machine Reading Group, so that I could pursue my passion for political fact checking, a concept I already had before starting my masters."
+ 
+         UK fact-checking charity Full Fact and Scottish investigative news site the Ferret are also recipients of Google's awards.  
+ 
+         Though most of the debate around fake news has focused on the role of Facebook, Google has also been criticised. Following the US election, people searching for “final election results” were presented with a false story claiming Donald Trump received more votes than Hillary Clinton at the top of the news results.
+ 
+         Dhruv hopes that this news  encourages other students to pursue fact checking, promise tracking, and other politically related projects - "tricky problems yet to be solved, and fascinating from a machine learning and scalable systems perspective."
+ 
+         
+ 
+         
+ 
+         
+           Posted 18 Nov 16 14:26 
+         
+ 
+          
+          
+           Next: UCL ranked 1st from... >
+
+          
+ 
+          
+           < Previous: Most updates to mobile...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

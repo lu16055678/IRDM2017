@@ -1,0 +1,470 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus ›› M064 - Applied Cryptography 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPM064 - Applied Cryptography
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPM064 (also taught as: COMPGA12) 
+	Year	4
+	Prerequisites	N/A
+	Term	2
+	Taught By	Nicolas Courtois (100%) 
+	Aims	Understanding how cryptographic algorithms keys and protocols, and an appropriate hardware(software) environment can solve security problems (confidentiality, integrity, authenticity). Showing how security is achieved in real­life systems in areas of telecom, government/identity, buildings/transportation, payment. Real-life applications of encryption, Message Authentication Codes (MAC) and Digital Signatures in smart cards and terminals, personnal identity and crypto currency systems. RFID technology. Understanding attacks and vulnerabilities of current industrial standards. Cryptography in practice, side­channel attacks and countermeasures.
+
+	Learning Outcomes	Learning how security problems are solved in the industry, and understanding why specific choices are made. 
+Understanding security (attacks and defences) in complex real­life systems and the role of keys, cryptographic algorithms and protocols, tamper resistant hardware and other types of countermeasures. 
+Study of entity authentication and data authentication, challenge-response. Understanding multiple ways to attack and defend in industrial systems. 
+Technology adoption, legal, ethical, business and usability questions. 
+Industry regulation and security standards. Common criteria security evaluations. 
+History of payment and smart card industry. Security engineering and promotion of ‘best practices’. 
+Understanding fraud crime and attacks in payment systems. Study of bitcoin and decentralized crypto currencies. 
+Digital signatures in practice with legal/regulatory aspects. 
+Electronic commerce, SSL/TLS, Forward Security, standard methods of encoding of digital signatures and certificates (X.509). 
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content
+
+         
+ 
+          
+          
+         Tentative schedule is as follows:
+
+Week 1: Smart Cards, Hardware Security. Security engineering. 
+
+Week 2: Mobile phone security. RFID systems, access control, user/data authentication. 
+
+Week 3: Key sizes. Random number and key generation. Symmetric cryptography engineering, key derivation and key management. 
+
+Week 4: Bank cards and terminals, history, EMV specs, different forms of security, fraud, attacks. 
+
+Week 5: Public key crypto engineering, best practices, standardized algorithms and padding methods. PGP vs. smart cards. PKI vs. alternatives. 
+
+Week 6: Applications of digital signatures. Legal/regulatory aspects, qualified certificates, timestamping. 
+
+Week 7: More applications of PK crypto. Electronic passports and ID cards vs. SDA/DDA/CDA in bank cards. 
+
+Week 8: Electronic commerce, SSL/TLS, Forward Security, standard methods of encoding of digital signatures and certificates (X.509). 
+
+Week 9: Financial cryptography, payment systems, crypto currencies, bitcoin.
+
+Week 10: Side-channel attacks (timing, SPA, DPA and DFA). Side-channel attack countermeasures. 
+
+Tutorial and Labs: Writing programs with standard crypto libraries (OpenSSL, NTL, GMP) and developing efficient and secure implementations of cryptography in C++/Java. 
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction
+
+         
+ 
+          
+          
+         Tutor-­led class sessions, problem ­solving sessions and private study.  
+ 
+         Crypto implementation lab. 
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment
+
+         
+ 
+          
+          
+         The course has the following assessment components: 
+ 
+         	Written Examination (2.5 hours, 85%)
+	Compulsory Moodle Quiz (1 hour, 15%)
+
+ 
+         To pass this course, students must:  
+ 
+         	Obtain a mark of 50% or more for all components combined
+	Obtain a minimum mark of 40% in each component worth ≥ 30% of the module as a whole.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources
+
+         
+ 
+          
+          
+         Lecture notes on Moodle (id=11577).  
+ 
+         Additional recent and older resources can be found at blog.bettercrypto.com; 
+ 
+         Recommended texts:  
+ 
+         Ross Anderson: "Security Engineering" Wiley 2006, chapters 3-5,10,11,16,22,26.  
+ 
+         W. Rankl and W. Effing, "Smart Card Handbook" Wiley 2003.  
+ 
+         "Handbook of Applied Cryptography" by A. Menezes, P. van Oorschot, and S. Vanstone, CRC Press, 1996, www.cacr.math.uwaterloo.ca/hac&nbsp; 
+ 
+         Mayes, K. and Markantonakis K (Editors) "Smart Cards, Tokens, Security and Applications" Springer 2006.
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

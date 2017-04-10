@@ -1,0 +1,2730 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Research
+      ›› Research Notes
+      ›› Research Note Archive ›› 1998 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Research Notes Index - 1998
+
+        
+ 
+         
+         
+         
+         
+         Several Things all Genetic Programmers Should Know About Machine Learning 
+ S. Holden 
+          RN/98/1 
+
+          January 1998 
+
+         
+
+         
+ 
+          
+
+         Using Numerical Dependencies and the Bootstrap for the Consistency Problem 
+ E. Collopy , M. Levene 
+          RN/98/2 
+
+          January 1998 
+
+         Book: Proc. IEEE Knowledge and Data Engineering Workshop, Taipei, Taiwan, 
+
+          Ed: J. Lee B. Thuraisingham 
+
+          Issuer: IEEE 
+
+          Keywords: Indefinite Information, Functional Dependency, Numerical Depen 
+
+          Pages: 15 
+
+          pages count: 160-167 
+
+          Abstract: Abstract: values thereby allowing disjunction to be represented within a determine a suitable sampling size of definite relations from the a relation increases the chase and hill-climbing approach becomes more the chase and hill climbing nearly always outperforms the naive procedure 
+
+          
+
+         
+ 
+          
+
+         Knowledge Interpolation: a Simple Approach to Rapid Symbolic Reasoning 
+ N. Chatterjee , J. Campbell 
+          RN/98/3 
+
+          January 1998 
+
+         Volume: 6 
+
+          pages count: 517-551 
+
+          Vol: 17 
+
+          Abstract: Abstract: {\it knowledge interpolation} is a potential remedy for this shortcoming. estimated, but also requirements themselves may be reduced significantly. 
+
+          Submission Status: Computers and Artificial Intelligence 
+
+          
+
+         
+ 
+          
+
+         Knowledge Interpolation: a Simple Approach to Rapid Symbolic Reasoning 
+ 
+          RN/98/3 
+
+          
+
+         Submission Status: Computers and Artificial Intelligence 
+
+          
+
+         
+ 
+          
+
+         CRAM: Cell Re-labeling at Merge-points for ATM Multicast 
+ 
+          RN/98/3 
+
+          
+
+         Submission Status: Computers and Artificial Intelligence 
+
+          
+
+         
+ 
+          Jon Crowcroft 
+
+         CRAM: Cell Re-labeling at Merge-points for ATM Multicast 
+ Jon Crowcroft , Sridhar Komandur , Daniel Moss\'{e} 
+          RN/98/4 
+
+          February 1998 
+
+         Book: Proc.1st IEEE ICATM Conference, ICACM'98, June 22-24 1998, Colmar, France 
+
+          Government Order Number: 0780349822 
+
+          Issuer: IEEE 
+
+          pages count: 162-167 
+
+          Abstract: Abstract: the rendezvous for the application programmer; low cost to end systems, 
+
+          Submission Status: Computers and Artificial Intelligence 
+
+          
+
+         
+ 
+          
+
+         CRAM: Cell Re-labeling at Merge-points for ATM Multicast 
+ 
+          RN/98/4 
+
+          
+
+         Submission Status: Computers and Artificial Intelligence 
+
+          
+
+         
+ 
+          
+
+         Network Adaptive Continuous-Media Applications Through Self Organised Transcoding 
+ 
+          RN/98/4 
+
+          
+
+         Submission Status: Computers and Artificial Intelligence 
+
+          
+
+         
+ 
+          Isidor Kouvelas 
+
+         Network Adaptive Continuous-Media Applications Through Self Organised Transcoding 
+ Isidor Kouvelas , Vicky Hardman , Jon Crowcroft 
+          RN/98/5 
+
+          February 1998 
+
+         Abstract: Abstract: be developed for real-time audio and video media streams. The network 
+
+          Submission Status: submitted to The 8th International Workshop on Network and Operating Systems 
+
+          
+
+         
+ 
+          
+
+         A General Framework for Iterative Reconstruction Algorithms in Optical 
+ 
+          RN/98/5 
+
+          
+
+         Submission Status: submitted to The 8th International Workshop on Network and Operating Systems 
+
+          
+
+         
+ 
+          S. Arridge 
+
+         A General Framework for Iterative Reconstruction Algorithms in Optical 
+ S. Arridge 
+          RN/98/6 
+
+          February 1998 
+
+         Submission Status: the paper will be published in the proceedings of an Institute of 
+
+          
+
+         
+ 
+          
+
+         Measuring perceived quality of speech and video in multimedia conferencing 
+ Anna Watson , Angela Sasse 
+          RN/98/7 
+
+          February 1998 
+
+         Book: Proc. ACM Multimedia '98, Bristol, 12-16 September 1998 
+
+          City: New York, NY 
+
+          Issuer: ACM 
+
+          Keywords: multimedia conferencing, subjective perception, quality scales 
+
+          Pages: 12 
+
+          pages count: 55-60 
+
+          Abstract: Abstract: believe to be a more suitable testing methodology, which acknowledges the 
+
+          Submission Status: the paper will be published in the proceedings of an Institute of 
+
+          
+
+         
+ 
+          
+
+         Cashing in on Caching: An Architecture for Time-Bounded Knowledge-Based Problem Solving 
+ 
+          RN/98/7 
+
+          
+
+         Submission Status: the paper will be published in the proceedings of an Institute of 
+
+          
+
+         
+ 
+          N. Chatterjee 
+
+         Cashing in on Caching: An Architecture for Time-Bounded Knowledge-Based Problem Solving 
+ N. Chatterjee , J.A.Campbell 
+          RN/98/8 
+
+          March 1998 
+
+         Issuer: Kluwer Academic Publishers. 
+
+          Journal: Real-Time Systems 
+
+          pages count: 221-247 
+
+          Vol: 15 
+
+          Abstract: Abstract: the shortcomings: a {\it knowledge representation scheme} that provides easy 
+
+          Submission Status: the paper will be published in the proceedings of an Institute of 
+
+          
+
+         
+ 
+          
+
+         Cashing in on Caching: An Architecture for Time-Bounded Knowledge-Based Problem Solving 
+ 
+          RN/98/8 
+
+          
+
+         Submission Status: the paper will be published in the proceedings of an Institute of 
+
+          
+
+         
+ 
+          
+
+         Piloting IP Multicast Conferencing over SuperJANET: The PIPVIC Project 
+ M-A. Sasse , L. Clark , C. Perkins 
+          RN/98/9 
+
+          March 1998 
+
+         Pages: 5 
+
+          Abstract: Abstract: the project is to understand the potential issues involved in running a 
+
+          Submission Status: Networkshop 26, Univ. of Aberdeen, 31-march -2 April 1998 
+
+          
+
+         
+ 
+          
+
+         Resampling in an Indefinite Relation to Approximate Functional Dependencies 
+ E. Collopy , M. Levene 
+          RN/98/10 
+
+          March 1998 
+
+         Book: Principles of Data Mining and Knowledge Discovery, Second European 
+
+          City: Berlin 
+
+          Ed: J. Zytkow M. Quafafou 
+
+          Issuer: Springer-Verlag 
+
+          Keywords: Functional Dependency, Numerical Dependency, Resampling, Data 
+
+          Pages: 12 
+
+          pages count: 291-299 
+
+          Series: LNAI 1510 
+
+          Abstract: Abstract: relations. Indefinite information is represented within the relational 
+
+          Submission Status: Networkshop 26, Univ. of Aberdeen, 31-march -2 April 1998 
+
+          
+
+         
+ 
+          
+
+         Resampling in an Indefinite Relation to Approximate Functional Dependencies 
+ 
+          RN/98/10 
+
+          
+
+         Submission Status: Networkshop 26, Univ. of Aberdeen, 31-march -2 April 1998 
+
+          
+
+         
+ 
+          
+
+         The Influence of Body Movement on Presence in Virtual Environments 
+ M. Slater , A. Steed , J. McCarthy , F. Maringelli 
+          RN/98/11 
+
+          March 1998 
+
+         pages count: in press 
+
+          Submission Status: accepted for publication in 'Human Factors' 
+
+          
+
+         
+ 
+          
+
+         A Dynamically Trace Scheduled VLIW Machine 
+ A. de Souza , P. Rounce 
+          RN/98/12 
+
+          March 1998 
+
+         Keywords: VLIW, superscalar, trace cache, scheduling, register renaming 
+
+          Pages: 15 
+
+          Abstract: Abstract: 
+
+          Submission Status: accepted for publication in 'Human Factors' 
+
+          
+
+         
+ 
+          
+
+         A Dynamically Trace Scheduled VLIW Machine 
+ 
+          RN/98/12 
+
+          
+
+         Submission Status: accepted for publication in 'Human Factors' 
+
+          
+
+         
+ 
+          
+
+         A Dynamically Trace Scheduled VLIW Machine 
+ 
+          RN/98/12 
+
+          
+
+         Submission Status: accepted for publication in 'Human Factors' 
+
+          
+
+         
+ 
+          
+
+         Replacement Policies for a Proxy Cache 
+ L. Rizzo , L. Vicisano 
+          RN/98/13 
+
+          March 1998 
+
+         Pages: 22 
+
+          Submission Status: accepted for publication in 'Human Factors' 
+
+          
+
+         
+ 
+          
+
+         Replacement Policies for a Proxy Cache 
+ Anne Adams 
+          RN/98/14 
+
+          April 1998 
+
+         Submission Status: accepted for publication in 'Human Factors' 
+
+          
+
+         
+ 
+          
+
+         An Intelligent Agent-Based University Information System 
+ G. Tatai , J.A. Campbell 
+          RN/98/15 
+
+          April 1998 
+
+         Book: Proceedings of the Third International Conference on the Practical 
+
+          City: Blackpool, England 
+
+          Ed: H.S. Nwana D.T. Ndumu 
+
+          Government Order Number: 0 9525554 8 4 
+
+          Issuer: The Practical Application Company 
+
+          pages count: 633-634 
+
+          Submission Status: accepted for publication in 'Human Factors' 
+
+          
+
+         
+ 
+          
+
+         An Intelligent Agent-Based University Information System 
+ K. Vekaria 
+          RN/98/15 
+
+          
+
+         City: C. Clack 
+
+          Submission Status: accepted for publication in 'Human Factors' 
+
+          
+
+         
+ 
+          Selective Crossover in Genetic Algorithms 
+
+         Selective Crossover in Genetic Algorithms 
+ 
+          RN/98/16 
+
+          April 1998 
+
+         Book: Genetic Programming 1998: Proceedings of the Third Annual Conference,San 
+
+          Ed: Koza et al 
+
+          Issuer: Morgan Kaufmann 
+
+          pages count: 609 
+
+          Submission Status: accepted for publication in 'Human Factors' 
+
+          
+
+         
+ 
+          
+
+         Literate Modelling - Capturing Business Semantics with the UML 
+ J. Arlow , W. Emmerich , J. Quinn 
+          RN/98/17 
+
+          April 1998 
+
+         Submission Status: Submitted to UML '98 
+
+          
+
+         
+ 
+          
+
+         Business Object Facilities - A Comparative Analysis. 
+ W. Emmerich , E. Ellmer , B. Osterholt , R. Zicari 
+          RN/98/18 
+
+          April 1998 
+
+         Submission Status: Submitted to IEEE Software 
+
+          
+
+         
+ 
+          
+
+         Process Technology Implications of Procurement Processes: Some Initial 
+ E. Ellmer , W. Emmerich , A. Finkelstein 
+          RN/98/19 
+
+          April 1998 
+
+         Submission Status: Submitted to IEEE Software 
+
+          
+
+         
+ 
+          
+
+         Managing Standards Compliance 
+ W. Emmerich , A. Finkelstein , C. Montangero , Stefano Antonelli , Stephen Armitage , R. Stevens 
+          RN/98/20 
+
+          April 1998 
+
+         Submission Status: Revised Submission to IEEE Transactions on Software Engineering 
+
+          
+
+         
+ 
+          
+
+         Components need Middleware - An Assessment Framework 
+ W. Emmerich , E. Ellmer 
+          RN/98/21 
+
+          April 1998 
+
+         Submission Status: Revised Submission to IEEE Transactions on Software Engineering 
+
+          
+
+         
+ 
+          
+
+         Business Objects: The Next Step in Component 
+ E. Ellmer , W. Emmerich 
+          RN/98/22 
+
+          April 1998 
+
+         Submission Status: Revised Submission to IEEE Transactions on Software Engineering 
+
+          
+
+         
+ 
+          
+
+         Decomposition Patterns for MobileCode-based Management 
+ A. Liotta , G. Knight 
+          RN/98/23 
+
+          May 1998 
+
+         Book: Proceedings of HP Openview University Association (HP-OVUA) Plenary 
+
+          Submission Status: Revised Submission to IEEE Transactions on Software Engineering 
+
+          
+
+         
+ 
+          
+
+         Mining Association Rules in Hypertext Databases 
+ Jose Borges , Mark Levene 
+          RN/98/24 
+
+          May 1998 
+
+         Book: Proccedings of the Fourth International Conference on Knowledge 
+
+          City: Menlo Park, CA 
+
+          Government Order Number: 1-57735-070-7 
+
+          Issuer: AAAI Press 
+
+          Keywords: Data Mining, association rules, hypertext system, trails 
+
+          Pages: 13 
+
+          pages count: 149-153 
+
+          Abstract: Abstract: consisting of a set of flat transaction records. 
+
+          Submission Status: Revised Submission to IEEE Transactions on Software Engineering 
+
+          
+
+         
+ 
+          
+
+         Mining Association Rules in Hypertext Databases 
+ 
+          RN/98/24 
+
+          
+
+         Submission Status: Revised Submission to IEEE Transactions on Software Engineering 
+
+          
+
+         
+ 
+          
+
+         Notes on a cumulative layered organisation of data packets across multiple streams with variable-rate 
+ Lorenzo Vicisano 
+          RN/98/25 
+
+          May 1998 
+
+         Submission Status: Revised Submission to IEEE Transactions on Software Engineering 
+
+          
+
+         
+ 
+          
+
+         Power Conservation Strategy for Mobile Computers Using Load Sharing 
+ M. Othman , S. Hailes 
+          RN/98/26 
+
+          May 1998 
+
+         Journal: Mobile Computing and Communications Review 
+
+          Volume: 1 
+
+          pages count: 44-50 
+
+          Vol: 2 
+
+          Submission Status: Revised Submission to IEEE Transactions on Software Engineering 
+
+          
+
+         
+ 
+          
+
+         Notes on a QoS information model for making adaptation decisions 
+ S.N. Bhatti , G. Knight 
+          RN/98/27 
+
+          June 1998 
+
+         Submission Status: to appear in Proceedings of the Fourth International Workshop on High 
+
+          
+
+         
+ 
+          
+
+         QoS Assurance vs. Dynamic Adaptability for Applications 
+ S.N. Bhatti , G. Knight 
+          RN/98/28 
+
+          June 
+
+         Submission Status: To appear in Proceedings of the The 8th International Workshop on 
+
+          
+
+         
+ 
+          
+
+         Moral Sentiments in Multi-Agent Systems 
+ Bazzan, A. , Bordini, R. , Campbell, J.A. 
+          RN/98/29 
+
+          June 1998 
+
+         Submission Status: To be presented at the 5th International Workshop on Agents Theories, 
+
+          
+
+         
+ 
+          
+
+         Model Based Tracking for Navigation and Segmentation 
+ B. Southall , J.A. Marchant , T. Hague , B.F. Buxton 
+          RN/98/30 
+
+          June 1998 
+
+         Book: ECCV'98 Proc. 5th European Conference on Computer Vision, Freiberg, Germany, 
+
+          City: Berlin 
+
+          Ed: H. Burkhardt B. Neumann 
+
+          Issuer: Springer-Verlag 
+
+          pages count: 797-811 
+
+          Series: LNCS 
+
+          Vol: 1 
+
+          Submission Status: To be presented at the 5th International Workshop on Agents Theories, 
+
+          
+
+         
+ 
+          
+
+         Linear Combination of Face Views for Low Bit Rate Face Video Compression 
+ I. Koufakis , B. Buxton 
+          RN/98/31 
+
+          June 1998 
+
+         Book: Proc. EUSIPCO98, The IX European Signal Processing Conference, 
+
+          pages count: 2305-2309 
+
+          Vol: IV 
+
+          Submission Status: To be presented at the 5th International Workshop on Agents Theories, 
+
+          
+
+         
+ 
+          
+
+         Evaluation of the Construction of Novel Views by a Combination of Basis 
+ B.F. Buxton , Z. Shafi , J. Gilby 
+          RN/98/32 
+
+          June 1998 
+
+         Book: Signal Processing IX, Theories and Applications, Proceedings of Eusipco-98, 
+
+          Ed: S. Theodoridis I. Pitas A. Stouraitis N. Kalouptsidis 
+
+          Government Order Number: ISBN 960-7620-05-4 ( 960-7620-08-9, Vol III). 
+
+          Issuer: Eurasip, Typorama Editions 
+
+          pages count: 1285-1288 
+
+          Vol: Volume III 
+
+          Submission Status: To be presented at the 5th International Workshop on Agents Theories, 
+
+          
+
+         
+ 
+          
+
+         Controllability and Observability: Tools for Kalman Filter Design 
+ B. Southall , B.F. Buxton , J. Marchant 
+          RN/98/33 
+
+          
+
+         Submission Status: accepted by British Machine Vision Conference 1998, September 1998 
+
+          
+
+         
+ 
+          
+
+         Vision-Aided Outdoor Navigation of an Autonomous Horticultural Vechicle 
+ B. Southall , T. Hague , J.A. Marchant , B.F. Buxton 
+          RN/98/34 
+
+          June 1998 
+
+         Submission Status: accepted by 1st Int. Conf. on Vision Systems, Jan. 1999 
+
+          
+
+         
+ 
+          
+
+         Random minimaxing of game trees having moves with uniform branching factors 
+ M. Levene , T. Fenner 
+          RN/98/35 
+
+          June 1998 
+
+         Submission Status: accepted by 1st Int. Conf. on Vision Systems, Jan. 1999 
+
+          
+
+         
+ 
+          
+
+         An adaptive algorithm for navigation in web-like databases 
+ M. Levene , N. Zin 
+          RN/98/36 
+
+          June 1998 
+
+         Submission Status: accepted by 1st Int. Conf. on Vision Systems, Jan. 1999 
+
+          
+
+         
+ 
+          
+
+         Positional grammars for handling positional substuitutions in DNA 
+ M. Levene , G. Loizou 
+          RN/98/37 
+
+          
+
+         Submission Status: accepted by 1st Int. Conf. on Vision Systems, Jan. 1999 
+
+          
+
+         
+ 
+          
+
+         Learning systems for Automated Anthropometric Landmarking 
+ L. Dekker , P. Treleaven 
+          RN/98/38 
+
+          May 1998 
+
+         Keywords: feature detection, machine learning, 3D imaging, anhtropometry 
+
+          Pages: 6 
+
+          Abstract: Abstract: We describe the development of 3-dimensional feature recognition techniques 
+
+          Submission Status: Proceedings of the Workshop on 3D Anthropometry and 
+
+          
+
+         
+ 
+          
+
+         On Management for CATV Full Service Networks: A European Perspective 
+ S. Bhatti , G.Knight 
+          RN/98/39 
+
+          June 1998 
+
+         Journal: IEEE Network, special issue on Network Management 
+
+          Volume: 5 
+
+          pages count: 28-39 
+
+          Vol: 12 
+
+          Submission Status: Proceedings of the Workshop on 3D Anthropometry and 
+
+          
+
+         
+ 
+          
+
+         Automated Landmarking for Virtual Human Modelling 
+ L. Dekker , B. Buxton 
+          RN/98/40 
+
+          July 1998 
+
+         Keywords: feature detection, machine learning, 3D imaging, human body modelling 
+
+          Pages: 3 
+
+          Abstract: Abstract: illustrated by the "electronic tailor", which has been trained to map 
+
+          Submission Status: to be presented at Colloquium Digest: IEE Colloquium on Machine Vision for Virtual 
+
+          
+
+         
+ 
+          
+
+         The Development of Integrated Inter- and Intra-Domain Management Services 
+ D. Lewis , V. Wade , R. Bracht 
+          RN/98/41 
+
+          July 1998 
+
+         Keywords: Service Management, Software Methodologies, Open Service Market, Component 
+
+          Abstract: Abstract: With the deregulation and globalization of telecommunication markets, multi domain management systems. It also supports the development management systems internal to a service provider and assists in 
+
+          Submission Status: submitted to the 6th IFIP/IEEE International Symposium on Integrated 
+
+          
+
+         
+ 
+          
+
+         A generic component for managing service roles 
+ Thanassis Tiropanis , Chris Malbon , Herve Karp 
+          RN/98/42 
+
+          July 1998 
+
+         Keywords: Service management, personal communications, role management, role mobility, 
+
+          Abstract: Abstract: There are a number of architectures that describe how service providers can role-based exchanges in a telecommunications environment and we present a 
+
+          Submission Status: submitted to the 6th IFIP/IEEEInternational Symposium on Integrated 
+
+          
+
+         
+ 
+          
+
+         It Ain't What You Charge, It's The Way That You Do It: A User Perspective 
+ 
+          RN/98/42 
+
+          
+
+         Submission Status: submitted to the 6th IFIP/IEEEInternational Symposium on Integrated 
+
+          
+
+         
+ 
+          Anna Bouch 
+
+         It Ain't What You Charge, It's The Way That You Do It: A User Perspective 
+ Anna Bouch , M.Angela Sasse 
+          RN/98/43 
+
+          August 1998 
+
+         Submission Status: submitted to IM'99 
+
+          
+
+         
+ 
+          
+
+         Runout Lengths of Sturzstroms: The Control of Initial Conditions and of Fragment Dynamics 
+ 
+          RN/98/43 
+
+          
+
+         Submission Status: submitted to IM'99 
+
+          
+
+         
+ 
+          C. Kilburn 
+
+         Runout Lengths of Sturzstroms: The Control of Initial Conditions and of Fragment Dynamics 
+ C. Kilburn , S-A. Sorensen 
+          RN/98/44 
+
+          September 1998 
+
+         Government Order Number: 0148-0227 
+
+          Journal: Journal of Geophysical Research 
+
+          Volume: B8 
+
+          pages count: 17,877-17,884 
+
+          Vol: 103 
+
+          Submission Status: submitted to IM'99 
+
+          
+
+         
+ 
+          
+
+         SPECint95 Performance of an Implementation of the Dynamically Trace Scheduled VLIW Architecture 
+ A.F. de Souza , P. Rounce 
+          RN/98/45 
+
+          September 1998 
+
+         Book: Proc. of Tenth Brazilian Symposium on Computer 
+
+          Ed: E. Fernandes L. Amorim E. Caves Filho 
+
+          Issuer: Brazil Computer Society 
+
+          pages count: 185-188 
+
+          Submission Status: submitted to IM'99 
+
+          
+
+         
+ 
+          
+
+         An Algorithm to Schedule VLIW Instructions from Sparc Code Dynamically 
+ A.F. de Souza , P.Rounce 
+          RN/98/46 
+
+          September 1998 
+
+         Submission Status: submitted to IM'99 
+
+          
+
+         
+ 
+          
+
+         Supporting Asynchronous Collaboration in Academia 
+ R. Hazemi , S. Hailes , S. Wilbur 
+          RN/98/47 
+
+          September 1998 
+
+         Book: The Digital University: Reinventing the Academy 
+
+          Ed: R. Hazemi S. Hailes S. Wilbur 
+
+          Issuer: Springer-Verlag 
+
+          pages count: 209-218 
+
+          Submission Status: submitted to IM'99 
+
+          
+
+         
+ 
+          
+
+         Using the WWW for Teaching and Learning: Raising Awareness within 
+ K. Issroff , R. Hazemi 
+          RN/98/48 
+
+          September 1998 
+
+         Book: The Digital University: Reinventing the Academy 
+
+          Ed: R. Hazemi S. Hailes S. Wilbur 
+
+          Issuer: Springer-Verlag 
+
+          pages count: 85-96 
+
+          Submission Status: submitted to IM'99 
+
+          
+
+         
+ 
+          
+
+         Reinventing the Academy 
+ S. Hailes , R. Hazemi 
+          RN/98/49 
+
+          September 1998 
+
+         Book: The Digital University: Reinventing the Academy 
+
+          Ed: R. Hazemi S. Hailes S. Wilbur 
+
+          Issuer: Springer-Verlag 
+
+          pages count: 7-24 
+
+          Submission Status: submitted to IM'99 
+
+          
+
+         
+ 
+          
+
+         A Survey of Packet-Loss Recovery Techniques for Streaming Audio 
+ 
+          RN/98/49 
+
+          
+
+         Submission Status: submitted to IM'99 
+
+          
+
+         
+ 
+          Colin Perkins 
+
+         A Survey of Packet-Loss Recovery Techniques for Streaming Audio 
+ Colin Perkins , Orion Hodson , Vicky Hardman 
+          RN/98/50 
+
+          September 1998 
+
+         Journal: IEEE Network 
+
+          Volume: 5 
+
+          pages count: 40-49 
+
+          Vol: 12 
+
+          Submission Status: submitted to IM'99 
+
+          
+
+         
+ 
+          
+
+         Between a rock and a hard place: Argumentation Theory between 
+ 
+          RN/98/50 
+
+          
+
+         Submission Status: submitted to IM'99 
+
+          
+
+         
+ 
+          Simone Stumpf 
+
+         Between a rock and a hard place: Argumentation Theory between 
+ Simone Stumpf 
+          RN/98/51 
+
+          September 1998 
+
+         Abstract: Abstract: focus onto rhetorical and dialectical aspects of argument. In this paper, integrated approach to argumentation. 
+
+          Submission Status: submitted to IM'99 
+
+          
+
+         
+ 
+          
+
+         Support for Authoring and Managing Web-based Coursework: The TACO Project 
+ M.A. Sasse , C. Harris , I.Ismail , P. Monthienvichienchai 
+          RN/98/52 
+
+          September 1998 
+
+         Book: The Digital University: Reinventing the Academy 
+
+          City: Berlin 
+
+          Ed: R. Hazemi S. Hailes S. Wilbur 
+
+          Government Order Number: 1852330031 
+
+          Issuer: Springer-Verlag 
+
+          pages count: 155-175 
+
+          Submission Status: submitted to IM'99 
+
+          
+
+         
+ 
+          
+
+         Enabling QoS adaptation decisions for Internet applications 
+ S.N. Bhatti , G. Knight 
+          RN/98/53 
+
+          September 1998 
+
+         Submission Status: to appear in a Special Issue of Computer Networks and ISDN Systems 
+
+          
+
+         
+ 
+          
+
+         ASHSD-II: A Computational Model for Litigation Support 
+ K. Pal , J.A. Campbell 
+          RN/98/54 
+
+          September 1998 
+
+         Government Order Number: ISSN 0266-4720 
+
+          Journal: Expert Systems 
+
+          pages count: 169-181 
+
+          Vol: 15 
+
+          Submission Status: to appear in a Special Issue of Computer Networks and ISDN Systems 
+
+          
+
+         
+ 
+          
+
+         Shape Modelling for Drivable Open Terrains: Some Studies 
+ 
+          RN/98/54 
+
+          
+
+         Submission Status: to appear in a Special Issue of Computer Networks and ISDN Systems 
+
+          
+
+         
+ 
+          N. Chatterjee 
+
+         Shape Modelling for Drivable Open Terrains: Some Studies 
+ N. Chatterjee , B.F.Buxton 
+          RN/98/55 
+
+          October 1998 
+
+         Abstract: Abstract: 
+
+          Submission Status: accepted by the Indian Conference on Computer Vision, 
+
+          
+
+         
+ 
+          
+
+         Why is the Star Schema a Good Database Design? 
+ 
+          RN/98/55 
+
+          
+
+         Submission Status: accepted by the Indian Conference on Computer Vision, 
+
+          
+
+         
+ 
+          Mark Levene 
+
+         Why is the Star Schema a Good Database Design? 
+ Mark Levene 
+          RN/98/56 
+
+          October 1998 
+
+         Submission Status: accepted by the Indian Conference on Computer Vision, 
+
+          
+
+         
+ 
+          
+
+         A Case for Dynamic Sender-Initiated Reservations in the Internet 
+ Paul White , Jon Crowcroft 
+          RN/98/57 
+
+          October 1998 
+
+         Submission Status: accepted for publication in Journal of High Speed Networks. Special issue 
+
+          
+
+         
+ 
+          
+
+         A User Centred Approach to Network QoS and Pricing 
+ 
+          RN/98/57 
+
+          
+
+         Submission Status: accepted for publication in Journal of High Speed Networks. Special issue 
+
+          
+
+         
+ 
+          Anna Bouch 
+
+         A User Centred Approach to Network QoS and Pricing 
+ Anna Bouch 
+          RN/98/58 
+
+          October 1998 
+
+         Submission Status: submitted to CHI'99, May 15th-20th 1999 (extended abstracts) 
+
+          
+
+         
+ 
+          
+
+         Multiple Forwarding Nodes in a Broadcast LAN 
+ K. Carlberg , J. Crowcroft 
+          RN/98/59 
+
+          October 1998 
+
+         Submission Status: submitted to CHI'99, May 15th-20th 1999 (extended abstracts) 
+
+          
+
+         
+ 
+          
+
+         Quality of Multicast Service by Yet Another Multicast (YAM) Routing 
+ K. Carlberg , J. Crowcroft 
+          RN/98/60 
+
+          October 1998 
+
+         Book: Proc. of HIPPARCH'98, June 1998, UCL 
+
+          pages count: 43-52 
+
+          Submission Status: submitted to CHI'99, May 15th-20th 1999 (extended abstracts) 
+
+          
+
+         
+ 
+          
+
+         A Comparison of Multicast Shared Trees Constructed with Different Metrics 
+ K. Carlberg , J. Crowcroft 
+          RN/98/61 
+
+          October 1998 
+
+         Submission Status: submitted to Computer Communications Review of the ACM, Oct 8, 1998 
+
+          
+
+         
+ 
+          
+
+         The Virtual Ante-Room: Assessing Presence Through Expectation and Surprise 
+ M. Slater , A. Steed , J. McCarthy , F. Maringelli 
+          RN/98/62 
+
+          October 1998 
+
+         Book: Virtual Environments '98 Eurographics Workshop Proceedings 
+
+          Ed: M. goebel U. Lang J. Landauer M. Wapler 
+
+          Government Order Number: ISSN 1024-0861 
+
+          pages count: 41-1/41-8 
+
+          Submission Status: submitted to Computer Communications Review of the ACM, Oct 8, 1998 
+
+          
+
+         
+ 
+          
+
+         The Influence of Haptic Communication on the Sense of Being Together 
+ C. Ho , C. Basdogan , M. Slater , N. Durlach , M. Srinivasan 
+          RN/98/63 
+
+          October 1998 
+
+         Submission Status: presented at BT Workshop on Presence in Shared Virtual Environments, June 
+
+          
+
+         
+ 
+          
+
+         Small Group Behaviour in a Virtual and Real Environment: A Comparative 
+ M. Slater , M. Sadagic , M. Usoh , R. Schroeder 
+          RN/98/64 
+
+          October 1998 
+
+         Submission Status: presented at BT Workshop on Presence in Shared Virtual Environments, June 
+
+          
+
+         
+ 
+          
+
+         Evolving Fuzzy Rules for Pattern Classification 
+ P.J. Bentley , H. Mallinson 
+          RN/98/65 
+
+          October 1998 
+
+         Submission Status: submitted to International Conference on Computational Intelligence for 
+
+          
+
+         
+ 
+          
+
+         Finding Acceptable Pareto-Optimal Solutions using Multiobjective Genetic 
+ P.J. Bentley , J.P. Wakefield 
+          RN/98/66 
+
+          October 1998 
+
+         Submission Status: submitted to Soft Computing, Springer-Verlag Ltd 
+
+          
+
+         
+ 
+          
+
+         Finding Acceptable Pareto-Optimal Solutions using Multiobjective Genetic 
+ P.J Bentley 
+          RN/98/67 
+
+          October 1998 
+
+         Book: AID'98 1st Workshop Notes on Evolutionary Design, 18 July 1998, Lisbon, 
+
+          Ed: P.J. Bentley 
+
+          pages count: 3-11 
+
+          Submission Status: submitted to Soft Computing, Springer-Verlag Ltd 
+
+          
+
+         
+ 
+          
+
+         Methods to Evolve Legal Phenotypes 
+ T.Yu , P.J.Bentley 
+          RN/98/68 
+
+          October 1998 
+
+         Book: Proc. of the Fifth International Conference on Parallel Problem Solving 
+
+          Ed: A.E. Eiben 
+
+          pages count: 280-282 
+
+          Abstract: Abstract: evolutionary algorithm to solve such problems, these 
+
+          Submission Status: submitted to Soft Computing, Springer-Verlag Ltd 
+
+          
+
+         
+ 
+          
+
+         Aspects of Evolutionary Design by Computers 
+ P.J. Bentley 
+          RN/98/69 
+
+          October 1998 
+
+         Book: Advances in Soft Computing - Engineering Design and Manufacture 
+
+          City: London 
+
+          Issuer: Springer-Verlag 
+
+          Submission Status: submitted to Soft Computing, Springer-Verlag Ltd 
+
+          
+
+         
+ 
+          
+
+         The Revolution of Evolution in Design: From Coffee Tables to Hospitals 
+ P.J. Bentley 
+          RN/98/70 
+
+          October 1998 
+
+         Book: Proc. of Recent Advances in Soft Computing'98, Leicester 
+
+          Submission Status: submitted to Soft Computing, Springer-Verlag Ltd 
+
+          
+
+         
+ 
+          
+
+         Formulating the Cognitive Design Problem of Air Traffic Management 
+ J. Dowell 
+          RN/98/71 
+
+          October 1998 
+
+         Journal: International Journal of Human Computer Studies 
+
+          pages count: in press 
+
+          Submission Status: submitted to Soft Computing, Springer-Verlag Ltd 
+
+          
+
+         
+ 
+          
+
+         Narratran: A Tool for Designing Emergency Management Training 
+ W. Smith , J. Dowell , M. Ortega-Lafuente 
+          RN/98/72 
+
+          October 1998 
+
+         Book: Cognition and Cooperation: Proc. of the Ninth European Conference on 
+
+          City: Paris 
+
+          Ed: T. Green L. Bannon C. Warren J. Buckley 
+
+          Issuer: EACE 
+
+          pages count: 97-102 
+
+          Submission Status: submitted to Soft Computing, Springer-Verlag Ltd 
+
+          
+
+         
+ 
+          
+
+         Ecological Modelling of Cognitive Worksystems: An Exemplar from Air 
+ J. Dowell 
+          RN/98/73 
+
+          October 1998 
+
+         Book: Cognition and Cooperation: Proc. of the Ninth European Conference on 
+
+          City: Paris 
+
+          Ed: T. Green L. Bannon C. Warren J. Buckley 
+
+          Issuer: EACE 
+
+          pages count: 97-102 
+
+          Submission Status: submitted to Soft Computing, Springer-Verlag Ltd 
+
+          
+
+         
+ 
+          
+
+         Learning Models and Computer Supported Training in Disaster Management 
+ J. Dowell , W. Smith 
+          RN/98/74 
+
+          October 1998 
+
+         Book: Proc. of DMIT'98, International Conference on Disaster Management and 
+
+          Submission Status: submitted to Soft Computing, Springer-Verlag Ltd 
+
+          
+
+         
+ 
+          
+
+         Using the New Rhetoric to analyse the Delft Protocols 
+ S. Stumpf 
+          RN/98/75 
+
+          October 1998 
+
+         Abstract: Abstract: 
+
+          Submission Status: submitted to Soft Computing, Springer-Verlag Ltd 
+
+          
+
+         
+ 
+          
+
+         Mobile Multimedia Accesss for the Internet 
+ V. Hardman , S. Hailes 
+          RN/98/76 
+
+          October 1998 
+
+         Book: Insights into Mobile Multimedia Communications 
+
+          City: London 
+
+          Ed: D. Bull N. Canagarajah A. Nix 
+
+          Government Order Number: 0121403106 
+
+          Issuer: Academic Press 
+
+          pages count: 111-132 
+
+          Series: Signal Processing and its Applications 
+
+          Submission Status: submitted to Soft Computing, Springer-Verlag Ltd 
+
+          
+
+         
+ 
+          
+
+         Very low bit rate face video compression using linear combination of 2D 
+ Ioannis Koufakis , Bernard F. Buxton 
+          RN/98/77 
+
+          October 1998 
+
+         Submission Status: submitted to Image and Vision Computing in June 1998, 
+
+          
+
+         
+ 
+          
+
+         Virtual Rehearsal Simulation Over Distributed Networks 
+ 
+          RN/98/77 
+
+          
+
+         Submission Status: submitted to Image and Vision Computing in June 1998, 
+
+          
+
+         
+ 
+          D.L. Mountain 
+
+         Virtual Rehearsal Simulation Over Distributed Networks 
+ D.L. Mountain , N. Chilton , W. Tang , C.M. Reeve, University of Bradford , J. Howell, Univeristy College London 
+          RN/98/78 
+
+          October 1998 
+
+         Submission Status: accepted by the Simulation in Industry'98 Conference, Nottingham on 
+
+          
+
+         
+ 
+          
+
+         No Interaction Between Functional Dependencies and Tree-Like Inclusion Dependencies 
+ 
+          RN/98/78 
+
+          
+
+         Submission Status: accepted by the Simulation in Industry'98 Conference, Nottingham on 
+
+          
+
+         
+ 
+          Mark Levene 
+
+         No Interaction Between Functional Dependencies and Tree-Like Inclusion Dependencies 
+ Mark Levene , George Loizou 
+          RN/98/79 
+
+          October 1998 
+
+         Submission Status: accepted by the Simulation in Industry'98 Conference, Nottingham on 
+
+          
+
+         
+ 
+          
+
+         Dynamically Trace Scheduled VLIW Architectures 
+ A.F de Souza , P.A. Rounce 
+          RN/98/80 
+
+          October 1998 
+
+         Book: Proc. High Performance Computing and Networking, HPCN Europe 1998, 21-23 
+
+          Government Order Number: ISBN 3-540-644443-1 
+
+          pages count: 993-995 
+
+          Series: Lecture Notes in Computer Science 1401 
+
+          Submission Status: accepted by the Simulation in Industry'98 Conference, Nottingham on 
+
+          
+
+         
+ 
+          
+
+         VE Technological Requirements: The VENICE Project 
+ 
+          RN/98/80 
+
+          
+
+         Submission Status: accepted by the Simulation in Industry'98 Conference, Nottingham on 
+
+          
+
+         
+ 
+          Jeremy Severwright 
+
+         VE Technological Requirements: The VENICE Project 
+ Jeremy Severwright , Raghbir Singh 
+          RN/98/81 
+
+          November 1998 
+
+         Book: presented at OOPSLA Workshop "Objects, 
+
+          Submission Status: accepted by the Simulation in Industry'98 Conference, Nottingham on 
+
+          
+
+         
+ 
+          
+
+         VENICE: A Distributed Software Infrastructure for Virtual 
+ 
+          RN/98/81 
+
+          
+
+         Submission Status: accepted by the Simulation in Industry'98 Conference, Nottingham on 
+
+          
+
+         
+ 
+          Raghbir Singh 
+
+         VENICE: A Distributed Software Infrastructure for Virtual 
+ Raghbir Singh , Thorsten Kurz 
+          RN/98/82 
+
+          November 1998 
+
+         Submission Status: submitted for 9th International Workshop on Research Issues on Data 
+
+          
+
+         
+ 
+          
+
+         VENICE : an Internet-based Infrastructure for Nurturing Virtual 
+ 
+          RN/98/82 
+
+          
+
+         Submission Status: submitted for 9th International Workshop on Research Issues on Data 
+
+          
+
+         
+ 
+          Raghbir Singh 
+
+         VENICE : an Internet-based Infrastructure for Nurturing Virtual 
+ Raghbir Singh , Antti Auer , Maia Wentland Forte 
+          RN/98/83 
+
+          November 1998 
+
+         Submission Status: submitted to the NINETEENTH ANNUAL INTERNATIONAL CONFERENCE ON INFORMATION 
+
+          
+
+         
+ 
+          
+
+         An Artificial Immune Model for Network Intrusion Detection 
+ J. Kim , P.J. Bentley 
+          RN/98/84 
+
+          November 1998 
+
+         Submission Status: submitted to 1st USENIX Workshop on Intrusion Detection and Network 
+
+          
+
+         
+ 
+          
+
+         A Software Platform Suitable for Multi-way Audio Distribution over the 
+ 
+          RN/98/84 
+
+          
+
+         Submission Status: submitted to 1st USENIX Workshop on Intrusion Detection and Network 
+
+          
+
+         
+ 
+          O. Hodson 
+
+         A Software Platform Suitable for Multi-way Audio Distribution over the 
+ O. Hodson , S. Varakliotis 
+          RN/98/85 
+
+          November 1998 
+
+         Submission Status: accepted by IEE colloquim `Audio and Music Technology: The Challenge of 
+
+          
+
+         
+ 
+          
+
+         Small Group Behaviour in the COVEN Project 
+ J. Tromp , A. Steed , E. Frecon , A. Bullock , A. Sadagic , M. Slater 
+          RN/98/86 
+
+          November 1998 
+
+         Journal: IEEE Computer Graphics and Applications 
+
+          Volume: 6 
+
+          pages count: 53-63 
+
+          Vol: 18 
+
+          Submission Status: accepted by IEE colloquim `Audio and Music Technology: The Challenge of 
+
+          
+
+         
+ 
+          
+
+         The Role of Haptic Communication in Shared Virtual Environments, 
+ C. Basdogan , C. Ho , M. Slater , A. Srinivasan 
+          RN/98/87 
+
+          November 1998 
+
+         Book: Proceedings of the Third PHAToM Users Group Workshop, Dedham, MA, Oct. 
+
+          Submission Status: accepted by IEE colloquim `Audio and Music Technology: The Challenge of 
+
+          
+
+         
+ 
+          
+
+         A Qualitative View of Requirements Engineering 
+ G.H. Galal , J.T. McDonnell 
+          RN/98/88 
+
+          November 1998 
+
+         Book: Third Australian Conference on Requirements Engineering (ACRE '98) 
+
+          Ed: D. Fowler L. Dawson 
+
+          Issuer: Deakin University 
+
+          pages count: 167-176 
+
+          Submission Status: accepted by IEE colloquim `Audio and Music Technology: The Challenge of 
+
+          
+
+         
+ 
+          
+
+         From the Prescriptive to the Analytic: A New Direction for Information Systems Engineering Methodology 
+ G.H. Galal , R. Paul 
+          RN/98/88 
+
+          
+
+         Book: Fourth Americas Conference on Information Systems, Baltimore, Maryland, USA 
+
+          Ed: D. Naumann J. DeGross 
+
+          Issuer: Association for Information Systems 
+
+          pages count: 829-831 
+
+          Submission Status: accepted by IEE colloquim `Audio and Music Technology: The Challenge of 
+
+          
+
+         
+ 
+          
+
+         A Qualitative Scenario Approach to Managing Evolving Requirements 
+ G.H. Galal , R.J. Paul 
+          RN/98/90 
+
+          November 1998 
+
+         Journal: Requirements Engineering Journal 
+
+          pages count: to appear 
+
+          Submission Status: accepted by IEE colloquim `Audio and Music Technology: The Challenge of 
+
+          
+
+         
+ 
+          
+
+         Techniques, Tools and Formalisms for Capturing and Assessing 
+ I. Borne , F. Brito e Abreu , W. De Meuter , G.H. Galal 
+          RN/98/91 
+
+          November 1998 
+
+         Book: Object-Oriented Technology (ECOOP'98 Workshop Reader) 
+
+          City: Berlin 
+
+          Ed: S. Demeyer J. Bosch 
+
+          Issuer: Springer-Verlag 
+
+          pages count: to appear 
+
+          Submission Status: accepted by IEE colloquim `Audio and Music Technology: The Challenge of 
+
+          
+
+         
+ 
+          
+
+         A Note on Object-Oriented Software Architecting 
+ G.H. Galal 
+          RN/98/92 
+
+          November 1998 
+
+         Book: Object-Oriented Technology (ECOOP'98 Workshop Reader) 
+
+          City: Berlin 
+
+          Ed: S. Demeyer J. Bosch 
+
+          Issuer: Springer-Verlag 
+
+          pages count: to appear 
+
+          Submission Status: accepted by IEE colloquim `Audio and Music Technology: The Challenge of 
+
+          
+
+         
+ 
+          
+
+         Software architecting: from requirements to building blocks within an architectural style 
+ G.H. Galal 
+          RN/98/93 
+
+          November 1998 
+
+         Book: Proc. 12th European Conference on Object-Oriented Programming: ECOOP'98, 
+
+          Ed: I. Borne M. Prieto F. Brito e Abreu W. De Meuter 
+
+          pages count: to appear 
+
+          Submission Status: accepted by IEE colloquim `Audio and Music Technology: The Challenge of 
+
+          
+
+         
+ 
+          
+
+         Educating the Systems Architect 
+ G.H. Galal , S. Abd-El Whab 
+          RN/98/94 
+
+          
+
+         Submission Status: accepted by IEE colloquim `Audio and Music Technology: The Challenge of 
+
+          
+
+         
+ 
+          
+
+         HYbrid Monitoring and Networks Simulation - HYMNS 
+ J.Crowcroft , I. Kouvelas , L. Vicisano 
+          RN/98/95 
+
+          November 1998 
+
+         Book: HP Laboratories Technical Report HPL-IRI-98-002 
+
+          Pages: 8 
+
+          Submission Status: accepted by IEE colloquim `Audio and Music Technology: The Challenge of 
+
+          
+
+         
+ 
+          
+
+         Java Performance for Multimedia Applications 
+ R. Akester , D. Terzis , J. Crowcroft , V. Hardman , S. Hailes 
+          RN/98/96 
+
+          November 1998 
+
+         Submission Status: presented at Java for High Performance Network Computing 
+
+          
+
+         
+ 
+          
+
+         Mobile Agent based management in the INSERT project 
+ 
+          RN/98/96 
+
+          
+
+         Submission Status: presented at Java for High Performance Network Computing 
+
+          
+
+         
+ 
+          Graham Knight 
+
+         Mobile Agent based management in the INSERT project 
+ Graham Knight , Reza Hazemi 
+          RN/98/97 
+
+          November 1998 
+
+         Submission Status: Submitted to the Journal of Network and System Management special issue on 
+
+          
+
+         
+ 
+          
+
+         Knowledge Discovery from Numerical Dependencies in Temporal Sequences 
+ E. Collopy , M. Levene 
+          RN/98/98 
+
+          December 1998 
+
+         Submission Status: Submitted to the Journal of Network and System Management special issue on 
+
+          
+
+         
+ 
+          
+
+         Dynamically Scheduling the Trace Produced during Program Execution into 
+ 
+          RN/98/98 
+
+          
+
+         Submission Status: Submitted to the Journal of Network and System Management special issue on 
+
+          
+
+         
+ 
+          A. Ferreira de Souza 
+
+         Dynamically Scheduling the Trace Produced during Program Execution into 
+ A. Ferreira de Souza , P. Rounce 
+          RN/98/99 
+
+          December 1998 
+
+         Submission Status: accepted as an extended paper for presentation at IPPS/SPDP 1999. The 
+
+          
+
+         
+ 
+          
+
+         Effect of Multicycle Instructions on the Integer Performance of the 
+ A. de Souza , P. Rounce 
+          RN/98/100 
+
+          December 1998 
+
+         Submission Status: submitted to HPCN Europe 99, Seventh International Conference on High 
+
+          
+
+         
+ 
+          
+
+         CMIS/P++: Extensions to CMIS/P for Increased Expressiveness and 
+ G. Pavlou , A. Liotta , P. Abbi , S. Ceri 
+          RN/98/101 
+
+          December 1998 
+
+         Journal: IEEE Network 
+
+          Volume: 5 
+
+          pages count: 10-20 
+
+          Vol: 12 
+
+          Submission Status: submitted to HPCN Europe 99, Seventh International Conference on High 
+
+          
+
+         
+ 
+          
+
+         Successful Multiparty Audio Communication over the Internet 
+ V. Hardman , A. Sasse , I. Kouvelas 
+          RN/98/102 
+
+          December 1998 
+
+         Journal: Communications of the ACM 
+
+          Volume: 5 
+
+          pages count: 74-80 
+
+          Vol: 41 
+
+          Submission Status: submitted to HPCN Europe 99, Seventh International Conference on High 
+
+          
+
+         
+ 
+          
+
+         Argumentation-based Design Rationale - The Sharpest Tools in the Box 
+ Simone Stumpf 
+          RN/98/103 
+
+          February 1998 
+
+         Keywords: argumentation, design rationale, criteria, decision making 
+
+          Abstract: Abstract: the evaluation of intentions and objectives that allow consistent goals 
+
+          Submission Status: submitted to HPCN Europe 99, Seventh International Conference on High 
+
+          
+
+         
+ 
+          
+
+         The Multicast Multimedia Conference Recorder 
+ L. Lambrinos , P. Kirstein , V. Hardman 
+          RN/98/104 
+
+          December 1998 
+
+         Book: The 7th International Conference on Computer Communications and 
+
+          pages count: 208-213 
+
+          Submission Status: submitted to HPCN Europe 99, Seventh International Conference on High 
+
+          
+
+         
+ 
+          
+
+         The Multicast Multimedia Conference Recorder 
+ 
+          RN/98/104 
+
+          
+
+         Submission Status: submitted to HPCN Europe 99, Seventh International Conference on High 
+
+          
+
+         
+ 
+          
+
+         The Multicast Multimedia Conference Recorder 
+ A. Hunter 
+          RN/98/104 
+
+          
+
+         Submission Status: submitted to HPCN Europe 99, Seventh International Conference on High 
+
+          
+
+         
+ 
+          
+
+         The Multicast Multimedia Conference Recorder 
+ 
+          RN/98/104 
+
+          
+
+         Submission Status: submitted to HPCN Europe 99, Seventh International Conference on High 
+
+          
+
+         
+ 
+          
+
+         The Multicast Multimedia Conference Recorder 
+ G. Galal 
+          RN/98/104 
+
+          
+
+         Submission Status: submitted to HPCN Europe 99, Seventh International Conference on High 
+
+          
+
+         
+ 
+          
+
+         Prediction of the location and type of beta-turns in proteins 
+ 
+          RN/98/104 
+
+          
+
+         Submission Status: submitted to HPCN Europe 99, Seventh International Conference on High 
+
+          
+
+         
+ 
+          A.J. Shepherd 
+
+         Prediction of the location and type of beta-turns in proteins 
+ A.J. Shepherd , D. Gorse , J.M Thornton 
+          RN/98/131 
+
+          December 1998 
+
+         Submission Status: Accepted by: Protein Science [refereed journal] for publication in 1999 
+
+          
+
+         
+ 
+          
+
+         Prediction of the location and type of beta-turns in proteins 
+ 
+          RN/98/131 
+
+          
+
+         Submission Status: Accepted by: Protein Science [refereed journal] for publication in 1999 
+
+          
+
+         
+ 
+          
+
+         Prediction of the location and type of beta-turns in proteins 
+ 
+          RN/98/131 
+
+          
+
+         Submission Status: Accepted by: Protein Science [refereed journal] for publication in 1999 
+
+          
+
+         
+ 
+          
+
+         	
+           Translator  
+         
+
+
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Rachel Scott 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

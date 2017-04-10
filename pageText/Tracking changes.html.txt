@@ -1,0 +1,492 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Help
+      ›› TYPO3 ›› Tracking changes 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+        
+
+        
+	Old readers start here
+
+	General Principles
+
+	The TYPO3 "Backend"
+
+	Content Elements
+
+	Editing Content
+
+	Rich Text Editor
+
+	Inserting Images
+
+	Managing Links
+
+	Formats and Styles
+
+	Creating New Pages
+
+	Page properties
+
+	Moving and Copying pages
+
+	The UCL-CS Templates
+
+	Adding Content
+
+	Dividers
+
+	The "Text and Images" element
+
+	Files and TYPO3
+
+	Automatic Menus
+
+	Someone is editing my page!
+
+	Cutting and Pasting
+
+	Spelling check
+
+	Managing your work
+	Tracking changes
+
+	Rolling Back
+
+	Hiding pages
+
+	Hiding content elements
+
+	Working in a Draft Workspace
+
+	Previewing your draft
+
+	Publishing from the Draft Workspace
+
+	Browser set-up
+
+	TYPO3 v4.5 - The main changes
+
+	TYPO3 v4.5 - Some more changes
+
+	TYPO3 v6.2 - Introduction
+
+	TYPO3 v6.2 - Files
+
+	TYPO3 v6.2 - Images
+
+	TYPO3 v6.2 - Extensions
+
+	Training
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       
+        
+         Prev | 
+         Next
+        
+
+        
+         First | 
+         Last
+        
+
+       
+
+       
+ 
+        
+        
+         
+        
+          
+           
+          Record Change History
+ 
+          Each time you edit a page and save it TYPO3 records the changes you have made. This is not limitless - currently the last 200 changes are recorded for each page. You can see a list of all these changes and, if necessary, undo the most recent changes.
+ 
+          Viewing the history
+ 
+          In page view select the page you are interested in. Now click on the  icon. You will see something like this:
+
+          
+ 
+           
+         
+
+         
+          
+           
+            
+             
+            
+
+           
+
+          
+
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        (Note the SETTINGS. These have been selected so as to show the maximum information.)
+
+        Reading from the bottom the history shows:
+
+        	The creation of the page 33 minutes ago. In the Table: uid column you can see it has a uid number 1286 and a title "Demonstration Page".
+	The creation of two content elements 21 and 20 minutes ago: uid 1780, title "Animals I like"; uid 1781, title "The turtle".
+	The addition of text to these content elements 17 and 10 minutes ago. The added text is shown in green in the Differences column.
+	The addition of an image to content element 1781 5 minutes ago (it is a Text with Image content element).
+	A correction made to content element 1780 0 minutes ago. The word "tortoise" (in red) was deleted. The word "turtle" (in green) was added.
+
+
+        Rolling back changes
+ 
+        The  icons to the left of entries initiate rollback of changes. See the next page for details.
+ 
+         
+       
+ 
+        
+       
+        
+         Prev | 
+         Next
+        
+
+        
+         First | 
+         Last
+        
+
+       
+
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

@@ -1,0 +1,1692 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Prospective Students ›› MSc CGVI 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         
+          
+           
+            
+             
+            
+
+           
+
+          
+
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+         
+         
+          
+          	Overview
+	Course Structure
+	Entry Requirements
+	Fees & Funding
+	Employability
+	Contact
+	Apply
+
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+              MSc Computer Graphics, Vision & Imaging provides training in computer graphics, virtual reality, machine vision and imaging technology from world-leading experts. Research activities include geometric acquisition and 3D fabrication; real-time photo-realistic rendering; mixed and augmented reality; face recognition; content-based image-database search; video-texture modelling; depth perception in stereo vision; colour imaging for industrial inspection; and tracking for SLAM (simultaneous localisation and mapping). 
+ 
+              The common theme across the programme is to understand how to make virtual reality more effective; we carry out experiments with participants to examine just what makes a difference to their sense of presence in the virtual environment. Real world scenarios like these train our students to bridge the gap between engineering, technology, creativity and design.
+ 
+              Graduates will understand the mathematical principles underlying the development and application of new techniques in computer graphics and computer vision and will be aware of the range of algorithms and approaches available, and be able to design, develop and evaluate appropriate algorithms and methods for new problems, emerging technologies, and applications.
+ 
+               
+             
+ 
+              
+              
+              
+               
+              
+               
+
+              
+ 
+               
+             
+ 
+              
+              
+              
+               
+               
+               
+                
+               
+                Previous Events
+
+               
+ 
+                
+              
+ 
+               
+               
+               
+                
+               
+                VR + Computer Graphics: trends & challenges
+
+               
+ 
+                
+                
+               We welcomed industry speakers Kate Bargel from Framestore and Jon Starck from The Foundry at our VR + Computer Graphics event which explored recent trends and challenges in the field, and included demos in our VR lab.
+ 
+               You can view a recording of the talks on lecturecast (UCL login required) here.
+ 
+                
+              
+ 
+               
+               
+               
+                
+                
+                
+              
+ 
+               
+               
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+               	2016/17
+	2017/18
+
+ 
+                
+                 
+                  
+                  
+                   
+                   
+                   
+                    
+                   The MSc course consists of core components, all compulsory; four optional modules; and a research project.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGV01 Mathematical Methods Algorithms & Implementations
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV01 Mathematical Methods Algorithms & Implementations
+
+                       
+ 
+                        
+                        
+                       To provide a rigorous mathematical approach: in particular to define standard notations for consistent usage in other modules. To present relevant theories and results. To develop algorithmic approach from mathematical formulation through to hardware implications. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV12 Image Processing
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV12 Image Processing
+
+                       
+ 
+                        
+                        
+                       The first half of this module introduces the digital image, describes the main characteristics of monochrome digital images, how they are represented and how they differ from graphics objects. It covers basic algorithms for image manipulation, characterisation, segmentation and feature extraction in direct space. The second half of the module proceeds to a more formal treatment of image filtering with some indication of the role and implications of Fourier space, and more advanced characterisation and feature detection techniques such as edge and corner detection, together with multiresolution methods, treatment of colour images and template matching techniques.
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV10 Computer Graphics
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV10 Computer Graphics
+
+                       
+ 
+                        
+                        
+                       The course aims to introduce to students the fundamental concepts of 3D computer graphics and give the students all the knowledge needed for creating an image of a virtual world from first principles. 
+ 
+                       The students will be able to define a virtual world and create images of it. They will know how to write a basic ray tracer, and use a graphics library such as OpenGl (or equivalent). 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV16 Research Methods & Reading
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV16 Research Methods & Reading
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to introduce students to research methods and guide them through writing a critical literature review of their chosen area. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Optional Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGI14 Machine Vision
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI14 Machine Vision
+
+                       
+ 
+                        
+                        
+                       The course addresses algorithms for automated computer vision. It focuses on building mathematical models of images and objects and using these to perform inference. Students will learn how to use these models to automatically find, segment and track objects in scenes, perform face recognition and build three-dimensional models from images. 
+ 
+                       At the end of the course, students will be able to understand and apply a series of probabilistic models of images and objects in machine vision systems. To understand the principles behind face recognition, segmentation, image parsing, super-resolution, object recognition, tracking and 3D model building. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI08 Graphical Models
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI08 Graphical Models
+
+                       
+ 
+                        
+                        
+                       The module provides an entry into probabilistic modeling and reasoning, primarily of discrete variable systems. Very little continuous variable calculus is required, and students more familiar with discrete mathematics should find the course digestible. The emphasis is to demonstrate the potential applications of the techniques in plausible real-world scenarios related to information retrieval and analysis. Concrete challenges include questionnaire analysis, low-density parity check error correction, and collaborative filtering of Netflix data 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV07 Virtual Environments
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV07 Virtual Environments
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to introduce students to the main concepts and practical issues in constructing and understanding Virtual Environments, and how people respond to a VE experience. Given the background of the course teachers, the focus on the technical side will be more on the visual aspects of VEs. A central theme of the course will also be that the understanding of VEs can be best understood through the concepts of presence and shared presence. 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV08 Inverse Problems in Imaging
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV08 Inverse Problems in Imaging
+
+                       
+ 
+                        
+                        
+                       To introduce the concepts of optimisation, and appropriate mathematical and numerical tools applications in image processing and image reconstruction. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV11 Geometry of Images
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV11 Geometry of Images
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to introduce the generalisation of image processing to n-Dimensional data: volume data, scale space, time-series and vectorial data. Students will understand the principles of image processing in n-dimensions, time-series analysis and scale space, and to understand the relations between geometric objects and sampled images. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV17 Computational Modelling for Biomedical Imaging
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV17 Computational Modelling for Biomedical Imaging
+
+                       
+ 
+                        
+                        
+                       This module aims to expose students to the challenges and potential of computational modelling in a key application area. It will explain how to use models to learn about the world; how to teach parameter estimation techniques through practical examples; and how to familiarize students with handling real data sets.
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV15 Computational Photography & Capture
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV15 Computational Photography & Capture
+
+                       
+ 
+                        
+                        
+                       The module is designed to be self-contained, introducing the theoretical and practical aspects of modern photography and capture algorithms to students with only limited mathematical background. The two primary aims are i) to introduce universal models of colour, computer-controlled cameras, lighting and shape capture, and ii) to motivate students to choose among the topics presented for either continuing study (for those considering MSc’s and PhD’s) or future careers in the fields of advanced imaging 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV18 Acquisition & Processing of 3D Geometry
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV18 Acquisition & Processing of 3D Geometry
+
+                       
+ 
+                        
+                        
+                       This  module will expose students to the challenges and potential of geometry processing in relevant application areas. It aims to explain how to use acquire 3D model, and subsequently process, analyze, and manipulate the data, and familiarize students with handling real data sets. Students will gain necessary practical skills to work directly with real-world 3D data, and be able to formulate and solve problems using the geometric tools they learn as part of the module.
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV19 Numerical Optimisation
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV19 Numerical Optimisation
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to provide the students with an overview of the optimisation landscape and a practical understanding of most popular optimisation techniques and an ability to apply these methods to problems they encounter in their studies e.g. MSc project/dissertation and later in their professional career. 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGX03 Robotic Sensing, Manipulation and Interaction
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX03 Robotic Sensing, Manipulation and Interaction
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to make sure students are familiar with various concepts in robotic sensing and manipulation and to give them a working knowledge of haptic interfaces and haptic control. These concepts will be used to teach students the principles and practical implementation of a tele-manipulation system involving a user interface, end-effector and a haptic or visual display unit. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGX04 Robotic Vision and Navigation
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX04 Robotic Vision and Navigation
+
+                       
+ 
+                        
+                        
+                       Students will gain knowledge about robot navigation with specific focus on the use of vision as a primary sensor for mapping the environment. The module will provide students with an understanding and practical experience of recovering geometry from optical sensors and creating an environment map which a robot can use for navigation and motion planning. 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     MPHYGB06 Information Processing in Medical Imaging
+ 
+                      
+                       
+                       
+                        
+                       
+                        MPHYGB06 Information Processing in Medical Imaging
+
+                       
+ 
+                        
+                        
+                       The essence of medical image computing is to derive information from medical images for clinical diagnosis, therapy or to improve our understanding of function and disease. This module focusses on algorithms and software for obtaining this information. The module is provided by members of the Centre for Medical Image Computing. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                 
+ 
+                  
+                
+ 
+               
+ 
+                
+                 
+                  
+                  
+                   
+                   
+                   
+                    
+                   MSc Computer Graphics, Vision and Imaging comprises 8 taught modules and a research project. Of the taught modules, 4 are core modules with 4 option modules.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGV01 Mathematical Methods Algorithms & Implementations
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV01 Mathematical Methods Algorithms & Implementations
+
+                       
+ 
+                        
+                        
+                       To provide a rigorous mathematical approach: in particular to define standard notations for consistent usage in other modules. To present relevant theories and results. To develop algorithmic approach from mathematical formulation through to hardware implications.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV10 Computer Graphics
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV10 Computer Graphics
+
+                       
+ 
+                        
+                        
+                       The course aims to introduce to students the fundamental concepts of 3D computer graphics and give the students all the knowledge needed for creating an image of a virtual world from first principles. 
+ 
+                       The students will be able to define a virtual world and create images of it. They will know how to write a basic ray tracer, and use a graphics library such as OpenGl (or equivalent). 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV12 Image Processing
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV12 Image Processing
+
+                       
+ 
+                        
+                        
+                       The first half of this module introduces the digital image, describes the main characteristics of monochrome digital images, how they are represented and how they differ from graphics objects. It covers basic algorithms for image manipulation, characterisation, segmentation and feature extraction in direct space. The second half of the module proceeds to a more formal treatment of image filtering with some indication of the role and implications of Fourier space, and more advanced characterisation and feature detection techniques such as edge and corner detection, together with multiresolution methods, treatment of colour images and template matching techniques.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV16 Research Methods & Reading
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV16 Research Methods & Reading
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to introduce students to research methods and guide them through writing a critical literature review of their chosen area.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV99 Research Project
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV99 Research Project
+
+                       
+ 
+                        
+                        
+                       Further syllabus information will be available shortly.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Optional Modules [Group 1]
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGV07 Virtual Environments
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV07 Virtual Environments
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to introduce students to the main concepts and practical issues in constructing and understanding Virtual Environments, and how people respond to a VE experience. Given the background of the course teachers, the focus on the technical side will be more on the visual aspects of VEs. A central theme of the course will also be that the understanding of VEs can be best understood through the concepts of presence and shared presence.
+ 
+                        
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI14 Machine Vision
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI14 Machine Vision
+
+                       
+ 
+                        
+                        
+                       The course addresses algorithms for automated computer vision. It focuses on building mathematical models of images and objects and using these to perform inference. Students will learn how to use these models to automatically find, segment and track objects in scenes, perform face recognition and build three-dimensional models from images. 
+ 
+                       At the end of the course, students will be able to understand and apply a series of probabilistic models of images and objects in machine vision systems. To understand the principles behind face recognition, segmentation, image parsing, super-resolution, object recognition, tracking and 3D model building. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   You will need to choose a minimum of 15 and a maximum of 30 credits from the Group 1 optional modules.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Optional Modules [Group 2]
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGI08 Graphical Models
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI08 Graphical Models
+
+                       
+ 
+                        
+                        
+                       The module provides an entry into probabilistic modeling and reasoning, primarily of discrete variable systems. Very little continuous variable calculus is required, and students more familiar with discrete mathematics should find the course digestible. The emphasis is to demonstrate the potential applications of the techniques in plausible real-world scenarios related to information retrieval and analysis. Concrete challenges include questionnaire analysis, low-density parity check error correction, and collaborative filtering of Netflix data. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI21 Introduction to Machine Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI21 Introduction to Machine Learning
+
+                       
+ 
+                        
+                        
+                       Students will become familiar with the conceptual landscape of machine learning and have developed practical skills to solve real world problems using available software.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV08 Inverse Problems in Imaging
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV08 Inverse Problems in Imaging
+
+                       
+ 
+                        
+                        
+                       To introduce the concepts of optimisation, and appropriate mathematical and numerical tools applications in image processing and image reconstruction.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV11 Geometry of Images
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV11 Geometry of Images
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to introduce the generalisation of image processing to n-Dimensional data: volume data, scale space, time-series and vectorial data. Students will understand the principles of image processing in n-dimensions, time-series analysis and scale space, and to understand the relations between geometric objects and sampled images.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV15 Computational Photography & Capture
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV15 Computational Photography & Capture
+
+                       
+ 
+                        
+                        
+                       The module is designed to be self-contained, introducing the theoretical and practical aspects of modern photography and capture algorithms to students with only limited mathematical background. The two primary aims are i) to introduce universal models of colour, computer-controlled cameras, lighting and shape capture, and ii) to motivate students to choose among the topics presented for either continuing study (for those considering MSc’s and PhD’s) or future careers in the fields of advanced imaging.
+ 
+                        
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV17 Computational Modelling for Biomedical Imaging
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV17 Computational Modelling for Biomedical Imaging
+
+                       
+ 
+                        
+                        
+                       This module aims to expose students to the challenges and potential of computational modelling in a key application area. It will explain how to use models to learn about the world; how to teach parameter estimation techniques through practical examples; and how to familiarize students with handling real data sets.
+ 
+                        
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV18 Acquisition & Processing of 3D Geometry
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV18 Acquisition & Processing of 3D Geometry
+
+                       
+ 
+                        
+                        
+                       This  module will expose students to the challenges and potential of geometry processing in relevant application areas. It aims to explain how to use acquire 3D model, and subsequently process, analyze, and manipulate the data, and familiarize students with handling real data sets. Students will gain necessary practical skills to work directly with real-world 3D data, and be able to formulate and solve problems using the geometric tools they learn as part of the module.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV19 Numerical Optimisation
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV19 Numerical Optimisation
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to provide the students with an overview of the optimisation landscape and a practical understanding of most popular optimisation techniques and an ability to apply these methods to problems they encounter in their studies e.g. MSc project/dissertation and later in their professional career. 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGX03 Robotic Sensing, Manipulation and Interaction
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX03 Robotic Sensing, Manipulation and Interaction
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to make sure students are familiar with various concepts in robotic sensing and manipulation and to give them a working knowledge of haptic interfaces and haptic control. These concepts will be used to teach students the principles and practical implementation of a tele-manipulation system involving a user interface, end-effector and a haptic or visual display unit. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGX04 Robotic Vision and Navigation
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX04 Robotic Vision and Navigation
+
+                       
+ 
+                        
+                        
+                       Students will gain knowledge about robot navigation with specific focus on the use of vision as a primary sensor for mapping the environment. The module will provide students with an understanding and practical experience of recovering geometry from optical sensors and creating an environment map which a robot can use for navigation and motion planning. 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     MPHYGB06 Information Processing in Medical Imaging
+ 
+                      
+                       
+                       
+                        
+                       
+                        MPHYGB06 Information Processing in Medical Imaging
+
+                       
+ 
+                        
+                        
+                       The essence of medical image computing is to derive information from medical images for clinical diagnosis, therapy or to improve our understanding of function and disease. This module focusses on algorithms and software for obtaining this information. The module is provided by members of the Centre for Medical Image Computing. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   You will need to choose a minimum of 30 and a maximum of 45 credits from the Group 2 optional modules.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Module Selection
+
+                   
+ 
+                    
+                    
+                   The modules that make up a programme are either core, optional or elective, which reflects whether they must be taken or can optionally be taken. The programme’s curriculum (also called a programme diet) will prescribe in what combinations modules can be taken, any restrictions on doing so, and how much credit can and must be taken. 
+ 
+                   Core/compulsory modules are fundamental to the programme’s curriculum and students must take these. You will be automatically allocated a place on any core modules for your programme and will not need to select these during the module selection process. There will be no timetable clashes between your programme’s core modules. 
+ 
+                   Optional modules are strongly related to the programme and students can choose which of these they wish to take, usually from within specific groups (for example, a student may be asked to choose two optional modules from one group and three from another, etc.) Places of optional modules are strictly limited (due to spatial, resource and timetable constraints) and will be allocated on a first come first serve basis. Some optional modules have pre-requisites which students will need to meet in order to be eligible for a place. 
+ 
+                   Elective modules are not programme specific, but allow students the opportunity to explore their interests more widely. Students are usually restricted to taking one or two elective modules. There is no guarantee of being accepted onto an elective module. These modules are core or optional on other programme diets, consequently students on these programmes will be given priority. Any remaining places will then be allocated on a first come first served basis. Some elective modules have pre-requisites which students will need to meet in order to be eligible for a place. 
+ 
+                   Please note: timetable clashes between optional and elective modules from different specialisations are inevitable and this can result in limiting the available choices. It is the student’s responsibility to select modules that do not clash in order to meet UCLs minimum attendance requirements. Please speak to your Programme Director and/ or Programme Administrator if you have any queries. 
+ 
+                   Non-Computer Science students should note that priority on COMP* modules will always be given to Computer Science students in the first instance.
+ 
+                    
+                  
+ 
+                   
+                   
+                 
+ 
+                  
+                
+ 
+               
+ 
+              
+ 
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             A minimum of an upper-second class UK Bachelor's degree in computer science, or an overseas qualification of an equivalent standard. Relevant work experience may also be taken into account. 
+ 
+             English Language Requirements 
+ 
+             If your education has not been conducted in the English language, you will be expected to demonstrate evidence of an adequate level of English proficiency. The English language level for this programme is: Good. Further information can be found on our English language requirements page. 
+ 
+             International students 
+ 
+             Country-specific information, including details of when UCL representatives are visiting your part of the world, can be obtained from the International Students website.
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+              UK/EU fees (FT):  £11,800 for 2017/18
+ 
+               
+             
+ 
+              
+              
+              
+               
+              Overseas fees (FT): £24,610 for 2017/18
+ 
+               
+             
+ 
+              
+              
+              
+               
+              For a comprehensive list of the funding opportunities available at UCL, including funding relevant to your nationality, please visit the Scholarship and Funding website. 
+ 
+              If you are holding an offer from the Department of Computer Science at UCL, you may be eligible for our Excellence Scholarship.
+ 
+               
+             
+ 
+              
+              
+              
+               
+              
+               Tuition Fee Deposit
+
+              
+ 
+               
+               
+               
+                
+               This programme requires that applicants firmly accepting their offer pay a deposit. This allows UCL to effectively plan student numbers, as students are more demonstrably committed towards commencing their studies with us. 
+ 
+               For full details about the UCL tuition fee deposit, please see the central UCL pages. 
+ 
+               Tuition fee deposits within the Department of Computer Science are currently listed as:
+
+               	UK/EU	Overseas
+	Full-time	*Part-time	Full-time	*Part-time
+	£2000	£1000	£2000	£1000
+	 
+	*where part-time is an available mode of study
+
+ 
+                
+              
+ 
+               
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             	 Top graduate destinations:              
+ 
+                 	Accenture                               
+	Citigroup
+	Deloitte
+	Google
+	Hawkeye Innovations
+	Hewlett-Packard
+	HSBC
+	IBM
+
+ 	 	 Further study destinations:
+ 
+                 	UCL
+	University of Cambridge
+	MIT
+	King's College London
+
+
+
+ 
+
+ 
+             Average starting salary £28,200 (Graduate Surveys, January 2015).
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             
+               
+                
+               Programme Administrator
+Tracy Williams
+Office 5.22, Malet Place Engineering Building 
+0207 679 7287
+advancedmsc-admissions@cs.ucl.ac.uk
+More information
+ 
+                
+              
+
+              
+               
+                
+                 
+                  
+                 
+
+                
+ 
+                
+                 
+                  
+                 
+
+                
+ 
+                
+                 
+                  
+                 
+
+                
+
+               
+
+              
+
+             
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             To apply now click here.
+ 
+             Students are advised to apply as early as possible due to competition for places. Those applying for scholarship funding (particularly overseas applicants) should take note of application deadlines.
+ 
+             Deadline 17th June 2017.
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+         
+ 
+        
+ 
+         
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 03 Apr 2017 and is maintained by 
+      Steve Marchant 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

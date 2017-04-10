@@ -1,0 +1,446 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus ›› GI14 - Machine Vision 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGI14 - Machine Vision
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPGI14 (Also taught as: COMPM054 Machine Vision) 
+	Year	MSc
+	Prerequisites	Successful completion of an appropriate Computer Science, Mathematics, or other Physical Science or Engineering undergraduate programme with sufficient mathematical and programming content, plus some familiarity with digital imaging and digital image processing. 
+	Term	1
+	Taught By	Gabriel Brostow(100%) 
+	Aims	The course addresses algorithms for automated computer vision. It focuses on building mathematical models of images and objects and using these to perform inference. Students will learn how to use these models to automatically find, segment and track objects in scenes, perform face recognition and build three-dimensional models from images. 
+	Learning Outcomes	To be able to understand and apply a series of probabilistic models of images and objects in machine vision systems. To understand the principles behind face recognition, segmentation, image parsing, super-resolution, object recognition, tracking and 3D model building. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         Two-dimensional visual geometry: 2d transformation family. The homography. Estimating 2d transformations. Image panoramas. 
+ 
+         Three dimensional image geometry: The projective camera. Camera calibration. Recovering pose to a plane. 
+ 
+         More than one camera: The fundamental and essential matrices. Sparse stereo methods. Rectification. Building 3D models. Shape from sillhouette. 
+ 
+         Vision at a single pixel: background subtraction and color segmentations problems. Parametric, non-parametric and semi-parametric techniques. Fitting models with hidden variables. 
+ 
+         Connecting pixels: Dynamic programming for stereo vision. Markov random fields. MCMC methods. Graph cuts. 
+ 
+         Texture: Texture synthesis, super-resolution and denoising, image inpainting. The epitome of an image. 
+ 
+         Dense Object Recognition: Modelling covariances of pixel regions. Factor analysis and principle components analysis. 
+ 
+         Sparse Object Recognition: Bag of words, latent dirilecht allocation, probabilistic latent semantic analysis. 
+ 
+         Face Recognition: Probabilistic approaches to identity recognition. Face recognition in disparate viewing conditions. 
+ 
+         Shape Analysis: Point distribution models, active shape models, active appearance models. 
+ 
+         Tracking: The Kalman filter, the Condensation algorithm.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lectures, practical lab classes.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	 Written Examination (2.5 hours, 80%)
+	Coursework Section (2 pieces, 20%)
+
+
+         To pass this course, students must: 
+ 
+         	 Obtain an overall pass mark of 50% for all sections combined.
+
+ 
+         The examination rubric is:
+Answer 3 questions
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Prince, S. Computer Vision: Models, Learning and Inference http://www.computervisionmodels.com/ 
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

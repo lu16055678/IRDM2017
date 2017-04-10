@@ -1,0 +1,475 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Students
+      ›› Syllabus ›› 3004 - Computational Complexity 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMP3004 - Computational Complexity
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMP3004 
+	Year	3
+	Prerequisites	1002, 1004 and 2008 
+	Term	1
+	Taught By	Mark Herbster (50%) 
+Robin Hirsch (50%) 
+	Aims	To address the theoretical and practical limitations of computation. To provide a theoretical framework for modelling computation. The concepts of undecidability and intractability are introduced through a number of examples. The course will convey the proof techniques that are used to classify problems and it is intended that students learn how to apply them in order to classify unfamiliar problems for themselves. 
+	Learning Outcomes	To be able to: analyse the complexity of a variety of problems and algorithms; reduce one problem to another; prove that a problem is undecidable; find a polynomial time reduction from one problem to another; determine the complexity class of a decidable problem; categorise the complexity of a language. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         Models of Computation
+Deterministic Turing machines.
+Equivalent Turing machines.
+ Register machines. 
+ 
+         Languages
+Language recognition.
+ Language acceptance.
+ Recursive languages.
+ Recursively enumerable languages. 
+ 
+         Undecidability
+The Halting Problem.
+ Problem reduction.
+ Undecidability of the tiling problem.
+ Undecidability of first-order logic.
+ Other unsolvable problems. 
+ 
+         Non-determinism
+Non-deterministic Turing machines.
+Polynomial-time reduction.
+Elementary properties of polynomial time reduction.
+The complexity classes P, NP, NP-complete. 
+ Cook's theorem. 
+ How to prove NP-hardness of various problems.
+
+Probabilistic Algorithms
+Examples of probabilistic algorithms.
+ How to make 'almost sure' your algorithm is correct.
+Complexity analysis of probabilistic algorithms.
+The complexity classes PP and BPP.
+
+Other Complexity Classes
+Space complexity.
+Savitch’s theorem.
+Exponential time.
+Non-elementary problems.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lecture presentations with associated courseworks.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	 Written Examination (2.5 hours, 95%);
+	Coursework Section (2 pieces, 5%).
+
+
+         To pass this course, students must:
+
+         	Obtain an overall pass mark of 40% for all components combined;
+	Obtain a minimum mark of 30% in each component worth ≥ 30% of the module as a whole. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         M.R. Garey and D.S. Johnson, Computers and Intractability, A Guide to
+ 
+          the Theory of NP-Completeness, Freeman 1986. 
+ 
+         V.J. Rayward-Smith: A first Course in Computability, Blackwell
+ 
+          Scientific Publications, 1986.
+ 
+          H. Lewis and C. Papadimitriou: Elements of the
+ 
+          Theory of Computation, Prentice Hall, 1998.
+ 
+          J Hopcroft and J Ullman: Introduction to automata theory, languages, and computation, Addison-Wesley, 1979. 
+ 
+         Michael Sipser: Introduction to the Theory of Computation
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

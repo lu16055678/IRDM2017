@@ -1,0 +1,422 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         IBM Hackathon for UCL Computer Science students
+ 
+         
+          
+          
+
+         
+ 
+         The IBM Tivoli Development team ran IBM’s first hackday with UCL students on 2 April in the IBM Client Centre at the IBM offices on the South Bank. 11 UCL students with little previous exposure to the complexities of managing a large IT infrastructure competed to create a working prototype solution to visualize enterprise management data in 6 under hours. 
+ 
+         The briefing 
+ 
+         One week prior to the event IBM volunteers presented at UCL on the challenges enterprises face in managing IT infrastructures due to the constantly increasing amounts of data and connectivity. The IBM team explaned how these challenges are addressed using the Netcool OMNIbus product suite. The briefing also covered how to access the data using the HTTP and JSON APIs provided in the latest release of OMNIbus. 
+ 
+         The challenge 
+ 
+         The IBM volunteers set up a 'live' simulation of a multi-national IT infrastructure management system. The UCL students were challenged to provide an intuitive way of summarising whether individual geographies were meeting their service level agreements. 
+ 
+         On the day 
+ 
+         Participants ranged in experience from first year undergraduates to PhD and 
+ 
+         masters students. They chose to integrate cloud based geo-mapping and charting technologies with the OMNIbus server to visualise the spread of events. 
+ 
+         The students enjoyed their day at IBM and got an insight into applying technologies to resolve the challenges faced by large organisations. The IBM team was very impressed by the quality of the students’ work and their professionalism and team-working skills, and also got an insight into how the next generation of programmers will interact with current enterprise management systems. 
+ 
+         A big thank you to the IBM employees who made it happen- Simon Knights, Jonathan Settle, Graham Rose and Reza Hazemi.
+ 
+         
+ 
+         
+ 
+         
+           Posted 23 Apr 14 12:40 
+         
+ 
+          
+          
+           Next: Project paper wins prize... >
+
+          
+ 
+          
+           < Previous: Undergraduate Research...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

@@ -1,0 +1,418 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         How hackers handle stolen login data
+ 
+         
+          
+          
+
+         
+ 
+         Computer Science Research Student Jeremiah Onaolapo and colleagues from UCL's Information Security Research Group decided to find out how quickly criminals react once they get access to an online account. 
+ 
+         The team set up 100 Gmail accounts and then accidentally-on-purpose shared their login credentials on forums and sites that data traders are known to frequent. The accounts were made to look "live" by having message threads, alerts and updates flow through them. They were also surreptitiously locked down to limit abuse.
+ 
+         Jeremiah Onaolapo was sure the webmail accounts would be tempting because of the way people use them. More often than not, he said, they have data from other accounts, such as bank details, passing through them. "It's information that can be used for ID theft," he said.
+ 
+         They did indeed prove tempting. By the end of the study, 90 of the accounts had been visited by people who were not their rightful owner. "Judging by the activity on the accounts, I would say that the majority of the visitors did not know they were faked," he said.
+ 
+         What was surprising, he said, was that the cyberthieves did not instantly take over and ransack the accounts for saleable data. Instead, he said, there was initial activity by "curious" people who checked that the login details worked and that the account was live. And then it went quiet.
+ 
+         "For some of the accounts, where someone checked them, we did not see any more activity for some time," he said. As far as he could tell, the accounts were being monitored to let thieves assess the value of the information flowing through them.
+ 
+         "If they find they are not valuable they do not get accessed again," he said. "For them, there's no point."
+ 
+         Read the full story on the BBC's Technology News website at http://www.bbc.co.uk/news/technology-37510501 
+ 
+         
+ 
+         
+ 
+         
+           Posted 17 Oct 16 13:46 
+         
+ 
+          
+          
+           Next: AI predicts outcome of... >
+
+          
+ 
+          
+           < Previous: UCLB spinout SmartTarget...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

@@ -1,0 +1,26 @@
+
+             
+  The Abductor Program Analyzer                         
+       
+    
+     
+   
+   
+   
+ Abductor introduced the idea of using abductive inference to discover logical preconditions for program fargments. Usually in program anlaysis, in `whole program analyses', preconditons must be manually given, and this limits the use of such analyses during code development (for incomplete programs). Abduction is one way to remove this limitation.   
+  Abductor approaches bare code in a way reminiscient of how a scientist approaches the natural world: it's main algorithm is a mixed deduction-induction-abduction loop which allows pre/post specifications to be obtained from procedures, as long as specs of the callers are known, and this is the basis for an interprocedural analysis algorithm for memory properties that can scale to millions of lines of code.   
+   
+   
+ 
+ The main Abductor paper is 
+
+   	 Compositional Shape Analysis by means of Bi-Abduction.  Journal of the ACM (JACM), Volume 58 Issue 6, December 2011. 73 pages. 
+ C Calcagno, D Distefano, PW O'Hearn and H Yang.
+ (Extended version of POPL'09 paper with same title.) 
+
+ The source code of Abductor has been released under a BSD license;  see here . Note that Abductor is no longer being maintained and that this release is made available `as is'.  
+  
+ 
+     
+
+ 

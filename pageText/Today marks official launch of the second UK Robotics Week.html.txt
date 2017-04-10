@@ -1,0 +1,426 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         Today marks official launch of the second UK Robotics Week
+ 
+         
+          
+          
+
+         
+ 
+         UK Robotics Week 2017 officially launches today, with a range of robotics activities and challenges open to schools, academic institutions and industry sectors. These activities culminate in a national week of celebration being held 24th – 30th June 2017.
+ 
+         The first ever UK Robotics Week proved a huge success, encompassing a host of events up and down the UK, including public lectures, open labs, hackathons, tech weekends, conferences, and a state-of-the-art robotics showcase held on the last day.
+ 
+         The UK Robotics Week initiative is jointly spearheaded by founding supporters, the Engineering and Physical Sciences Research Council (EPSRC), The Royal Academy of Engineering, the Institution of Engineering and Technology, the Institution of Mechanical Engineers and the UK-RAS Special Interest Group, and is being coordinated by the EPSRC UK-RAS network, of which UCL Computer Science is a member.
+ 
+         As part of the official launch, this year’s School Robot Challenge is now open for entries to all schools nationwide.  The competition offers schoolchildren the opportunity to design their own virtual robot bug and teach it to move, with the option of printing their bug in 3D.
+ 
+         The challenge aims to develop children’s interest and skills in digital technology, design, science, engineering and biology. This year’s competition has been split into two age group categories – 4-12 years and 13-18 years – with top prizes to be awarded in each. School are actively encouraged to register their interest on the website now to access the information packs and software at http://www.roboticsweek.uk/schoolrobotchallenge.htm 
+ 
+         The first Surgical Robot Challenge attracted participation from the world’s leading institutions, with top robotics research teams travelling to the UK to demonstrate their outstanding innovations during last year’s competition finals. The 2017 competition is now open for entry, and any international researchers interested in participating in this prestigious challenge can download all the competition information at http://www.roboticsweek.uk/surgicalrobotchallenge.htm  
+ 
+         The second Autonomous Driving Challenge is also launched today. This is an international competition to inspire the next generation of designers and engineers, and involves designing your own vehicle and teaching it to drive autonomously.  The challenge is open to everyone: children and adults, amateurs and professionals.
+ 
+         Commenting on today’s official launch, Professor Guang-Zhong Yang PhD, FREng, Director and Co-founder of the Hamlyn Centre for Robotic Surgery, at Imperial College London and Chair of the UK-RAS Network, said:
+ 
+         “We have been delighted with the response to UK Robotics Week, which looks set to become one of the key highlights in the science and technology calendar. This is a unique opportunity to celebrate the UK’s technology leadership in robotics and autonomous systems, and for individuals and institutions to get involved – hands-on – with robotics development.”
+ 
+         Professor Philip Nelson, Chief Executive of EPSRC, added:
+ 
+         “From inspiring the nation’s budding engineers in STEM subjects to engaging people of all ages in a national debate about the contribution robotic technology can make to society and our economy, we’re looking forward to creating even more of a buzz with UK Robotics Week this year, and shining an even bigger spotlight on the fantastic robotics innovation being driven from the UK.”
+ 
+         For full information about all the activities planned for UK Robotics Week, please visit the website:www.roboticsweek.ukand follow UK Robotics Week on Twitter (@ukroboticsweek).
+ 
+         
+ 
+         
+ 
+         
+           Posted 07 Nov 16 18:22 
+         
+ 
+          
+          
+           Next: Computer Science fills... >
+
+          
+ 
+          
+           < Previous: Technology is not Neutral
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

@@ -1,0 +1,447 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Students
+      ›› Syllabus ›› GC20 - Computer Music 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGC20 - Computer Music
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPGC20 
+	Year	MSc
+	Prerequisites	The course has no formal prerequisites but involves programming in graphical and textual languages, and engagement with musical concepts. No prior knowledge of programming is assumed and the languages used are taught from first principles, however, those with no or very little  computing experience of any kind may find the learning curve quite steep! Thus some basic knowledge of programming in any language will be  helpful.  On the musical side, it will help if you have some basic knowledge of music but again, this can be learned from books and will be  briefly taught on the course if needed.  Reviewing this page <www.cs.cmu.edu/%7Emusic/cmsip/readings/music-theory.htm> may give some idea of the knowledge required.  Prospective students are encouraged to contact the lecturer <mailto:n.gold@ucl.ac.uk> to discuss their suitability. 
+	Term	2
+	Taught By	Nicolas Gold (100%) 
+	Aims	To provide students with a grounding in the state of the art in computer music theory, technology and applications. 
+	Learning Outcomes	Students successfully completing this module should be able to: 
+ 
+ 
+             	demonstrate knowledge of key issues in contemporary computer music.
+	 demonstrate a knowledge of ethical issues related to music intellectual property.
+	 analyse problems in computer music analysis, representation, and creation.
+	 synthesise solutions to such problems on the basis of contemporary tools and theories.
+	 evaluate such solutions using appropriate methods
+	 manage their own learning in terms of acquiring disciplinary knowledge from academic literature
+	 evaluate their own solutions
+	 work autonomously
+	 solve complex problems
+	 develop and apply software development skills in the production of software for creative tasks in the music domain.
+
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         The course will cover three key aspects of computer music: representation, creativity and analysis addressed through theory and practice. It will cover sound, music as organised sound, and specific applications (e.g. music information retrieval and musicology). Students will be strongly encouraged to explore both scientific and artistic aspects of the course through programming exercises to generate sound and music in contemporary visual or textual music and arts programming languages (e.g. Python and Pure Data). 
+ 
+         Indicative topics
+Audio and Sampling
+Synthesis
+Introduction to Tonal Music Theory
+Symbolic representations of music (MIDI, MusicXML)
+Algorithmic Composition
+Music Information Retrieval
+Computational Musicology
+Ethical Issues and Evaluation of Music Systems
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lectures, laboratories, and demonstrations of techniques. Students will be given weekly  exercises to explore and practice techniques. Reading and listening recommendations will also be provided via Moodle.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	Unseen written examination (2 hours, 90%);
+	Algorithmic composition (audio file, program notes, source code) (10%).
+
+
+         To pass this module, students must:
+
+         	Obtain an overall pass mark of 50% for all components combined.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         http://readinglists.ucl.ac.uk/modules/compgc20.html
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

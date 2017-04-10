@@ -1,0 +1,2631 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› People ›› CS Staff 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+         
+          
+          
+           
+          
+           Computer Science Staff Lists
+
+          
+ 
+           
+           
+           
+           
+            
+            	Key Contacts
+	Academic Staff
+	Professional Services
+	Research Staff
+	Honorary Staff
+	Research Students
+	Full List (Searchable)
+
+ 
+             
+              
+               
+               
+                
+               
+                The departmental contacts in each area are listed below:
+
+               
+ 
+                
+              
+ 
+               
+               
+               
+                
+                
+                
+                 
+                 	Departmental
+	Teaching & Students
+	Finance
+	Research
+	Services
+	External
+	Support
+
+ 
+                  
+                   
+                    
+                    
+                     
+                    
+                     Departmental roles: 
+
+                    
+ 
+                     
+                     
+                    Communications and announcements:
+Steve Marchant s.marchant@cs.ucl.ac.uk
+
+General Enquiries:
+Facilities and Operations Manager - JJ Giwa j.giwa@ucl.ac.uk
+Departmental Office Administrator - Patricia Fenoy p.fenoy@ucl.ac.uk
+
+HR and Staffing Enquiries:
+Deputy Departmental Manager - Lynette Hothi  lynette.hothi@ucl.ac.uk
+HR Administrator – Lisa Howard  lisa.howard@ucl.ac.uk
+
+Finance Enquiries (Group email admin-finance@cs.ucl.ac.uk):
+Departmental Finance Manager - Dawn Bailey dawn.bailey@ucl.ac.uk
+Research Finance Manager - Olivier Delacroix o.delacroix@ucl.ac.uk
+Finance Administrator - Wendy Richards w.richards@ucl.ac.uk  
+ 
+                    Head of Technical Support Group:
+Denis Timm d.timm@cs.ucl.ac.uk
+Head of Technical Support Group (TSG). The TSG looks after the department's computing facilities, including networks, hardware, software and IT developments. 
+ 
+                    Departmental Admin Manager:
+Jill Saunders j.saunders@ucl.ac.uk
+Head of Professional Services (Administration) team. The team deals with finance, HR, student support, premises, events and external relations, and administrative/management support for teaching and research.
+Deputy Departmental Admin Manager:
+Lynette Hothi lynette.hothi@ucl.ac.uk
+
+Head of Department:
+Professor John Shawe-Taylor j.shawe-taylor@cs.ucl.ac.uk 
+Senior executive manager responsible for the leadership, management and strategic direction of the Department.
+(For diary enquiries please call 020 7679 3675 (ext 33675) or email Steve Marchant s.marchant@cs.ucl.ac.uk) 
+ 
+                    Deputy Heads of Department 
+Professor Stephen Hailes s.hailes@cs.ucl.ac.uk
+Professor Yvonne Rogers y.rogers@cs.ucl.ac.uk
+Professor Anthony Steed a.steed@cs.ucl.ac.uk
+ 
+                     
+                   
+ 
+                    
+                  
+ 
+                 
+ 
+                  
+                   
+                    
+                    
+                     
+                    
+                     Teaching and student-related roles
+
+                    
+ 
+                     
+                     
+                    Teaching and Learning Manager 
+Nisha Gosai n.gosai@ucl.ac.uk
+Management of teaching and student-related areas, including quality assurance, timetabling, curriculum management and assessment arrangements. Line manager to the Teaching and Learning Team:  
+ 
+                    Senior Teaching and Learning Administrator (BSc and MEng Computer Science, MEng Mathematical Computation, MEng CS International Programme and undergraduate affiliate students):
+Lydia O'Donoghue l.odonoghue@ucl.ac.uk (Sarah Clegg is on maternity leave) 
+ 
+                    Senior Teaching and Learning Administrator (MSc Computer Graphics, Vision and Imaging, MSc Software Systems Engineering/MSc Financial Systems Engineering and MSc ICT Innovation):
+Tracy Williams tracy.williams@ucl.ac.uk 
+ 
+                    Senior Teaching and Learning Administrator (MSc Machine Learning, MSc/MRes Computational Statistics and Machine Learning, and MSc Data Science):
+Rebecca Martin rebecca.martin@ucl.ac.uk 
+ 
+                    Senior Teaching and Learning Administrator (QA/projects)
+David Howells d.howells@ucl.ac.uk 
+ 
+                    Teaching and Learning Administrator (MSc Business Analytics, MSc Logic, Semantics and Verification of Programs, MSc/MRes Web Science and Big Data Analytics)
+Samantha Bottomley s.bottomley@ucl.ac.uk 
+ 
+                    Teaching and Learning Administrator (MSc Computational Finance, MSc Information Security, MSc Networked Computer Systems, MSc/MRes Robotics and Computation):
+Saini Manninen s.manninen@ucl.ac.uk  (Sean Taylor is on secondment to the Institute of Education) 
+ 
+                    Teaching and Learning Administrator (MSc Computer Science):
+Sally Longley s.longley@ucl.ac.uk 
+ 
+                    Postgraduate Administrator (MSc Financial Risk Management): 
+Martin Nolan (email TBN. Martin starts on 3 April and will be a member of staff in the Department of Mathematics) 
+ 
+                    Senior Teaching Administrator (UCL Interaction Centre - MSc Human-Computer Interaction with Ergonomics):
+Jo Pearson jo.pearson@ucl.ac.uk (reports to Louise Gaynor, UCLIC Manager) 
+ 
+                    Centre Manager, Financial Computing and Analytics (MRes Financial Computing):
+ Yonita Carter y.carter@cs.ucl.ac.uk 
+ 
+                    Centre Manager, Virtual Environments, Interaction and Visualisation (MRes/EngD VEIV): Charlotte Penny c.penny@cs.ucl.ac.uk 
+ 
+                    Centre Manager, Complex (MRes Modelling Biological Complexity):
+Gemma Ludbrook g.ludbrook@cs.ucl.ac.uk 
+ 
+                    Director of Studies:
+Dr Graham Roberts g.roberts@cs.ucl.ac.uk
+A senior role within the Department and key member of the managerial team. Responsible for organisation of teaching and learning within the Department. Leads the development of the curriculum. Coordinates teaching resources. Responsible for the communications and for the management of information relating to teaching across all programmes.
+Year Coordinators:
+Responsible for operational management of teaching and learning within designated year. Leads team of lecturers in that year. Responsible for the quality and coherence of teaching and key contributor to the development of the curriculum. Responsible for student advice, communications and for the management of information relating to teaching within the year. Responsible for the tutorial programme in the designated year. Responsible for registration of all of that years' students. Responsible for the co-ordination smooth and even distribution of coursework to students of that year. 3rd year coordinator is BSc Computer Science Award Leader. 4th year coordinator is MEng Computer Science Award Leader.
+1st Year Coordinator - TBN
+2nd Year Coordinator - TBN
+3rd Year Coordinator - Professor Mark Handley ucacmha@ucl.ac.uk
+4th Year Coordinator - TBN
+
+Departmental Tutor
+Dr Graham Roberts g.roberts@cs.ucl.ac.uk
+Responsible for undergraduate student welfare and the overall 'learning experience' of undergraduate students. Responsible for undergraduate students with disabilities and special needs. 
+ 
+                    Undergraduate Admissions Tutor
+Dr Danail Stoyanov danail.stoyanov@ucl.ac.uk 
+ 
+                    (Deputy: Cathy Holloway c.holloway@ucl.ac.uk)
+Responsible for the departmental aspects of undergraduate student admissions including targets and entry standards and monitoring student performance with respect to the entry standards. 
+ 
+                    Tutor for affiliate and ancillary students
+Vacancy (Jens Krinke j.krinke@ucl.ac.uk)
+Tutor for in-coming students from other departments and institutions studying in Computer Science, or on modules offered by the department. This includes registration processes and student advice, the management of information required by affiliate and ancillary students, and liaison with other departments and institutions as appropriate. 
+ 
+                    Study Abroad Tutor Earl Barr e.barr@ucl.ac.uk
+Tutor for out-going students on the MEng Computer Science (International Programme). This includes registration processes and student advice, the management of information required by study abroad students, and liaison with partner institutions. Award Leader and responsible for the management and development of the MEng Computer Science (International Programme). 
+ 
+                    Undergraduate Examinations Coordinator:
+John Dowell j.dowell@cs.ucl.ac.uk
+Responsible for the conduct and integrity of assessment and examinations for all undergraduate awards. Responsible for processes to prepare exam question papers for undergraduate exams. Responsible for the preparation and presentation of all assessment and examination results to the Undergraduate Board of Examiners. Chair of Undergraduate Board of Examiners. Deals with undergraduate exam irregularities and plagiarism cases. 
+ 
+                    Postgraduate Examinations Co-ordinator:
+Denise Gorse d.gorse@cs.ucl.ac.uk
+Responsible for the conduct and integrity of assessment and examinations for MSc programmes.  Responsible for processes to prepare exam question papers for MSc exams. Ensures coherence among the separate awards. Chair of the Exam Board meetings for each MSc programme. Deals with MSc exam irregularities and plagiarism cases. 
+ 
+                    Academic Co-ordinator for Master's Programmes:
+Robin Hirsch r.hirsch@cs.ucl.ac.uk
+Oversight of the department's masters teaching, including periodic reviews, rationalisation of modules, leading new developments and ensuring co-ordination where necessary between our offerings. 
+ 
+                    Teaching Support Coordinator:
+Gabriel Brostow g.brostow@cs.ucl.ac.uk
+Responsible for managing teaching support across all programmes. Responsible for the effective running of teaching support work undertaken by research staff and PhD students. This includes maintaining current information about research staff teaching interests and abilities, organising appropriate training, allocating responsibilities in a fair and transparent way, and monitoring the running of the scheme.  Liaises between research staff and academic staff to ensure that there is continuing professional development and appropriate engagement. Acts as a focal point for addressing any legitimate student concerns. 
+ 
+                    Projects Coordinator:
+Graham Roberts g.roberts@cs.ucl.ac.uk 
+Responsible for managing student projects (undergraduate and MSc CS), including arrangements for students to select/be assigned topics and supervisors, guidelines and procedures to be followed during the project, and assessment processes.
+Programme Directors:
+Responsible for the programme(s) in their domain. Leads the team of lecturers with interests and/or teaching in that domain. Responsible for operational management of teaching and learning within that domain. Responsible for the quality and coherence of teaching and a key contributor to the development of the curriculum. Responsible for student advice, communications and for the management of information relating to teaching in that domain. Responsible for awards made (i.e. Award Leader for the appropriate specialist MSc award.) Advises the Postgraduate Examinations Co-ordinator on admissions to those awards.  
+ 
+                    MSc Business Analytics - Daniel Hulme d.hulme@cs.ucl.ac.uk 
+ 
+                    MSc Computational Statistics and Machine Learning - David Barber d.barber@cs.ucl.ac.uk  
+ 
+                    MSc Computer Graphics, Vision and Imaging - Lourdes Agapito l.agapito@cs.ucl.ac.uk 
+ 
+                    MSc Computer Science - Kevin Bryson k.bryson@cs.ucl.ac.uk 
+ 
+                    MSc Computational Finance - Guido Germano g.germano@cs.ucl.ac.uk 
+ 
+                    MSc Data Science - David Barber david.barber@ucl.ac.uk 
+ 
+                    MSc Financial Risk Management  - Fabio Caccioli f.caccioli@cs.ucl.ac.uk 
+ 
+                    MSc ICT Innovation - Shi Zhou s.zhou@cs.ucl.ac.uk 
+ 
+                    MSc Information Security - Emiliano De Cristofaro e.decristofaro@ucl.ac.uk 
+ 
+                    MSc Machine Learning - Mark Herbster m.herbster@cs.ucl.ac.uk 
+ 
+                    MSc Networked Computer Systems - Mark Handley m.handley@cs.ucl.ac.uk 
+ 
+                    MSc Logic, Semantics and Verification of Programs - Alexandra Silva alexandra.silva@ucl.ac.uk 
+ 
+                    MSc/MRes Robotics and Computation - Danail Stoyanov danail.stoyanov@ucl.ac.uk 
+ 
+                    MSc Software Systems Engineering and MSc Financial Systems Engineering - Jens Krinke j.krinke@ucl.ac.uk 
+ 
+                    MSc/MRes Web Science and Big Data Analytics - Jun Wang j.wang@cs.ucl.ac.uk 
+ 
+                    MRes/EngD Virtual Environments, Imaging and Visualisation - Anthony Steed a.steed@ucl.ac.uk 
+ 
+                    Financial Computing projects and internships:
+Donald Lawrence d.lawrence@cs.ucl.ac.uk 
+Liaison with financial institutions and organisation of finance-related student projects/internships. 
+ 
+                    Financial Computing Outreach and Business Relationship Analyst:
+Asta Barry asta.barry@ucl.ac.uk 
+ 
+                    Women in CS Coordinator: 
+Zhaoping Li Zhaoping.Li@cs.ucl.ac.uk
+Responsible for initiatives to support and encourage women in computer science. 
+ 
+                     
+                   
+ 
+                    
+                  
+ 
+                 
+ 
+                  
+                   
+                    
+                    
+                     
+                    
+                     Finance roles
+
+                    
+ 
+                     
+                     
+                    Departmental Finance Manager:
+Dawn Bailey d.bailey@cs.ucl.ac.uk
+All aspects of the department's financial management. Advice on financial arrangements and processes. 
+ 
+                    Research Finance Manager:
+Olivier Delacroix o.delacroix@cs.ucl.ac.uk 
+All aspects of the department's financial management relating to research grants, contracts and consultancy. Advice on financial arrangements and processes. 
+ 
+                    Finance Administrator:
+Wendy Richards W.Richards@cs.ucl.ac.uk
+Processing of financial transactions, including purchasing. Advice on financial arrangements and processes.
+ 
+                     
+                   
+ 
+                    
+                  
+ 
+                 
+ 
+                  
+                   
+                    
+                    
+                     
+                    
+                     Research-related roles
+
+                    
+ 
+                     
+                     
+                    Director of Research
+Daniel Alexander d.alexander@ucl.ac.uk
+A senior role within the Department. Responsible for the intellectual leadership, management and strategic direction of research within UCL Computer Science. Coordinates research resources. Responsible for the development and execution of the department's overall research strategy. 
+ 
+                    Deputy Director of Research
+Licia Capra l.capra@ucl.ac.uk 
+ 
+                    Heads of Research Groups: 
+ 
+                    Autonomous Systems - Steve Hailes s.hailes@ucl.ac.uk 
+Bioinformatics - David Jones d.jones@cs.ucl.ac.uk
+Financial Computing and Analytics - Tomaso Aste t.aste@cs.ucl.ac.uk
+Human-Centred Systems - Yvonne Rogers y.rogers@cs.ucl.ac.uk
+Intelligent Systems - Anthony Hunter a.hunter@cs.ucl.ac.uk
+Information Security - George Danezis g.danezis@cs.ucl.ac.uk
+Media Futures - Ingemar Cox i.cox@cs.ucl.ac.uk 
+Systems and Networks - Brad Karp b.karp@cs.ucl.ac.uk
+Programming Principles, Logic and Verification - David Pym - d.pym@cs.ucl.ac.uk
+Software Systems Engineering - Emmanuel Letier e.letier@ucla.c.uk
+Vision and Imaging Science - Simon Arridge - s.arridge@cs.ucl.ac.uk
+Virtual Environments & Computer Graphics - Anthony Steed - a.steed@cs.ucl.ac.uk 
+ 
+                    Industrial Collaboration and Outreach
+Jane Butler jane.butler@ucl.ac.uk 
+ 
+                    Research Finance Manager
+Olivier Delacroix o.delacroix@cs.ucl.ac.uk 
+Management of the department's research finances, including costings and submission of proposals for research grants and contracts. 
+ 
+                    Manager, Centre for Doctoral Training in Financial Computing and Analytics
+Yonita Carter y.carter@cs.ucl.ac.uk
+Management of the Doctoral Training Centre and student administration for the Financial Computing MRes and PhD programmes. 
+ 
+                    Manager, Centre for Virtual Environments, Interaction and Visualisation - Charlotte Penny charlotte.penny@ucl.ac.uk
+Management of the VEIV Centre and student administration for the MRes and EngD programmes. 
+ 
+                    Manager, CoMPLEX (UCL Centre for Computation, Mathematics and Physics in the Life Sciences and Experimental Biology)
+Gemma Ludbrook g.ludbrook@ucl.ac.uk
+Management of the CoMPLEX Centre and student administration for the MRes and EngD programmes. 
+ 
+                    Research Administrator
+Sarah Turnbull cs.researchdegrees@ucl.ac.uk 
+ 
+                    Administrative support for all aspects of PhD programmes in the department, from admission to graduation. Secretary to the Department's Research Committee, and Departmental RPS (publications) administrator, supporting REF and Open Access processes.  
+ 
+                    Research Administrator, DISTRO Project
+Julia Savage j.savage@ucl.ac.uk 
+ 
+                    RISCS Centre Administrator/PA (Temporary)
+Remi Adeyemi r.adeyemi@ucl.ac.uk 
+ 
+                    Research Centre Administrator, CREST
+Katie Bourke k.bourke@ucl.ac.uk 
+ 
+                    
+Graduate Tutor/Research Student Co-ordinator 
+Anthony Hunter a.hunter@cs.ucl.ac.uk
+Responsible for research student admissions. Takes a lead role in setting targets and entry standards. Responsible for monitoring research student progress and for the integrity of the processes leading to thesis submission and examination. Responsible for the quality of the 'learning experience' offered to research students. Coordinates skills training and seminar programmes for research students. Principal liaison with the Graduate School.
+
+Deputy Graduate Tutor/Deputy Research Student Coordinator
+Brad Karp b.karp@cs.ucl.ac.uk 
+
+Director, Centre for Virtual Environments, Interaction and Visualisation 
+Anthony Steed a.steed@cs.ucl.ac.uk 
+ 
+                    Director, Centre for Doctoral Training in Financial Computing and Analytics
+Philip Treleaven p.treleaven@cs.ucl.ac.uk 
+ 
+                    Deputy Director, Centre for Doctoral Training in Financial Computing and Analytics
+Tomaso Aste t.aste@cs.ucl.ac.uk 
+ 
+                    Consultant (Research Ethics and related areas)
+Caroline Wardle c.wardle@cs.ucl.ac.uk
+Organiser of the Scientific Integrity and Research Ethics seminar programme for computer science and engineering staff, supporting the "Concordat to Support Research Integrity". Evaluator (with HoD) of computer science applications to UCL's Research Ethics Committee. 
+ 
+                     
+                   
+ 
+                    
+                  
+ 
+                 
+ 
+                  
+                   
+                    
+                    
+                     
+                    
+                     Service-related roles
+
+                    
+ 
+                     
+                     
+                    Head of Technical Support Group 
+Denis Timm d.timm@cs.ucl.ac.uk
+
+Facilities and Operations Manager
+JJ Giwa j.giwa@cs.ucl.ac.uk
+
+Departmental Office Administrator 
+Patricia Fenoy p.fenoy@cs.ucl.ac.uk
+
+Office Manager, London Media Technology Campus (One Euston Square)
+Jeanie Doel j.doel@cs.ucl.ac.uk 
+ 
+                    
+Director of Services:
+(a) Premises: Dr Lewis Griffin l.griffin@cs.ucl.ac.uk
+(b) Technical Services: Professor David Jones d.jones@cs.ucl.ac.uk
+A senior role within the Department and key member of the Management Team. Responsible for all infrastructure, technical services, support operations and premises. Leads the development of strategy supported by the professional staff in these areas. Coordinates resources in this area and advises the Head of Department on managerial matters relating to infrastructure, technical services, support operations and premises.
+
+Environmental Responsibility Co-ordinator (Green Champion):
+Denis Timm d.timm@cs.ucl.ac.uk
+Sets policy and standards for such issues as sustainable working eg recycling, disposal, energy use etc. Co-ordinates review of teaching and ensuring that relevant environmental and sustainability issues are taught to our students. 
+ 
+                     
+                   
+ 
+                    
+                  
+ 
+                 
+ 
+                  
+                   
+                    
+                    
+                     
+                    
+                     External Relations roles
+
+                    
+ 
+                     
+                     
+                    External Relations & Events Administrator
+Steve Marchant s.marchant@cs.ucl.ac.uk 
+Administrative support for the department's publicity and marketing activities, careers liaison, alumni relations, prizes and awards, and events organisation. 
+
+Director of External Relations:
+Jane Butler jane.butler@ucl.ac.uk
+Responsible for the external presence of the Department and outreach to key constituencies such as industrial supporters, policy makers, alumni etc. Principal 'ambassador' for the Department.
+Develops departmental strategy for industry-related activities.  Promotes and encourages industry-related activities. Takes a lead role in work to ensure that the department's teaching, research and knowledge transfer activities are highly relevant and responsive to the needs of industry. Industrial PhD funding, scholarships and internships. 
+ 
+                    Liaison with China:
+Shi Zhou s.zhou@cs.ucl.ac.uk
+Leads initiatives to develop links and collaborative work with China.
+
+Careers Tutor:
+Chris Clack c.clack@cs.ucl.ac.uk
+Advises students on careers, placements and internships. Circulates careers and placement information. Organises careers talks and receptions. Liaison with careers service. Develops and maintains the department's careers and internships web pages. 
+
+Alumni:
+Steve Marchant s.marchant@cs.ucl.ac.uk 
+Steve is the key contact for our alumni. He organises events and newsletters, and is always keen to hear from any former CS students.
+
+Publications and Marketing Coordinator:
+Steve Marchant s.marchant@cs.ucl.ac.uk 
+Steve co-ordinates the production and updating of our publications and marketing materials. 
+
+Professional Societies Liaison:
+Denise Gorse d.gorse@cs.ucl.ac.uk 
+Key contact for professional societies and accreditation within the department (BCS and the IET.)Responsible for encouraging membership and engagement with professional societies among both staff and students.
+
+Consultant (Research Ethics, Women in Computing and related areas):
+Caroline Wardle c.wardle@cs.ucl.ac.uk
+Departmental contact for research ethics applications. Member of the Athena Swan Self-Assessment Team. Organiser of the annual London Hopper colloquium aimed at new researchers in computer science. Member of the BCS Academy Women in Research Group and primary liaison for the Karen Spärck Jones annual lecture.
+ 
+                     
+                   
+ 
+                    
+                  
+ 
+                 
+ 
+                  
+                   
+                    
+                    
+                     
+                    
+                     Support roles
+
+                    
+ 
+                     
+                     
+                    DEOLOs (Departmental Equal Opportunities Liaison Officers:
+JJ Giwa j.giwa@cs.ucl.ac.uk
+Graham Roberts g.roberts@cs.ucl.ac.uk
+(Please see this link for more information about the DEOLO role) 
+ 
+                    Women in CS Coordinator: 
+Zhaoping Li Zhaoping.Li@cs.ucl.ac.uk
+Responsible for initiatives to support and encourage women in computer science. 
+ 
+                    First Aiders:
+The following staff are trained First Aiders:
+JJ Giwa j.giwa@cs.ucl.ac.uk (66-72 Gower Street)
+Patricia Fenoy p.fenoy@cs.ucl.ac.uk (MPEB, 5th Floor Dept Office) 
+ 
+                    Departmental Safety Officer:
+Dave Twisleton d.twisleton@cs.ucl.ac.uk MPEB 4th Floor Room 4.18 ext 33667 
+ 
+                     
+                   
+ 
+                    
+                  
+ 
+                 
+ 
+                
+ 
+               
+ 
+                
+                
+              
+ 
+               
+             
+ 
+            
+ 
+             
+              
+               
+               
+                
+               
+                Academic Staff
+
+               
+ 
+                
+                
+                
+                 
+                  
+                 	Lourdes Agapito, Room GS5.10, Phone 57122
+	Daniel Alexander, Room EFB3.04, Phone 32419
+	Jade Alglave, Room 5.23, Phone 30167
+	Simon Arridge, Room EFB3.05, Phone 33714
+	Tomaso Aste, Room GS4.04, Phone 57103
+	David Barber, Room GS3.10, Phone 57090
+	Earl Barr, Room 6.06a, Phone 33570
+	Dean Barratt, Room TBA, Phone TBA
+	Peter Bentley, Room 1ES, Phone 65277
+	Nadia Berthouze, Room GS2.10, Phone 57067
+	Marta Betcke, Room EFB3.08, Phone 34355
+	Ann Blandford, Room GS2.02, Phone 57049
+	Julius Bonart, Room GS4.08, Phone 57032
+	Fernando Brandao, Room GS3.12, Phone 57092
+	Gabriel Brostow, Room GS5.08, Phone 57120
+	James Brotherston, Room 5.20, Phone 33652
+	Duncan Brumby, Room GS2.11, Phone 57068
+	Kevin Bryson, Room Darwin6.32, Phone 30409
+	Fabio Caccioli, Room GS4.06, Phone 57104
+	Licia Capra, Room GS3.07, Phone 57087
+	Chris Clack, Room GS4.09, Phone 57106
+	David Clark, Room 6.03, Phone 37743
+	Byron Cook, Room 5.23, Phone 30167
+	Enrico Costanza, Room TBA, Phone TBA
+	Nicolas Courtois, Room 6.18, Phone 33713
+	Ingemar Cox, Room TBA, Phone TBA
+	Anna Cox, Room GS2.14, Phone 57073
+	Toby Cubitt, Room GS3.12, Phone 57158
+	George Danezis, Room 4.13, Phone 30431
+	Emiliano De Cristofaro, Room 6.04, Phone 30349
+	Christophe Dessimoz, Room Darwin.631, Phone 30079
+	John Dowell, Room 1ES509A, Phone 65255
+	Ivana Drobnjak, Room EFB3.07, Phone 30333
+	Wolfgang Emmerich, Room 5.23, Phone 30167
+	Chris Evans, Room GS2.07, Phone TBA
+	Delmiro Fernandez-Reyes, Room GS4.10, Phone 57147
+	Anthony Finkelstein, Room TBA, Phone TBA
+	Daniel Fricke, Room GS4.04, Phone TBA
+	Yun Fu, Room GS1.05, Phone 57035
+	Guido Germano, Room GS4.07, Phone 57105
+	Nicolas Gold, Room 5.04, Phone 37717
+	Denise Gorse, Room 6.02, Phone 33712
+	Thore Graepel, Room 5.23, Phone 30167
+	Lewis Griffin, Room GS4.11, Phone 57107
+	Jens Groth, Room 6.21a, Phone 33666
+	Steve Hailes, Room GS5.06, Phone 57116
+	Mark Handley, Room 6.21, Phone -
+	Rae Harbird, Room GS5.07, Phone 57117
+	Mark Harman, Room 4.13a, Phone 31305
+	David Hawkes, Room EFB3.02, Phone 30321
+	Mark Herbster, Room GS3.02, Phone 57091
+	Robin Hirsch, Room 5.07a, Phone 31379
+	Cathy Holloway, Room GS1.06, Phone 57990
+	Anthony Hunter, Room GS4.14, Phone 57113
+	Kyle Jamieson, Room 5.23, Phone 30167
+	Yue Jia, Room 5.03, Phone 33673
+	Bangti Jin, Room 6.11, Phone 51617
+	David Jones, Room 6.17, Phone 37982
+	Simon Julier, Room GS5.04, Phone 57114
+	Brad Karp, Room 6.20, Phone 30406
+	Peter Kirstein, Room GS3.03, Phone 57076
+	Graham Knight, Room TBA, Phone TBA
+	Iason Kokkinos, Room GS1.10B, Phone TBA
+	Ghita Kouadri Mostefaoui, Room GS1.09, Phone 57034
+	Jens Krinke, Room 5.06, Phone 37754
+	Nic Lane, Room GS4.10, Phone TBA
+	Donald Lawrence, Room 6.24, Phone 30362
+	Emmanuel Letier, Room 6.05, Phone 34477
+	Zhaoping Li, Room 5.05, Phone 32850
+	Giacomo Livan, Room GS4.12, Phone 57108
+	Nicolai Marquardt, Room GS2.08, Phone 57065
+	Paul Marshall, Room GS2.09, Phone 57066
+	Sarah Meiklejohn, Room 6.06, Phone 30431
+	Niloy Mitra, Room GS5.05, Phone 57115
+	Dean Mohamedally, Room GS1.05, Phone 57035
+	Janaina Mourao-Miranda, Room Inst of Neurology, Phone TBA
+	Steven Murdoch, Room 6.06, Phone 30431
+	Peter O'Hearn, Room 5.23, Phone 30167
+	Sebastien Ourselin, Room EFB3.03, Phone 33023
+	Massimiliano Pontil, Room GS3.16, Phone 57075
+	Natasa Przulj, Room Darwin6.35, Phone 32235
+	David Pym, Room 6.19, Phone 51193
+	Sebastian Riedel, Room 1ES509A, Phone 65254
+	Tobias Ritschel, Room GS3.09, Phone 57397
+	Graham Roberts, Room GS1.03, Phone 57047
+	Yvonne Rogers, Room GS2.13, Phone 57073
+	Angela Sasse, Room 6.14, Phone 37212
+	Ilya Sergey, Room 5.02, Phone 30319
+	Antoaneta Serguieva, Room GS1.02, Phone 57048
+	Simone Severini, Room GS3.13, Phone 57093
+	John Shawe-Taylor, Room 5.14, Phone 37680
+	Alexandra Silva, Room GS3.11, Phone 57156
+	Mel Slater, Room GS3.16, Phone 57102
+	Rob Smith, Room TBA, Phone TBA
+	Srini Srinivasan, Room 6.24, Phone 37285
+	Anthony Steed, Room GS4.13, Phone 57112
+	Dan Stoyanov, Room EFB3.07, Phone 47645
+	Harry Strange, Room GS1.04A, Phone 57051
+	Gianluca Stringhini, Room 7.02, Phone 33168
+	Philip Treleaven, Room 6.13, Phone 37288
+	Stefano Vissicchio, Room TBA, Phone TBA
+	Jun Wang, Room GS3.08, Phone 57089
+	Tim Weyrich, Room GS5.09, Phone 57121
+	David White, Room 4.17, Phone 31300
+	Ifat Yasin, Room GS4.15, Phone 57159
+	Emine Yilmaz, Room GS1.04A, Phone 65267
+	Fabio Zanasi, Room GS3.03, Phone TBA
+	Gary Zhang, Room EFB3.03, Phone 51620
+	Shi Zhou, Room GS3.08, Phone 57088
+
+ 
+                
+ 
+               
+ 
+                
+              
+ 
+               
+             
+ 
+            
+ 
+             
+              
+               
+               
+                
+               
+                Professional Services
+
+               
+ 
+                
+                
+                
+                 
+                  
+                 	Remi Adeyemi, Room 5.25, Phone 37212
+	John Andrews, Room 6.23, Phone 33691
+	Dawn Bailey, Room 5.17, Phone 31315
+	Asta Barry, Room GS1.04B, Phone 57044
+	Samantha Bottomley, Room 5.22, Phone 30328
+	Katie Bourke, Room 5.21, Phone 30325
+	Jane Butler, Room TBA, Phone TBA
+	Gordon Butler, Room 4.21, Phone 37283
+	Yonita Carter, Room GS1.07, Phone 57045
+	Sarah Clegg, Room 5.22, Phone 33690
+	Neil Daeche, Room 4.20, Phone 33668
+	Olivier Delacroix, Room 5.17, Phone 37324
+	Jeanie Doel, Room 1ES, Phone 65247
+	Patricia Fenoy, Room 5.25, Phone 37214
+	Louise Gaynor, Room GS2.03, Phone 57050
+	JJ Giwa, Room GS1.08, Phone 57001
+	Nisha Gosai, Room 5.22, Phone 37993
+	David Gregory, Room 4.20, Phone 30318
+	Lynette Hothi, Room GS1.10A, Phone 57024
+	Lisa Howard, Room GS1.10A, Phone 57096
+	David Howells, Room 5.22, Phone 33249
+	Savannah Lahtinen, Room 5.25, Phone 37212
+	Sally Longley, Room 5.22, Phone 33674
+	Gemma Ludbrook, Room TBA, Phone TBA
+	Saini Manninen, Room 5.22, Phone TBA
+	Steve Marchant, Room 5.21, Phone 33675
+	Rebecca Martin, Room 5.22, Phone 30481
+	Graeme McPhillips, Room 4.20, Phone 51060
+	Lydia O'Donoghue, Room 5.22, Phone 33690
+	Jo Pearson, Room GS2.03, Phone 57043
+	Charlotte Penny, Room GS1.10B, Phone 57150
+	Deborah Pope, Room 4.18, Phone 33556
+	Abdul Rahman, Room 4.20, Phone 30317
+	Wendy Richards, Room 5.17, Phone 37081
+	Jill Saunders, Room 5.19, Phone 37290
+	Julia Savage, Room 5.21, Phone 30327
+	David Swapp, Room G01d, Phone 37211
+	Nigel Swift, Room 4.20, Phone 33660
+	Sean Taylor, Room 5.22, Phone 37937
+	Denis Timm, Room 4.21, Phone 37283
+	Sarah Turnbull, Room GS1.07, Phone 57042
+	Nick Turpin, Room 4.18, Phone 32761
+	Dave Twisleton, Room 4.18, Phone 33667
+	Tracy Williams, Room 5.22, Phone 37287
+	Name Withheld: Desktop and Applications Support, Room 4.20, Phone 33706
+	Name Withheld: Research Systems Developer, Room 4.20, Phone 30316
+	Name Withheld: UNIX Systems Administrator, Room 4.20, Phone 33685
+
+ 
+                
+ 
+               
+ 
+                
+              
+ 
+               
+             
+ 
+            
+ 
+             
+              
+               
+               
+                
+               
+                Research Staff
+
+               
+ 
+                
+                
+                
+                 
+                  
+                 	Samer Abdallah, Room 4.17, Phone 33462
+	Muhammad Adnan, Room 2.20, Phone TBA
+	Nikolaos Aletras, Room 1ES, Phone 65445
+	Gabrielle Anderson, Room 5.07, Phone TBA
+	Panagiotis Andriotis, Room 6.07, Phone 30353
+	Kelly Androutsopoulos, Room TBA, Phone 33652
+	Edward Anstead, Room 1ES, Phone 65020
+	Cedric Archambeau, Room TBA, Phone TBA
+	Dimitrios Athanasakis, Room GS3.15, Phone TBA
+	David Atkinson, Room 2.04, Phone 30201
+	Isabelle Augenstein, Room 1ES, Phone TBA
+	Colleen Bailey, Room TBA, Phone TBA
+	Jessi Baker, Room TBA, Phone TBA
+	Luca Baldassarre, Room TBA, Phone TBA
+	Shehar Bano, Room 6.07, Phone TBA
+	Leszek Bartkowski, Room GS4.12, Phone 57111
+	Adam Beautement, Room TBA, Phone TBA
+	Ashweeni Beeharee, Room TBA, Phone TBA
+	Benedikt Bengler, Room GSB.01, Phone TBA
+	Sukriti Bhattacharya, Room 5.07, Phone TBA
+	Guillaume Bouchard, Room TBA, Phone TBA
+	Simon Boye, Room TBA, Phone TBA
+	Gerard Briscoe, Room 4.02, Phone 30293
+	Winton Brown, Room GS3.15, Phone 57099
+	Daniel Brown, Room 5.23, Phone 30167
+	Paul Brunet, Room TBA, Phone TBA
+	Daniel Buchan, Room 7.08, Phone TBA
+	George Buchanan, Room TBA, Phone TBA
+	Matthew Caldwell, Room GSB.09, Phone TBA
+	Neill Campbell, Room TBA, Phone 30357
+	Tim Carter, Room TBA, Phone TBA
+	Tristan Caulfield, Room 6.07, Phone 33672
+	Pinglin Chang, Room TBA, Phone TBA
+	Clovis Chapman, Room TBA, Phone TBA
+	Hongyi Chen, Room TBA, Phone TBA
+	Lawrence Cheng, Room TBA, Phone TBA
+	Phani Chinchapatnam, Room TBA, Phone 30339
+	Nathan Chong, Room 7.08, Phone 30383
+	Radu Cioata, Room TBA, Phone TBA
+	Teresa Correia, Room EFB3.09, Phone 51619
+	Andrew Cox, Room TBA, Phone 30401
+	Domenico Cozzetto, Room 7.08, Phone 30375
+	Fredrik Dahlqvist, Room 5.07, Phone 32374
+	Santanu Dash, Room 4.17, Phone 33058
+	Ioannis Daskalopoulos, Room TBA, Phone TBA
+	Renzo De Nardi, Room TBA, Phone 30397
+	Nadish De Silva, Room GS4.10, Phone TBA
+	Jean Debarros, Room TBA, Phone TBA
+	Yi Deng, Room TBA, Phone TBA
+	Nikos Dikaios, Room TBA, Phone TBA
+	Vit Drga, Room GS4.15, Phone TBA
+	Jason Drummond, Room 1ES, Phone 71530
+	Anind Duttaroy, Room EFB3.09, Phone 30177
+	Vasiliki Efstathiou, Room TBA, Phone TBA
+	Matthias Ehrhardt, Room EFB3.09, Phone 51622
+	Muna Elmi, Room 4.04, Phone 33698
+	Zeynep Engin, Room 7.08, Phone 37190
+	Miklos Espak, Room WH316, Phone 65529
+	Clara Essmann, Room 4.04, Phone 33698
+	Rui Fa, Room TBA, Phone TBA
+	Michael Firman, Room GS5.12, Phone 57128
+	Nick Firth, Room TBA, Phone TBA
+	Pam Fisher, Room 1ES, Phone 65269
+	Mick Flanagan, Room TBA, Phone TBA
+	Rowanne Fleck, Room TBA, Phone 32867
+	Tristan Fletcher, Room , Phone 
+	Sebastian Friston, Room 1ES, Phone 65251
+	Carsten Fuhs, Room 5.07, Phone TBA
+	Tom Furmston, Room , Phone 
+	Dominic Furniss, Room TBA, Phone 57062
+	Michal Galas, Room GS4.12, Phone 57110
+	Sarah Gallacher, Room GSB.01, Phone TBA
+	Sara Garbarino, Room TBA, Phone TBA
+	Essam Ghadafi, Room 6.22, Phone 30357
+	Aurobrata Ghosh, Room TBA, Phone TBA
+	Ori Gilad, Room 2.20, Phone TBA
+	Daniele Giunchi, Room TBA, Phone TBA
+	Amadou Gning, Room TBA, Phone TBA
+	Connie Golsteijn, Room GSB.01, Phone 57020
+	Alejandra Gonzalez Beltran, Room 7.08, Phone 33645
+	Nikos Gorogiannis, Room TBA, Phone 45772
+	Sandy Gould, Room GS2.04, Phone 57055
+	Harry Griffin, Room TBA, Phone TBA
+	Jan Grochmalicki, Room TBA, Phone TBA
+	Irme Groothuis, Room TBA, Phone TBA
+	Steffen Grunewalder, Room TBA, Phone TBA
+	Paul Guerrero, Room GS5.12, Phone 57998
+	Tim Hackworth, Room TBA, Phone TBA
+	Emmanuel Hadoux, Room GS3.15, Phone TBA
+	Tom Haines, Room GSB.09, Phone 57007
+	Mohammad Hajiabadi, Room 6.07, Phone TBA
+	Matt Hall, Room TBA, Phone 30323
+	Lianghao Han, Room EFB3.09, Phone 30177
+	Sharmeen Haque, Room Darwin.627, Phone 37934
+	Zhen He, Room TBA, Phone TBA
+	Will Heaven, Room TBA, Phone TBA
+	Juha Heiskala, Room EFB3.09, Phone 51619
+	Yusuf Helo, Room TBA, Phone TBA
+	Iman Hemati Moghadam, Room 4.17, Phone 33682
+	John Hipwell, Room EFB3.07, Phone 32064
+	Steven Houben, Room TBA, Phone TBA
+	Desi Hristova, Room 7.08, Phone 37219
+	Yipeng Hu, Room TBA, Phone TBA
+	Mingxing Hu, Room TBA, Phone TBA
+	Daniel Hulme, Room TBA, Phone TBA
+	Zakria Hussain, Room , Phone 
+	Jo Iacovides, Room GS2.06, Phone 57058
+	Corneliu Ilisescu, Room GS5.12, Phone 57138
+	Philip Inglesant, Room TBA, Phone TBA
+	Syed Islam, Room , Phone 
+	Nicolas Jaccard, Room GS5.12, Phone 57136
+	Vincent Jacques, Room TBA, Phone TBA
+	Afra Jahanbakhsh Mashhadi, Room TBA, Phone TBA
+	Sune Jakobsen, Room 6.07, Phone 30644
+	Stuart James, Room GS5.12, Phone 57129
+	Charlene Jennett, Room GS2.12, Phone 57072
+	Christian Jetter, Room TBA, Phone 30424
+	Stian Johnsen, Room WH316, Phone 65529
+	Rose Johnson, Room GS3.06, Phone 57083
+	Katrina Joyce, Room 7.22, Phone 30398
+	Zhaojie Ju, Room 5.08, Phone 30341
+	Enrico Kaden, Room TBA, Phone TBA
+	Aytac Kanaci, Room GSB.09, Phone TBA
+	Max Kanovich, Room 7.22, Phone 30394
+	Jason Kastanis, Room Not based in UCL CS, Phone -
+	Danil Kazantsev, Room 2.20, Phone TBA
+	Tom Kelly, Room GS5.12, Phone TBA
+	Tahir Khan, Room TBA, Phone TBA
+	Pankaj Khanna, Room TBA, Phone TBA
+	Martin Kilian, Room TBA, Phone TBA
+	Min Hyuk Kim, Room TBA, Phone TBA
+	Annina Klapper, Room TBA, Phone TBA
+	Jagun Kwon, Room GS5.07, Phone 57118
+	Kiran Lakhotia, Room TBA, Phone 32560
+	Vasileios Lampos, Room 1ES, Phone 65392
+	Gerasimos Lampouras, Room 1ES, Phone TBA
+	Bill Langdon, Room 4.17, Phone 33168
+	Sven Laqua, Room TBA, Phone 51068
+	Neal Lathia, Room Not based in UCL CS, Phone -
+	Kelvin Leung, Room TBA, Phone 30325
+	Guy Lever, Room , Phone 
+	Peng Li, Room TBA, Phone 33673
+	Shangsong Liang, Room TBA, Phone TBA
+	Soo Ling Lim, Room TBA, Phone TBA
+	Can Liu, Room GSB.01, Phone TBA
+	Zhihan Lu, Room GS5.12, Phone 57152
+	Felix Lucka, Room EFB3.03, Phone TBA
+	Imogen Lyons, Room GS2.06, Phone 57059
+	Oisin Mac Aodha, Room , Phone 
+	Stephann Makri, Room 8.11, Phone 30695
+	Kleanthis Malialis, Room 1ES, Phone TBA
+	Noel Malod-Dognin, Room Darwin6.31, Phone TBA
+	Emma Malone, Room TBA, Phone TBA
+	Richard Manber, Room TBA, Phone TBA
+	Keith May, Room TBA, Phone TBA
+	Evangelos Mazomenos, Room TBA, Phone TBA
+	Jamie McClelland, Room EFB3.09, Phone 30177
+	Jan Medvesek, Room TBA, Phone TBA
+	Sebastian Meiser, Room 4.23, Phone TBA
+	Nicolas Mellado, Room TBA, Phone TBA
+	Hector Menendez, Room 4.17, Phone 54042
+	Thomy Mertzanidou, Room EFB3.09, Phone 30177
+	Roger Millichamp, Room TBA, Phone TBA
+	Pasquale Minervini, Room 1ES, Phone TBA
+	Jeff Mitchell, Room 1ES, Phone TBA
+	Behzad Momahed Heravi, Room GS5.11, Phone 57123
+	Kimberly Moravec, Room TBA, Phone TBA
+	Dafne Morgado Ramirez, Room GS2.12, Phone 57070
+	Prakash Naidu, Room 4.04, Phone 54315
+	Jason Narad, Room 1ES, Phone 65612
+	Ana Neves, Room TBA, Phone TBA
+	Andrew Newell, Room 5.09, Phone 31371
+	Konstantinos Nikitopoulos, Room TBA, Phone TBA
+	Gordana Novakovic, Room TBA, Phone TBA
+	Giuseppe Nuti, Room Not based in UCL CS, Phone -
+	Piers O'Hanlon, Room TBA, Phone TBA
+	Freddy Odille, Room 2.20, Phone TBA
+	Lukasz Olejnik, Room TBA, Phone TBA
+	Manuel Oliveira, Room , Phone 
+	Alberto Ottolenghi, Room GS3.15, Phone 57040
+	Neil Oxtoby, Room EFB3.09, Phone TBA
+	Marco Palombo, Room TBA, Phone TBA
+	Ye Pan, Room 1ES, Phone 65250
+	Eleftheria Panagiotaki, Room EFB3.09, Phone 51619
+	Christos Panagiotou, Room , Phone 
+	Giuseppe Pappalardo, Room TBA, Phone TBA
+	Simon Parkin, Room 6.07, Phone 30352
+	Martin Parsley, Room TBA, Phone TBA
+	Zabeen Patel, Room Off site, Phone Not available
+	Vijay Pawar, Room 4.04, Phone 33698
+	Alan Payne, Room -, Phone -
+	Adrian Penate-Sanchez, Room TBA, Phone TBA
+	Chi-Han Peng, Room TBA, Phone TBA
+	Christophe Petit, Room TBA, Phone TBA
+	Justyna Petke, Room 4.17, Phone 37172
+	Luis Pizarro, Room TBA, Phone TBA
+	Sylwia Polberg, Room GS3.05, Phone TBA
+	Liana Portugal, Room TBA, Phone TBA
+	Samuel Powell, Room EFB3.18, Phone 30273
+	Ferran Prados Carrasco, Room WH310, Phone 65525
+	Surya Prerapa, Room TBA, Phone TBA
+	Binjie Qin, Room EFB3.07, Phone TBA
+	Franco Raimondi, Room , Phone 
+	Anil Rao, Room 7.22, Phone 30399
+	Ged Ridgway, Room 2.20, Phone 30218
+	Erik Rijkhorst, Room TBA, Phone TBA
+	Jane Rondina, Room TBA, Phone TBA
+	Maria Rosa, Room TBA, Phone TBA
+	Aitor Rovira Perez, Room GSB.09, Phone 57005
+	Reuben Rowe, Room 5.07, Phone TBA
+	Angel Ruiz-Zafra, Room TBA, Phone TBA
+	Chris Russell, Room TBA, Phone TBA
+	Federica Sarro, Room 4.17, Phone 37289
+	Jessica Schrouff, Room TBA, Phone TBA
+	Martin Schweiger, Room EFB3.08, Phone 37213
+	Katie Seaborn, Room GSB.01, Phone 57018
+	Will Seager, Room TBA, Phone TBA
+	Nassim Seghir, Room 4.17, Phone TBA
+	Venus Shum, Room GSB.01, Phone 57015
+	David Silver, Room TBA, Phone TBA
+	Ivor Simpson, Room WH310, Phone 65525
+	Mark Sinclair, Room TBA, Phone TBA
+	Bernard Siow, Room TBA, Phone TBA
+	Grigorios Skolidis, Room TBA, Phone TBA
+	Paddy Slator, Room EFB3.09, Phone TBA
+	Christopher Smith, Room TBA, Phone TBA
+	Vadim Soloviev, Room EFB3.08, Phone 33679
+	Rachel Sparks, Room WH316, Phone 65529
+	Pontus Stenetorp, Room TBA, Phone TBA
+	William Steptoe, Room TBA, Phone TBA
+	Rob Stuart-Smith, Room TBA, Phone TBA
+	Guillermo Suarez de Tangil, Room 4.02, Phone TBA
+	Kartic Subr, Room TBA, Phone TBA
+	Andrew Symington, Room TBA, Phone TBA
+	Alejandro Sztrajman, Room G07, Phone 1234
+	Ben Tagger, Room TBA, Phone TBA
+	Ana Tajadura Jimenez, Room GS2.04, Phone 57056
+	Bo Tan, Room 7.08, Phone 30383
+	Hai Yu Tan, Room TBA, Phone TBA
+	Christine Tanner, Room TBA, Phone TBA
+	Tanja Tarvainen, Room TBA, Phone TBA
+	Kevin Tchaka, Room TBA, Phone TBA
+	Johannes Totz, Room TBA, Phone TBA
+	Prodromos Tsiavos, Room 1ES, Phone 65406
+	Muhammad Usman, Room EFB3.08, Phone TBA
+	Marcel Van Herk, Room EFB308, Phone TBA
+	Stephan Van Staden, Room 7.08, Phone 30387
+	Elwin Van t Wout, Room EFB3.09, Phone TBA
+	Socrates Varakliotis, Room TBA, Phone TBA
+	Sara Vicente, Room TBA, Phone TBA
+	Jules Villard, Room TBA, Phone 45772
+	Chris Vincent, Room GS2.06, Phone 57057
+	Andreas Vlachos, Room 1ES, Phone 65395
+	Jolien Vos, Room TBA, Phone TBA
+	Cen Wan, Room TBA, Phone TBA
+	Tiantian Wang, Room TBA, Phone TBA
+	Xue Wang, Room TBA, Phone TBA
+	Sean Ward, Room TBA, Phone TBA
+	Sarah Wiseman, Room 8.18, Phone 37849
+	David Wong, Room TBA, Phone TBA
+	Mischa Woods, Room GS4.12, Phone 57141
+	Peng Wu, Room TBA, Phone TBA
+	Richard Young, Room -, Phone -
+	Insu Yu, Room TBA, Phone TBA
+	Qizhi Yu, Room TBA, Phone TBA
+	Benjamin Yvernault, Room TBA, Phone TBA
+	Athanasios Zacharopoulos, Room TBA, Phone TBA
+	Fokion Zervoudakis, Room TBA, Phone TBA
+	Haoyun Zhan, Room 4.04, Phone 33698
+	Yuanyuan Zhang, Room 4.17, Phone 33495
+	Lining Zhang, Room TBA, Phone TBA
+	Xiahai Zhuang, Room 5.07, Phone 30177
+	Zoltan Zimboras, Room GS3.15, Phone 57098
+	Mircea Zloteanu, Room TBA, Phone TBA
+	Gergely Zombori, Room WH316, Phone 65529
+	Maria A Zuluaga Valencia, Room WH309, Phone 65524
+
+ 
+                
+ 
+               
+ 
+                
+              
+ 
+               
+             
+ 
+            
+ 
+             
+              
+               
+               
+                
+               
+                Honorary Staff
+
+               
+ 
+                
+                
+                
+                 
+                  
+                 	Angus Antley, Room -, Phone -
+	Rachel Benedyk, Room GS2.07, Phone 57063
+	Patrick Bergel, Room N/A, Phone N/A
+	Navneet Bhalla, Room N/A, Phone N/A
+	Sue Black, Room N/A, Phone N/A
+	Bernard Buxton, Room -, Phone -
+	Paran Chandrasekaran, Room -, Phone -
+	Ariane Chapelle, Room N/A, Phone N/A
+	Sarah Chisholm, Room N/A, Phone N/A
+	Beatrice De Gelder, Room TBA, Phone TBA
+	David Hardoon, Room Not based in UCL CS, Phone -
+	Paul Harrald, Room N/A, Phone N/A
+	Aram Harrow, Room N/A, Phone N/A
+	James Hetherington, Room N/A, Phone N/A
+	Derek Hill, Room N/A, Phone N/A
+	Christos Ioannidis, Room TBA, Phone TBA
+	Paul Jennings, Room N/A, Phone N/A
+	Saira Mian, Room N/A, Phone N/A
+	Gautam Mitra, Room N/A, Phone N/A
+	Juan Navarro Perez, Room N/A, Phone N/A
+	Zachary Peterson, Room 7.02, Phone TBA
+	Giovanni Quattrone, Room N/A, Phone N/A
+	Filip Radlinski, Room N/A, Phone N/A
+	Roland Rosner, Room N/A, Phone N/A
+	Martin Schoernig, Room N/A, Phone N/A
+	Abigail Sellen, Room N/A, Phone N/A
+	Hugh Varilly, Room N/A, Phone N/A
+	Caroline Wardle, Room N/A, Phone N/A
+	John Washbrook, Room N/A, Phone N/A
+	Stephen Weston, Room TBA, Phone TBA
+	Steve Wilbur, Room N/A, Phone N/A
+	Duncan Wilson, Room N/A, Phone N/A
+	Jack Wratten, Room TBA, Phone TBA
+
+ 
+                
+ 
+               
+ 
+                
+              
+ 
+               
+             
+ 
+            
+ 
+             
+              
+               
+               
+                
+               
+                Research Students
+
+               
+ 
+                
+                
+                
+                 
+                  
+                 	Ruba Abu-Salma, Room 6.07, Phone 32788
+	Manal Adham, Room 1ES, Phone 65404
+	Hasiba Afzalzada, Room 5.07, Phone TBA
+	Mustafa Al Bassam, Room 4.02, Phone 33083
+	Toyin Alabi, Room TBA, Phone TBA
+	Ahmed Alqaraawi, Room TBA, Phone TBA
+	Afnan Alsubaihin, Room TBA, Phone TBA
+	Glen Anderson, Room TBA, Phone TBA
+	Jerone Andrews, Room GSB.09, Phone 57097
+	Christos Aniftos, Room 1ES, Phone 65406
+	Thomas Anthony, Room TBA, Phone TBA
+	Debi Ashenden, Room TBA, Phone TBA
+	Christodoulos Aspromallis, Room TBA, Phone TBA
+	Melinos Averkiou, Room GS5.12, Phone 57141
+	Amid Ayobi, Room GS2.06, Phone TBA
+	Sarah Azouvi, Room TBA, Phone TBA
+	Mara Balestrini, Room GSB.01, Phone 57016
+	Haitham Baomar, Room TBA, Phone TBA
+	Bogdan Batrinca, Room GS1.10, Phone 57027
+	Fiona Bavinton, Room TBA, Phone TBA
+	Maura Bellio, Room TBA, Phone TBA
+	Marcello Benedetti, Room TBA, Phone TBA
+	Odette Beris, Room 6.07, Phone 33642
+	Dario Adriano Bermudez Villalva, Room 4.02, Phone 54054
+	Yi Bian, Room TBA, Phone TBA
+	Giuseppe Bianco, Room 5.08, Phone TBA
+	Mikolaj Binkowski, Room TBA, Phone TBA
+	Annika Birch, Room GS1.10, Phone 57033
+	Maria Boeker, Room TBA, Phone TBA
+	Alexandros Bokaris, Room 1ES, Phone 65086
+	Jonathan Bootle, Room 7.08, Phone 30384
+	Judith Borghouts, Room GS2.12, Phone 57071
+	Diana Borsa, Room GS3.14, Phone 57095
+	Matko Bosnjak, Room 1ES, Phone 65400
+	Aleksandar Botev, Room TBA, Phone TBA
+	Cerys Bradley, Room TBA, Phone TBA
+	Patrick Brandao, Room TBA, Phone TBA
+	Robert Bruce, Room TBA, Phone TBA
+	Frederik Brudy, Room GSB.01, Phone 57021
+	Ludovica Brusaferri, Room TBA, Phone TBA
+	Saheed Busari, Room 7.08, Phone 34142
+	Vicky Butt, Room TBA, Phone TBA
+	Ross Callaghan, Room TBA, Phone TBA
+	Cristina Calnegru, Room TBA, Phone TBA
+	Marta Campi, Room TBA, Phone TBA
+	Liane Canas, Room TBA, Phone TBA
+	Marta Cecchinato, Room GS2.06, Phone 57060
+	Andrea Cerulli, Room 7.08, Phone 30389
+	Lisa Andreevna Chalaguine, Room GS5.11, Phone 65317
+	Bowei Chen, Room TBA, Phone TBA
+	Pawel Chilinski, Room TBA, Phone TBA
+	Youngjun Cho, Room TBA, Phone TBA
+	Kacper Chwialkowski, Room GS1.04, Phone 57036
+	Kamil Ciosek, Room 8.11, Phone 30420
+	Marius Cobzarenco, Room TBA, Phone TBA
+	Ben Congdon, Room TBA, Phone TBA
+	Marios Constantinides, Room 1ES, Phone 65260
+	Simon Cousins, Room GS1.04, Phone 57038
+	Tim Cowlishaw, Room 1ES, Phone TBA
+	Yiran Cui, Room GS1.10, Phone TBA
+	Jacek Dabrowski, Room TBA, Phone TBA
+	Benjamin Davidson, Room TBA, Phone TBA
+	Joao De Matos Monteiro, Room 7.22, Phone 30396
+	Donald Degraen, Room GSB.09, Phone TBA
+	Yiqi Deng, Room TBA, Phone TBA
+	Danial Dervovic, Room GS3.14, Phone 57098
+	Martin Diller, Room TBA, Phone TBA
+	Peter Divos, Room GS1.10, Phone 57030
+	Simon Docherty, Room 5.07, Phone TBA
+	Steve Dodier-Lazaro, Room TBA, Phone 33644
+	Larissa Dos Santos Romualdo Suzuki, Room GS3.05, Phone 57082
+	Xiaofei Du, Room TBA, Phone TBA
+	Michael Duong, Room TBA, Phone TBA
+	Juan Echeverria Guzman, Room 1ES, Phone 65257
+	Fufu Fang, Room TBA, Phone TBA
+	Luca Franceschi, Room TBA, Phone TBA
+	Zheng Gao, Room TBA, Phone TBA
+	Stephan Garbin, Room TBA, Phone TBA
+	Thomas Gaudelet, Room TBA, Phone TBA
+	Carlos Gavidia, Room TBA, Phone TBA
+	Luca Giannoni, Room TBA, Phone TBA
+	Jagadeesh Gorla, Room TBA, Phone TBA
+	Daniel Grigat, Room GS3.14, Phone 57163
+	Giovani Guizzo, Room TBA, Phone TBA
+	Andreas Gutmann, Room TBA, Phone TBA
+	Nikola Gvozdiev, Room 7.22, Phone 33670
+	Raza Habib, Room GS1.04, Phone 57077
+	Carl Hallgren, Room TBA, Phone TBA
+	Donggyun Han, Room 4.17, Phone 33682
+	Danny Harrison, Room GS2.12, Phone 57069
+	Charlie Harrison, Room TBA, Phone 33005
+	Calum Harrison, Room 7.22, Phone 30397
+	Peter Hayes, Room TBA, Phone TBA
+	Jamie Hayes, Room 6.07, Phone 30351
+	Peter Hedman, Room GS5.12, Phone 57133
+	Johannes Heinrich, Room TBA, Phone TBA
+	Melanie Herrmann, Room GS2.12, Phone TBA
+	Alex Hicks, Room TBA, Phone TBA
+	Jack Highton, Room TBA, Phone TBA
+	Natalie Holroyd, Room TBA, Phone TBA
+	Moos Hueting, Room GS5.12, Phone 65405
+	Martin Huettemann, Room TBA, Phone TBA
+	Lucio Idone, Room TBA, Phone TBA
+	Colin Ife, Room 4.02, Phone 33495
+	Carlo Innamorati, Room GS5.11, Phone 56448
+	David Insa, Room TBA, Phone TBA
+	Thanapong Intharah, Room GS5.12, Phone 57130
+	Mobeen Iqbal, Room TBA, Phone TBA
+	Marios Isaakidis, Room TBA, Phone TBA
+	Hadiza Ismaila, Room TBA, Phone TBA
+	Joseph Jacobs, Room TBA, Phone TBA
+	Gunel Jahangirova, Room TBA, Phone TBA
+	Mirek Janatka, Room TBA, Phone TBA
+	Ana Javornik, Room TBA, Phone TBA
+	Sebastian Jeuk, Room TBA, Phone TBA
+	Leonid Joffe, Room TBA, Phone TBA
+	Geraint Jones, Room GSB.01, Phone 57017
+	Geoffrey Jones, Room TBA, Phone TBA
+	Nils Jungbacke, Room TBA, Phone TBA
+	Monde Kalumbilo, Room TBA, Phone TBA
+	Stelios Kampakis, Room TBA, Phone TBA
+	Vytautas Kancleris, Room TBA, Phone TBA
+	Leslie Kanthan, Room 7.22, Phone 30394
+	Tobias Kappe, Room GS3.05, Phone 56023
+	Savvas Karagiannidis, Room TBA, Phone TBA
+	Joel Kariel, Room TBA, Phone TBA
+	Andrea Karlova, Room 7.22, Phone 30156
+	Sebastian Kay, Room TBA, Phone TBA
+	Kareem Khazem, Room 5.07, Phone 33696
+	Heidy Khlaaf, Room 5.07, Phone 32648
+	Pascal Khoury, Room TBA, Phone TBA
+	Mital Kinderkhedia, Room GS3.14, Phone 57096
+	Lisa Koeman, Room GSB.01, Phone 57023
+	Volha Kolchyna, Room GS1.10, Phone 57028
+	Aleksandar Kolev, Room TBA, Phone TBA
+	Bongjin Koo, Room GS5.11, Phone 57125
+	Adriano Koshiyama, Room TBA, Phone TBA
+	Artur Kotlicki, Room TBA, Phone TBA
+	Andreas Koukorinis, Room TBA, Phone TBA
+	Kasia Kozdon, Room TBA, Phone TBA
+	Aaron Kujawa, Room TBA, Phone TBA
+	Paul-Kilian Lamanna, Room TBA, Phone TBA
+	Zuzanna Lechelt, Room TBA, Phone TBA
+	Jiwei Li, Room 7.22, Phone 30156
+	Jie Li, Room 1ES, Phone 65263
+	Lingbo Li, Room 4.17, Phone 37026
+	Joseph Lillington, Room TBA, Phone TBA
+	Ye-Sheen Lim, Room 7.08, Phone 30377
+	Xiaoran Liu, Room TBA, Phone TBA
+	Qi Liu, Room TBA, Phone TBA
+	Josh Lockhart, Room TBA, Phone TBA
+	Nicola Lockwood, Room TBA, Phone TBA
+	Alexandre Lopes, Room TBA, Phone TBA
+	Hugo Lopez Tovar, Room 1ES, Phone 65256
+	Rui Luo, Room TBA, Phone TBA
+	Shah Mahmood, Room TBA, Phone TBA
+	Dimitri Malandreniotis, Room GS1.04, Phone TBA
+	Mary Maller, Room TBA, Phone TBA
+	Mateusz Manikowski, Room TBA, Phone TBA
+	Andrew Mann, Room TBA, Phone TBA
+	Ke Mao, Room TBA, Phone TBA
+	Alexandru Marginean, Room TBA, Phone TBA
+	Enrico Mariconti, Room TBA, Phone TBA
+	Dean Markwick, Room TBA, Phone TBA
+	Maciej Marowka, Room TBA, Phone TBA
+	James Martin, Room EFB3.09, Phone 30177
+	William Martin, Room 4.17, Phone 33681
+	Afsaneh Mastouri, Room TBA, Phone TBA
+	Jacques Matalon, Room TBA, Phone TBA
+	Vasileios Mavroudis, Room 6.07, Phone 33643
+	Rodrigo Mazorra Blanco, Room TBA, Phone TBA
+	Andrew McDonald, Room GS3.14, Phone 57097
+	Brett McLean, Room TBA, Phone TBA
+	Rishabh Mehrotra, Room 1ES, Phone 65249
+	Luca Melis, Room 6.07, Phone TBA
+	Kyriaki Mengoudi, Room TBA, Phone TBA
+	Marios Michailidis, Room TBA, Phone TBA
+	Marco Micucci, Room TBA, Phone TBA
+	Bhaskar Mitra, Room TBA, Phone TBA
+	Alexandros Mittos, Room 4.02, Phone 31329
+	Wallizada Mohibullah, Room TBA, Phone TBA
+	Aron Monszpart, Room GS5.12, Phone 57132
+	Stephen Morrell, Room TBA, Phone TBA
+	Anthony Morton, Room TBA, Phone TBA
+	Andrew Mpapalika, Room TBA, Phone TBA
+	Jann Mueller, Room TBA, Phone TBA
+	Maria Murcia Lopez, Room 1ES, Phone 65686
+	Russell Murdoch, Room TBA, Phone TBA
+	Rafal Muszynski, Room TBA, Phone TBA
+	Dimitris Mylonas, Room TBA, Phone TBA
+	Mohsen Naderi, Room TBA, Phone TBA
+	Joe Newbold, Room GS2.04, Phone 57052
+	Nicola Newhouse, Room GS3.06, Phone 57084
+	Georgios Nikolaidis, Room 7.22, Phone 30400
+	Kaustubh Nimkar, Room GS.G2, Phone 45771
+	Kawsar Noor, Room TBA, Phone TBA
+	Paul Norvaisas, Room TBA, Phone TBA
+	Stefano Novello, Room TBA, Phone TBA
+	Bev Nutter, Room 4.02, Phone 30425
+	Rickard Nyman, Room TBA, Phone TBA
+	Aisling O'Kane, Room GS4.08, Phone 57153
+	Temitayo Olugbade, Room GS2.04, Phone 57053
+	Siti Faizah Omar, Room TBA, Phone TBA
+	Jeremiah Onaolapo, Room 6.22, Phone 34319
+	Yean Hoon Ong, Room TBA, Phone TBA
+	Olawole Oni, Room 7.08, Phone 30156
+	Lucky Onwuzurike, Room 6.22, Phone 30360
+	Kehinde Owoeye, Room TBA, Phone TBA
+	Krittin Pachtrachai, Room TBA, Phone TBA
+	Matheus Paixao, Room TBA, Phone TBA
+	Samuel Palmer, Room GS1.04, Phone 57039
+	Efstathios Panayi, Room GS4.12, Phone 57109
+	Louis Parlant, Room TBA, Phone TBA
+	Samuel Parsons, Room GS1.10, Phone 57033
+	Profir-Petru Partachi, Room TBA, Phone TBA
+	Stephen Pasteris, Room GS3.14, Phone 57094
+	Filip Paszkiewicz, Room TBA, Phone TBA
+	Fabrizio Pece, Room TBA, Phone TBA
+	Khoa Pham, Room TBA, Phone TBA
+	Carolyn Phelan, Room GS1.10, Phone 56449
+	Ross Phillips, Room TBA, Phone TBA
+	Giacomo Pietronero, Room TBA, Phone TBA
+	Anna Piotrowska, Room 6.22, Phone 33702
+	Nikolaos Pitelis, Room GSB.09, Phone 57013
+	Chris Porter, Room TBA, Phone TBA
+	Kyrill Potapov, Room TBA, Phone TBA
+	Nora Ptakauskaite, Room TBA, Phone TBA
+	Apostolos Pyrgelis, Room 6.22, Phone 37353
+	Chaiyong Ragkhitwetsagul, Room TBA, Phone TBA
+	Gilles Rainer, Room GSB.09, Phone 57011
+	Amanah Ramadiah, Room TBA, Phone TBA
+	Roxana Ramirez Herrera, Room TBA, Phone TBA
+	Ajay Rathor, Room TBA, Phone TBA
+	Peter Rennert, Room GSB.09, Phone 57008
+	Antonio Ricciardi, Room TBA, Phone TBA
+	Oliver Rice, Room TBA, Phone TBA
+	Jacob Rigby, Room GS2.12, Phone 57083
+	Laura Riggall, Room TBA, Phone TBA
+	Julian Ritter, Room TBA, Phone TBA
+	James Robinson, Room TBA, Phone TBA
+	Maria Robu, Room EFB3.09, Phone TBA
+	Tim Rocktaschel, Room 1ES, Phone 65403
+	Ferran Roure, Room TBA, Phone TBA
+	Robin Roussel, Room TBA, Phone TBA
+	Francesc Rullan, Room TBA, Phone TBA
+	Martin Runz, Room GSB09, Phone 57190
+	Marzieh Saeidi, Room 7.07, Phone 51630
+	Johannes Saenger, Room TBA, Phone TBA
+	Lynne Salameh, Room 7.22, Phone 30379
+	Pariya Salehi, Room 7.08, Phone 51043
+	Eduard Sariev, Room TBA, Phone TBA
+	Savvas Savvidis, Room TBA, Phone TBA
+	Britta Schulte, Room TBA, Phone TBA
+	Harshil Shah, Room TBA, Phone TBA
+	Peiteng Shi, Room TBA, Phone TBA
+	Orowa Sikde, Room TBA, Phone TBA
+	Elena Simaitiene, Room GS1.04, Phone 57037
+	Aneesha Singh, Room GS2.04, Phone 57054
+	Gaurav Singh, Room 7.08, Phone 30374
+	Ilias Sioutis, Room TBA, Phone TBA
+	Efstratios Skordos, Room TBA, Phone TBA
+	Marc Sloan, Room 1ES, Phone 65266
+	Nissy Sombatruang, Room 6.07, Phone TBA
+	Guangyan Song, Room 6.22, Phone 33702
+	Tharsis Souza, Room GS1.10, Phone TBA
+	Georgios Spithourakis, Room 1ES, Phone 65407
+	Jonathan Spring, Room TBA, Phone TBA
+	Ronnie Stafford, Room GS3.04, Phone 57079
+	Dimitrios Stamos, Room TBA, Phone TBA
+	Andrew Starling, Room TBA, Phone TBA
+	Kathy Stawarz, Room GS2.06, Phone 32175
+	Henry Stone, Room TBA, Phone TBA
+	Pavle Subotic, Room TBA, Phone TBA
+	Yuxin Sun, Room 7.08, Phone 34142
+	Ryutaro Tanno, Room TBA, Phone TBA
+	Maira Tariq, Room TBA, Phone TBA
+	Gadi Tellez Espinosa, Room 5.07, Phone TBA
+	Jacob Thorn, Room TBA, Phone TBA
+	Zheng Tian, Room TBA, Phone TBA
+	Dorota Toczydlowska, Room GS5.11, Phone 57124
+	Raphael Toledo, Room 6.22, Phone 37329
+	Denis Tome, Room GS5.11, Phone 57131
+	James Townsend, Room GS1.12, Phone TBA
+	Elena Tran, Room TBA, Phone TBA
+	Martin Traunmueller, Room GSB.01, Phone 57022
+	Mara Tribull, Room TBA, Phone TBA
+	Sachapon Tungsong, Room GS1.10, Phone 57026
+	Nilufer Tuptuk, Room GS5.07, Phone 57118
+	Daniyar Turmukhambetov, Room GS5.12, Phone 57185
+	David Twomey, Room 7.08, Phone 51043
+	Gerrit Van Heerdt, Room GS3.05, Phone 57094
+	Manisha Verma, Room 1ES, Phone 65264
+	Pengfei Wang, Room TBA, Phone TBA
+	Tuanfeng Wang, Room GS5.12, Phone 57137
+	Tingting Wang, Room 7.22, Phone 30396
+	Hao Wang, Room TBA, Phone TBA
+	Mark Warner, Room 4.02, Phone 30224
+	Johannes Welbl, Room 1ES, Phone 65228
+	Hannah West, Room TBA, Phone TBA
+	Sam Windels, Room TBA, Phone TBA
+	Name Withheld: Research Student, Room 7.08, Phone 30376
+	Name Withheld: Research Student, Room TBA, Phone TBA
+	Zbigniew Wojna, Room TBA, Phone TBA
+	Daniel Worrall, Room GS5.12, Phone 57140
+	Yixin Wu, Room TBA, Phone TBA
+	Fan Wu, Room 4.17, Phone 33058
+	Jie Xiong, Room 7.08, Phone 33687
+	Yaodong Yang, Room TBA, Phone TBA
+	Alexandra Young, Room TBA, Phone TBA
+	Jonathan Young, Room WH309, Phone 65524
+	Rui Yu, Room GSB.09, Phone 65251
+	Shuai Yuan, Room TBA, Phone TBA
+	Anosh Zahir, Room GS1.04, Phone 57031
+	Octavio Baltasar Zapata Fonseca, Room 7.08, Phone 33645
+	Anna Zaremba, Room GS5.11, Phone 57124
+	Stefan Zasada, Room TBA, Phone TBA
+	Changwang Zhang, Room 1ES, Phone 65259
+	Weinan Zhang, Room 1ES, Phone TBA
+	Binsheng Zhang, Room TBA, Phone TBA
+	Chen Zhang, Room TBA, Phone TBA
+	Jiaying Zhang, Room TBA, Phone TBA
+	Xiaoxue Zhao, Room 1ES, Phone 65261
+	Ilya Zheludev, Room TBA, Phone TBA
+	Juan Zhou, Room 7.08, Phone 30391
+	Astrit Zhushi, Room 7.22, Phone 33033
+	Karina Zile, Room Darwin.636, Phone TBA
+	Blaz Zlicar, Room GS1.04, Phone 57041
+	Bin Zou, Room 1ES, Phone 65675
+
+ 
+                
+ 
+               
+ 
+                
+              
+ 
+               
+             
+ 
+            
+ 
+             
+              
+               
+               
+                
+               
+                Full Alphabetical List
+
+               
+ 
+                
+                
+                
+                 
+                  
+                 	Samer Abdallah (Research Staff), Room 4.17, Phone 33462
+	Ruba Abu-Salma (Research Student), Room 6.07, Phone 32788
+	Remi Adeyemi (Professional Services Staff), Room 5.25, Phone 37212
+	Manal Adham (Research Student), Room 1ES, Phone 65404
+	Muhammad Adnan (Research Staff), Room 2.20, Phone TBA
+	Hasiba Afzalzada (Research Student), Room 5.07, Phone TBA
+	Lourdes Agapito (Academic Staff), Room GS5.10, Phone 57122
+	Mustafa Al Bassam (Research Student), Room 4.02, Phone 33083
+	Toyin Alabi (Research Student), Room TBA, Phone TBA
+	Nikolaos Aletras (Research Staff), Room 1ES, Phone 65445
+	Daniel Alexander (Academic Staff), Room EFB3.04, Phone 32419
+	Jade Alglave (Academic Staff), Room 5.23, Phone 30167
+	Ahmed Alqaraawi (Research Student), Room TBA, Phone TBA
+	Afnan Alsubaihin (Research Student), Room TBA, Phone TBA
+	Glen Anderson (Research Student), Room TBA, Phone TBA
+	Gabrielle Anderson (Research Staff), Room 5.07, Phone TBA
+	Jerone Andrews (Research Student), Room GSB.09, Phone 57097
+	John Andrews (Professional Services Staff), Room 6.23, Phone 33691
+	Panagiotis Andriotis (Research Staff), Room 6.07, Phone 30353
+	Kelly Androutsopoulos (Research Staff), Room TBA, Phone 33652
+	Christos Aniftos (Research Student), Room 1ES, Phone 65406
+	Edward Anstead (Research Staff), Room 1ES, Phone 65020
+	Thomas Anthony (Research Student), Room TBA, Phone TBA
+	Angus Antley (Honorary Staff), Room -, Phone -
+	Cedric Archambeau (Research Staff), Room TBA, Phone TBA
+	Simon Arridge (Academic Staff), Room EFB3.05, Phone 33714
+	Debi Ashenden (Research Student), Room TBA, Phone TBA
+	Christodoulos Aspromallis (Research Student), Room TBA, Phone TBA
+	Tomaso Aste (Academic Staff), Room GS4.04, Phone 57103
+	Dimitrios Athanasakis (Research Staff), Room GS3.15, Phone TBA
+	David Atkinson (Research Staff), Room 2.04, Phone 30201
+	Isabelle Augenstein (Research Staff), Room 1ES, Phone TBA
+	Melinos Averkiou (Research Student), Room GS5.12, Phone 57141
+	Amid Ayobi (Research Student), Room GS2.06, Phone TBA
+	Sarah Azouvi (Research Student), Room TBA, Phone TBA
+	Colleen Bailey (Research Staff), Room TBA, Phone TBA
+	Dawn Bailey (Professional Services Staff), Room 5.17, Phone 31315
+	Jessi Baker (Research Staff), Room TBA, Phone TBA
+	Luca Baldassarre (Research Staff), Room TBA, Phone TBA
+	Mara Balestrini (Research Student), Room GSB.01, Phone 57016
+	Shehar Bano (Research Staff), Room 6.07, Phone TBA
+	Haitham Baomar (Research Student), Room TBA, Phone TBA
+	David Barber (Academic Staff), Room GS3.10, Phone 57090
+	Earl Barr (Academic Staff), Room 6.06a, Phone 33570
+	Dean Barratt (Academic Staff), Room TBA, Phone TBA
+	Asta Barry (Professional Services Staff), Room GS1.04B, Phone 57044
+	Leszek Bartkowski (Research Staff), Room GS4.12, Phone 57111
+	Bogdan Batrinca (Research Student), Room GS1.10, Phone 57027
+	Fiona Bavinton (Research Student), Room TBA, Phone TBA
+	Adam Beautement (Research Staff), Room TBA, Phone TBA
+	Ashweeni Beeharee (Research Staff), Room TBA, Phone TBA
+	Maura Bellio (Research Student), Room TBA, Phone TBA
+	Marcello Benedetti (Research Student), Room TBA, Phone TBA
+	Rachel Benedyk (Honorary Staff), Room GS2.07, Phone 57063
+	Benedikt Bengler (Research Staff), Room GSB.01, Phone TBA
+	Peter Bentley (Academic Staff), Room 1ES, Phone 65277
+	Patrick Bergel (Honorary Staff), Room N/A, Phone N/A
+	Odette Beris (Research Student), Room 6.07, Phone 33642
+	Dario Adriano Bermudez Villalva (Research Student), Room 4.02, Phone 54054
+	Nadia Berthouze (Academic Staff), Room GS2.10, Phone 57067
+	Marta Betcke (Academic Staff), Room EFB3.08, Phone 34355
+	Navneet Bhalla (Honorary Staff), Room N/A, Phone N/A
+	Sukriti Bhattacharya (Research Staff), Room 5.07, Phone TBA
+	Yi Bian (Research Student), Room TBA, Phone TBA
+	Giuseppe Bianco (Research Student), Room 5.08, Phone TBA
+	Mikolaj Binkowski (Research Student), Room TBA, Phone TBA
+	Annika Birch (Research Student), Room GS1.10, Phone 57033
+	Sue Black (Honorary Staff), Room N/A, Phone N/A
+	Ann Blandford (Academic Staff), Room GS2.02, Phone 57049
+	Maria Boeker (Research Student), Room TBA, Phone TBA
+	Alexandros Bokaris (Research Student), Room 1ES, Phone 65086
+	Julius Bonart (Academic Staff), Room GS4.08, Phone 57032
+	Jonathan Bootle (Research Student), Room 7.08, Phone 30384
+	Judith Borghouts (Research Student), Room GS2.12, Phone 57071
+	Diana Borsa (Research Student), Room GS3.14, Phone 57095
+	Matko Bosnjak (Research Student), Room 1ES, Phone 65400
+	Aleksandar Botev (Research Student), Room TBA, Phone TBA
+	Samantha Bottomley (Professional Services Staff), Room 5.22, Phone 30328
+	Guillaume Bouchard (Research Staff), Room TBA, Phone TBA
+	Katie Bourke (Professional Services Staff), Room 5.21, Phone 30325
+	Simon Boye (Research Staff), Room TBA, Phone TBA
+	Cerys Bradley (Research Student), Room TBA, Phone TBA
+	Fernando Brandao (Academic Staff), Room GS3.12, Phone 57092
+	Patrick Brandao (Research Student), Room TBA, Phone TBA
+	Gerard Briscoe (Research Staff), Room 4.02, Phone 30293
+	Gabriel Brostow (Academic Staff), Room GS5.08, Phone 57120
+	James Brotherston (Academic Staff), Room 5.20, Phone 33652
+	Winton Brown (Research Staff), Room GS3.15, Phone 57099
+	Daniel Brown (Research Staff), Room 5.23, Phone 30167
+	Robert Bruce (Research Student), Room TBA, Phone TBA
+	Frederik Brudy (Research Student), Room GSB.01, Phone 57021
+	Duncan Brumby (Academic Staff), Room GS2.11, Phone 57068
+	Paul Brunet (Research Staff), Room TBA, Phone TBA
+	Ludovica Brusaferri (Research Student), Room TBA, Phone TBA
+	Kevin Bryson (Academic Staff), Room Darwin6.32, Phone 30409
+	Daniel Buchan (Research Staff), Room 7.08, Phone TBA
+	George Buchanan (Research Staff), Room TBA, Phone TBA
+	Saheed Busari (Research Student), Room 7.08, Phone 34142
+	Jane Butler (Professional Services Staff), Room TBA, Phone TBA
+	Gordon Butler (Professional Services Staff), Room 4.21, Phone 37283
+	Vicky Butt (Research Student), Room TBA, Phone TBA
+	Bernard Buxton (Honorary Staff), Room -, Phone -
+	Fabio Caccioli (Academic Staff), Room GS4.06, Phone 57104
+	Matthew Caldwell (Research Staff), Room GSB.09, Phone TBA
+	Ross Callaghan (Research Student), Room TBA, Phone TBA
+	Cristina Calnegru (Research Student), Room TBA, Phone TBA
+	Neill Campbell (Research Staff), Room TBA, Phone 30357
+	Marta Campi (Research Student), Room TBA, Phone TBA
+	Liane Canas (Research Student), Room TBA, Phone TBA
+	Licia Capra (Academic Staff), Room GS3.07, Phone 57087
+	Yonita Carter (Professional Services Staff), Room GS1.07, Phone 57045
+	Tim Carter (Research Staff), Room TBA, Phone TBA
+	Tristan Caulfield (Research Staff), Room 6.07, Phone 33672
+	Marta Cecchinato (Research Student), Room GS2.06, Phone 57060
+	Andrea Cerulli (Research Student), Room 7.08, Phone 30389
+	Lisa Andreevna Chalaguine (Research Student), Room GS5.11, Phone 65317
+	Paran Chandrasekaran (Honorary Staff), Room -, Phone -
+	Pinglin Chang (Research Staff), Room TBA, Phone TBA
+	Ariane Chapelle (Honorary Staff), Room N/A, Phone N/A
+	Clovis Chapman (Research Staff), Room TBA, Phone TBA
+	Bowei Chen (Research Student), Room TBA, Phone TBA
+	Hongyi Chen (Research Staff), Room TBA, Phone TBA
+	Lawrence Cheng (Research Staff), Room TBA, Phone TBA
+	Pawel Chilinski (Research Student), Room TBA, Phone TBA
+	Phani Chinchapatnam (Research Staff), Room TBA, Phone 30339
+	Sarah Chisholm (Honorary Staff), Room N/A, Phone N/A
+	Youngjun Cho (Research Student), Room TBA, Phone TBA
+	Nathan Chong (Research Staff), Room 7.08, Phone 30383
+	Kacper Chwialkowski (Research Student), Room GS1.04, Phone 57036
+	Radu Cioata (Research Staff), Room TBA, Phone TBA
+	Kamil Ciosek (Research Student), Room 8.11, Phone 30420
+	Chris Clack (Academic Staff), Room GS4.09, Phone 57106
+	David Clark (Academic Staff), Room 6.03, Phone 37743
+	Sarah Clegg (Professional Services Staff), Room 5.22, Phone 33690
+	Marius Cobzarenco (Research Student), Room TBA, Phone TBA
+	Ben Congdon (Research Student), Room TBA, Phone TBA
+	Marios Constantinides (Research Student), Room 1ES, Phone 65260
+	Byron Cook (Academic Staff), Room 5.23, Phone 30167
+	Teresa Correia (Research Staff), Room EFB3.09, Phone 51619
+	Enrico Costanza (Academic Staff), Room TBA, Phone TBA
+	Nicolas Courtois (Academic Staff), Room 6.18, Phone 33713
+	Simon Cousins (Research Student), Room GS1.04, Phone 57038
+	Tim Cowlishaw (Research Student), Room 1ES, Phone TBA
+	Andrew Cox (Research Staff), Room TBA, Phone 30401
+	Ingemar Cox (Academic Staff), Room TBA, Phone TBA
+	Anna Cox (Academic Staff), Room GS2.14, Phone 57073
+	Domenico Cozzetto (Research Staff), Room 7.08, Phone 30375
+	Toby Cubitt (Academic Staff), Room GS3.12, Phone 57158
+	Yiran Cui (Research Student), Room GS1.10, Phone TBA
+	Jacek Dabrowski (Research Student), Room TBA, Phone TBA
+	Neil Daeche (Professional Services Staff), Room 4.20, Phone 33668
+	Fredrik Dahlqvist (Research Staff), Room 5.07, Phone 32374
+	George Danezis (Academic Staff), Room 4.13, Phone 30431
+	Santanu Dash (Research Staff), Room 4.17, Phone 33058
+	Ioannis Daskalopoulos (Research Staff), Room TBA, Phone TBA
+	Benjamin Davidson (Research Student), Room TBA, Phone TBA
+	Emiliano De Cristofaro (Academic Staff), Room 6.04, Phone 30349
+	Beatrice De Gelder (Honorary Staff), Room TBA, Phone TBA
+	Joao De Matos Monteiro (Research Student), Room 7.22, Phone 30396
+	Renzo De Nardi (Research Staff), Room TBA, Phone 30397
+	Nadish De Silva (Research Staff), Room GS4.10, Phone TBA
+	Jean Debarros (Research Staff), Room TBA, Phone TBA
+	Donald Degraen (Research Student), Room GSB.09, Phone TBA
+	Olivier Delacroix (Professional Services Staff), Room 5.17, Phone 37324
+	Yiqi Deng (Research Student), Room TBA, Phone TBA
+	Yi Deng (Research Staff), Room TBA, Phone TBA
+	Danial Dervovic (Research Student), Room GS3.14, Phone 57098
+	Christophe Dessimoz (Academic Staff), Room Darwin.631, Phone 30079
+	Nikos Dikaios (Research Staff), Room TBA, Phone TBA
+	Martin Diller (Research Student), Room TBA, Phone TBA
+	Peter Divos (Research Student), Room GS1.10, Phone 57030
+	Simon Docherty (Research Student), Room 5.07, Phone TBA
+	Steve Dodier-Lazaro (Research Student), Room TBA, Phone 33644
+	Jeanie Doel (Professional Services Staff), Room 1ES, Phone 65247
+	Larissa Dos Santos Romualdo Suzuki (Research Student), Room GS3.05, Phone 57082
+	John Dowell (Academic Staff), Room 1ES509A, Phone 65255
+	Vit Drga (Research Staff), Room GS4.15, Phone TBA
+	Ivana Drobnjak (Academic Staff), Room EFB3.07, Phone 30333
+	Jason Drummond (Research Staff), Room 1ES, Phone 71530
+	Xiaofei Du (Research Student), Room TBA, Phone TBA
+	Michael Duong (Research Student), Room TBA, Phone TBA
+	Anind Duttaroy (Research Staff), Room EFB3.09, Phone 30177
+	Juan Echeverria Guzman (Research Student), Room 1ES, Phone 65257
+	Vasiliki Efstathiou (Research Staff), Room TBA, Phone TBA
+	Matthias Ehrhardt (Research Staff), Room EFB3.09, Phone 51622
+	Muna Elmi (Research Staff), Room 4.04, Phone 33698
+	Wolfgang Emmerich (Academic Staff), Room 5.23, Phone 30167
+	Zeynep Engin (Research Staff), Room 7.08, Phone 37190
+	Miklos Espak (Research Staff), Room WH316, Phone 65529
+	Clara Essmann (Research Staff), Room 4.04, Phone 33698
+	Chris Evans (Academic Staff), Room GS2.07, Phone TBA
+	Rui Fa (Research Staff), Room TBA, Phone TBA
+	Fufu Fang (Research Student), Room TBA, Phone TBA
+	Patricia Fenoy (Professional Services Staff), Room 5.25, Phone 37214
+	Delmiro Fernandez-Reyes (Academic Staff), Room GS4.10, Phone 57147
+	Anthony Finkelstein (Academic Staff), Room TBA, Phone TBA
+	Michael Firman (Research Staff), Room GS5.12, Phone 57128
+	Nick Firth (Research Staff), Room TBA, Phone TBA
+	Pam Fisher (Research Staff), Room 1ES, Phone 65269
+	Mick Flanagan (Research Staff), Room TBA, Phone TBA
+	Rowanne Fleck (Research Staff), Room TBA, Phone 32867
+	Tristan Fletcher (Research Staff), Room , Phone 
+	Luca Franceschi (Research Student), Room TBA, Phone TBA
+	Daniel Fricke (Academic Staff), Room GS4.04, Phone TBA
+	Sebastian Friston (Research Staff), Room 1ES, Phone 65251
+	Yun Fu (Academic Staff), Room GS1.05, Phone 57035
+	Carsten Fuhs (Research Staff), Room 5.07, Phone TBA
+	Tom Furmston (Research Staff), Room , Phone 
+	Dominic Furniss (Research Staff), Room TBA, Phone 57062
+	Michal Galas (Research Staff), Room GS4.12, Phone 57110
+	Sarah Gallacher (Research Staff), Room GSB.01, Phone TBA
+	Zheng Gao (Research Student), Room TBA, Phone TBA
+	Sara Garbarino (Research Staff), Room TBA, Phone TBA
+	Stephan Garbin (Research Student), Room TBA, Phone TBA
+	Thomas Gaudelet (Research Student), Room TBA, Phone TBA
+	Carlos Gavidia (Research Student), Room TBA, Phone TBA
+	Louise Gaynor (Professional Services Staff), Room GS2.03, Phone 57050
+	Guido Germano (Academic Staff), Room GS4.07, Phone 57105
+	Essam Ghadafi (Research Staff), Room 6.22, Phone 30357
+	Aurobrata Ghosh (Research Staff), Room TBA, Phone TBA
+	Luca Giannoni (Research Student), Room TBA, Phone TBA
+	Ori Gilad (Research Staff), Room 2.20, Phone TBA
+	Daniele Giunchi (Research Staff), Room TBA, Phone TBA
+	JJ Giwa (Professional Services Staff), Room GS1.08, Phone 57001
+	Amadou Gning (Research Staff), Room TBA, Phone TBA
+	Nicolas Gold (Academic Staff), Room 5.04, Phone 37717
+	Connie Golsteijn (Research Staff), Room GSB.01, Phone 57020
+	Alejandra Gonzalez Beltran (Research Staff), Room 7.08, Phone 33645
+	Jagadeesh Gorla (Research Student), Room TBA, Phone TBA
+	Nikos Gorogiannis (Research Staff), Room TBA, Phone 45772
+	Denise Gorse (Academic Staff), Room 6.02, Phone 33712
+	Nisha Gosai (Professional Services Staff), Room 5.22, Phone 37993
+	Sandy Gould (Research Staff), Room GS2.04, Phone 57055
+	Thore Graepel (Academic Staff), Room 5.23, Phone 30167
+	David Gregory (Professional Services Staff), Room 4.20, Phone 30318
+	Harry Griffin (Research Staff), Room TBA, Phone TBA
+	Lewis Griffin (Academic Staff), Room GS4.11, Phone 57107
+	Daniel Grigat (Research Student), Room GS3.14, Phone 57163
+	Jan Grochmalicki (Research Staff), Room TBA, Phone TBA
+	Irme Groothuis (Research Staff), Room TBA, Phone TBA
+	Jens Groth (Academic Staff), Room 6.21a, Phone 33666
+	Steffen Grunewalder (Research Staff), Room TBA, Phone TBA
+	Paul Guerrero (Research Staff), Room GS5.12, Phone 57998
+	Giovani Guizzo (Research Student), Room TBA, Phone TBA
+	Andreas Gutmann (Research Student), Room TBA, Phone TBA
+	Nikola Gvozdiev (Research Student), Room 7.22, Phone 33670
+	Raza Habib (Research Student), Room GS1.04, Phone 57077
+	Tim Hackworth (Research Staff), Room TBA, Phone TBA
+	Emmanuel Hadoux (Research Staff), Room GS3.15, Phone TBA
+	Steve Hailes (Academic Staff), Room GS5.06, Phone 57116
+	Tom Haines (Research Staff), Room GSB.09, Phone 57007
+	Mohammad Hajiabadi (Research Staff), Room 6.07, Phone TBA
+	Matt Hall (Research Staff), Room TBA, Phone 30323
+	Carl Hallgren (Research Student), Room TBA, Phone TBA
+	Lianghao Han (Research Staff), Room EFB3.09, Phone 30177
+	Donggyun Han (Research Student), Room 4.17, Phone 33682
+	Mark Handley (Academic Staff), Room 6.21, Phone -
+	Sharmeen Haque (Research Staff), Room Darwin.627, Phone 37934
+	Rae Harbird (Academic Staff), Room GS5.07, Phone 57117
+	David Hardoon (Honorary Staff), Room Not based in UCL CS, Phone -
+	Mark Harman (Academic Staff), Room 4.13a, Phone 31305
+	Paul Harrald (Honorary Staff), Room N/A, Phone N/A
+	Danny Harrison (Research Student), Room GS2.12, Phone 57069
+	Charlie Harrison (Research Student), Room TBA, Phone 33005
+	Calum Harrison (Research Student), Room 7.22, Phone 30397
+	Aram Harrow (Honorary Staff), Room N/A, Phone N/A
+	David Hawkes (Academic Staff), Room EFB3.02, Phone 30321
+	Peter Hayes (Research Student), Room TBA, Phone TBA
+	Jamie Hayes (Research Student), Room 6.07, Phone 30351
+	Zhen He (Research Staff), Room TBA, Phone TBA
+	Will Heaven (Research Staff), Room TBA, Phone TBA
+	Peter Hedman (Research Student), Room GS5.12, Phone 57133
+	Johannes Heinrich (Research Student), Room TBA, Phone TBA
+	Juha Heiskala (Research Staff), Room EFB3.09, Phone 51619
+	Yusuf Helo (Research Staff), Room TBA, Phone TBA
+	Iman Hemati Moghadam (Research Staff), Room 4.17, Phone 33682
+	Mark Herbster (Academic Staff), Room GS3.02, Phone 57091
+	Melanie Herrmann (Research Student), Room GS2.12, Phone TBA
+	James Hetherington (Honorary Staff), Room N/A, Phone N/A
+	Alex Hicks (Research Student), Room TBA, Phone TBA
+	Jack Highton (Research Student), Room TBA, Phone TBA
+	Derek Hill (Honorary Staff), Room N/A, Phone N/A
+	John Hipwell (Research Staff), Room EFB3.07, Phone 32064
+	Robin Hirsch (Academic Staff), Room 5.07a, Phone 31379
+	Cathy Holloway (Academic Staff), Room GS1.06, Phone 57990
+	Natalie Holroyd (Research Student), Room TBA, Phone TBA
+	Lynette Hothi (Professional Services Staff), Room GS1.10A, Phone 57024
+	Steven Houben (Research Staff), Room TBA, Phone TBA
+	Lisa Howard (Professional Services Staff), Room GS1.10A, Phone 57096
+	David Howells (Professional Services Staff), Room 5.22, Phone 33249
+	Desi Hristova (Research Staff), Room 7.08, Phone 37219
+	Yipeng Hu (Research Staff), Room TBA, Phone TBA
+	Mingxing Hu (Research Staff), Room TBA, Phone TBA
+	Moos Hueting (Research Student), Room GS5.12, Phone 65405
+	Martin Huettemann (Research Student), Room TBA, Phone TBA
+	Daniel Hulme (Research Staff), Room TBA, Phone TBA
+	Anthony Hunter (Academic Staff), Room GS4.14, Phone 57113
+	Zakria Hussain (Research Staff), Room , Phone 
+	Jo Iacovides (Research Staff), Room GS2.06, Phone 57058
+	Lucio Idone (Research Student), Room TBA, Phone TBA
+	Colin Ife (Research Student), Room 4.02, Phone 33495
+	Corneliu Ilisescu (Research Staff), Room GS5.12, Phone 57138
+	Philip Inglesant (Research Staff), Room TBA, Phone TBA
+	Carlo Innamorati (Research Student), Room GS5.11, Phone 56448
+	David Insa (Research Student), Room TBA, Phone TBA
+	Thanapong Intharah (Research Student), Room GS5.12, Phone 57130
+	Christos Ioannidis (Honorary Staff), Room TBA, Phone TBA
+	Mobeen Iqbal (Research Student), Room TBA, Phone TBA
+	Marios Isaakidis (Research Student), Room TBA, Phone TBA
+	Syed Islam (Research Staff), Room , Phone 
+	Hadiza Ismaila (Research Student), Room TBA, Phone TBA
+	Nicolas Jaccard (Research Staff), Room GS5.12, Phone 57136
+	Joseph Jacobs (Research Student), Room TBA, Phone TBA
+	Vincent Jacques (Research Staff), Room TBA, Phone TBA
+	Afra Jahanbakhsh Mashhadi (Research Staff), Room TBA, Phone TBA
+	Gunel Jahangirova (Research Student), Room TBA, Phone TBA
+	Sune Jakobsen (Research Staff), Room 6.07, Phone 30644
+	Stuart James (Research Staff), Room GS5.12, Phone 57129
+	Kyle Jamieson (Academic Staff), Room 5.23, Phone 30167
+	Mirek Janatka (Research Student), Room TBA, Phone TBA
+	Ana Javornik (Research Student), Room TBA, Phone TBA
+	Charlene Jennett (Research Staff), Room GS2.12, Phone 57072
+	Paul Jennings (Honorary Staff), Room N/A, Phone N/A
+	Christian Jetter (Research Staff), Room TBA, Phone 30424
+	Sebastian Jeuk (Research Student), Room TBA, Phone TBA
+	Yue Jia (Academic Staff), Room 5.03, Phone 33673
+	Bangti Jin (Academic Staff), Room 6.11, Phone 51617
+	Leonid Joffe (Research Student), Room TBA, Phone TBA
+	Stian Johnsen (Research Staff), Room WH316, Phone 65529
+	Rose Johnson (Research Staff), Room GS3.06, Phone 57083
+	Geraint Jones (Research Student), Room GSB.01, Phone 57017
+	David Jones (Academic Staff), Room 6.17, Phone 37982
+	Geoffrey Jones (Research Student), Room TBA, Phone TBA
+	Katrina Joyce (Research Staff), Room 7.22, Phone 30398
+	Zhaojie Ju (Research Staff), Room 5.08, Phone 30341
+	Simon Julier (Academic Staff), Room GS5.04, Phone 57114
+	Nils Jungbacke (Research Student), Room TBA, Phone TBA
+	Enrico Kaden (Research Staff), Room TBA, Phone TBA
+	Monde Kalumbilo (Research Student), Room TBA, Phone TBA
+	Stelios Kampakis (Research Student), Room TBA, Phone TBA
+	Aytac Kanaci (Research Staff), Room GSB.09, Phone TBA
+	Vytautas Kancleris (Research Student), Room TBA, Phone TBA
+	Max Kanovich (Research Staff), Room 7.22, Phone 30394
+	Leslie Kanthan (Research Student), Room 7.22, Phone 30394
+	Tobias Kappe (Research Student), Room GS3.05, Phone 56023
+	Savvas Karagiannidis (Research Student), Room TBA, Phone TBA
+	Joel Kariel (Research Student), Room TBA, Phone TBA
+	Andrea Karlova (Research Student), Room 7.22, Phone 30156
+	Brad Karp (Academic Staff), Room 6.20, Phone 30406
+	Jason Kastanis (Research Staff), Room Not based in UCL CS, Phone -
+	Sebastian Kay (Research Student), Room TBA, Phone TBA
+	Danil Kazantsev (Research Staff), Room 2.20, Phone TBA
+	Tom Kelly (Research Staff), Room GS5.12, Phone TBA
+	Tahir Khan (Research Staff), Room TBA, Phone TBA
+	Pankaj Khanna (Research Staff), Room TBA, Phone TBA
+	Kareem Khazem (Research Student), Room 5.07, Phone 33696
+	Heidy Khlaaf (Research Student), Room 5.07, Phone 32648
+	Pascal Khoury (Research Student), Room TBA, Phone TBA
+	Martin Kilian (Research Staff), Room TBA, Phone TBA
+	Min Hyuk Kim (Research Staff), Room TBA, Phone TBA
+	Mital Kinderkhedia (Research Student), Room GS3.14, Phone 57096
+	Peter Kirstein (Academic Staff), Room GS3.03, Phone 57076
+	Annina Klapper (Research Staff), Room TBA, Phone TBA
+	Graham Knight (Academic Staff), Room TBA, Phone TBA
+	Lisa Koeman (Research Student), Room GSB.01, Phone 57023
+	Iason Kokkinos (Academic Staff), Room GS1.10B, Phone TBA
+	Volha Kolchyna (Research Student), Room GS1.10, Phone 57028
+	Aleksandar Kolev (Research Student), Room TBA, Phone TBA
+	Bongjin Koo (Research Student), Room GS5.11, Phone 57125
+	Adriano Koshiyama (Research Student), Room TBA, Phone TBA
+	Artur Kotlicki (Research Student), Room TBA, Phone TBA
+	Ghita Kouadri Mostefaoui (Academic Staff), Room GS1.09, Phone 57034
+	Andreas Koukorinis (Research Student), Room TBA, Phone TBA
+	Kasia Kozdon (Research Student), Room TBA, Phone TBA
+	Jens Krinke (Academic Staff), Room 5.06, Phone 37754
+	Aaron Kujawa (Research Student), Room TBA, Phone TBA
+	Jagun Kwon (Research Staff), Room GS5.07, Phone 57118
+	Savannah Lahtinen (Professional Services Staff), Room 5.25, Phone 37212
+	Kiran Lakhotia (Research Staff), Room TBA, Phone 32560
+	Paul-Kilian Lamanna (Research Student), Room TBA, Phone TBA
+	Vasileios Lampos (Research Staff), Room 1ES, Phone 65392
+	Gerasimos Lampouras (Research Staff), Room 1ES, Phone TBA
+	Nic Lane (Academic Staff), Room GS4.10, Phone TBA
+	Bill Langdon (Research Staff), Room 4.17, Phone 33168
+	Sven Laqua (Research Staff), Room TBA, Phone 51068
+	Neal Lathia (Research Staff), Room Not based in UCL CS, Phone -
+	Donald Lawrence (Academic Staff), Room 6.24, Phone 30362
+	Zuzanna Lechelt (Research Student), Room TBA, Phone TBA
+	Emmanuel Letier (Academic Staff), Room 6.05, Phone 34477
+	Kelvin Leung (Research Staff), Room TBA, Phone 30325
+	Guy Lever (Research Staff), Room , Phone 
+	Jiwei Li (Research Student), Room 7.22, Phone 30156
+	Zhaoping Li (Academic Staff), Room 5.05, Phone 32850
+	Jie Li (Research Student), Room 1ES, Phone 65263
+	Lingbo Li (Research Student), Room 4.17, Phone 37026
+	Peng Li (Research Staff), Room TBA, Phone 33673
+	Shangsong Liang (Research Staff), Room TBA, Phone TBA
+	Joseph Lillington (Research Student), Room TBA, Phone TBA
+	Ye-Sheen Lim (Research Student), Room 7.08, Phone 30377
+	Soo Ling Lim (Research Staff), Room TBA, Phone TBA
+	Xiaoran Liu (Research Student), Room TBA, Phone TBA
+	Qi Liu (Research Student), Room TBA, Phone TBA
+	Can Liu (Research Staff), Room GSB.01, Phone TBA
+	Giacomo Livan (Academic Staff), Room GS4.12, Phone 57108
+	Josh Lockhart (Research Student), Room TBA, Phone TBA
+	Nicola Lockwood (Research Student), Room TBA, Phone TBA
+	Sally Longley (Professional Services Staff), Room 5.22, Phone 33674
+	Alexandre Lopes (Research Student), Room TBA, Phone TBA
+	Hugo Lopez Tovar (Research Student), Room 1ES, Phone 65256
+	Zhihan Lu (Research Staff), Room GS5.12, Phone 57152
+	Felix Lucka (Research Staff), Room EFB3.03, Phone TBA
+	Gemma Ludbrook (Professional Services Staff), Room TBA, Phone TBA
+	Rui Luo (Research Student), Room TBA, Phone TBA
+	Imogen Lyons (Research Staff), Room GS2.06, Phone 57059
+	Oisin Mac Aodha (Research Staff), Room , Phone 
+	Shah Mahmood (Research Student), Room TBA, Phone TBA
+	Stephann Makri (Research Staff), Room 8.11, Phone 30695
+	Dimitri Malandreniotis (Research Student), Room GS1.04, Phone TBA
+	Kleanthis Malialis (Research Staff), Room 1ES, Phone TBA
+	Mary Maller (Research Student), Room TBA, Phone TBA
+	Noel Malod-Dognin (Research Staff), Room Darwin6.31, Phone TBA
+	Emma Malone (Research Staff), Room TBA, Phone TBA
+	Richard Manber (Research Staff), Room TBA, Phone TBA
+	Mateusz Manikowski (Research Student), Room TBA, Phone TBA
+	Andrew Mann (Research Student), Room TBA, Phone TBA
+	Saini Manninen (Professional Services Staff), Room 5.22, Phone TBA
+	Ke Mao (Research Student), Room TBA, Phone TBA
+	Steve Marchant (Professional Services Staff), Room 5.21, Phone 33675
+	Alexandru Marginean (Research Student), Room TBA, Phone TBA
+	Enrico Mariconti (Research Student), Room TBA, Phone TBA
+	Dean Markwick (Research Student), Room TBA, Phone TBA
+	Maciej Marowka (Research Student), Room TBA, Phone TBA
+	Nicolai Marquardt (Academic Staff), Room GS2.08, Phone 57065
+	Paul Marshall (Academic Staff), Room GS2.09, Phone 57066
+	James Martin (Research Student), Room EFB3.09, Phone 30177
+	William Martin (Research Student), Room 4.17, Phone 33681
+	Rebecca Martin (Professional Services Staff), Room 5.22, Phone 30481
+	Afsaneh Mastouri (Research Student), Room TBA, Phone TBA
+	Jacques Matalon (Research Student), Room TBA, Phone TBA
+	Vasileios Mavroudis (Research Student), Room 6.07, Phone 33643
+	Keith May (Research Staff), Room TBA, Phone TBA
+	Evangelos Mazomenos (Research Staff), Room TBA, Phone TBA
+	Rodrigo Mazorra Blanco (Research Student), Room TBA, Phone TBA
+	Jamie McClelland (Research Staff), Room EFB3.09, Phone 30177
+	Andrew McDonald (Research Student), Room GS3.14, Phone 57097
+	Brett McLean (Research Student), Room TBA, Phone TBA
+	Graeme McPhillips (Professional Services Staff), Room 4.20, Phone 51060
+	Jan Medvesek (Research Staff), Room TBA, Phone TBA
+	Rishabh Mehrotra (Research Student), Room 1ES, Phone 65249
+	Sarah Meiklejohn (Academic Staff), Room 6.06, Phone 30431
+	Sebastian Meiser (Research Staff), Room 4.23, Phone TBA
+	Luca Melis (Research Student), Room 6.07, Phone TBA
+	Nicolas Mellado (Research Staff), Room TBA, Phone TBA
+	Hector Menendez (Research Staff), Room 4.17, Phone 54042
+	Kyriaki Mengoudi (Research Student), Room TBA, Phone TBA
+	Thomy Mertzanidou (Research Staff), Room EFB3.09, Phone 30177
+	Saira Mian (Honorary Staff), Room N/A, Phone N/A
+	Marios Michailidis (Research Student), Room TBA, Phone TBA
+	Marco Micucci (Research Student), Room TBA, Phone TBA
+	Roger Millichamp (Research Staff), Room TBA, Phone TBA
+	Pasquale Minervini (Research Staff), Room 1ES, Phone TBA
+	Jeff Mitchell (Research Staff), Room 1ES, Phone TBA
+	Niloy Mitra (Academic Staff), Room GS5.05, Phone 57115
+	Gautam Mitra (Honorary Staff), Room N/A, Phone N/A
+	Bhaskar Mitra (Research Student), Room TBA, Phone TBA
+	Alexandros Mittos (Research Student), Room 4.02, Phone 31329
+	Dean Mohamedally (Academic Staff), Room GS1.05, Phone 57035
+	Wallizada Mohibullah (Research Student), Room TBA, Phone TBA
+	Behzad Momahed Heravi (Research Staff), Room GS5.11, Phone 57123
+	Aron Monszpart (Research Student), Room GS5.12, Phone 57132
+	Kimberly Moravec (Research Staff), Room TBA, Phone TBA
+	Dafne Morgado Ramirez (Research Staff), Room GS2.12, Phone 57070
+	Stephen Morrell (Research Student), Room TBA, Phone TBA
+	Anthony Morton (Research Student), Room TBA, Phone TBA
+	Janaina Mourao-Miranda (Academic Staff), Room Inst of Neurology, Phone TBA
+	Andrew Mpapalika (Research Student), Room TBA, Phone TBA
+	Jann Mueller (Research Student), Room TBA, Phone TBA
+	Maria Murcia Lopez (Research Student), Room 1ES, Phone 65686
+	Steven Murdoch (Academic Staff), Room 6.06, Phone 30431
+	Russell Murdoch (Research Student), Room TBA, Phone TBA
+	Rafal Muszynski (Research Student), Room TBA, Phone TBA
+	Dimitris Mylonas (Research Student), Room TBA, Phone TBA
+	Mohsen Naderi (Research Student), Room TBA, Phone TBA
+	Prakash Naidu (Research Staff), Room 4.04, Phone 54315
+	Jason Narad (Research Staff), Room 1ES, Phone 65612
+	Juan Navarro Perez (Honorary Staff), Room N/A, Phone N/A
+	Ana Neves (Research Staff), Room TBA, Phone TBA
+	Joe Newbold (Research Student), Room GS2.04, Phone 57052
+	Andrew Newell (Research Staff), Room 5.09, Phone 31371
+	Nicola Newhouse (Research Student), Room GS3.06, Phone 57084
+	Konstantinos Nikitopoulos (Research Staff), Room TBA, Phone TBA
+	Georgios Nikolaidis (Research Student), Room 7.22, Phone 30400
+	Kaustubh Nimkar (Research Student), Room GS.G2, Phone 45771
+	Kawsar Noor (Research Student), Room TBA, Phone TBA
+	Paul Norvaisas (Research Student), Room TBA, Phone TBA
+	Gordana Novakovic (Research Staff), Room TBA, Phone TBA
+	Stefano Novello (Research Student), Room TBA, Phone TBA
+	Giuseppe Nuti (Research Staff), Room Not based in UCL CS, Phone -
+	Bev Nutter (Research Student), Room 4.02, Phone 30425
+	Rickard Nyman (Research Student), Room TBA, Phone TBA
+	Lydia O'Donoghue (Professional Services Staff), Room 5.22, Phone 33690
+	Piers O'Hanlon (Research Staff), Room TBA, Phone TBA
+	Peter O'Hearn (Academic Staff), Room 5.23, Phone 30167
+	Aisling O'Kane (Research Student), Room GS4.08, Phone 57153
+	Freddy Odille (Research Staff), Room 2.20, Phone TBA
+	Lukasz Olejnik (Research Staff), Room TBA, Phone TBA
+	Manuel Oliveira (Research Staff), Room , Phone 
+	Temitayo Olugbade (Research Student), Room GS2.04, Phone 57053
+	Siti Faizah Omar (Research Student), Room TBA, Phone TBA
+	Jeremiah Onaolapo (Research Student), Room 6.22, Phone 34319
+	Yean Hoon Ong (Research Student), Room TBA, Phone TBA
+	Olawole Oni (Research Student), Room 7.08, Phone 30156
+	Lucky Onwuzurike (Research Student), Room 6.22, Phone 30360
+	Alberto Ottolenghi (Research Staff), Room GS3.15, Phone 57040
+	Sebastien Ourselin (Academic Staff), Room EFB3.03, Phone 33023
+	Kehinde Owoeye (Research Student), Room TBA, Phone TBA
+	Neil Oxtoby (Research Staff), Room EFB3.09, Phone TBA
+	Krittin Pachtrachai (Research Student), Room TBA, Phone TBA
+	Matheus Paixao (Research Student), Room TBA, Phone TBA
+	Samuel Palmer (Research Student), Room GS1.04, Phone 57039
+	Marco Palombo (Research Staff), Room TBA, Phone TBA
+	Ye Pan (Research Staff), Room 1ES, Phone 65250
+	Eleftheria Panagiotaki (Research Staff), Room EFB3.09, Phone 51619
+	Christos Panagiotou (Research Staff), Room , Phone 
+	Efstathios Panayi (Research Student), Room GS4.12, Phone 57109
+	Giuseppe Pappalardo (Research Staff), Room TBA, Phone TBA
+	Simon Parkin (Research Staff), Room 6.07, Phone 30352
+	Louis Parlant (Research Student), Room TBA, Phone TBA
+	Martin Parsley (Research Staff), Room TBA, Phone TBA
+	Samuel Parsons (Research Student), Room GS1.10, Phone 57033
+	Profir-Petru Partachi (Research Student), Room TBA, Phone TBA
+	Stephen Pasteris (Research Student), Room GS3.14, Phone 57094
+	Filip Paszkiewicz (Research Student), Room TBA, Phone TBA
+	Zabeen Patel (Research Staff), Room Off site, Phone Not available
+	Vijay Pawar (Research Staff), Room 4.04, Phone 33698
+	Alan Payne (Research Staff), Room -, Phone -
+	Jo Pearson (Professional Services Staff), Room GS2.03, Phone 57043
+	Fabrizio Pece (Research Student), Room TBA, Phone TBA
+	Adrian Penate-Sanchez (Research Staff), Room TBA, Phone TBA
+	Chi-Han Peng (Research Staff), Room TBA, Phone TBA
+	Charlotte Penny (Professional Services Staff), Room GS1.10B, Phone 57150
+	Zachary Peterson (Honorary Staff), Room 7.02, Phone TBA
+	Christophe Petit (Research Staff), Room TBA, Phone TBA
+	Justyna Petke (Research Staff), Room 4.17, Phone 37172
+	Khoa Pham (Research Student), Room TBA, Phone TBA
+	Carolyn Phelan (Research Student), Room GS1.10, Phone 56449
+	Ross Phillips (Research Student), Room TBA, Phone TBA
+	Giacomo Pietronero (Research Student), Room TBA, Phone TBA
+	Anna Piotrowska (Research Student), Room 6.22, Phone 33702
+	Nikolaos Pitelis (Research Student), Room GSB.09, Phone 57013
+	Luis Pizarro (Research Staff), Room TBA, Phone TBA
+	Sylwia Polberg (Research Staff), Room GS3.05, Phone TBA
+	Massimiliano Pontil (Academic Staff), Room GS3.16, Phone 57075
+	Deborah Pope (Professional Services Staff), Room 4.18, Phone 33556
+	Chris Porter (Research Student), Room TBA, Phone TBA
+	Liana Portugal (Research Staff), Room TBA, Phone TBA
+	Kyrill Potapov (Research Student), Room TBA, Phone TBA
+	Samuel Powell (Research Staff), Room EFB3.18, Phone 30273
+	Ferran Prados Carrasco (Research Staff), Room WH310, Phone 65525
+	Surya Prerapa (Research Staff), Room TBA, Phone TBA
+	Natasa Przulj (Academic Staff), Room Darwin6.35, Phone 32235
+	Nora Ptakauskaite (Research Student), Room TBA, Phone TBA
+	David Pym (Academic Staff), Room 6.19, Phone 51193
+	Apostolos Pyrgelis (Research Student), Room 6.22, Phone 37353
+	Binjie Qin (Research Staff), Room EFB3.07, Phone TBA
+	Giovanni Quattrone (Honorary Staff), Room N/A, Phone N/A
+	Filip Radlinski (Honorary Staff), Room N/A, Phone N/A
+	Chaiyong Ragkhitwetsagul (Research Student), Room TBA, Phone TBA
+	Abdul Rahman (Professional Services Staff), Room 4.20, Phone 30317
+	Franco Raimondi (Research Staff), Room , Phone 
+	Gilles Rainer (Research Student), Room GSB.09, Phone 57011
+	Amanah Ramadiah (Research Student), Room TBA, Phone TBA
+	Roxana Ramirez Herrera (Research Student), Room TBA, Phone TBA
+	Anil Rao (Research Staff), Room 7.22, Phone 30399
+	Ajay Rathor (Research Student), Room TBA, Phone TBA
+	Peter Rennert (Research Student), Room GSB.09, Phone 57008
+	Antonio Ricciardi (Research Student), Room TBA, Phone TBA
+	Oliver Rice (Research Student), Room TBA, Phone TBA
+	Wendy Richards (Professional Services Staff), Room 5.17, Phone 37081
+	Ged Ridgway (Research Staff), Room 2.20, Phone 30218
+	Sebastian Riedel (Academic Staff), Room 1ES509A, Phone 65254
+	Jacob Rigby (Research Student), Room GS2.12, Phone 57083
+	Laura Riggall (Research Student), Room TBA, Phone TBA
+	Erik Rijkhorst (Research Staff), Room TBA, Phone TBA
+	Tobias Ritschel (Academic Staff), Room GS3.09, Phone 57397
+	Julian Ritter (Research Student), Room TBA, Phone TBA
+	Graham Roberts (Academic Staff), Room GS1.03, Phone 57047
+	James Robinson (Research Student), Room TBA, Phone TBA
+	Maria Robu (Research Student), Room EFB3.09, Phone TBA
+	Tim Rocktaschel (Research Student), Room 1ES, Phone 65403
+	Yvonne Rogers (Academic Staff), Room GS2.13, Phone 57073
+	Jane Rondina (Research Staff), Room TBA, Phone TBA
+	Maria Rosa (Research Staff), Room TBA, Phone TBA
+	Roland Rosner (Honorary Staff), Room N/A, Phone N/A
+	Ferran Roure (Research Student), Room TBA, Phone TBA
+	Robin Roussel (Research Student), Room TBA, Phone TBA
+	Aitor Rovira Perez (Research Staff), Room GSB.09, Phone 57005
+	Reuben Rowe (Research Staff), Room 5.07, Phone TBA
+	Angel Ruiz-Zafra (Research Staff), Room TBA, Phone TBA
+	Francesc Rullan (Research Student), Room TBA, Phone TBA
+	Martin Runz (Research Student), Room GSB09, Phone 57190
+	Chris Russell (Research Staff), Room TBA, Phone TBA
+	Marzieh Saeidi (Research Student), Room 7.07, Phone 51630
+	Johannes Saenger (Research Student), Room TBA, Phone TBA
+	Lynne Salameh (Research Student), Room 7.22, Phone 30379
+	Pariya Salehi (Research Student), Room 7.08, Phone 51043
+	Eduard Sariev (Research Student), Room TBA, Phone TBA
+	Federica Sarro (Research Staff), Room 4.17, Phone 37289
+	Angela Sasse (Academic Staff), Room 6.14, Phone 37212
+	Jill Saunders (Professional Services Staff), Room 5.19, Phone 37290
+	Julia Savage (Professional Services Staff), Room 5.21, Phone 30327
+	Savvas Savvidis (Research Student), Room TBA, Phone TBA
+	Martin Schoernig (Honorary Staff), Room N/A, Phone N/A
+	Jessica Schrouff (Research Staff), Room TBA, Phone TBA
+	Britta Schulte (Research Student), Room TBA, Phone TBA
+	Martin Schweiger (Research Staff), Room EFB3.08, Phone 37213
+	Katie Seaborn (Research Staff), Room GSB.01, Phone 57018
+	Will Seager (Research Staff), Room TBA, Phone TBA
+	Nassim Seghir (Research Staff), Room 4.17, Phone TBA
+	Abigail Sellen (Honorary Staff), Room N/A, Phone N/A
+	Ilya Sergey (Academic Staff), Room 5.02, Phone 30319
+	Antoaneta Serguieva (Academic Staff), Room GS1.02, Phone 57048
+	Simone Severini (Academic Staff), Room GS3.13, Phone 57093
+	Harshil Shah (Research Student), Room TBA, Phone TBA
+	John Shawe-Taylor (Academic Staff), Room 5.14, Phone 37680
+	Peiteng Shi (Research Student), Room TBA, Phone TBA
+	Venus Shum (Research Staff), Room GSB.01, Phone 57015
+	Orowa Sikde (Research Student), Room TBA, Phone TBA
+	Alexandra Silva (Academic Staff), Room GS3.11, Phone 57156
+	David Silver (Research Staff), Room TBA, Phone TBA
+	Elena Simaitiene (Research Student), Room GS1.04, Phone 57037
+	Ivor Simpson (Research Staff), Room WH310, Phone 65525
+	Mark Sinclair (Research Staff), Room TBA, Phone TBA
+	Aneesha Singh (Research Student), Room GS2.04, Phone 57054
+	Gaurav Singh (Research Student), Room 7.08, Phone 30374
+	Ilias Sioutis (Research Student), Room TBA, Phone TBA
+	Bernard Siow (Research Staff), Room TBA, Phone TBA
+	Grigorios Skolidis (Research Staff), Room TBA, Phone TBA
+	Efstratios Skordos (Research Student), Room TBA, Phone TBA
+	Mel Slater (Academic Staff), Room GS3.16, Phone 57102
+	Paddy Slator (Research Staff), Room EFB3.09, Phone TBA
+	Marc Sloan (Research Student), Room 1ES, Phone 65266
+	Christopher Smith (Research Staff), Room TBA, Phone TBA
+	Rob Smith (Academic Staff), Room TBA, Phone TBA
+	Vadim Soloviev (Research Staff), Room EFB3.08, Phone 33679
+	Nissy Sombatruang (Research Student), Room 6.07, Phone TBA
+	Guangyan Song (Research Student), Room 6.22, Phone 33702
+	Tharsis Souza (Research Student), Room GS1.10, Phone TBA
+	Rachel Sparks (Research Staff), Room WH316, Phone 65529
+	Georgios Spithourakis (Research Student), Room 1ES, Phone 65407
+	Jonathan Spring (Research Student), Room TBA, Phone TBA
+	Srini Srinivasan (Academic Staff), Room 6.24, Phone 37285
+	Ronnie Stafford (Research Student), Room GS3.04, Phone 57079
+	Dimitrios Stamos (Research Student), Room TBA, Phone TBA
+	Andrew Starling (Research Student), Room TBA, Phone TBA
+	Kathy Stawarz (Research Student), Room GS2.06, Phone 32175
+	Anthony Steed (Academic Staff), Room GS4.13, Phone 57112
+	Pontus Stenetorp (Research Staff), Room TBA, Phone TBA
+	William Steptoe (Research Staff), Room TBA, Phone TBA
+	Henry Stone (Research Student), Room TBA, Phone TBA
+	Dan Stoyanov (Academic Staff), Room EFB3.07, Phone 47645
+	Harry Strange (Academic Staff), Room GS1.04A, Phone 57051
+	Gianluca Stringhini (Academic Staff), Room 7.02, Phone 33168
+	Rob Stuart-Smith (Research Staff), Room TBA, Phone TBA
+	Guillermo Suarez de Tangil (Research Staff), Room 4.02, Phone TBA
+	Pavle Subotic (Research Student), Room TBA, Phone TBA
+	Kartic Subr (Research Staff), Room TBA, Phone TBA
+	Yuxin Sun (Research Student), Room 7.08, Phone 34142
+	David Swapp (Professional Services Staff), Room G01d, Phone 37211
+	Nigel Swift (Professional Services Staff), Room 4.20, Phone 33660
+	Andrew Symington (Research Staff), Room TBA, Phone TBA
+	Alejandro Sztrajman (Research Staff), Room G07, Phone 1234
+	Ben Tagger (Research Staff), Room TBA, Phone TBA
+	Ana Tajadura Jimenez (Research Staff), Room GS2.04, Phone 57056
+	Bo Tan (Research Staff), Room 7.08, Phone 30383
+	Hai Yu Tan (Research Staff), Room TBA, Phone TBA
+	Christine Tanner (Research Staff), Room TBA, Phone TBA
+	Ryutaro Tanno (Research Student), Room TBA, Phone TBA
+	Maira Tariq (Research Student), Room TBA, Phone TBA
+	Tanja Tarvainen (Research Staff), Room TBA, Phone TBA
+	Sean Taylor (Professional Services Staff), Room 5.22, Phone 37937
+	Kevin Tchaka (Research Staff), Room TBA, Phone TBA
+	Gadi Tellez Espinosa (Research Student), Room 5.07, Phone TBA
+	Jacob Thorn (Research Student), Room TBA, Phone TBA
+	Zheng Tian (Research Student), Room TBA, Phone TBA
+	Denis Timm (Professional Services Staff), Room 4.21, Phone 37283
+	Dorota Toczydlowska (Research Student), Room GS5.11, Phone 57124
+	Raphael Toledo (Research Student), Room 6.22, Phone 37329
+	Denis Tome (Research Student), Room GS5.11, Phone 57131
+	Johannes Totz (Research Staff), Room TBA, Phone TBA
+	James Townsend (Research Student), Room GS1.12, Phone TBA
+	Elena Tran (Research Student), Room TBA, Phone TBA
+	Martin Traunmueller (Research Student), Room GSB.01, Phone 57022
+	Philip Treleaven (Academic Staff), Room 6.13, Phone 37288
+	Mara Tribull (Research Student), Room TBA, Phone TBA
+	Prodromos Tsiavos (Research Staff), Room 1ES, Phone 65406
+	Sachapon Tungsong (Research Student), Room GS1.10, Phone 57026
+	Nilufer Tuptuk (Research Student), Room GS5.07, Phone 57118
+	Daniyar Turmukhambetov (Research Student), Room GS5.12, Phone 57185
+	Sarah Turnbull (Professional Services Staff), Room GS1.07, Phone 57042
+	Nick Turpin (Professional Services Staff), Room 4.18, Phone 32761
+	Dave Twisleton (Professional Services Staff), Room 4.18, Phone 33667
+	David Twomey (Research Student), Room 7.08, Phone 51043
+	Muhammad Usman (Research Staff), Room EFB3.08, Phone TBA
+	Gerrit Van Heerdt (Research Student), Room GS3.05, Phone 57094
+	Marcel Van Herk (Research Staff), Room EFB308, Phone TBA
+	Stephan Van Staden (Research Staff), Room 7.08, Phone 30387
+	Elwin Van t Wout (Research Staff), Room EFB3.09, Phone TBA
+	Socrates Varakliotis (Research Staff), Room TBA, Phone TBA
+	Hugh Varilly (Honorary Staff), Room N/A, Phone N/A
+	Manisha Verma (Research Student), Room 1ES, Phone 65264
+	Sara Vicente (Research Staff), Room TBA, Phone TBA
+	Jules Villard (Research Staff), Room TBA, Phone 45772
+	Chris Vincent (Research Staff), Room GS2.06, Phone 57057
+	Stefano Vissicchio (Academic Staff), Room TBA, Phone TBA
+	Andreas Vlachos (Research Staff), Room 1ES, Phone 65395
+	Jolien Vos (Research Staff), Room TBA, Phone TBA
+	Cen Wan (Research Staff), Room TBA, Phone TBA
+	Jun Wang (Academic Staff), Room GS3.08, Phone 57089
+	Pengfei Wang (Research Student), Room TBA, Phone TBA
+	Tuanfeng Wang (Research Student), Room GS5.12, Phone 57137
+	Tiantian Wang (Research Staff), Room TBA, Phone TBA
+	Xue Wang (Research Staff), Room TBA, Phone TBA
+	Tingting Wang (Research Student), Room 7.22, Phone 30396
+	Hao Wang (Research Student), Room TBA, Phone TBA
+	Sean Ward (Research Staff), Room TBA, Phone TBA
+	Caroline Wardle (Honorary Staff), Room N/A, Phone N/A
+	Mark Warner (Research Student), Room 4.02, Phone 30224
+	John Washbrook (Honorary Staff), Room N/A, Phone N/A
+	Johannes Welbl (Research Student), Room 1ES, Phone 65228
+	Hannah West (Research Student), Room TBA, Phone TBA
+	Stephen Weston (Honorary Staff), Room TBA, Phone TBA
+	Tim Weyrich (Academic Staff), Room GS5.09, Phone 57121
+	David White (Academic Staff), Room 4.17, Phone 31300
+	Steve Wilbur (Honorary Staff), Room N/A, Phone N/A
+	Tracy Williams (Professional Services Staff), Room 5.22, Phone 37287
+	Duncan Wilson (Honorary Staff), Room N/A, Phone N/A
+	Sam Windels (Research Student), Room TBA, Phone TBA
+	Sarah Wiseman (Research Staff), Room 8.18, Phone 37849
+	Name Withheld: Desktop and Applications Support (Professional Services Staff), Room 4.20, Phone 33706
+	Name Withheld: Research Student (Research Student), Room 7.08, Phone 30376
+	Name Withheld: Research Student (Research Student), Room TBA, Phone TBA
+	Name Withheld: Research Systems Developer (Professional Services Staff), Room 4.20, Phone 30316
+	Name Withheld: UNIX Systems Administrator (Professional Services Staff), Room 4.20, Phone 33685
+	Zbigniew Wojna (Research Student), Room TBA, Phone TBA
+	David Wong (Research Staff), Room TBA, Phone TBA
+	Mischa Woods (Research Staff), Room GS4.12, Phone 57141
+	Daniel Worrall (Research Student), Room GS5.12, Phone 57140
+	Jack Wratten (Honorary Staff), Room TBA, Phone TBA
+	Yixin Wu (Research Student), Room TBA, Phone TBA
+	Fan Wu (Research Student), Room 4.17, Phone 33058
+	Peng Wu (Research Staff), Room TBA, Phone TBA
+	Jie Xiong (Research Student), Room 7.08, Phone 33687
+	Yaodong Yang (Research Student), Room TBA, Phone TBA
+	Ifat Yasin (Academic Staff), Room GS4.15, Phone 57159
+	Emine Yilmaz (Academic Staff), Room GS1.04A, Phone 65267
+	Alexandra Young (Research Student), Room TBA, Phone TBA
+	Jonathan Young (Research Student), Room WH309, Phone 65524
+	Richard Young (Research Staff), Room -, Phone -
+	Rui Yu (Research Student), Room GSB.09, Phone 65251
+	Insu Yu (Research Staff), Room TBA, Phone TBA
+	Qizhi Yu (Research Staff), Room TBA, Phone TBA
+	Shuai Yuan (Research Student), Room TBA, Phone TBA
+	Benjamin Yvernault (Research Staff), Room TBA, Phone TBA
+	Athanasios Zacharopoulos (Research Staff), Room TBA, Phone TBA
+	Anosh Zahir (Research Student), Room GS1.04, Phone 57031
+	Fabio Zanasi (Academic Staff), Room GS3.03, Phone TBA
+	Octavio Baltasar Zapata Fonseca (Research Student), Room 7.08, Phone 33645
+	Anna Zaremba (Research Student), Room GS5.11, Phone 57124
+	Stefan Zasada (Research Student), Room TBA, Phone TBA
+	Fokion Zervoudakis (Research Staff), Room TBA, Phone TBA
+	Haoyun Zhan (Research Staff), Room 4.04, Phone 33698
+	Changwang Zhang (Research Student), Room 1ES, Phone 65259
+	Yuanyuan Zhang (Research Staff), Room 4.17, Phone 33495
+	Lining Zhang (Research Staff), Room TBA, Phone TBA
+	Weinan Zhang (Research Student), Room 1ES, Phone TBA
+	Binsheng Zhang (Research Student), Room TBA, Phone TBA
+	Chen Zhang (Research Student), Room TBA, Phone TBA
+	Jiaying Zhang (Research Student), Room TBA, Phone TBA
+	Gary Zhang (Academic Staff), Room EFB3.03, Phone 51620
+	Xiaoxue Zhao (Research Student), Room 1ES, Phone 65261
+	Ilya Zheludev (Research Student), Room TBA, Phone TBA
+	Juan Zhou (Research Student), Room 7.08, Phone 30391
+	Shi Zhou (Academic Staff), Room GS3.08, Phone 57088
+	Xiahai Zhuang (Research Staff), Room 5.07, Phone 30177
+	Astrit Zhushi (Research Student), Room 7.22, Phone 33033
+	Karina Zile (Research Student), Room Darwin.636, Phone TBA
+	Zoltan Zimboras (Research Staff), Room GS3.15, Phone 57098
+	Blaz Zlicar (Research Student), Room GS1.04, Phone 57041
+	Mircea Zloteanu (Research Staff), Room TBA, Phone TBA
+	Gergely Zombori (Research Staff), Room WH316, Phone 65529
+	Bin Zou (Research Student), Room 1ES, Phone 65675
+	Maria A Zuluaga Valencia (Research Staff), Room WH309, Phone 65524
+
+ 
+                
+ 
+               
+ 
+                
+              
+ 
+               
+             
+ 
+            
+ 
+           
+ 
+          
+ 
+           
+           
+         
+ 
+          
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 27 Mar 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

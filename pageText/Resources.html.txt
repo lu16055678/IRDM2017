@@ -1,0 +1,422 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› MSc CGVI ›› Resources 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+         
+         
+          
+         
+          
+           
+            
+             
+              
+             
+
+            
+
+           
+
+          
+
+         
+ 
+          
+        
+ 
+         
+         
+       
+ 
+        
+        
+        
+         
+        
+         MSc CGVI Resources
+
+        
+ 
+         
+         
+        This page contains some recommended reading before for prospective students before starting the MSc CGVI. However, that material is also useful for current students. It also contains some online resources and repositories of information you will find useful throughout the course. 
+ 
+        Recommended reading before you come
+ 
+        This is a nice general book on image processing, machine vision and computer graphics to give you a good taste of the course content: 
+
+        		The Computer Image 
+by Alan H. Watt and Fabio Policarpo
+
+
+        An excellent book on computer vision with a good introduction to probabilites:
+
+        	      	Computer Vision: Models, Learning, and Inference
+by Simon J. D. Prince
+
+
+
+        This book is great for getting you up to speed with the maths requirement of the course:
+
+        		Engineering Mathematics 5th ed (Paperback) 
+by Dexter J. Booth (Editor), K.A. Stroud (Author)
+
+
+         We recommend you read and work through the problems in chapters: 
+ 
+        1. Complex Numbers 1 2. Complex Numbers 2 4. Determinants 5. Matrices 6. Vectors 7. Differentiation 10. Partial Differentiation 1 11. Partial Differentiation 2 15. Integration 1 16. Integration 2 24. First order differential equations 25. Second order differential equations 
+ 
+        This is good introduction to Matlab, which is the main programming environment on the course: 
+
+        		Getting Started with MATLAB 7: A Quick Introduction for Scientists and Engineers 
+by Rudra Pratap
+
+
+         However, the Matlab help pages are also very good and you may find you can just work through them without needing a book. 
+ 
+        Other Revision Material
+ 
+        Bernard Buxton has prepared some material to help you get up to speed with the mathematics required on the MSc CGVI. Even if you are confident about your mathematics, we recommend you take the time to review this material over the summer before you begin the course. Follow this link. 
+ 
+        Greg Turk at the Georgia Institute of Technology provides a list of mathematics subjects that are used in computer graphics and machine vision. 
+ 
+        It is also a good idea to practise your programming before you start, especilly if you have are inexperienced or have not programmed for some time. 
+ 
+        General online vision, graphics and other material
+ 
+        CV online contains a large body of teaching material, mainly for computer vision and related subjects, collected from universities around the country. This site contains links to several other similar resources too. 
+ 
+        Mathematica Home Page provides information about Mathematica. 
+ 
+        Matlab Home Page provides information about matlab releases and documentation. 
+ 
+        MathWorld - All the maths you need to know but were afraid to ask. 
+ 
+        ScienceWorld - Wider coverage of general science including physics, chemistry, biology, astronomy and more.
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Jan Kautz 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

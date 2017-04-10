@@ -1,0 +1,540 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Careers
+      ›› Departmental Research Internships ›› Research Internship Proposals 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Research Internship Proposals
+
+        
+ 
+         
+         
+         
+       
+ 
+        
+        
+        
+         
+        
+         1. Summer school programme
+
+        
+ 
+         
+         
+        We would like to offer at least one internship for students to support our summer school programme. Last summer the department ran week-long courses for 17 year-olds:
+
+        	3Dami - 3D animation 
+	Bio-inspired robotics
+	Computer Games Coding
+
+
+        Computer Science undergrads will help with writing materials, producing teaching kits (robots etc) and running the courses with CS teaching staff.
+ 
+        Contact Rae Harbird r.harbird@ucl.ac.uk
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         2. Mechanized Verification of Concurrent Garbage Collectors
+
+        
+ 
+         
+         
+        Garbage collectors (GCs) are an inherent part of the modern runtime environments with automatic memory management, such as, for instance, Java Virtual Machine. A number of different design choices for constructing performant GCs has been proposed in the past.  Unfortunately, designing correct concurrent GCs is notoriously difficult, due to a large number of possible interactions between the collector and the client programs, modifying memory as it's being analysed for collection.
+ 
+        The goal of this project is to build on recent advances in the modular design, implementation and verification of concurrent algorithms and construct a machine-assisted framework for building correct-by-construction concurrent garbage collectors.
+ 
+        Prerequisites: 
+ 
+        Understanding of basic principles of concurrency, functional programming and logic. 
+ 
+        Preliminary reading: 
+ 
+        http://www.srl.inf.ethz.ch/papers/pldi06-cgc.pdf  
+ 
+        http://www.srl.inf.ethz.ch/papers/pldi07-cgc.pdf  
+ 
+        http://ilyasergey.net/pnp/pnp.pdf  
+ 
+        Contact Ilya Sergey i.sergey@ucl.ac.uk
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         3. Decomposing Distributed Protocols
+
+        
+ 
+         
+         
+        Distributed systems are ubiquitous in many aspects of modern life, such as health care, online commerce, transportation, entertainment and cloud-based applications. Given the importance of distributed software and its complexity, it is nowadays considered vital to have a rigorous verification methodology for establishing its correctness properties, ensuring that, once a distributed system is up and running, it will never go wrong and will eventually complete its goals.
+ 
+        In this project, we will explore the use of interactive proof assistants as a way to establish correctness properties for distributed protocols. The goal of this research internship is to implement a library of reusable verified distributed components, such as failure detection, recovery and state replication, enabling construction of scalable, robust and correct distributed protocols.
+ 
+        Prerequisites: 
+ 
+        Understanding of basic principles of distributed computing, functional programming and logic.
+ 
+        Preliminary reading: 
+ 
+        http://verdi.uwplse.org/verdi.pdf  
+ 
+        http://ilyasergey.net/papers/fcsl-pldi15.pdf  
+ 
+        http://ilyasergey.net/pnp/pnp.pdf  
+ 
+        Contact Ilya Sergey i.sergey@ucl.ac.uk
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         4. Research Directions for Smart Contracts and Smart Legal Agreements
+
+        
+ 
+         
+         
+        UCL has recently helped Barclays Bank and the R3 Consortium (including over 75 of the world's leading financial institutions) to clarify some of the most important concepts in Smart Contracts for financial instruments (e.g. derivatives), with a view to these being implemented on advanced distributed ledger technology. Example papers can be found here:
+ 
+        https://arxiv.org/pdf/1608.00771.pdf 
+ 
+        https://arxiv.org/pdf/1612.04496.pdf 
+ 
+        Work in this area has progressed so fast, with so many different technologies and ideas being proposed, that there is a need for a clear vision of the available models for writing smart contracts - an "intellectual framework" within which different approaches can be discussed and compared.  This will require substantial reading and intelligent categorisation, perhaps with some hierarchy and examples within the hierarchy.  This will also require digging into past work, so that previously suggested techniques can also be placed within the intellectual framework.  Whoever undertakes this project will not write software, but will need to develop a deep understanding of smart contracts and smart contract technology.
+ 
+        An second possible internship in this area is to focus on just the semantics of the legal documents for these smart contracts (we call these "smart legal agreements"), to summarize the more difficult aspects (such as deliberate ambiguity), to find out what prior work has been done in modelling these aspects (again, how to model deliberate ambiguity is a good example), and then to develop a prototype computer program that can read a legal agreement and create and internal representation of the meaning of that agreement.
+ 
+        Contact Chris Clack clack@cs.ucl.ac.uk
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         5. Bringing Separation Logic to Integrated Development Environments
+
+        
+ 
+         
+         
+        Facebook Infer is a tool for fast and precise modular analysis of large software projects implemented in C and Java. Developed initially at by a group of researchers from UCL, Queen Mary and Imperial College London, Infer is now made publicly available and is used by hundreds of developers world-wide. The heart of Infer is Separation Logic---a logical framework for specifying and verifying imperative heap-manipulating programs in a natural and scalable way.
+ 
+        Despite its success in finding bugs in large software code bases (such as Android SDK), Infer is still considered a standalone tool outside of a standard toolbox of a working Java programmer. The goal of this project is to bring Infer to modernt Integrated Development Environments (IDEs) and implement a support for Infer-based static code analysis on top of IntelliJ IDEA. The project will combine the engineering effort (i.e., learning and using the IntelliJ plugin API for implementing Infer support) with a number of research tasks required for adapting Separation Logic-based specifications for the gradual analysis of constantly changing Java code.
+ 
+        Prerequisites: 
+ 
+        Good programming skills in Java/Scala/Kotlin, desire to learn about program analysis and verification 
+ 
+        Preliminary reading and resources: 
+ 
+        - Facebook Infer (http://fbinfer.com/) 
+ 
+        - IntelliJ IDEA (https://www.jetbrains.com/idea/) 
+ 
+        - A Primer on Separation Logic (http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/Marktoberdorf11LectureNotes.pdf) 
+ 
+        - Moving Fast with Software Verification (https://pdfs.semanticscholar.org/23e8/7b658175c7d0c2619c663813459d6872716c.pdf) 
+ 
+        Contact Ilya Sergey i.sergey@ucl.ac.uk
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         6. Synthesising Heap-Manipulating Programs with Separation Logic
+
+        
+ 
+         
+         
+        Automated program synthesis is a new emerging area of research, targeting the problem of automatically generating correct programs from their specifications and input examples, without the need of writing the actual code. A number of techniques have been recently proposed for synthesising implementations simple data-manipulating procedures, such as search and sorting algorithms.
+ 
+        At the moment, the state-of-the-art tools for automated program synthesis are focusing predominantly on functional programs, which can only manipulate their input values, but cannot modify the program state, i.e., the heap. The goal of this project is to explore the opportunities for program synthesis arising from employing modern frameworks for specifying and verifying imperative programs. Specifically, we are going to use Separation Logic---a 21st century Hoare-style program logic---as a way to provide specifications that are expressive enough to be used for synthesising correct-by-construction heap-manipulating programs.
+ 
+        Prerequisites: 
+ 
+        Good programming skills, desire to learn about program synthesis and verification. Knowledge of Haskell/OCaml is a plus.
+ 
+        Preliminary reading: 
+ 
+        - Program Synthesis from Polymorphic Refinement Types (http://people.csail.mit.edu/polikarn/publications/pldi16.pdf) 
+ 
+        - A Primer on Separation Logic (http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/Marktoberdorf11LectureNotes.pdf) 
+ 
+        Contact Ilya Sergey i.sergey@ucl.ac.uk 
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         7. Boosting Automated Verification in Separation Logic
+
+        
+ 
+         
+         
+        My research focuses on developing new techniques and automatic tools for helping us to verify the correctness of C-like, heap-manipulating code.  These techniques are based on separation logic, a logical language for expressing the shape of heap memory.  In particular, separation logic forms the backbone of the Facebook INFER tool (http://fbinfer.com/).
+ 
+ My main research activities fall into the following areas:
+ 
+ - developing algorithms that solve logical problems in this language (satisfiability, bi-abduction, entailment, etc.);
+ - applying our logical techniques heuristically to help us analyse and verify code;
+ - implementing our algorithms and techniques in our prototype tools, and evaluating them experimentally.  
+ 
+ Depending on your interests, you might choose to get involved with any or all of the above; please contact me directly for further details.  In all cases, you will require some ability and background in logic. OcaML programming skills would also be a distinct advantage.
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 05 Apr 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

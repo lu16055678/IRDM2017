@@ -1,0 +1,427 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus ›› GS99 - Group Project in Software Engineering 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGS99 - Group Project in Software Engineering
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPGS99 
+	Year	MSc
+	Prerequisites	Completion of taught modules of the MSc SSE.
+	Term	3
+	Taught By	Various academic staff supervisors (coordinated by Dean Mohamedally) (100%) 
+	Aims	The module gives students experience in undertaking and completing a large project in software systems engineering encompassing the full software development lifecycle, applying techniques learned throughout the programme, including the technical skills of analysis, design and implementation. 
+	Learning Outcomes	Upon successful completion of the module, students will have deeper knowledge and understanding of the following, gained through first-hand experience applying the concepts of the taught element of the programme: the nature of large, complex software systems and how that nature varies according to the context in which a system is situated; the lifecycle of software systems engineering, its different phases, the relationships and dependencies between phases, and the problems, issues, techniques, mechanisms and solutions that are relevant to each phase; the state-of-the practice in software systems engineering as well as the most significant trends, problems and results in the study of complex software systems; capturing and articulating requirements for a software system in consultation with appropriate stakeholders; constructing informal, semi-formal and formal models of the structure, static relationships, and dynamic behaviour of a software system at different levels of abstraction and suitable for different phases of the software lifecycle; manual and automated techniques for analyzing and testing the properties of a software model; manual and automated techniques for identifying inconsistencies between software models expressed at different levels of abstraction; applying tools and environments to the construction of software models; management of software systems engineering projects, the processes defined to guide such projects, and the metrics used to measure the progress of such projects; the most important formal and de facto standards for software systems engineering, including important modelling notations, component models, middleware, tools and environments; and the advantages and disadvantages of the approaches to software systems engineering learned in the programme. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         Overview
+There is no set syllabus. Groups of students identify their chosen project area in conjunction with a supervisor who is a member of the academic staff. The supervisor provides support and guidance. The project runs full-time from June onwards, with the students responsible for organising themselves and their work with advice from their supervisor. Students are expected to meet with their supervisor on a regular basis, as agreed with the supervisor.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Working in teams under guidance from a project supervisor.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	Individual Reports (40%)
+	Group Project Report (40%)
+	Oral examination (20%, 1 hour) 
+
+
+         To pass this course, students must:  
+
+         	Obtain an overall pass mark of 50% for all sections combined. 
+
+
+         
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Books, papers, manuals, etc. relevant to the project.
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

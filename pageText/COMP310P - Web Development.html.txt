@@ -1,0 +1,476 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Students
+      ›› Syllabus ›› 310P - Web Development 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMP310P - Web Development
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMP310P 
+	Year	3
+	Prerequisites	Introduction to Programming (COMP210P)
+	Term	1
+	Taught By	Rae Harbird (100%) 
+ 
+	Aims	This is a course for students with some prior experience of programming. The primary objective of the course is for the students to gain practical experience with “full-stack” web development. Students will explore the architecture of web applications and the technologies that are used in the three main components: client, server and data store. 
+The students will gain experience via hands-on engagement on a weekly basis.
+Each week, or stage, serves as a checkpoint that progress is being made.
+Students will undertake a substantial project in which they will work in pairs or teams of three to design, develop and deploy a web application of large enough size to be challenging. Support with development in the labs I tutorials will be provided after Reading Week so that at no point is this task too open-ended.
+Secondary goals are for the students to gain further experience with computational thinking: to be able to identify problems that they could solve using programming and web technologies and to apply the skills they have learned in this course. They will gain further experience of working in teams.
+ 
+	Learning Outcomes	
+             	Understand the architecture of web applications and the internet technologies that underpin clicking on a link and fetching a web page.  
+	Using a structured language to describe web pages with HTML5, CSS3. Using JSON as a data interchange format.  
+	Using appropriate programming languages for the application logic in the browser and on the server.  
+	Using database technologies to store persistent data for a web application.  
+	Using tools for version control and deployment.  
+	These are skills that can only be learned through doing. The intended learning outcome is that the students become adept at applying these skills. 
+
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         The expected task outline is as follows. The content may be varied according to the progress made by the students. The length of the course will depend upon the structure of the degree. At the moment. students taking the IEP have two scenario weeks in each term and modules are eight weeks in duration instead of ten. The content will be curtailed according to the number of weeks available.  
+ 
+         Week 1: Introduction to the World Wide Web: what happens when you click on a link? The architecture of web applications including 3-tier and Model, View, Controller designs. First tasks including setting up a web server and writing first web page. 
+ 
+         Week 2: Introduction to HTML5 and styling web pages with C883. The Document Object Model and how web pages are represented as tree diagrams. 
+ 
+         Week 3: Making web pages more interactive with JavaScript and the jQuery library. 
+ 
+         Week 4: Transferring data between client and server with JSON and AJAX. 
+ 
+         Week 5: Software as a Service: writing RESTful web services. The concepts will be illustrated with an appropriate server-side programming language for example: Java Server Faces or node.js. 
+ 
+         Week 6: Reading week: no labs or lectures. 
+ 
+         Week 7: RESTful web services (continued). Version control with git and github. Deploying a web server on a cloud platform. 
+ 
+         Weeks 8 & 9: The data store: using a database to store persistent data, NoSQL vs SQL comparison. An appropriate database technology will be chosen for practical examples. 
+ 
+         Week 10: Web analytics.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+          There will be a strong emphasis on the tutorials/labs. Students will have a two-hour lab session every week which will be staffed by TAs. Each topic has a specific problem set that must be completed. A problem set will be introduced with a short video illustrating the set, and a set of lab notes explaining what is expected and providing sufficient information to attempt the task. The videos and lab notes will be available via Moodle in advance. and the students should have reviewed them before attending the labs and, ideally, to have started to solve the problems. During the lab sessions the students will demonstrate briefly to the TA what tasks have been achieved. Tasks are binary marked.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components: 
+ 
+         Coursework and in class test (total 100%)
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Bibliography
+ 
+         Please note: the resources noted here are indicative and may be changed to keep up with the latest 
+ 
+         developments in the area. 
+ 
+         1. Castro, E. and Hyslop, B., 2013. HTML and 088: Visual Quickstart Guide. Pearson Education. 
+ 
+         2. Fain. Y., Rasputnis. V., Tarlakovsky. A. and Gamov. V., 2014. Enterprise Web Development: Building HTML5 Applications: From Desktop to Mobile. O'Reilly Media, Inc. 
+ 
+         3. Freeman. ET. and Robson, E., 2014. Head First JavaScript Programming. O'Reilly Media, Inc. 
+ 
+         4. Hogan, B.P., Warren, G, Weber, M., Johnson, C. and Godin, A., 2012. Web Development Recipes. 
+ 
+         Pragmatic Bookshelf. 
+ 
+         5. Lynda.com, (2016). PHP with MySQL Essential Training. [video] Available at: http://www.lynda.com/MySQL-tutorials/PHP-MySQL-EssentiaI-Training/119003-2.html [Accessed 13 Feb. 2016]. 
+ 
+         6. Lynda.com, (2016). Javascript and AJAX. [video] Available at: http://www.lynda.com/Developer-tutorials/JavaScript-and-AJAX/114900-2.html?org=ucl.ac.uk [Accessed 13 Feb. 2016]. 
+ 
+         7. Nixon, FL, 2014. Learning PHP, MySOL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating Dynamic Websites. O'Reilly Media, Inc. 
+ 
+         8. Patel. S.K., 2014. Developing Responsive Web Applications with AJAX and JOuery. Packt Publishing 
+ 
+         Ltd. 
+ 
+         9. Sullivan, D., 2015. NoSOL for Mere Mortals. Addison-Wesley Professional. 
+ 
+         10. Wellens, P., 2015. Practical web development. Packt Publishing, Inc.
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

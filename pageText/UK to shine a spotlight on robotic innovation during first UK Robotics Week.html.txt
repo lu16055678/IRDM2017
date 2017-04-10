@@ -1,0 +1,459 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         UK to shine a spotlight on robotic innovation during first UK Robotics Week
+ 
+         
+          
+          
+
+         
+ 
+         The nation’s schools, colleges and universities are being invited to celebrate innovation in the UK’s robotics industry with the announcement today of the first UK Robotics Week (25 June – 1 July 2016). 
+ 
+         The focus of this week-long series of events and activities, to be held annually during the last week of June, is to shine a spotlight on the UK’s technology leadership in robotics and autonomous systems, and to engage the nation’s schools, colleges and universities in developing the digital skills needed to drive the UK’s future economy.  
+ 
+         With the global market for service and industrial robots expected to reach $59.5 billion by 2020, the UK government has identified robotics as one of the 8 Great Technologies central to the future growth of the UK economy. The initiative is being coordinated by the EPSRC UK-RAS network and partner universities, of which UCL is one.
+ 
+         The cornerstone of the initiative is a School Robot Challenge, an exciting new national competition centred on bioinspired robots. Children will be invited to submit robotics-inspired essays or artwork, and to design their own robotic bug.  Every school in the UK will be provided with an information pack and lesson plans for all age ranges, plus access to a free design repository to help students to create and even manufacture their own 3D printed robotic bug.  The competition will use hardware and equipment already in schools and include the optional use of low-cost 3D printers and robotics kits. 
+ 
+         Commenting on the launch, the UK government’s Universities and Science Minister Jo Johnson said:  “From driverless cars to tiny surgical robots, there is an array of exciting possibilities in robotics that can improve our lives. It’s critical that we inspire the next generation of scientists and engineers to help develop these new technologies. I strongly encourage schools across the country to get involved in this robot design challenge as part of the first ever UK Robotics Week.”
+ 
+         The School Robot Challenge is designed to develop children’s interest and skills in a range of subjects, including digital skills, science, technology, engineering and biology, and is open to all schoolchildren aged 4 -17 years old. The competition will be designed to engage both girls and boys with STEM subjects. 
+ 
+         In addition to the School Robot Challenge, UK Robotics Week will include the finals of a series of international academic challenges in which leading robotic research groups from around the world will come to the UK to demonstrate the very latest robotic technology, including:
+ 
+         ·         Surgical Robot Challenge 2016 
+ 
+         ·         Field Robotics Challenge 2016 
+ 
+         ·         Autonomous Driving Challenge 2016 
+ 
+         ·         UAV (Unmanned Aerial Vehicle) Challenge 2016 
+ 
+         The full programme of competitions and events – which will include open robotics labs, public lectures and industry showcases – is expected to attract significant global interest from academia and industry, and will help cement the UK’s position as a major force in robotics and autonomous systems development.
+ 
+         UK Robotics Week is supported by the Engineering and Physical Sciences Research Council (EPSRC), The Royal Academy of Engineering, IET, and the Institution of Mechanical Engineers.
+ 
+         UK Robotics Week adds focus to a thriving programme of existing robotics activities that take place throughout the year.  By linking to other key events in the robotics calendar, such as EU Robotics Week and UK RAS SIG, UK Robotics Week aims to ensure that robotics remains high on the agenda as one of the transformative technologies of today and tomorrow.
+ 
+         Professor Philip Nelson FREng, Chief Executive of EPSRC said: “UK Robotics Week is being launched at exactly the right time, the UK is forging ahead in robotics and autonomous systems research. However, we need to inspire young people and engage them with engineering so we have a future skills base to whom we can pass the baton. The events of Robotics Week will help children and adults gain a better understanding of how these technologies can bring societal and economic benefits.”
+ 
+         Professor Dame Ann Dowling DBE FREng FRS, President of the Royal Academy of Engineering, said: “The UK needs to recruit over a million engineers over the next decade to deliver the technology solutions that will drive economic growth and transform our quality of life. The launch of an annual UK Robotics Week is an exciting way of broadening public engagement in the beneficial impact of robotics for the future of the UK.”
+ 
+         Naomi Climer FREng, President of IET, remarked: “With its gender-balanced programme of activities, UK Robotics Week will provide an excellent platform for engaging female students in STEM subjects, and encouraging them to play a leading role in shaping robotic technology that can change all of our lives for the better.”
+ 
+         Professor Richard Folkson, President of the Institution of Mechanical Engineers commented: “For the first time, this important initiative brings together the nation’s schools, college and universities – and wider public – in a programme of robotics-themed activities that will capture the imagination and spark creative interest across all ages.”
+ 
+         Notes to editors
+ 
+  
+ 
+         UK Robotics Week website: www.roboticsweek.uk 
+ UK Robotics Week Twitter: @ukroboticsweek 
+ 
+         About the EPSRC UK-RAS Network (http://www.uk-ras.org)     
+ 
+         The EPSRC UK Robotics and Autonomous Systems Network (UK-RAS Network) is dedicated to robotics innovation across the UK, with a mission to provide academic leadership in Robotics and Autonomous Systems (RAS), expand collaboration with industry, and integrate and coordinate activities at eight Engineering and Physical Sciences Research Council (EPSRC) funded RAS capital facilities and Centres for Doctoral Training (CDTs) across the country. 
+ 
+         Press contact 
+ 
+         Nicky Denovan 
+ 
+         EvokedSet 
+ 
+         Email: nicky[@]evokedset[dot]com 
+ 
+         Mobile: +44 (0)7747 017654
+ 
+         
+ 
+         
+ 
+         
+           Posted 17 Nov 15 14:19 
+         
+ 
+          
+          
+           Next: Undergraduates present... >
+
+          
+ 
+          
+           < Previous: High Ranking in US News ...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

@@ -1,0 +1,1843 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Prospective Students ›› MSc CF 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         
+          
+           
+            
+             
+            
+
+           
+
+          
+
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+         
+         
+          
+          	Overview
+	Course Structure
+	Entry Requirements
+	Fees & Funding
+	Employability
+	Contact
+	Apply
+
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+              The MSc Computational Finance introduces advanced modules focused on providing quantitative and modelling skills which appeal to 'quant' roles in trading, research, regulation and risk. There is large demand in the financial services industry, the Bank of England and financial regulatory authorities to raise the level of computational knowledge, data manipulation and analytic skills. A notable aspect of this applied MSc programme is that students will be educated to advanced level programming together with a sound mathematical and statistical basis, making it distinct from the large number of courses offered by business schools and also from other finance-oriented masters at UCL. This MSc sits alongside the Centre for Doctoral Training in Financial Computing and grounds its teaching resources on the Financial Computing and Analytics Group.
+ 
+              Students will develop an advanced knowledge of computational methods in finance enabling them to develop a successful career in the financial industry within ‘quant’ teams.
+ 
+               
+             
+ 
+              
+              
+              
+               
+              
+               
+
+              
+ 
+               
+             
+ 
+              
+              
+              
+               
+              
+               Upcoming Events and Open Days
+
+              
+ 
+               
+               
+              Virtual Open Day - 28th April 2017, Time TBC
+ 
+              Find out more about the benefits of studying the MSc Computational Finance at UCL, the top-rated university in the UK for research in Computer Science. 
+ 
+              Take the opportunity to (virtually) meet the team behind the Masters, with a chance to chat with them via dedicated online forums.  
+ 
+              For further information and to register your attendance, please click here.
+ 
+               
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+               	2016/17
+	2017/18
+
+ 
+                
+                 
+                  
+                  
+                   
+                   
+                   
+                    
+                   The MSc Computational Finance consists of 8 taught modules (4 core, 4 optional) and a thesis. 
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules Term 1
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPG004 Market Risk Measures and Portfolio Theory
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG004 Market Risk Measures and Portfolio Theory
+
+                       
+ 
+                        
+                        
+                       The module aims to familiarise students with key concepts and models in general asset pricing, portfolio theory, and risk measurement. Those concepts and models include risk aversion, utility functions as a representation of preferences, efficient frontiers, Markowitz Portfolio theory, the Capital Asset Pricing model, Value at Risk, and Expected Shortfall. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPG005 Numerical Analysis for Finance
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG005 Numerical Analysis for Finance
+
+                       
+ 
+                        
+                        
+                       The module aims to give students an introduction to numerical/computational methods and techniques with code examples in Matlab and an emphasis on applications in finance. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules Term 2
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPG001 Financial Data and Statistics
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG001 Financial Data and Statistics
+
+                       
+ 
+                        
+                        
+                       The course is aimed at introducing to financial data analytics. The course is primarily focused on the observation of financial market dynamics of both individual assets and collective group of assets and the individuation of regularities, patterns and laws from a statistical perspective. Instruments to analyse, characterize, validate, parameterize and model complex financial datasets will be introduced. Practical issues on data analysis and statistics of high frequency and low frequency financial data will be covered. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGF04 Financial Market Modelling and Analysis
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGF04 Financial Market Modelling and Analysis
+
+                       
+ 
+                        
+                        
+                       This module will introduce students to the field of modelling and analysing financial markets with emphasis on (i) the wide variety of deterministic and discrete-time methods that are available; and (ii) numerical simulation of the financial markets, including agent-based modeling. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+ Students will normally select their four options from the following list. 
+                   
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Option Modules Term 1
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPG007 Operational Risk Measurement for Financial Institutions
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG007 Operational Risk Measurement for Financial Institutions
+
+                       
+ 
+                        
+                        
+                       The module aims to familiarise students with key concepts in the measurement and management of operational risk in the financial services. It will help them to understand the current issues and challenges faced by the sector, from a methodological, regulatory and financial standpoint. By detailing the most current debates in the field, the course aims at allowing the students to subsequently become positive agents of solutions in the market place and in research in operational risk. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPG008 Stochastic Processes for Finance
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG008 Stochastic Processes for Finance
+
+                       
+ 
+                        
+                        
+                       Rehearse/survey probability theory and give a systematic introduction to stochastic processes and their applications without stressing too much the measure-theoretical aspects and other mathematical formalisms. The module is aimed at students with an undergraduate degree in engineering, physics, computer science and the like, who have a good basis in calculus and have already come into contact with aspects of probability and statistics for ad hoc applications like transport equations, laboratory data treatment, and quantum mechanics, but have not attended yet a dedicated course on stochastic processes. The course material will unfold with references to its historical development and early applications in physics/engineering the students may already heard of, ending with current-day applications in finance. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPG012 Financial Engineering
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG012 Financial Engineering
+
+                       
+ 
+                        
+                        
+                       An introduction to the applied mathematical and computational aspects of Quantitative Finance. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI01 Supervised Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI01 Supervised Learning
+
+                       
+ 
+                        
+                        
+                       This module covers supervised approaches to machine learning. It starts by reviewing fundamentals of statistical decision theory and probabilistic pattern recognition followed by an in-depth introduction to various supervised learning algorithms such as Perceptron, Backpropagation algorithm, Decision trees, instance-based learning, support vector machines. Algorithmic-independent principles such as inductive bias, side information, approximation and estimation errors. Assessment of algorithms by jackknife and bootstrap error estimation, improvement of algorithms by voting methods such as boosting. Introduction to statistical learning theory, hypothesis classes, PAC learning model, VC-dimension, growth functions, empirical risk minimization, structural risk minimization. 
+ 
+                       Students will gain an in-depth familiarity with various classical and contemporary supervised learning algorithms, understand the underlying limitations and principles that govern learning algorithms and ways of assessing and improving their performance, understand the underlying fundamentals of statistical learning theory, the complexity of learning and its relationship to generalization ability. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI07 Programming & Mathematical Methods for Machine Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI07 Programming & Mathematical Methods for Machine Learning
+
+                       
+ 
+                        
+                        
+                        The aims of the module are to provide a practical knowledge and understanding of the programming environments of Matlab and Mathematica. Knowledge of and proficiency in these languages/packages form an essential component of courses GI06 (Evolutionary Systems) and GI01 (Supervised Learning). The aim is also to introduce students to those elements of linear algebra which play an important role in machine learning and data analysis. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGS06 Financial Institutions and Markets
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGS06 Financial Institutions and Markets
+
+                       
+ 
+                        
+                        
+                       The module exposes participants to an overview of the financial information sector and interaction with global financial markets, which constitute an important application domain of computer science in the southeast UK as well as main global financial centers. The module facilitates transfer of substantial domain knowledge based on IB Analyst training program the lecturer delivers in major international firms. 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Option Modules Term 2
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPG009 Networks and Systemic Risk
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG009 Networks and Systemic Risk
+
+                       
+ 
+                        
+                        
+                       The first part of the course presents a general introduction to complex networks and dynamical processes. The second part is focused on specific applications to the study of contagion in financial networks. Overall, the course represents an introduction to the topic of systemic risk and stress propagation in networked systems. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPG013 Market Microstructure
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG013 Market Microstructure
+
+                       
+ 
+                        
+                        
+                       This course provides the student with a structured overview over both the main empirical facts and major theoretical approaches in market microstructure. It will comprise of five main parts: 
+ 
+                       1) An introduction to limit order markets. 
+ 
+                       2) Empirical investigation of financial data. 
+ 
+                       3) Price impact. 
+ 
+                       4) The limit order book as a queuing system. 
+ 
+                       5) The relationship between impact, the bid-ask spread, the tick size, and liquidity. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGC05 Algorithmics
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGC05 Algorithmics
+
+                       
+ 
+                        
+                        
+                       This module aims to introduce more formal aspects of algorithms and data structures than those in the first term. It covers properties of data types such as queues and search trees; techniques for analysing the complexity and decidability of algorithms; and formal models of computation. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGC06 Database Systems
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGC06 Database Systems
+
+                       
+ 
+                        
+                        
+                       This module builds on the introduction to relational databases found in the Systems Infrastructure module. It covers advanced data modelling and database development methodology, the techniques exploited by relational database technologies relating in particular to query processing and transaction management, and post relational database technologies including object oriented databases and web databases. The coursework is an interesting group project lasting the duration of the term and building a web facing database system using very contemporary technologies. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGC22 Software Engineering
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGC22 Software Engineering
+
+                       
+ 
+                        
+                        
+                       This module covers a range of Software Engineering material, following on from that introduced in the Architecture & Hardware module. The emphasis is on the knowledge needed to be able to model, design, implement and evaluate larger software systems effectively. The content starts with development lifecycle models, such as agile development, and then continues to cover requirements specification, the Unified Modelling Language (UML), software architecture, object-oriented analysis and design, design patterns and testing. Its is an inherently practical subject; students undertake a substantial group project, working through a number of stages of the development of a larger software application.
+ 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     MATHGF06 Applied Computational Finance
+ 
+                      
+                       
+                       
+                        
+                       
+                        MATHGF06 Applied Computational Finance
+
+                       
+ 
+                        
+                        
+                       Success in mathematical finance requires confidence and expertise in applying numerical analysis and programming to solve a wide range of pricing and risk management problems. This course presents numerical schemes for topics in derivative pricing together with programming in C++ and Python. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   Upon authorisation by the Programme Director, if the timetables are compatible, students may select up to two other optional modules taught in the UCL Departments of Computer Science (list), Mathematics (list), Physics (list) and Statistics (list), and more in general in the University of London (intercollegiate modules).
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Thesis
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGF99 MSc Computational Finance Project
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGF99 MSc Computational Finance Project
+
+                       
+ 
+                        
+                        
+                       Between June and August students do a research project resulting in a thesis of about 10,000 words or 50 pages. This is usually undertaken within a summer placement in an industry environment organised by one of the Programme Directors, Donald Lawrence, with both an academic and an industrial supervisor. This gives students experience of conducting project work in a real-life setting and may lead to the offer of a permanent job at the end of the project; so far this happened in 20-30% of the cases.
+ 
+                       In recent years, commercial partners have included AlgoDynamix, Algo Trading, Almanis, AXA, Banking Science, BNP Paribas, Chapelle Consulting, Citibank, Commerzbank, Credit Suisse, Deutsche Bank, Ernst&Young, Fund Apps, Gain Capital, Intel, LCH.Clearnet, Liberis, Morgan Stanley, Mysis, Message Automation, Nomura, Oasis AWS, OptiRisk, Principal Financial Group, PricewaterhouseCooper, Royal Bank of Scotland, Santander, Société Générale, Thomson Reuters and TSB Bank. Every year there are changes to this list and, although all students have been placed in previous years, there is no guarantee for the future, so that it cannot be excluded that, especially in the case of an economic downturn, students may need to resort to a research project internal to UCL with only an academic supervisor.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                 
+ 
+                  
+                
+ 
+               
+ 
+                
+                 
+                  
+                  
+                   
+                   
+                   
+                    
+                   MSc Computational Finance consists of 8 taught modules (4 core, 4 optional/elective) and a dissertation. 
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules Term 1
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPG004 Market Risk Measures and Portfolio Theory
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG004 Market Risk Measures and Portfolio Theory
+
+                       
+ 
+                        
+                        
+                       The module aims to familiarise students with key concepts and models in general asset pricing, portfolio theory, and risk measurement. Those concepts and models include risk aversion, utility functions as a representation of preferences, efficient frontiers, Markowitz Portfolio theory, the Capital Asset Pricing model, Value at Risk, and Expected Shortfall. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPG005 Numerical Analysis for Finance
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG005 Numerical Analysis for Finance
+
+                       
+ 
+                        
+                        
+                       The module aims to give students an introduction to numerical/computational methods and techniques with code examples in Matlab and an emphasis on applications in finance. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules Term 2
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPG001 Financial Data and Statistics
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG001 Financial Data and Statistics
+
+                       
+ 
+                        
+                        
+                       The course is aimed at introducing to financial data analytics. The course is primarily focused on the observation of financial market dynamics of both individual assets and collective group of assets and the individuation of regularities, patterns and laws from a statistical perspective. Instruments to analyse, characterize, validate, parameterize and model complex financial datasets will be introduced. Practical issues on data analysis and statistics of high frequency and low frequency financial data will be covered. 
+ 
+                       
+ 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGF04 Financial Market Modelling and Analysis
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGF04 Financial Market Modelling and Analysis
+
+                       
+ 
+                        
+                        
+                       This module will introduce students to the field of modelling and analysing financial markets with emphasis on (i) the wide variety of deterministic and discrete-time methods that are available; and (ii) numerical simulation of the financial markets, including agent-based modeling. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules Dissertation
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGF99 MSc Computational Finance Project
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGF99 MSc Computational Finance Project
+
+                       
+ 
+                        
+                        
+                       Between June and August students do a research project resulting in a thesis of about 10,000 words or 50 pages. This is usually undertaken within a summer placement in an industry environment organised by one of the Programme Directors, Donald Lawrence, with both an academic and an industrial supervisor. This gives students experience of conducting project work in a real-life setting and may lead to the offer of a permanent job at the end of the project; so far this happened in 20-30% of the cases.
+ 
+                       In recent years, commercial partners have included AlgoDynamix, Algo Trading, Almanis, AXA, Banking Science, BNP Paribas, Chapelle Consulting, Citibank, Commerzbank, Credit Suisse, Deutsche Bank, Ernst&Young, Fund Apps, Gain Capital, Intel, LCH.Clearnet, Liberis, Morgan Stanley, Mysis, Message Automation, Nomura, Oasis AWS, OptiRisk, Principal Financial Group, PricewaterhouseCooper, Royal Bank of Scotland, Santander, Société Générale, Thomson Reuters and TSB Bank. Every year there are changes to this list and, although all students have been placed in previous years, there is no guarantee for the future, so that it cannot be excluded that, especially in the case of an economic downturn, students may need to resort to a research project internal to UCL with only an academic supervisor.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Optional Modules Term 1
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPG007 Operational Risk Measurement for Financial Institutions
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG007 Operational Risk Measurement for Financial Institutions
+
+                       
+ 
+                        
+                        
+                       The module aims to familiarise students with key concepts in the measurement and management of operational risk in the financial services. It will help them to understand the current issues and challenges faced by the sector, from a methodological, regulatory and financial standpoint. By detailing the most current debates in the field, the course aims at allowing the students to subsequently become positive agents of solutions in the market place and in research in operational risk. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPG008 Stochastic Processes for Finance
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG008 Stochastic Processes for Finance
+
+                       
+ 
+                        
+                        
+                       Rehearse/survey probability theory and give a systematic introduction to stochastic processes and their applications without stressing too much the measure-theoretical aspects and other mathematical formalisms. The module is aimed at students with an undergraduate degree in engineering, physics, computer science and the like, who have a good basis in calculus and have already come into contact with aspects of probability and statistics for ad hoc applications like transport equations, laboratory data treatment, and quantum mechanics, but have not attended yet a dedicated course on stochastic processes. The course material will unfold with references to its historical development and early applications in physics/engineering the students may already heard of, ending with current-day applications in finance. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPG012 Financial Engineering
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG012 Financial Engineering
+
+                       
+ 
+                        
+                        
+                       An introduction to the applied mathematical and computational aspects of Quantitative Finance. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPG013 Market Microstructure
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG013 Market Microstructure
+
+                       
+ 
+                        
+                        
+                       This course provides the student with a structured overview over both the main empirical facts and major theoretical approaches in market microstructure. It will comprise of five main parts: 
+ 
+                       1) An introduction to limit order markets. 
+ 
+                       2) Empirical investigation of financial data. 
+ 
+                       3) Price impact. 
+ 
+                       4) The limit order book as a queuing system. 
+ 
+                       5) The relationship between impact, the bid-ask spread, the tick size, and liquidity. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPG015 Algorithmic Trading
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG015 Algorithmic Trading
+
+                       
+ 
+                        
+                        
+                       The module aims at introducing algorithmic trading or risk premia strategies, their rationales, properties, design and use. These are presented as an introduction to the primary strategies and common themes in algorithmic trading, together with areas for further study and development.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGS06 Financial Institutions and Markets
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGS06 Financial Institutions and Markets
+
+                       
+ 
+                        
+                        
+                       The module exposes participants to an overview of the financial information sector and interaction with global financial markets, which constitute an important application domain of computer science in the southeast UK as well as main global financial centers. The module facilitates transfer of substantial domain knowledge based on IB Analyst training program the lecturer delivers in major international firms. 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Optional Modules Term 2
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPG009 Networks and Systemic Risk
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG009 Networks and Systemic Risk
+
+                       
+ 
+                        
+                        
+                       The first part of the course presents a general introduction to complex networks and dynamical processes. The second part is focused on specific applications to the study of contagion in financial networks. Overall, the course represents an introduction to the topic of systemic risk and stress propagation in networked systems. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPG014 Machine Learning with Applications in Finance
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPG014 Machine Learning with Applications in Finance
+
+                       
+ 
+                        
+                        
+                       The module introduces students to the field of Machine Learning with a focus on supervised and unsupervised learning, presenting specific applications in Finance for each subtopic.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGC05 Algorithmics
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGC05 Algorithmics
+
+                       
+ 
+                        
+                        
+                       This module aims to introduce more formal aspects of algorithms and data structures than those in the first term. It covers properties of data types such as queues and search trees; techniques for analysing the complexity and decidability of algorithms; and formal models of computation.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGC06 Database Systems
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGC06 Database Systems
+
+                       
+ 
+                        
+                        
+                       This module builds on the introduction to relational databases found in the Systems Infrastructure module. It covers advanced data modelling and database development methodology, the techniques exploited by relational database technologies relating in particular to query processing and transaction management, and post relational database technologies including object oriented databases and web databases. The coursework is an interesting group project lasting the duration of the term and building a web facing database system using very contemporary technologies.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGC22 Software Engineering
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGC22 Software Engineering
+
+                       
+ 
+                        
+                        
+                       This module covers a range of Software Engineering material, following on from that introduced in the Architecture & Hardware module. The emphasis is on the knowledge needed to be able to model, design, implement and evaluate larger software systems effectively. The content starts with development lifecycle models, such as agile development, and then continues to cover requirements specification, the Unified Modelling Language (UML), software architecture, object-oriented analysis and design, design patterns and testing. Its is an inherently practical subject; students undertake a substantial group project, working through a number of stages of the development of a larger software application.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     MATHGF06 Applied Computational Finance
+ 
+                      
+                       
+                       
+                        
+                       
+                        MATHGF06 Applied Computational Finance
+
+                       
+ 
+                        
+                        
+                       Success in mathematical finance requires confidence and expertise in applying numerical analysis and programming to solve a wide range of pricing and risk management problems. This course presents numerical schemes for topics in derivative pricing together with programming in C++ and Python. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   You will need to choose 60 credits (4 modules) from the optional / elective modules. Each module is equivalent to 15 credits.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Elective Modules
+
+                   
+ 
+                    
+                    
+                   In this MSc, up to two electives taught in the UCL Departments of Computer Science (list), Mathematics (list), Physics (list) and Statistics (list) have good chances to be approved by the Programme Director.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Module Selection
+
+                   
+ 
+                    
+                    
+                   The modules that make up a programme are either core, optional or elective, which reflects whether they must be taken or can optionally be taken. The programme’s curriculum (also called a programme diet) will prescribe in what combinations modules can be taken, any restrictions on doing so, and how much credit can and must be taken. 
+ 
+                   Core/compulsory modules are fundamental to the programme’s curriculum and students must take these. You will be automatically allocated a place on any core modules for your programme and will not need to select these during the module selection process. There will be no timetable clashes between your programme’s core modules. 
+ 
+                   Optional modules are strongly related to the programme and students can choose which of these they wish to take, usually from within specific groups (for example, a student may be asked to choose two optional modules from one group and three from another, etc.) Places of optional modules are strictly limited (due to spatial, resource and timetable constraints) and will be allocated on a first come first serve basis. Some optional modules have pre-requisites which students will need to meet in order to be eligible for a place. 
+ 
+                   Elective modules are not programme specific, but allow students the opportunity to explore their interests more widely. Students are usually restricted to taking one or two elective modules. There is no guarantee of being accepted onto an elective module. These modules are core or optional on other programme diets, consequently students on these programmes will be given priority. Any remaining places will then be allocated on a first come first served basis. Some elective modules have pre-requisites which students will need to meet in order to be eligible for a place. 
+ 
+                   Please note: timetable clashes between optional and elective modules from different specialisations are inevitable and this can result in limiting the available choices. It is the student’s responsibility to select modules that do not clash in order to meet UCLs minimum attendance requirements. Please speak to your Programme Director and/ or Programme Administrator if you have any queries. 
+ 
+                   Non-Computer Science students should note that priority on COMP* modules will always be given to Computer Science students in the first instance.
+ 
+                    
+                  
+ 
+                   
+                   
+                 
+ 
+                  
+                
+ 
+               
+ 
+              
+ 
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             An upper-second class UK bachelor's degree (or equivalent overseas qualification) in computer science, mathematics, statistics, physics, engineering or another similar quantitative subject. Graduates in economics, finance, business administration, actuarial science or similar are considered if their transcripts show a fair number of modules in mathematics, probability, statistics and econometrics with high marks. Programming experience is a plus, but not mandatory. Relevant work experience may also be taken into account. 
+ 
+             English Language Requirements 
+ 
+             If your education has not been conducted in the English language, you will be expected to demonstrate evidence of an adequate level of English proficiency.
+
+The English language level for this programme is: Good
+
+Further information can be found on our English language requirements page. 
+ 
+             International students 
+ 
+             Country-specific information, including details of when UCL representatives are visiting your part of the world, can be obtained from the International Students website.
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+              UK/EU fees (FT):     £18,580 for 2017/18
+ 
+               
+             
+ 
+              
+              
+              
+               
+              Overseas fees (FT): £27,540 for 2017/18
+ 
+               
+             
+ 
+              
+              
+              
+               
+              For a comprehensive list of the funding opportunities available at UCL, including funding relevant to your nationality, please visit the Scholarship and Funding website. 
+ 
+              If you are holding an offer from the Department of Computer Science at UCL, you may be eligible for our Excellence Scholarship.
+ 
+               
+             
+ 
+              
+              
+              
+               
+              
+               Tuition Fee Deposit
+
+              
+ 
+               
+               
+               
+                
+               This programme requires that applicants firmly accepting their offer pay a deposit. This allows UCL to effectively plan student numbers, as students are more demonstrably committed towards commencing their studies with us. 
+ 
+               For full details about the UCL tuition fee deposit, please see the central UCL pages. 
+ 
+               Tuition fee deposits within the Department of Computer Science are currently listed as:
+
+               	UK/EU	Overseas
+	Full-time	*Part-time	Full-time	*Part-time
+	£2000	£1000	£2000	£1000
+	 
+	*where part-time is an available mode of study
+
+ 
+                
+              
+ 
+               
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             
+
+             
+              The Department's graduates are particularly valued as a result of the our international reputation, strong links with industry, and ideal location close to the City of London. Graduates are especially sought after by leading global finance companies and organisations. The top 20-30% of our graduates receive a job offer from the host of their summer work placement.
+             
+ 
+             
+ 
+             
+
+             
+              
+
+              	Top graduate destinations:                 
+
+                  	Credit Suisse
+	Goldman Sachs
+	Morgan Stanley
+	KPMG
+
+	Top graduate roles:                                
+
+                  	Financial Account Manager
+	Management Consultant
+	Investment Analyst
+	Chartered Accountant
+
+	Top further study destinations:
+
+                  	University of Cambridge
+	UCL
+
+
+
+
+              
+
+             
+ 
+             
+ 
+             
+
+             
+              Average starting salary £35,000 (all data from Destinations of Leavers from Higher Education (DLHE) survey of 2015 Graduates).
+             
+
+             
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             
+               
+                
+               Programme Administrator
+Dr Saini Manninen
+Office 5.22, Malet Place Engineering Building 
+0207 679 7937
+advancedmsc-admissions@cs.ucl.ac.uk
+
+More information
+ 
+                
+              
+
+              
+               
+                
+                 
+                  
+                 
+
+                
+ 
+                
+                 
+                  
+                 
+
+                
+ 
+                
+                 
+                  
+                 
+
+                
+
+               
+
+              
+
+             
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             To apply now click here.
+ 
+             Students are advised to apply as early as possible due to competition for places. Those applying for scholarship funding (particularly overseas applicants) should take note of application deadlines.
+ 
+             Deadline 17 June 2017.
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+         
+ 
+        
+ 
+         
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 03 Apr 2017 and is maintained by 
+      Steve Marchant 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

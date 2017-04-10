@@ -1,0 +1,521 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Help
+      ›› TYPO3 ›› Moving and Copying pages 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+        
+
+        
+	Old readers start here
+
+	General Principles
+
+	The TYPO3 "Backend"
+
+	Content Elements
+
+	Editing Content
+
+	Rich Text Editor
+
+	Inserting Images
+
+	Managing Links
+
+	Formats and Styles
+
+	Creating New Pages
+
+	Page properties
+	Moving and Copying pages
+
+	The UCL-CS Templates
+
+	Adding Content
+
+	Dividers
+
+	The "Text and Images" element
+
+	Files and TYPO3
+
+	Automatic Menus
+
+	Someone is editing my page!
+
+	Cutting and Pasting
+
+	Spelling check
+
+	Managing your work
+
+	Tracking changes
+
+	Rolling Back
+
+	Hiding pages
+
+	Hiding content elements
+
+	Working in a Draft Workspace
+
+	Previewing your draft
+
+	Publishing from the Draft Workspace
+
+	Browser set-up
+
+	TYPO3 v4.5 - The main changes
+
+	TYPO3 v4.5 - Some more changes
+
+	TYPO3 v6.2 - Introduction
+
+	TYPO3 v6.2 - Files
+
+	TYPO3 v6.2 - Images
+
+	TYPO3 v6.2 - Extensions
+
+	Training
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       
+        
+         Prev | 
+         Next
+        
+
+        
+         First | 
+         Last
+        
+
+       
+
+       
+ 
+        
+        
+         
+        
+          
+           
+           There are two ways to move or copy pages: 
+
+          
+
+
+           	Using icons and menus
+
+            	Click on the page's icon in the page tree then select Page Actions and either Cut (move) or Copy from the menu. (see Fig.1);
+	Next time you click on a page's icon and select Page Actions you will see two new items in the menu: Paste into and Paste After (see Fig. 2). Select one or the other depending on whether you want the copy to be a sub-page (Paste into) or to follow the current page on the same level (Paste after).
+
+
+
+	Drag and drop
+
+            	Click and hold the left mouse button over the name of the file you wish to move or copy.
+	To copy rather than move press the control key on the keyboard.
+	Drag the page to its destination. The destination can either be after an existing page (Fig. 3) or as a sub-page of an existing page (Fig. 4).
+
+
+
+
+
+
+           
+           
+         
+
+         
+          
+           
+            
+             
+              
+               
+                 Fig. 1. Copying a page using the menus
+                	
+
+
+              
+ 
+              
+               
+                 Fig. 2. Pasting a copy of a page using the menus
+                	
+
+
+              
+
+             
+ 
+             
+              
+               
+                 Fig. 3. Pasting after an existing page using drag and drop
+                	
+
+
+              
+ 
+              
+               
+                 Fig. 4. Pasting as a sub-page of an existing page using drag and drop
+                	
+
+
+              
+
+             
+
+            
+
+           
+
+          
+
+         
+
+        
+ 
+         
+       
+ 
+        
+       
+        
+         Prev | 
+         Next
+        
+
+        
+         First | 
+         Last
+        
+
+       
+
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

@@ -1,0 +1,2218 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Prospective Students ›› MSC CSML 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         
+          
+           
+            
+             
+            
+
+           
+
+          
+
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+         
+         
+          
+          	Overview
+	Course Structure
+	Entry Requirements
+	Fees & Funding
+	Employability
+	Contact
+	Apply
+
+ 
+           
+            
+             
+             
+              
+             MSc Computational Statistics and Machine Learning teaches advanced analytical and computational skills for success in a data rich world. Designed to be both mathematically rigorous and relevant, the programme covers fundamental aspects of machine learning and statistics, with potential options in information retrieval, bioinformatics, quantative finance, artificial intelligence and machine vision. 
+ 
+             The programme is organised by the Centre for Computational Statistics and Machine Learning (CSML) - a major European Centre for Machine Learning and was scientific coordinator of the PASCAL2 European Network of Excellence. Coupled with the internationally renowned Gatsby Computational Neuroscience and Machine Learning Unit, and the prestigious Department of Statistical Science, the programme draws on world class research and teaching talents.
+
+             
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+               	2016/17
+	2017/18
+
+ 
+                
+                 
+                  
+                  
+                   
+                   
+                   
+                    
+                   Students undertake modules to the value of 180 credits. Each taught module is worth 15 credits.  
+ 
+                   The Project/Dissertation is worth 60 credits. 
+ 
+                   The programme consists of 4 core modules (60 credits): 
+ 
+                   COMPGI01 Supervised Learning 
+ 
+                   STATG001 Statistical Models and Data Analysis 
+ 
+                   COMPGI08 Graphical Models OR COMPGI18 Probabilistic and Unsupervised Learning 
+ 
+                   One further Statistics Module.  
+ 
+                   Optional Modules
+Choose a minimum of 60 credits and a maximum of 60 credits from these optional modules. 
+ 
+                   All choices are subject to timetabling constraints and the approval of the relevant Module Tutor (i.e. to ensure any prerequisites are satisfied) and the Programme Director.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules 1
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGI01 Supervised Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI01 Supervised Learning
+
+                       
+ 
+                        
+                        
+                       This module covers supervised approaches to machine learning. It starts by reviewing fundamentals of statistical decision theory and probabilistic pattern recognition followed by an in-depth introduction to various supervised learning algorithms such as Perceptron, Backpropagation algorithm, Decision trees, instance-based learning, support vector machines. Algorithmic-independent principles such as inductive bias, side information, approximation and estimation errors. Assessment of algorithms by jackknife and bootstrap error estimation, improvement of algorithms by voting methods such as boosting. Introduction to statistical learning theory, hypothesis classes, PAC learning model, VC-dimension, growth functions, empirical risk minimization, structural risk minimization. 
+ 
+                       Students will gain an in-depth familiarity with various classical and contemporary supervised learning algorithms, understand the underlying limitations and principles that govern learning algorithms and ways of assessing and improving their performance, understand the underlying fundamentals of statistical learning theory, the complexity of learning and its relationship to generalization ability. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG001 Statistical Models & Data Analysis
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG001 Statistical Models & Data Analysis
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules 2 (choose one)
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGI08 Graphical Models
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI08 Graphical Models
+
+                       
+ 
+                        
+                        
+                       The module provides an entry into probabilistic modeling and reasoning, primarily of discrete variable systems. Very little continuous variable calculus is required, and students more familiar with discrete mathematics should find the course digestible. The emphasis is to demonstrate the potential applications of the techniques in plausible real-world scenarios related to information retrieval and analysis. Concrete challenges include questionnaire analysis, low-density parity check error correction, and collaborative filtering of Netflix data 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI18 Probabilistic & Unsupervised Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI18 Probabilistic & Unsupervised Learning
+
+                       
+ 
+                        
+                        
+                       This module provides students with an in-depth introduction to statistical modelling and unsupervised learning techniques. It presents probabilistic approaches to modelling and their relation to coding theory and Bayesian statistics. A variety of latent variable models will be covered including mixture models (used for clustering), dimensionality reduction methods, time series models such as hidden Markov models which are used in speech recognition and bioinformatics, independent components analysis, hierarchical models, and nonlinear models.
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules 3 (choose one)
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     STATG002 Statistical Design of Investigations
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG002 Statistical Design of Investigations
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG003 Statistical Computing
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG003 Statistical Computing
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG004 Applied Bayesian Methods
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG004 Applied Bayesian Methods
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG012 Statistical Inference
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG012 Statistical Inference
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Optional Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGI07 Programming & Mathematical Methods for Machine Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI07 Programming & Mathematical Methods for Machine Learning
+
+                       
+ 
+                        
+                        
+                        The aims of the module are to provide a practical knowledge and understanding of the programming environments of Matlab and Mathematica. Knowledge of and proficiency in these languages/packages form an essential component of courses GI06 (Evolutionary Systems) and GI01 (Supervised Learning). The aim is also to introduce students to those elements of linear algebra which play an important role in machine learning and data analysis. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI09 Applied Machine Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI09 Applied Machine Learning
+
+                       
+ 
+                        
+                        
+                       This module aims to cover some of the issues that may arise in the practical application of machine learning in real-world problems. In addition, the course will cover some of the mathematics and techniques behind basic data analysis methods for both static and time-series data. 
+ 
+                       On completion of the module, students will have the ability to assess the effectiveness of solutions presented and to question them in an intelligent way; synthesise solutions to general open-ended problems covering material from the whole programme, tempered with information on commercial reality obtained from this course. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI13 Advanced Topics in Machine Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI13 Advanced Topics in Machine Learning
+
+                       
+ 
+                        
+                        
+                       To learn the fundamentals of machine-learning based artificial intelligence:
+
+                       	to understand fundamentals and practice of deep learning,
+	to understand methods for reinforcement learning, planning and control in sequential decision making processes,
+	to learn how to implement algorithms in TensorFlow.
+
+
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI14 Machine Vision
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI14 Machine Vision
+
+                       
+ 
+                        
+                        
+                       The course addresses algorithms for automated computer vision. It focuses on building mathematical models of images and objects and using these to perform inference. Students will learn how to use these models to automatically find, segment and track objects in scenes, perform face recognition and build three-dimensional models from images. 
+ 
+                       At the end of the course, students will be able to understand and apply a series of probabilistic models of images and objects in machine vision systems. To understand the principles behind face recognition, segmentation, image parsing, super-resolution, object recognition, tracking and 3D model building. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI15 Information Retrieval & Data Mining
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI15 Information Retrieval & Data Mining
+
+                       
+ 
+                        
+                        
+                       The course is aimed at an entry level study of information retrieval and data mining techniques. It is about how to find relevant information and subsequently extract meaningful patterns out of it. While the basic theories and mathematical models of information retrieval and data mining are covered, the course is primarily focused on practical algorithms of textual document indexing, relevance ranking, web usage mining, text analytics, as well as their performance evaluations. Practical retrieval and data mining applications such as web search engines, personalisation and recommender systems, business intelligence, and fraud detection will also be covered. 
+ 
+                       Students are expected to master both the theoretical and practical aspects of information retrieval and data mining. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI16 Approximate Inference and Learning in Probabilistic Models
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI16 Approximate Inference and Learning in Probabilistic Models
+
+                       
+ 
+                        
+                        
+                       The module will present the foundations of approximate inference and learning in probabilistic graphical models (e.g. Bayesian networks and Markov networks), with particular focus on models composed from conditional exponential family distributions. Both stochastic (Monte Carlo) methods and deterministic approximations will be covered. The methods will be discussed in relation to practical problems in real-world inference in Machine Learning, including problems in tracking and learning. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI17 Affective Computing and Human-Robot Interaction
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI17 Affective Computing and Human-Robot Interaction
+
+                       
+ 
+                        
+                        
+                       The module targets students who have no previous knowledge in cognitive science and emotion theory. The aim of Part 1 is to give a basic introduction to the theory of emotion from psychology and neuroscience viewpoints and to understand its importance in human decision and communication processes. Part 2 will concentrate on the application of machine learning techniques to emotion recognition by looking at current applications in entertainment, education, and health. Part 3 will focus on the challenges in designing robots that are capable of socially interacting with humans.
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI19 Statistical Natural Language Processing
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI19 Statistical Natural Language Processing
+
+                       
+ 
+                        
+                        
+                       The course introduced the basics of statistical natural language processing (NLP) including both linguistics concepts such as morphology and syntax and machine learning techniques relevant for NLP. 
+ 
+                       Students successfully completing the module will understand relevant linguistic concepts; relevant ML techniques, what makes NLP challenging (and exciting), how to write programs that process language and how to rigorously formulate NLP tasks as learning and inference tasks, and address the computational challenges involved. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV08 Inverse Problems in Imaging
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV08 Inverse Problems in Imaging
+
+                       
+ 
+                        
+                        
+                       To introduce the concepts of optimisation, and appropriate mathematical and numerical tools applications in image processing and image reconstruction. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV17 Computational Modelling for Biomedical Imaging
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV17 Computational Modelling for Biomedical Imaging
+
+                       
+ 
+                        
+                        
+                       This module aims to expose students to the challenges and potential of computational modelling in a key application area. It will explain how to use models to learn about the world; how to teach parameter estimation techniques through practical examples; and how to familiarize students with handling real data sets.
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG002 Statistical Design of Investigations
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG002 Statistical Design of Investigations
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG003 Statistical Computing
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG003 Statistical Computing
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG004 Applied Bayesian Methods
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG004 Applied Bayesian Methods
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG012 Statistical Inference
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG012 Statistical Inference
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG017 Stochastic Methods in Finance
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG017 Stochastic Methods in Finance
+
+                       
+ 
+                        
+                        
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG019 Selected Topics in Statistics
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG019 Selected Topics in Statistics
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG020 Stochastic Methods in Finance II
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG020 Stochastic Methods in Finance II
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                 
+ 
+                  
+                
+ 
+               
+ 
+                
+                 
+                  
+                  
+                   
+                   
+                   
+                    
+                   MSc Computational Statistics and Machine Learning comprises 8 taught modules and a Dissertation. Of the taught modules, 2 are core modules, with either 6 option modules, 5 option modules and 1 elective module, or 4 option modules and 2 elective modules.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGI01 Supervised Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI01 Supervised Learning
+
+                       
+ 
+                        
+                        
+                       This module covers supervised approaches to machine learning. It starts by reviewing fundamentals of statistical decision theory and probabilistic pattern recognition followed by an in-depth introduction to various supervised learning algorithms such as Perceptron, Backpropagation algorithm, Decision trees, instance-based learning, support vector machines. Algorithmic-independent principles such as inductive bias, side information, approximation and estimation errors. Assessment of algorithms by jackknife and bootstrap error estimation, improvement of algorithms by voting methods such as boosting. Introduction to statistical learning theory, hypothesis classes, PAC learning model, VC-dimension, growth functions, empirical risk minimization, structural risk minimization. 
+ 
+                       Students will gain an in-depth familiarity with various classical and contemporary supervised learning algorithms, understand the underlying limitations and principles that govern learning algorithms and ways of assessing and improving their performance, understand the underlying fundamentals of statistical learning theory, the complexity of learning and its relationship to generalization ability. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG001 Statistical Models & Data Analysis
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG001 Statistical Models & Data Analysis
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGM99 Individual Project
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGM99 Individual Project
+
+                       
+ 
+                        
+                        
+                       Further syllabus information will be available shortly.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Optional Modules [Group 1]
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGI08 Graphical Models
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI08 Graphical Models
+
+                       
+ 
+                        
+                        
+                       The module provides an entry into probabilistic modeling and reasoning, primarily of discrete variable systems. Very little continuous variable calculus is required, and students more familiar with discrete mathematics should find the course digestible. The emphasis is to demonstrate the potential applications of the techniques in plausible real-world scenarios related to information retrieval and analysis. Concrete challenges include questionnaire analysis, low-density parity check error correction, and collaborative filtering of Netflix data. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI18 Probabilistic & Unsupervised Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI18 Probabilistic & Unsupervised Learning
+
+                       
+ 
+                        
+                        
+                       This module provides students with an in-depth introduction to statistical modelling and unsupervised learning techniques. It presents probabilistic approaches to modelling and their relation to coding theory and Bayesian statistics. A variety of latent variable models will be covered including mixture models (used for clustering), dimensionality reduction methods, time series models such as hidden Markov models which are used in speech recognition and bioinformatics, independent components analysis, hierarchical models, and nonlinear models.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   You will need to choose a 15 credits from the Group 1 optional modules.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Optional Modules [Group 2]
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGI09 Applied Machine Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI09 Applied Machine Learning
+
+                       
+ 
+                        
+                        
+                       This module aims to cover some of the issues that may arise in the practical application of machine learning in real-world problems. In addition, the course will cover some of the mathematics and techniques behind basic data analysis methods for both static and time-series data. 
+ 
+                       On completion of the module, students will have the ability to assess the effectiveness of solutions presented and to question them in an intelligent way; synthesise solutions to general open-ended problems covering material from the whole programme, tempered with information on commercial reality obtained from this course. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI13 Advanced Topics in Machine Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI13 Advanced Topics in Machine Learning
+
+                       
+ 
+                        
+                        
+                       To learn the fundamentals of machine-learning based artificial intelligence:
+
+                       	to understand fundamentals and practice of deep learning,
+	to understand methods for reinforcement learning, planning and control in sequential decision making processes,
+	to learn how to implement algorithms in TensorFlow.
+
+
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI14 Machine Vision
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI14 Machine Vision
+
+                       
+ 
+                        
+                        
+                       The course addresses algorithms for automated computer vision. It focuses on building mathematical models of images and objects and using these to perform inference. Students will learn how to use these models to automatically find, segment and track objects in scenes, perform face recognition and build three-dimensional models from images. 
+ 
+                       At the end of the course, students will be able to understand and apply a series of probabilistic models of images and objects in machine vision systems. To understand the principles behind face recognition, segmentation, image parsing, super-resolution, object recognition, tracking and 3D model building. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI15 Information Retrieval & Data Mining
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI15 Information Retrieval & Data Mining
+
+                       
+ 
+                        
+                        
+                       The course is aimed at an entry level study of information retrieval and data mining techniques. It is about how to find relevant information and subsequently extract meaningful patterns out of it. While the basic theories and mathematical models of information retrieval and data mining are covered, the course is primarily focused on practical algorithms of textual document indexing, relevance ranking, web usage mining, text analytics, as well as their performance evaluations. Practical retrieval and data mining applications such as web search engines, personalisation and recommender systems, business intelligence, and fraud detection will also be covered. 
+ 
+                       Students are expected to master both the theoretical and practical aspects of information retrieval and data mining. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI16 Approximate Inference and Learning in Probabilistic Models
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI16 Approximate Inference and Learning in Probabilistic Models
+
+                       
+ 
+                        
+                        
+                       The module will present the foundations of approximate inference and learning in probabilistic graphical models (e.g. Bayesian networks and Markov networks), with particular focus on models composed from conditional exponential family distributions. Both stochastic (Monte Carlo) methods and deterministic approximations will be covered. The methods will be discussed in relation to practical problems in real-world inference in Machine Learning, including problems in tracking and learning.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI19 Statistical Natural Language Processing
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI19 Statistical Natural Language Processing
+
+                       
+ 
+                        
+                        
+                       The course introduced the basics of statistical natural language processing (NLP) including both linguistics concepts such as morphology and syntax and machine learning techniques relevant for NLP. 
+ 
+                       Students successfully completing the module will understand relevant linguistic concepts; relevant ML techniques, what makes NLP challenging (and exciting), how to write programs that process language and how to rigorously formulate NLP tasks as learning and inference tasks, and address the computational challenges involved. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   You will need to choose a minimum of 30 and a maximum of 60 credits from the Group 2 optional modules.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Optional Modules [Group 3]
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     STATG002 Statistical Design of Investigations
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG002 Statistical Design of Investigations
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG004 Applied Bayesian Methods
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG004 Applied Bayesian Methods
+
+                       
+ 
+                        
+                        
+                       Taught by Department of Statistical Science - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG012 Statistical Inference
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG012 Statistical Inference
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   You will need to choose 15 credits from the Group 3 optional modules.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Elective Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGI07 Programming & Mathematical Methods for Machine Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI07 Programming & Mathematical Methods for Machine Learning
+
+                       
+ 
+                        
+                        
+                        The aims of the module are to provide a practical knowledge and understanding of the programming environments of Matlab and Mathematica. Knowledge of and proficiency in these languages/packages form an essential component of courses GI06 (Evolutionary Systems) and GI01 (Supervised Learning). The aim is also to introduce students to those elements of linear algebra which play an important role in machine learning and data analysis.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI17 Affective Computing and Human-Robot Interaction
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI17 Affective Computing and Human-Robot Interaction
+
+                       
+ 
+                        
+                        
+                       The module targets students who have no previous knowledge in cognitive science and emotion theory. The aim of Part 1 is to give a basic introduction to the theory of emotion from psychology and neuroscience viewpoints and to understand its importance in human decision and communication processes. Part 2 will concentrate on the application of machine learning techniques to emotion recognition by looking at current applications in entertainment, education, and health. Part 3 will focus on the challenges in designing robots that are capable of socially interacting with humans.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGL01 Introduction to Logic, Semantics and Verification
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGL01 Introduction to Logic, Semantics and Verification
+
+                       
+ 
+                        
+                        
+                       The module aims to familiarize students with formal methods for reasoning about transition systems and programs. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGL02 Modal Logic and Transition Systems
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGL02 Modal Logic and Transition Systems
+
+                       
+ 
+                        
+                        
+                       This course introduces various formal methods of reasoning about transition systems. The focus is on modal logic, an extension of classical logic with operators, which serves as a specification language for system properties and their verification. 
+ 
+                       Further syllabus information is available here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGL03 Program Verification and Automated Reasoning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGL03 Program Verification and Automated Reasoning
+
+                       
+ 
+                        
+                        
+                       Further syllabus information will be available shortly.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV08 Inverse Problems in Imaging
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV08 Inverse Problems in Imaging
+
+                       
+ 
+                        
+                        
+                       To introduce the concepts of optimisation, and appropriate mathematical and numerical tools applications in image processing and image reconstruction.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV17 Computational Modelling for Biomedical Imaging
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV17 Computational Modelling for Biomedical Imaging
+
+                       
+ 
+                        
+                        
+                       This module aims to expose students to the challenges and potential of computational modelling in a key application area. It will explain how to use models to learn about the world; how to teach parameter estimation techniques through practical examples; and how to familiarize students with handling real data sets.
+ 
+                        
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV19 Numerical Optimisation
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV19 Numerical Optimisation
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to provide the students with an overview of the optimisation landscape and a practical understanding of most popular optimisation techniques and an ability to apply these methods to problems they encounter in their studies e.g. MSc project/dissertation and later in their professional career. 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGX01 Robotic Systems Engineering
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX01 Robotic Systems Engineering
+
+                       
+ 
+                        
+                        
+                       Students will gain an introductory overview of robotics and autonomous systems. Technically they will gain an understanding of the concepts and principles of ROS, the underpinning software development environment for robot systems, through a number of example applications, leading to the capability of using ROS for advanced robot control, navigation, sensing and verification. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGX02 Robotic Control Theory and Systems
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX02 Robotic Control Theory and Systems
+
+                       
+ 
+                        
+                        
+                       The aim of this module is to give students an insight into robotics and autonomous systems control theory and practice, specifically:
+
+                       	Control loops. damping, feedback and stability analysis with a working understanding about how these are used for navigating a robot within an environment;
+	Insight into developing a working prototype of a control system for a robot that solves a specific task.
+
+
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGX04 Robotic Vision and Navigation
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGX04 Robotic Vision and Navigation
+
+                       
+ 
+                        
+                        
+                       Students will gain knowledge about robot navigation with specific focus on the use of vision as a primary sensor for mapping the environment. The module will provide students with an understanding and practical experience of recovering geometry from optical sensors and creating an environment map which a robot can use for navigation and motion planning. 
+ 
+                       Further syllabus information can be found here. 
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG002 Statistical Design of Investigations
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG002 Statistical Design of Investigations
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG003 Statistical Computing
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG003 Statistical Computing
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG017 Stochastic Methods in Finance
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG017 Stochastic Methods in Finance
+
+                       
+ 
+                        
+                        
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG019 Selected Topics in Statistics
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG019 Selected Topics in Statistics
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG020 Stochastic Methods in Finance II
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG020 Stochastic Methods in Finance II
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                    
+                     
+                    You may choose up to 30 credits as elective modules.
+ 
+                     
+                   
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Module Selection
+
+                   
+ 
+                    
+                    
+                   The modules that make up a programme are either core, optional or elective, which reflects whether they must be taken or can optionally be taken. The programme’s curriculum (also called a programme diet) will prescribe in what combinations modules can be taken, any restrictions on doing so, and how much credit can and must be taken. 
+ 
+                   Core/compulsory modules are fundamental to the programme’s curriculum and students must take these. You will be automatically allocated a place on any core modules for your programme and will not need to select these during the module selection process. There will be no timetable clashes between your programme’s core modules. 
+ 
+                   Optional modules are strongly related to the programme and students can choose which of these they wish to take, usually from within specific groups (for example, a student may be asked to choose two optional modules from one group and three from another, etc.) Places of optional modules are strictly limited (due to spatial, resource and timetable constraints) and will be allocated on a first come first serve basis. Some optional modules have pre-requisites which students will need to meet in order to be eligible for a place. 
+ 
+                   Elective modules are not programme specific, but allow students the opportunity to explore their interests more widely. Students are usually restricted to taking one or two elective modules. There is no guarantee of being accepted onto an elective module. These modules are core or optional on other programme diets, consequently students on these programmes will be given priority. Any remaining places will then be allocated on a first come first served basis. Some elective modules have pre-requisites which students will need to meet in order to be eligible for a place. 
+ 
+                   Please note: timetable clashes between optional and elective modules from different specialisations are inevitable and this can result in limiting the available choices. It is the student’s responsibility to select modules that do not clash in order to meet UCLs minimum attendance requirements. Please speak to your Programme Director and/ or Programme Administrator if you have any queries. 
+ 
+                   Non-Computer Science students should note that priority on COMP* modules will always be given to Computer Science students in the first instance.
+ 
+                    
+                  
+ 
+                   
+                   
+                 
+ 
+                  
+                
+ 
+               
+ 
+              
+ 
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             A minimum of an upper second-class UK Bachelor's degree in a highly quantitative subject such as computer science, statistics, mathematics, electrical engineering or the physical sciences, or an overseas qualification of an equivalent standard. Relevant work experience may also be taken into account. Students must be comfortable with undergraduate-level mathematics; in particular it is essential that the candidate will have knowledge of statistics at an intermediate undergraduate level. Candidates should also be proficient in linear algebra and multivariable calculus. 
+ 
+             English Language Requirements 
+ 
+             If your education has not been conducted in the English language, you will be expected to demonstrate evidence of an adequate level of English proficiency.
+
+The English language level for this programme is: Good
+
+Further information can be found on our English language requirements page. 
+ 
+             International students 
+ 
+             Country-specific information, including details of when UCL representatives are visiting your part of the world, can be obtained from the International Students website.
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+              UK/EU fees (FT):  £11,800 for 2017/18
+ 
+               
+             
+ 
+              
+              
+              
+               
+              Overseas fees (FT): £24,610 for 2017/18
+ 
+               
+             
+ 
+              
+              
+              
+               
+              For a comprehensive list of the funding opportunities available at UCL, including funding relevant to your nationality, please visit the Scholarship and Funding website. 
+ 
+              If you are holding an offer from the Department of Computer Science at UCL, you may be eligible for our Excellence Scholarship.
+ 
+               
+             
+ 
+              
+              
+              
+               
+              
+               Tuition Fee Deposit
+
+              
+ 
+               
+               
+               
+                
+               This programme requires that applicants firmly accepting their offer pay a deposit. This allows UCL to effectively plan student numbers, as students are more demonstrably committed towards commencing their studies with us. 
+ 
+               For full details about the UCL tuition fee deposit, please see the central UCL pages. 
+ 
+               Tuition fee deposits within the Department of Computer Science are currently listed as:
+
+               	UK/EU	Overseas
+	Full-time	*Part-time	Full-time	*Part-time
+	£2000	£1000	£2000	£1000
+	 
+	*where part-time is an available mode of study
+
+ 
+                
+              
+ 
+               
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             	 Top graduate destinations:            
+ 
+                 	DeepMind
+	Google
+	Salesforce
+	YoungGov
+
+ 	 Top graduate roles:                           
+ 
+                 	Software Developer 
+	Accountant
+	Financial Consultant
+	Actuary
+
+ 	 Further study destinations:
+ 
+                 	UCL
+	University of Cambridge
+	MIT
+
+ 
+
+
+             Average starting salary £47,500 (Graduate Surveys, January 2015).
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             
+               
+                
+               Programme Administrator
+Rebecca Martin
+Office 5.22, Malet Place Engineering Building 
++44 (0)20 7679 0481
+advancedmsc-admissions@cs.ucl.ac.uk 
+ 
+               More information
+ 
+                
+              
+
+              
+               
+                
+                 
+                  
+                 
+
+                
+ 
+                
+                 
+                  
+                 
+
+                
+ 
+                
+                 
+                  
+                 
+
+                
+
+               
+
+              
+
+             
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             To apply now click here.
+ 
+             This MSc receives many more applications than it has places available and the admissions process is competitive. It may therefore take longer than the Admissions stated 6 weeks for a decision to be made and communicated. Applicants are advised to apply as early as possible due to the competition for places. Those applying for scholarship funding (particularly overseas applicants) should take note of application deadlines.
+ 
+             Deadline 17 June 2017.
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+         
+ 
+        
+ 
+         
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 03 Apr 2017 and is maintained by 
+      Steve Marchant 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

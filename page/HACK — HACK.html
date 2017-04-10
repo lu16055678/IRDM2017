@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <title>HACK — HACK</title> 
+  <link rel="stylesheet" href="_static/scrolls.css" type="text/css"> 
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css"> 
+  <link rel="stylesheet" href="_static/print.css" type="text/css"> 
+  <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script> 
+  <script type="text/javascript" src="_static/jquery.js"></script> 
+  <script type="text/javascript" src="_static/underscore.js"></script> 
+  <script type="text/javascript" src="_static/doctools.js"></script> 
+  <script type="text/javascript" src="_static/theme_extras.js"></script> 
+  <link rel="top" title="HACK" href="#"> 
+  <link rel="next" title="Implementation" href="implementation.html"> 
+ </head> 
+ <body> 
+  <div id="content"> 
+   <div class="header"> 
+    <div class="text"> 
+     <a href="http://www.cs.ucl.ac.uk/" id="section_header_CS">DEPARTMENT OF COMPUTER SCIENCE</a> 
+     <br> Systems and Networks Research Group 
+    </div> 
+    <img src="_static/ucl-logo-paleblue.png" alt="UCL logo" id="logo"> 
+    <div style="clear: both;"></div> 
+    <!--        <h1 class="heading"><a href="#"
+          title="back to the documentation overview"><span>HACK</span></a></h1>
+--> 
+   </div> 
+   <div class="menu"> 
+    <ul> 
+     <li> <a href="#">HACK</a> </li> 
+     <li> <a href="implementation.html">Implementation »</a> </li> 
+    </ul> 
+   </div> 
+   <div id="contentwrapper"> 
+    <div class="section" id="hack"> 
+     <h1>HACK<a class="headerlink" href="#hack" title="Permalink to this headline">¶</a></h1> 
+     <div class="section" id="abstract"> 
+      <h2>Abstract<a class="headerlink" href="#abstract" title="Permalink to this headline">¶</a></h2> 
+      <p>WiFi’s physical layer has increased in speed from 802.11b’s 11 Mbps to the Gbps rates of emerging 802.11ac. Despite these gains, WiFi’s inefficient MAC layer limits achievable end-to-end throughput. The culprit is 802.11’s mandatory idle period before each medium acquisition, which has come to dwarf the duration of a packet’s transmission. This overhead is especially punishing for TCP traffic, whose every two data packets elicit a short TCP ACK. Even frame aggregation and block link-layer ACKs (introduced in 802.11n) leave significant medium acquisition overhead for TCP ACKs. In this paper, we propose TCP/HACK (Hierarchical ACKnowledgment), a system that applies cross-layer optimization to TCP traffic on WiFi networks by carrying TCP ACKs within WiFi’s link-layer acknowledgments. By eliminating all medium acquisitions for TCP ACKs in unidirectional TCP flows, TCP/HACK significantly improves medium utilization, and thus significantly increases achievable capacity for TCP workloads. Our measurements of a real-time, line-speed implementation for 802.11a on the SoRa software-defined radio platform and simulations of 802.11n networks at scale demonstrate that TCP/HACK significantly improves TCP throughput on WiFi networks.</p> 
+      <p><a class="reference external" href="https://www.usenix.org/conference/atc14/technical-sessions/presentation/salameh/">Get paper PDF from USENIX ATC‘14 website</a></p> 
+      <div class="toctree-wrapper compound"> 
+       <ul> 
+        <li class="toctree-l1"><a class="reference internal" href="implementation.html">Implementation</a>
+         <ul> 
+          <li class="toctree-l2"><a class="reference internal" href="implementation.html#id1">NS-3</a>
+           <ul> 
+            <li class="toctree-l3"><a class="reference internal" href="implementation.html#compile-and-run">Compile and Run</a></li> 
+            <li class="toctree-l3"><a class="reference internal" href="implementation.html#configure-using-waf">Configure using Waf</a></li> 
+            <li class="toctree-l3"><a class="reference internal" href="implementation.html#run-from-xcode">Run from Xcode</a></li> 
+           </ul> </li> 
+          <li class="toctree-l2"><a class="reference internal" href="implementation.html#id2">SoRa</a>
+           <ul> 
+            <li class="toctree-l3"><a class="reference internal" href="implementation.html#dcf">DCF</a></li> 
+            <li class="toctree-l3"><a class="reference internal" href="implementation.html#in-memory-logging">In-memory logging</a></li> 
+            <li class="toctree-l3"><a class="reference internal" href="implementation.html#link-layer-ack-latency">Link-layer ACK latency</a></li> 
+            <li class="toctree-l3"><a class="reference internal" href="implementation.html#compiling">Compiling</a></li> 
+            <li class="toctree-l3"><a class="reference internal" href="implementation.html#running">Running</a></li> 
+           </ul> </li> 
+         </ul> </li> 
+        <li class="toctree-l1"><a class="reference internal" href="download.html">Download</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="footer">
+    © Copyright 2014, Lynne Salameh, Astrit Zhushi, Mark Handley, Kyle Jamieson, and Brad Karp. Created using 
+   <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.2. 
+  </div>  
+ </body>
+</html>

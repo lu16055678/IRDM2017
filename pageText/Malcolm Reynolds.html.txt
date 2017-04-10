@@ -1,0 +1,72 @@
+ 
+   
+    
+     Malcolm Reynolds 
+ 
+   
+ 
+  
+ 
+   
+    
+     I am a second year EngD student at the UCL Department of Computer Science working under the supervision of Gabriel Brostow. I'm interested in applying concepts from Machine Learning, particularly probabilistic methods, to various Computer Vision and Computational Photography problems. 
+ 
+     I did my undergraduate degree at Queens' College Cambridge. My Director of Studies was Robin Walker and my final year project was supervised by Sean Holden. After graduating I joined UCL on the MSc Intelligent Systems course (now MSc Machine Learning). My thesis was supervised by Mark Herbster. 
+ 
+     I organise the weekly Computer Vision Reading Group, where we take turns to present a paper or discuss a topic. All are welcome, please see this page for details. 
+ 
+     Thanks to Yotam for letting me steal his webpage formatting. 
+ 
+   
+ 
+    
+     Email: m.reynolds@cs.ucl.ac.uk
+ Phone: +44 020 7679 3058
+ Office: MPEB 4.17 
+ 
+     GitHub 
+ 
+   
+ 
+  
+ 
+   
+    
+     Projects 
+ 
+   
+ 
+    
+     Capturing Time-of-Flight Data with Confidence 
+ 
+   
+ 
+    
+     
+   
+ 
+    
+     Time-of-Flight cameras such as the PMD CamCube provide depth readings at video framerates for much less than the cost of a Laser scanner. However the resulting readings contain noise from various sources, some of which (for example "flying pixels") are scene dependent and cannot be eliminated through calibration. 
+ 
+     We train a Random Forest to compute a confidence in the range [0..1] for each measured 3D point. This confidence can be used to filter an individual scan, as weights for a method such as ICP, or as a prior for further processing. 
+ 
+     This work was presented at CVPR 2011, Colorado Springs. Full details and the most up to date draft of the paper can be found on the project page. This is joint work with Jozef Doboš, Leto Peel, Tim Weyrich and Gabriel Brostow. 
+ 
+   
+ 
+  
+ 
+   
+    
+     Elsewhere 
+ 
+   
+ 
+    
+     I enjoy listening to loud noises, preferably in dark rooms with lasers. You can check some of my mixes on Mixcloud. 
+ 
+   
+ 
+  
+   
+ 

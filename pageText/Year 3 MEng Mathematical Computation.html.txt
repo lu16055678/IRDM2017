@@ -1,0 +1,414 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Students
+      ›› Undergrad. Inf.
+      ›› Curriculum ›› Year 3 MEng Math. Computation 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       Year 3 MEng Mathematical Computation
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         Students on the third year of the Mathematical Computation programme take 3 compulsory modules (all in term 1), each with a credit value of 15. The remaining 5 modules are to be selected from the list below. There is also the possibility of selecting one elective module worth 15 credits, the agreement of the Programme Director must be sought. Please see http://www.cs.ucl.ac.uk/teaching_learning/undergrad_inf/curriculum/year_3_meng_math_computation/
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Core Modules
+
+         
+ 
+          
+          
+         	COMP3004 - Computational Complexity
+	COMP3005 - Operating Systems
+	COMP3063 - Introduction to Cryptography
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Optional and Elective Modules
+
+         
+ 
+          
+          
+         There are many potential option choices in the third year, but this does mean that there will be combinations of courses that are unavailable due to timetable clashes. 
+ 
+         *You will need to have the agreement of both the Maths Department Tutor and your Programme Director in order to take MATH3202 or MATH3704. 
+ 
+         Computer Science
+
+         	COMP3011 - Functional Programming
+	COMP3012 - Interaction Design
+	COMP3035 - Networked Systems
+	COMP3058 - Artificial Intelligence and Neural Computing
+	COMP3072 - Image Processing
+	COMP3080 - Computer Graphics
+
+
+         Mathematics
+
+         	MATH3307 - Biomathematics
+	MATH3506 - Mathematical Ecology
+	MATH7202 - Algebra 4
+	MATH7701 - Number Theory
+	MATH3601 - Mathematica
+	MATH3802 - History of Mathematics
+	*MATH3202 - Galois Theory
+	*MATH3704 - Algebraic Number Theory
+
+ 
+         Statistical Science
+
+         	STAT3101 - Probability & Statistics II
+	STAT3102 - Stochastic Processes
+
+
+         Economics
+
+         	ECON3014 - Game Theory
+
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

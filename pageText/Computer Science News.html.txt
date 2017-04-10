@@ -1,0 +1,581 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› News 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News
+
+        
+ 
+         
+         
+         
+          
+          UCL send the youngest team to Google Hashcode Finals
+ 
+          
+           
+            
+           
+ 
+          
+           Google Hashcode is the largest team-based algorithmic competition organised by Google. This year, the participants coming from all over the world, had to optimise the placement of WI-FI routers in a building in order to get the most coverage with minimal costs.
+ 
+           This year, a UCL team consisting of first-year students Andrei Margeloiu, Wojciech Golaszewski and Cosmin Vladianu (pictured), made up thee youngest team to participate in the 2017 World Finals organised in Paris.
+ 
+           The scores were very tight and they got 540 million points while the winning team got 548 million points (just 1.5% differen... [more]
+
+          
+ 
+          
+ 
+         
+ 
+          
+          UCL monitors gas emissions at active volcanoes
+ 
+          
+           
+            
+           
+ 
+          
+           A UCL team of Dr Christopher Kilburn (UCL Earth Sciences), Prof Steve Hailes (UCL Computer Science) and Lara Smale (PhD UCL Earth Sciences), in partnership with the INGV-Vesuvius Observatory, conducted successful tests of prototype, low-cost sensors for monitoring gas emissions at active volcanoes.
+ 
+           Together they deployed the sensors at the Campi Flegrei volcano, which is currently in unrest on the western edge of Naples in southern Italy. The tests confirmed that the recording capability of the sensors is comparable with that of conventional sensors that are several times more expensive. 
+ 
+           High... [more]
+
+          
+ 
+          
+ 
+         
+ 
+          
+          UCL part of national consortium awarded £3 million by EPSRC
+ 
+          
+           
+            
+           
+ 
+          
+           A consortium of eight UK universities, led by the University of Oxford, has been awarded £3 million by the Engineering and Physical Sciences Research Council (EPSRC) to establish a national high-performance computing facility to support machine learning.
+ 
+           The new facility, known as the Joint Academic Data Science Endeavour (JADE), forms part of a combined investment of £20m by EPSRC in the UK’s regional Tier 2 high-performance computing facilities, which aim to bridge the gap between institutional and national resources.
+ 
+           JADE, which will be the largest Graphics Processing Unit (GPU) facility in... [more]
+
+          
+ 
+          
+ 
+         
+ 
+          
+          Alexandra Silva wins EATCS Presburger Award 2017 
+ 
+          
+           
+            
+           
+ 
+          
+           The 2017 Presburger Committee consisting of Marta Kwiatkowska (chair), Stephan Kreutzer and Jukka Suomela has completed its deliberations and unanimously selected Dr Alexandra Silva, Senior Lecturer at UCL Computer Science, as recipient of the 2017 EATCS Presburger Award (European Association for Theoretical Computer Science) for young scientists.
+ 
+           Alexandra Silva has been instrumental in fostering the field of coalgebraic modelling and reasoning. In her groundbreaking thesis in 2010, she developed Kleene coalgebra, showing how automata and their extensions can be naturally embedded within a co... [more]
+
+          
+ 
+          
+ 
+         
+ 
+          
+          UCL Data Science Student Challenge: round 2.0
+ 
+          
+           
+            
+           
+ 
+          
+           Microsoft’s global series of data science hackathons made its second stop in the UK, at UCL last weekend (Saturday 11-Sunday 12 March 2017). Over 170 students from across the country joined us on Saturday at the Bloomsbury campus to take part in the 21-hour long challenge.
+ 
+           The hackathon was themed around the development of innovative data science solutions with large financial data-sets in order to give Bloomberg a competitive advantage in the finance industry, while demonstrating use of Microsoft’s Cortana Intelligence Suite. Students had the opportunity to work on deep learning, text-mining ... [more]
+
+          
+ 
+          
+ 
+         
+ 
+          
+          Computer Science winners at UCL Engineering Engagement Awards
+ 
+          
+           
+            
+           
+ 
+          
+           UCL Computer Science staff and students were winners at the 2017 UCL Engineering Engagement Awards. Led by The Provost, the awards  aim to recognise, empower and celebrate the hard work, commitment and passion that staff and students across the Faculty of Engineering put in to share their research, teaching, and learning with children, young people and schools. 
+ 
+           Computer Science winners were recognised for the outstanding contribution they’ve made to engagement and outreach over the past year. 
+ 
+           Hekla Helgadottir won Undergraduate Student of the Year; Susan Lechelt won Postgraduate Student of t... [more]
+
+          
+ 
+          
+ 
+         
+ 
+          
+          From the BBC Micro to micro:bit and beyond
+ 
+          
+           
+            
+           
+ 
+          
+           An article in ACM Interactions has celebrated the UCL & BBC collaboration that has brought the Micro:bit and now Magic Cubes to the fore in the coding challenge for the 21st Century. 
+ 
+           Yvonne Rogers, Director of UCLIC (UCL Interaction Centre), Venus Shum (Research Fellow), Nicolai Marquardt (Associate Professor), Susan Lechelt (Ph.D. student) and Rose Johnson (visiting researcher) have been instrumental in first joining forces with the BBC to create the MakeMe cube; a simple flatpack construction kit, comprising six pieces, intended for assembly into a cube. When shaken, it would change colour ... [more]
+
+          
+ 
+          
+ 
+         
+ 
+          
+          Andrea Bittau memorial scholarship
+ 
+          
+           
+            
+           
+ 
+          
+           Andrea Bittau, our PhD graduate, died far too young in a motorcycle crash a little over a week ago. (Brief tribute at http://www.cs.ucl.ac.uk/news/article/andrea-bittau-1983-2017/)
+ 
+            To honor and remember Andrea’s life, and his talent and passion for computer systems research, Mark Handley and Brad Karp are establishing the Andrea Bittau Memorial Scholarship, which will support a PhD student at UCL Computer Science.
+ 
+           If you would like to contribute to this memorial to Andrea, you may do so at:
+ https://aoc.ucl.ac.uk/alumni/donations-gbp-single?id=c48fbb6c-f02b-4883-b1fb-291e5985cd9e
+ 
+            (Note that U... [more]
+
+          
+ 
+          
+ 
+         
+ 
+          
+          Andrea Bittau, 1983-2017
+ 
+          
+           
+            
+           
+ 
+          
+           It is our great sorrow to report that Andrea Bittau, who earned his BSc and PhD degrees at UCL Computer Science, died in a motorcycle accident in the San Francisco Bay Area on 25 February.
+ 
+           Andrea joined UCL as an undergraduate in 2001, and continued on to study for the PhD in 2005 as a member of UCL's Systems and Networks Research Group, supervised by Professor Mark Handley and Professor Brad Karp.
+ 
+           His PhD thesis, completed in 2009, was in the area of computer system security, and described the Wedge system, which provides primitives and tools for privilege-separating legacy applications. Afte... [more]
+
+          
+ 
+          
+ 
+         
+ 
+          
+          Undergraduates shine at Google Hash Code
+ 
+          
+           
+            
+           
+ 
+          
+           Google Hash Code is the largest algorithmic competition of Google, in which teams of students and professionals compete to solve a real algorithmic problem that Google encounters! 
+ 
+           This year the UCL team composed of Andrei Margeloiu, Wojciech Golaszewski and Cosmin Vladianu has ranked 1st from the UK universities and 36th globally. Next, they were invited to compete in the Final Round taking place at Google Paris on the 1st of April.
+ 
+            
+ 
+           The task was to optimize how Youtube videos are spread across different cache servers in order to make the video access as quickly as possible. They had to take... [more]
+
+          
+ 
+          
+ 
+         
+ 
+         
+          
+           Displaying results 1 to 10 out of 25
+          
+
+          
+           << First 
+           < Previous 
+           1-10 
+           11-20 
+           21-25 
+           Next > 
+           Last >>
+          
+
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

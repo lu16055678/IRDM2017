@@ -1,0 +1,437 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         UCL's Data Science Hackathon is the first of its kind in the UK
+ 
+         
+          
+          
+
+          
+          
+
+          
+          
+
+          
+          
+
+         
+ 
+         UCLU TechSoc and UCL Computer Science have hosted the UCL Data Science Student Challenge, powered by Microsoft Azure Machine Learning. The UCL DSSC is the fourth of its kind in the global series of hackathons, previously been held at Columbia University in New York, ENSAE in Paris, the Indian Institute of Science in Bangalore. Through these events, Microsoft aim to ignite a passion for data science, machine learning, analytics and to help students learn and develop valuable technical skills.
+ 
+         Rohan Kopparapu and Kok-Pin Chi, both students at UCL Computer Science, led a dream team of 18 TechSoc members who worked with Dr Kenji Takeda and Chirag Dhull from Microsoft, to design, resource and implement this fantastic event, with the help of PSCL Global.
+ 
+         "It was a fantastic experience working closely with Microsoft to organise UCL's first ever large hackathon. We're also very proud to be the first UK university to be given this opportunity and hope to strengthen our relationship with Microsoft in the future.", said Rohan Kopparapu.
+ 
+         The hackathon was focused around improving people's lives by applying Azure Machine Learning to a large number of data sets, ranging from open government data to healthcare data sets from Nuffield Health. It also included data sets from a UCL MSc Software Engineering project, PEACH. Project PEACH will be a contributor to future data science and e-health projects, which will be showcased at the National University of Singapore and the National Institute of Informatics Tokyo later in February 2016.
+ 
+         "We were truly impressed by all the great projects that the students created over the weekend. The level of creativity, enthusiasm, and technical depth of all of the participants was inspiring for us. The event really showed how data science can take raw numbers and turn them into transformational experiences to allow all of us to live happier lives and achieve more", explains Dr Kenji Takeda from Microsoft Research. 
+ 
+         The winning teams were:
+ 
+         1st place - London Living: see [live demo] (https://bit.ly/livelondon) - Tobias Büschel - Jia Shern Tan - Jack Kleeman - Assaf Yossifoff
+2nd place - Tawesome: - George Govedarica - Nancy Amelia - Ryan Tan Ti Ern - Justin Kim
+3rd place - Sleeping on the Job: see [GitHub repository] (https://github.com/agusarridho/dssc_ucl_20160207) - Agus Nur Hidayat - Andrew Dumit - Hermawan Adi Budyanto - Federico Fontana 
+ 
+         The judges for this event were:
+- Professor John Shawe-Taylor, Head of UCL Computer Science - Dr Jacob Spoelstra, Director for Data Science, Microsoft - Dr Kenji Takeda, Microsoft Research - Dr Dean Mohamedally, UCL Computer Science - Chirag Dhull, Microsoft - Donald Lawrence, UCL Computer Science - Emily Raeker, Microsoft - Xavier Dupre, Microsoft Azure - Jen Stirrup, Data Relish Ltd - Geoff Hughes, Microsoft - Peter Coates, NHS Open Source UK.
+ 
+         The UCLU TechSoc crew who worked tirelessly to make this event possible:
+- Rohan Kopparapu - Kok-Pin Chi - Hekla Helgadottir - Benjamin Ryves - Jasmine Lu - Axel Goetz - Arvika Christy - Vicky Dineshchandra - Minttu Alakuijala - Emily Mears - Wilhelm Klopp - Reemma Muthal Puredath - Daniel Gavrilov - Henry Mortimer - Apinan Hasthanasombat - Diana Lee - Zahra Traboulsi - Bruno Calogero - Rajind Karunaratne.
+ 
+         Prizes were awarded to the top three teams, which included Microsoft Band 2s, Star Wars BB-8 robots and Microsoft Xbox Ones.
+ 
+         All students participating received certificates signed by Professor John Shawe-Taylor and Dr Jacob Spoelstra. We hope that all attendees enjoyed the experience as well as improved their data science skills for their CVs. 
+ 
+         
+ 
+         
+ 
+         
+           Posted 08 Feb 16 16:27 
+         
+ 
+          
+          
+           Next: Google Research Award... >
+
+          
+ 
+          
+           < Previous: EPSRC Autonomous...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

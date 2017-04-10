@@ -1,0 +1,410 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         Programming success for UCL CS staff & students
+ 
+         
+          
+          
+
+         
+ 
+         Over the two days of last weekend, two teams from UCL Computer Science travelled to Linköping University to compete in the Northwestern Europe Regional Contest 2015 (NWERC). This is a major international programming competition. Team Carrot, composed of Georgi Georgiev, Wael Al Saeed, and Iuliana Parasca achieved 8th place (of 95), completing eight of the problems, including one considered to be particularly challenging. In this position they finished with a silver medal, the first programming medal we know of in the history of University College London.
+ 
+         Of the UK teams, only Imperial College London (2nd place) and Cambridge (7th place) had better scores (or, in Cambridge's case, a marginally better time), and Team Carrot beat teams from Cambridge, Oxford, Imperial, Warwick, Edinburgh, Bath, Liverpool, Manchester, Southampton, St Andrews, and Nottingham as well as from the remainder of NW Europe. Our second team, consisting exclusively of first year students in their first term of UCL - Jaromir Latal, Ovidiu Horatiu Ilie, Vlad Popa - came a creditable 84th, solving two of the problems and, in so doing, demonstrating a level of determination and the have-a-go spirit that we most value.
+ 
+         Congratulations to all who took part, you've represented us with distinction and we are proud of you for it. Particular thanks also to Zbigniew Wojna, the team coach, and Mark Herbster for their unfailing support. Full results can be found at: http://www.nwerc.eu/scoreboard/ and, if you feel like a challenge, you can find the problems at https://open.kattis.com/contests/nwerc15open/problems
+ 
+         Algorithms lie at the heart of our subject, and an interest and skill in applying, developing, and reasoning about  algorithms are among the things most prized by top-end employers and researchers alike. As a result, we'd like to build on this success and set up some more regular training at UCL. For students interested in participating in future, Zbigniew  has set up a Google group https://groups.google.com/forum/#!forum/ucl-contests, and for academic staff, RAs and PhD students, we would like to hear from you if you'd be interested in helping in the training process. It's a brave thing  to deliberately walk outside your comfort zone, to put yourself to public test, but it exemplifies the spirit of students from UCL CS, and we applaud that. So, without more ado, we give you team Carrot....
+ 
+         
+ 
+         
+ 
+         
+           Posted 03 Dec 15 17:39 
+         
+ 
+          
+          
+           Next: Privacy & Us project... >
+
+          
+ 
+          
+           < Previous: Ingemar Cox paper wins...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

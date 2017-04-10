@@ -1,0 +1,467 @@
+ 
+   
+  	 
+       
+      	
+          
+           UCL DEPARTMENT OF COMPUTER SCIENCE
+           
+ 
+           Help Pages
+          
+ 
+          
+           
+          
+
+		 
+           
+            
+            
+            
+            
+            
+            
+          
+ 		Home	Admissions	Students	Alumni	Research	Business	People	Help	
+					
+
+ 
+	 
+      		  
+           
+           
+           Text size A A A A A  
+          
+ 
+          
+  | HELP 
+            > Induction Week Timetables > MSc Software / Financial Systems Engineering 
+             |  
+          
+ 
+           MSc SSE / FSE Induction Week Timetable
+ Induction week begins on 27th September 2010.
+ Contents
+ 
+          	 
+  Induction Week Schedule for new Students
+	 	 
+ Induction Week for new postgraduates begins on Monday 27th September at 10.30am, in room 1.02, Malet Place Engineering Building, UCL, Gower Street, London, WC1E 6BT.    
+ 
+	
+    
+
+	Joining UCL Action checklist
+	 	Check that you have done everything you need to do to prepare for university.  
+
+	Map of UCL Main Campus
+	 	Including how to get to Department of Computer Science, (Malet Place Engineering Building) 
+ 
+
+	
+              
+               Useful Links
+              
+	 	Links to the following: Careers, Financial, Health, Sports and Welfare Information, Term Dates, Fresher’s Events, UCL Disability Centre, etc. 
+	 
+	 	 
+ 
+ 
+ 
+
+
+  
+ Induction Week Schedule for New Postgraduates 
+ Please Note: Rooms 1.02, 1.03, 1.04, 1.05 and 1.20 are all located on
+ the first floor of the Malet Place Engineering Building, (MPEB).
+ Please make sure you are on time to avoid missing important information.
+ 
+          
+ 
+          	Monday 27th September 2010
+	 
+	09:30-10:00
+ 10:00-11:00
+	1.04 MPEB 
+ 1.02 Lecture Theatre
+ MPEB
+	Sign up to the Computer Science Department
+  Introduction to the Department 
+ Tracy Williams  
+
+	
+               
+               
+                13:00-15:00
+               
+ 
+              
+	
+              
+               1.02 Lecture Theatre
+ MPEB
+ 
+              
+	Welcome and Programme Introduction Talk
+ With Dr Emmanuel Letier
+ 
+
+	
+              
+               15:30-16:00
+              
+	
+              
+               Wilkins Building 
+ Old
+ Refectory
+              
+	UCL Enrolment
+	Tuesday 28th September 2010
+	 
+	13:00-13:30
+	MPEB 1.02 
+	Health & Safety - Dave Twisleton 
+
+	 	 	 	 
+	 	
+              
+               14:30-15:30
+              
+	
+              
+               MEPB 4.07
+              
+	MSc FSE
+ Department of Computer Science
+ Allocation of Computer Accounts 
+ 
+	Wednesday 29th September 2010
+	
+              
+	10:00-10:30
+	MEPB 4.07 
+	MSc SSE
+ Department of Computer Science
+ Allocation of Computer Accounts
+ 
+
+	 	10:30-12:00
+	MPEB 1.03
+	Introduction to Unix Lecture 
+ 
+ 
+
+	
+              
+               Meet Staff and Students at the welcome party! 
+              
+	15:30-17:00
+	The Gallery, ULU
+ -> Getting Here
+	New students welcome party!
+ Come and meet us!
+ 
+ 
+
+	Thursday 30th September 2010
+	 	10:00-11:00
+ 11:00-12:00
+	MPEB 1.05 (Computer Lab)
+	Unix Lab Session - MSc SSE
+ Unix Lab Session - MSc FSE 
+
+	 
+   
+	12:30 - 13:00
+	AV Hill 
+ Lecture
+ Theatre
+	Information Systems (IS) Induction Talk
+ - UCL Computing facilities
+
+	14:00-16:00
+	MPEB 1.02 
+	How to Present Technical Work (courseworks, reports, and presentations) 
+ + Students Questions Session with Dr. Emmanuel Letier
+ 
+
+	 	
+              
+	
+              
+               
+              
+	 
+
+	Friday 1st October 2010
+	 
+	12:00–13:00
+	Bloomsbury
+ Theatre
+	Graduate School Welcome talks for the Taught Masters students
+ 
+ 
+
+	13:00–14:00
+	 MPEB 1.05
+ MPEB 1.21 
+ (Computer Labs) 
+ 
+	Lab Session - MSc SSE
+ 
+ Lab Session - MSc FSE
+ 
+
+	10:00–16:00
+	Wilkins Building North Cloisters 
+	Freshers’ Fayre
+ Clubs, societies and local and national businesses will all be there, vying for your attention. This is a great chance to get to know what's available to you as a student at UCL
+
+	TIMES AND LOCATIONS MAY BE SUBJECT TO CHANGE WITHOUT NOTICE 
+ 
+              
+               Top of page 
+              
+
+
+ Joining UCL Action Checklist 
+ 
+          	
+ Before arrival
+ 
+              	Send any sponsorship details to UCL’s Student Fees Office
+	If required, obtain a student visa and appropriate entry clearance. If you are studying for less than six months but would like to be involved in volunteering, a full visa will be required
+	Begin to make financial arrangements, including opening a bank account
+	Get vaccinated. All students admitted to universities in the UK are advised to be vaccinated against meningitis
+	If you have a disability, contact UCL’s Student Disability Services (www.ucl.ac.uk/disability)
+	Organise accommodation. Arrange to have your post re-directed
+	Read enrolment instructions sent by UCL Registry
+	Read the information sent to you from your department at UCL and any recommended reading that has been given
+	Purchase any books or equipment required for your programme of study
+	Browse through UCL’s Transition website (www.ucl.ac.uk/transition)
+	Check that any computer you are bringing to UCL is compatible with the UCL network at: www.ucl.ac.uk/is/owncomputer
+	Buy a map of London (with street index).
+
+ After arrival
+ 
+              	Move into your accommodation
+	If you are an international student, attend the International Students Orientation Programme
+	If you have not already done so, open a bank account
+	Report to your department as instructed
+	Attend departmental and faculty welcome events
+	Pick up your UCL Transition Diary from your department
+	Formally enrol at UCL, including registering with UCL’s Library and Information Systems
+	Select course units online via UCL Portico (www.ucl.ac.uk/portico)
+	Ensure that you, or your sponsor, pay your fees
+	Find out when things are taught, or see your personal timetable (www.ucl.ac.uk/timetable)
+ 
+	If you are a UK student in receipt of an HE Maintenance Grant, ensure that you have received your bursary entitlement
+	Register with a doctor, either at the UCL Health Centre or at another doctors’ surgery
+	If you have a disability (including dyslexia) register with UCL’s Student Disability Services
+	Attend the UCL Students’ Union Freshers’ Fayre
+	Check out some of the things you can do in your spare time at www.visitlondon.com and www.ucl.union.org/clubs-societies.
+
+ Information provided by UCL Transitions Department 
+ - Full details available at www.ucl.ac.uk/transition
+ 
+ 
+
+	
+              
+	
+              
+               Top of page 
+              
+
+
+ Map of UCL Main Campus and Computer Science Department, (click map to zoom)
+ The Department of Computer Science is located in the Malet Place Engineering Building - Section C4 and C5 on the Map below
+ 
+          	 
+	 
+	 
+
+	 
+
+	 	Also see:
+	
+              	An Interactive Map of UCL 
+	Information on Traveling to UCL 
+
+	 
+	 	
+              
+	
+              
+                 
+               Top of page
+              
+	 
+
+ 
+ Useful Links 
+ 
+          	
+              
+               Accommodation
+              
+
+	UCL Student Residence Office.
+	Enquiries about UCL student housing. 117 Gower Street. Tel: 020 7679 6322 E-mail: residences@ucl.ac.uk
+	www.ucl.ac.uk/accommodation
+
+	University of London Housing Services
+	Private rental listings, tenancy advice. 4th Floor, ULU Building, Malet Street.
+	www.housing.lon.ac.uk
+
+			 
+	Careers and Work Services 
+	UCL Union JobShop 
+	UCLU service to help you find part-time, casual or vacation employment. 1st Floor Bloomsbury Theatre, 15 Gordon Street.
+	www.uclunion.org/find-a-job/
+
+	UCL Careers Service
+	Help with developing skills, choosing a career and applying for jobs. 4th Floor, ULU Building, Malet Street.
+	www.ucl.ac.uk/careers
+
+			 
+	Disability Support 
+	Disability Services
+	Advice, support and resources. Rm G16, Ground Floor, South Wing. Tel: 020 7679 0100, E-mail: disability@ucl.ac.uk
+	www.ucl.ac.uk/disability 
+
+	Dyslexia Assessment and Support Centre (DASC)
+	Free diagnostic service for students. Chandler House. Open by appointment only. Tel: 020 7679 4223, E-mail: c.jamieson@ucl.ac.uk
+	www.ucl.ac.uk/disability
+
+			 
+	Financial
+	Student Financial Support and Welfare
+	Information about loans, bursaries, grants and scholarships. Rm G19, Ground Floor, South Wing. Tel: 020 7679 7021/2823, E-mail: sfs@ucl.ac.uk
+	www.ucl.ac.uk/current-students/financial-support/ 
+
+	Student Fees Office
+	Contact this office if you are having any difficulty paying your fees. Ground Floor, South Wing. Tel: 020 7679 4125/4128, E-mail: fees@ucl.ac.uk
+	www.ucl.ac.uk/current-students 
+
+	Scholarships
+	Information on Scholarships, bursaries, grants and loan schemes for prospective and current students.  
+	www.ucl.ac.uk/prospective-students/scholarships/
+
+			 
+	Health
+	Health Services including Dental Services
+	You may register with the NHS Practice if you live in central or north London. 3 Gower Place (Reception 2nd Floor, Dental 5th Floor).Tel: 020 7387 6306
+	www.gowerplacepractice.nhs.uk/
+
+			 
+	Sports and Extra Curricular 
+	Events
+	A range of events at UCL such as performances, exhibitions and public lectures.
+	www.ucl.ac.uk/news/events/
+
+	Sports and Fitness
+	The Bloomsbury Fitness Centre houses a fully equipped gym and offers a range of fitness classes for all levels. 3rd/4th Floor, Bloomsbury Building.
+	www.uclunion.org/sport-fitness/
+
+	Clubs and Societies
+	About 140 clubs and societies in arts and media, sports and a range of other interests. 2nd Floor, Bloomsbury Building.
+	www.uclunion.org/clubs-societies/
+
+	Bloomsbury Theatre
+	UCL’s own West End theatre. Gordon Street. Tel: 020 7388 8822
+	www.thebloomsbury.com 
+
+	UCL Union (UCLU)
+	Student representation, welfare, entertainment, cafÃ©s and shops. Main Building, 25 Gordon Street. 
+	www.uclunion.org
+
+	University of London Union 
+	Members of UCLU are members of the University of London Union (ULU). Student representation, sports facilities, swimming pool, cafÃ©s and shops. ULU Building, Malet Street.
+	www.ulu.co.uk 
+
+			 
+	Welfare and Support 
+	Nightline
+	A confidential listening, support and information service run by students, from 6.00pm–8.00am nightly. Tel: 020 7631 0101 
+	www.nightline.org.uk 
+
+	UCL Online Student Support Group
+	Advice and support for common student problems.
+	www.ucl.ac.uk/support-pages 
+
+	Rights and Advice
+	UCLU service offering advice on all student matters. 1st Floor, Bloomsbury Building. Tel: 020 7679 2998/2507, E-mail: uclu-rights.advice@ucl.ac.uk
+	www.uclunion.org/get-advice/ 
+
+	Student Counselling
+	Confidential, individual appointments to discuss personal issues. 3 Taviton Street. Tel: 020 7679 1487, E-mail: j.etienne@ucl.ac.uk
+	www.ucl.ac.uk/student-counselling 
+
+	Dean of Students
+ Dr Ruth Siddall
+	Consult the Dean of Students, Deputy Dean of Students or one of the Advisers to Women Students about any issues you’re having, either study-related or personal. E-mail: Dean.of.Students@ucl.ac.uk, Tel: 020 7679 4545
+	www.ucl.ac.uk/dean-of-students/
+
+	Advisers to Women Students
+	Dr Dorothy Einon, Tel: 020 7679 5385, E-mail: d.einon@ucl.ac.uk
+	
+	Sexual/Racial Harassment 
+	Sexual and/or racial harassment is not tolerated at UCL: if you experience it, take action and seek advice. You can approach a member of staff such as the Dean of Students, Advisers to Women Students, or Rights and Advice (see contact details above).
+	
+	 	 	
+              
+               Top of page
+              
+
+
+  Department of Computer Science, UCL (University College London)
+ Gower Street, London WC1E 6BT, UK
+ Phone: 020 7679 7214 (+44 20 7679 7214)
+ Fax: 020 7387 1397 (+44 20 7387 1397) 
+ Images provided courtesy of UCL Media Resources
+  
+ 
+           	
+	   
+ 
+	 This page last modified: 
+          24 September, 2010
+           by 
+           t.williams@cs.ucl.ac.uk
+  
+ 
+           
+
+ 
+       
+	 
+       
+       
+      
+ Computer Science Department - University College London - Gower Street - London - WC1E 6BT -  +44 (0)20 7679 7214 - Copyright Â© 1999-2005 UCL
+ 
+       
+       	Disclaimer | 
+	Accessibility | 
+	Privacy | 
+	Advanced Search | 
+	Help
+
+ 
+      
+ 
+ 
+       
+       
+        
+      
+ 
+
+ 
+   
+   
+    
+ 

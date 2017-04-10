@@ -1,0 +1,446 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus Index 2017-2018 (Provisional)
+      ›› COMPGL ›› COMPGL03 - Program Verification and Automated Reasoning 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGL03 - Program Verification and Automated Reasoning
+
+       This database contains the 2017-18 versions of syllabuses. These are still being finalised and changes may occur before the start of the session.
+
+       Syllabuses from the 2016-17 session are available here.
+
+        
+         
+         
+          
+         	Code	COMPGL03
+	Year	MSc
+	Prerequisites	COMPGL02
+	Term	2
+	Taught By	James Brotherston (100%)
+	Aims	The module aims to familiarize students with the concepts and techniques currently used by state of the art automated theorem provers and program analysers.
+	Learning Outcomes	Students will learn the theoretical foundations of automated reasoning, and be able to develop them in applications for program analysis and verification.
+ 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content
+
+         
+ 
+          
+          
+         This course introduces various formal methods of reasoning about transition systems and programs. The course covers Modal, Temporal and Program Logics as well as algebras of transition systems. Students are taught how to establish complexity bounds on programs and transition systems. 
+ 
+         Part I: Automated theorem proving
+
+         	Instantiation based methods
+	First-order resolution with unification
+	DPLL based methods
+	Term rewriting
+
+
+         Part II: Program analysis and verification
+
+         	Model checking
+	Symbolic execution
+	Hoare logic
+	Abstract interpretation
+	Separation logic
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction
+
+         
+ 
+          
+          
+         3 hours of lectures per week and 5 hours of problem classes throughout the term.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	Coursework (10%)
+	Written examination (2.5 hours, 90%)
+
+
+         To pass this course, students must:
+
+         	Obtain an overall pass mark of 50% for all sections combined.
+	Obtain a pass mark of 50% in the written examination.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources
+
+         
+ 
+          
+          
+         Recommended texts
+ Robinson, J.A. and Voronkov, A. eds, 2001. Handbook of Automated Reasoning. Cambridge, Mass.: MIT Press. 
+ Loeckx, J. and Sieber, K. 1987. The Foundations of program verification. Chichester: Wiley. 
+ Almeida, J.B., Frade, M.J., Pinto, J.S. and Melo de Sousa, S., 2011. Rigorous Software Development. London: Springer-Verlag London. 
+ 
+         Further books and other resources will be indicated during the course.
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 04 Apr 2017 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

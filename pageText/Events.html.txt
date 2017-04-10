@@ -1,0 +1,1508 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› Events 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+         
+         
+
+	Title	Speaker/
+ Organiser
+	Venue	Date
+	 New events will be posted here as soon as details become known.
+ 
+
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        Visitors from Outside UCL
+ 
+        Visitors are welcome to many of the events listed. However, could visitors from outside UCL please email the UCL contact (in the Speaker/Organiser column) to ensure that attendance is possible. 
+ 
+        Venues
+ 
+        Where a simple room number is given the event takes place in the new Computer Science building on Malet Place. Please see the Getting Here pages. 
+ 
+        Other Events
+ 
+        Regular workshops and seminars are run by: 
+
+        	Centre for Computational Statistics and Machine Learning; 
+	Centre for Medical Image Computing;
+	Networks Research Group;
+	Software Systems Engineering Seminars;
+	University College London Interaction Centre (UCLIC);
+	Virtual Environments and Computer Graphics;
+	Vision@UCL.
+
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         London Hopper Colloquium 2017: Thursday 25 May
+
+        
+ 
+         
+         
+        *Save the Date* London Hopper Colloquium 2017: Thursday 25 May 
+ 
+        UCL and BCS Academy will be presenting the 13th London Hopper Colloquium on Thursday 25 May 2017 at the BCS headquarters in London. This 1-day event will feature women speakers talking about their research, a spotlight competition open to postgraduate students, and lots of opportunities to network with other new researchers in computing.
+ 
+        The speakers are: 
+ 
+        · Dr. Lynne Baillie, Heriot-Watt University - Building User Centered Rehabilitation Technologies 
+ 
+        · Juliet Grout, IBM - Cybersecurity the billion pound problem 
+ 
+        · Dr Anna Muszkiewicz, University of Oxford - Simulations of the human heart shed light on mechanisms underpinning atrial fibrillation 
+ 
+        · Dr Ifat Yasin, Senior Lecturer, UCL - Assistive Devices for the Hearing impaired - Past and Present 
+ 
+        The London Hopper 2017 Programme will be available here. 
+ 
+        This event is free but you must book. Booking will be available via the BCS website in March. The London Hopper and Karen Spärck Jones Lecture take place at the BCS headquarters in Central London, with support from UCL, the BCS Academy and IBM.
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         Inaugural Lectures 2015/16
+
+        
+ 
+         
+         
+        We are delighted to announce our programme of Inaugural Lectures for the forthcoming year. Our lectures will be delivered by six newly appointed professors, and provide a wonderful opportunity for them to showcase and celebrate their research; from physical pain management to cryptography, via 3D modelling and smart cities planning.
+ 
+        The scale of our programme is impressive – but so too is the diversity. It is especially pleasing that 50% of our newly promoted Professors are women, which is testament to the department’s approach towards supporting women in computing. We hope you can join us for the ’50:50’ class of 2016 Inaugural Lectures, which are intended to be inspiring, topical and accessible to all.
+ 
+        Click here for our programme.
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         Previous Inaugural Lectures
+
+        
+ 
+         
+         
+         
+         
+          
+          Zero-Knowledge Proofs, Prof Jens Groth
+ 
+           
+            
+            
+             
+            
+             Zero-Knowledge Proofs, Prof Jens Groth
+
+            
+ 
+             
+             
+            
+              
+               
+              Wednesday 2 November 2016 
+ 
+              Zero-knowledge proofs enable a prover to convince a verifier that a statement is true without revealing anything else, in particular they reveal no private information. The combination of verification and confidentiality make them a fundamental and widely used building block in cryptography. There has been a number of exciting developments in recent years leading to tremendous improvements in efficiency. Jens will give an introduction to zero-knowledge proofs and outline some of the ideas that go into recent constructions of efficient zero-knowledge proofs.
+ 
+              Jens is the Director of UCL's Academic Centre of Excellence in Cyber Security Research and Professor of Cryptology at UCL Computer Science. He is among the 20 most published authors worldwide at the top cryptology conferences ASIACRYPT, EUROCRYPT and CRYPTO over the last decade. Jens’s work has revolutionized the area of zero-knowledge proofs with the invention of practical pairing-based non-interactive zero-knowledge proofs, which was recognized early on with the UCLA Chancellor's Award for Postdoctoral Research in 2007. His research has been funded by several EPSRC grants and an ERC Starting Grant on Efficient Cryptographic Arguments and Proofs.
+ 
+              www.cs.ucl.ac.uk/staff/j.groth
+ 
+               
+             
+
+             
+              
+               
+                
+                 
+                  
+                   
+                  
+
+                 
+ 
+                 
+                  
+                   
+                  
+
+                 
+
+                
+ 
+                
+                 
+                  
+                   
+                  
+
+                 
+ 
+                 
+                  
+                   
+                  
+
+                 
+
+                
+
+               
+
+              
+
+             
+
+            
+ 
+             
+           
+ 
+            
+          
+ 
+          Capturing vivid 3D models of the world from video, Prof Lourdes Agapito
+ 
+           
+            
+            
+             
+            
+             Capturing vivid 3D models of the world from video, Prof Lourdes Agapito
+
+            
+ 
+             
+             
+            
+              
+               
+              Wednesday 5 October 2016 
+ 
+              As humans we take the ability to perceive the dynamic world around us in three dimensions for granted. From an early age we can grasp an object by adapting our fingers to its 3D shape; we can understand our mother's feelings by interpreting her facial expressions; or we can effortlessly navigate through a busy street. All of these tasks require some internal 3D representation of shape, deformations and motion. Building algorithms that can emulate this level of human 3D perception has proved to be a much harder task than initially anticipated. While some degree of success has been achieved when the scene observed by a camera is static or "rigid", inferring the 3D geometry of the vivid moving real world is still in its infancy. This challenge has fascinated Lourdes throughout her research career. In this lecture she will show progress from her early systems which captured sparse 3D models with primitive representations of deformation towards our most recent algorithms which can capture every fold and detail of hands, faces and clothes in 3D using as input video sequences taken with a single consumer camera. There is now great short-term potential for commercial uptake of this technology, and Lourdes will show applications to robotics, augmented and virtual reality and minimally invasive surgery.
+ 
+              Professor Lourdes Agapito obtained her BSc, MSc and PhD (1996) degrees from the Universidad Complutense de Madrid (Spain). She held an EU Marie Curie Postdoctoral Fellowship at The University of Oxford's Robotics Research Group before being appointed as a Lecturer at Queen Mary, University of London in 2001. In 2008 she was awarded an ERC Starting Grant to carry out research on the estimation of 3D models of non-rigid surfaces from monocular video sequences. In July 2013 she joined UCL Computer Science as a Reader (Associate Professor) where she leads a research team that focuses on 3D dynamic scene understanding from video. Lourdes is Program Chair for CVPR 2016, the top annual conference in computer vision; in addition she was Programme Chair for 3DV'14 and Area Chair for CVPR'14, ECCV'14, ACCV'14 and Workshops Chair for ECCV'14. She has been keynote speaker for CVMP'15 and for several workshops associated with the main computer vision conferences (ICCV, CVPR and ECCV). Lourdes is Associate Editor for IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), a member of the Executive Committee of the British Machine Vision Association and a member of the EPSRC Peer Review College.
+ 
+              www.cs.ucl.ac.uk/staff/l.agapito 
+ 
+               
+             
+
+             
+              
+               
+                
+                 
+                  
+                   
+                  
+
+                 
+ 
+                 
+                  
+                   
+                  
+
+                 
+
+                
+ 
+                
+                 
+                  
+                   
+                  
+
+                 
+ 
+                 
+                  
+                   
+                  
+
+                 
+
+                
+
+               
+
+              
+
+             
+
+            
+ 
+             
+           
+ 
+            
+          
+ 
+         
+ 
+        
+ 
+         
+         
+       
+ 
+        
+        
+        
+         
+         
+         
+          
+          Digital Reality: Visual Computing Interacting With The Real World, Prof Tim Weyrich
+ 
+           
+            
+            
+             
+             
+             
+              
+             
+              
+             
+ 
+              
+            
+ 
+             
+             
+             
+              
+             
+               
+                
+               Wednesday 8 June 2016 
+ 
+               View the recording on Lecturecast (UCL login required) here 
+ 
+               The increasingly ubiquitous availability of high-quality digital cameras enables low-cost visual capture and digitisation of real-world objects and phenomena; at the same time, physical output devices, from high-definition screens to computer-controlled manufacturing, are becoming commonplace. This development bears the promise of an even tighter integration of computers into traditional workflows, seamlessly transitioning between the physical and the digital realm. In practice, however, technical off-the-shelf solutions are rarely sufficient to enter previously non-computerised domains. Tim’s work focuses on developing novel representations, algorithms and workflows to open up visual computing (capture, modelling, manipulation and replication of visual and geometric entities) for novel application domains. This talk presents such bespoke developments in a number of areas, including special-effects, cosmetics, mechanics, sculpture and architecture, as well as cultural-heritage preservation, discussing how through careful analysis of traditional problem domains and workflows visual computing can make a difference in previously unexpected ways.
+ 
+               Tim is Professor of Visual Computing in the Virtual Environments and Computer Graphics group at UCL Computer Science; and Deputy Director of the UCL Centre for Digital Humanities. Prior to coming to UCL, he was a Postdoctoral Teaching Fellow of Princeton University, working in the Princeton Computer Graphics Group, a post that Tim took after having received his PhD from ETH Zurich, Switzerland, in 2006. Tim’s research interests are appearance modelling and fabrication, point-based graphics, 3D reconstruction, cultural heritage analysis and digital humanities.
+ 
+               staff/tomaso_astewww.cs.ucl.ac.uk/staff/t.weyrich 
+ 
+                
+              
+
+              
+               
+                
+                 
+                  
+                   
+                    
+                   
+
+                  
+ 
+                  
+                   
+                    
+                   
+
+                  
+
+                 
+ 
+                 
+                  
+                   
+                    
+                   
+
+                  
+ 
+                  
+                   
+                    
+                   
+
+                  
+
+                 
+
+                
+
+               
+
+              
+
+             
+ 
+              
+            
+ 
+             
+             
+           
+ 
+            
+          
+ 
+          Urban Computing: From Smart Cities to Engaged Citizens, Prof Licia Capra
+ 
+           
+            
+            
+             
+             
+             
+              
+             
+              
+             
+ 
+              
+            
+ 
+             
+             
+             
+              
+             
+               
+                
+               Wednesday 4 May 2016 
+ 
+               View the recording on Lecturecast (UCL login required) here 
+ 
+               Urbanization is progressing fast, and it is estimated that by 2050 almost 70% of the total global population will live in cities. This process is expected to bring important advantages, including more efficient running of public services and better living standards for its citizens. However, if not properly managed, it risks aggravating existing issues, such as traffic congestion, environmental pollution, and social inequality. Urban computing is an interdisciplinary research area that aims to help manage this complex process. By acquiring, integrating, and analysing large amounts of heterogeneous data, generated in urban spaces by a diversity of sources, such as sensors, devices, vehicles, buildings, and humans, it aims to derive a rich knowledge about the functioning of our cities, and use it to improve the quality of life of its residents. In this talk, Licia will describe her past and ongoing investigations of a variety of urban data sources. Drawing inspirations from different fields, including urban planning and economics, she will illustrate the models she has built to understand the nature of urban phenomena, with specific applications to public transportation, the environment, and social interactions. 
+ 
+               Licia obtained an MSc degree in Computer Science from the University of Bologna in 2000, and a PhD in Computer Science from UCL in 2003. After a period of postdoctoral work in the Software Systems Engineering Group at UCL Computer Science, she started as Lecturer within the same department in 2005. Licia Capra is now Professor of Pervasive Computing. Her research originally investigated what programming abstractions, algorithm libraries, and middleware systems to offer application developers, so to ease ubiquitous computing application development. She then shifted focus from programmers to end users of such applications, with the aim to provide them with more positive, engaging and fulfilling experiences when interacting with pervasive technology in their daily life. To achieve this, she has been analysing and modelling human behaviour over space and time, using a variety of “digital traces” that we leave behind, both online and offline. She has been using these models in particular to understand and predict urban phenomena. Licia Capra has been co-PI of the Intel Collaborative Research Institute on Sustainable Connected Cities since October 2012, and a co-director of the UCL Urban Laboratory since 2015.
+ 
+                
+              
+
+              
+               
+                
+                 
+                  
+                   
+                    
+                   
+
+                  
+ 
+                  
+                   
+                    
+                   
+
+                  
+
+                 
+ 
+                 
+                  
+                   
+                    
+                   
+
+                  
+ 
+                  
+                   
+                    
+                   
+
+                  
+
+                 
+
+                
+
+               
+
+              
+
+             
+ 
+              
+            
+ 
+             
+             
+           
+ 
+            
+          
+ 
+          Predictive modeling for a complex world: a data-driven perspective, Prof Tomaso Aste
+ 
+           
+            
+            
+             
+             
+             
+              
+             
+              
+             
+ 
+              
+            
+ 
+             
+             
+             
+              
+             
+               
+                
+               Wednesday 16 February 2016 
+ 
+               View the recording on Lecturecast (UCL login required) here 
+ 
+               We all experience complexity in everyday life where simple answers are hard to find and the consequences of our actions are difficult to predict. Understanding and modeling the complex nature of things, peoples and societies have become a crucial scientific challenge with great practical impact. The current big-data revolution has provided unprecedented access to large amount of data for modeling, forecasting and testing complex systems. However, analyzing, understanding, filtering and making use of such a large amount of data have also become a challenging activity across science, industry and society. Tomaso’s approach to the solution of these challenges has been to combine network theory, statistical physics, data science, multiscale analysis and computational methods to unwind complexity and produce models that are capable to make reliable predictions.
+ 
+               Tomaso graduated in Physics at the University of Genoa and has a PhD in Material Sciences from Politecnico di Milano. He is Head of the Financial Computing and Analytics Group at UCL, Director of the UCL Centre for Blockchain Technologies, Programme Director of the MSc in Financial Risk Management, Vice Director of the Centre for Doctoral Training in Financial Computing and Analytics, Member of the Board of the ESRC funded LSE-UCL Systemic Risk Centre. He collaborates with many major financial institutions, with regulators and with a large number of start-ups and businesses in the FinTech and digital economy area. Prior to UCL, Tomaso was Reader at the School of Physics, University of Kent and before Associate Professor at the Department of Applied Mathematics at The Australian National University. He was Marie Curie Fellow at the University of Strasbourg and he had been associated with several institutions including University of Oxford, Imperial College and The University of Genoa.
+ 
+               www.cs.ucl.ac.uk/staff/tomaso_aste 
+ 
+                
+              
+
+              
+               
+                
+                 
+                  
+                   
+                    
+                   
+
+                  
+ 
+                  
+                   
+                    
+                   
+
+                  
+
+                 
+ 
+                 
+                  
+                   
+                    
+                   
+
+                  
+ 
+                  
+                   
+                    
+                   
+
+                  
+
+                 
+
+                
+
+               
+
+              
+
+             
+ 
+              
+            
+ 
+             
+             
+           
+ 
+            
+          
+ 
+          Bringing affect into technology: the case of physical rehabilitation, Prof Nadia Berthouze
+ 
+           
+            
+            
+             
+             
+             
+              
+             
+              
+             
+ 
+              
+            
+ 
+             
+             
+             
+              
+             
+               
+                
+               Wednesday 10 February 2016 
+ 
+               View the recording on Lecturecast (UCL login required) here 
+ 
+               Emotions and affective states more generally play an important role in people’s life, including when they interact with increasingly pervasive technology. Yet, for a long time, technology has failed to take them into account. Nadia’s research aims to design technology that is capable of recognising what we feel so as to provide us with relevant support. This talk will focus on one application domain: technology in chronic pain physical rehabilitation. Chronic pain brings with it many affective states in addition to frustration or boredom at engaging in repetitive exercises. 
+ 
+               Those include low self-esteem for the new body we have to accept, fear and anxiety of injuring oneself, and low perceived self-efficacy modulated by attention to pain. Whilst gamification has been found to mitigate the more boring aspects of physical rehabilitation, other affective states are still mostly overlooked resulting in low adherence to the therapy program and low transfer to everyday functional capabilities. In this talk, Nadia will present her investigations into the affective barriers to physical rehabilitation in chronic pain and the needs that technology should address to be effective. Nadia’s main goal is to help people learn to self-manage their condition with a more positive perception of their body and capabilities. 
+
+ 
+               Nadia leads the Affective Computing and Interaction group within the UCL Interaction Centre. She pioneered the study of body movement and touch behaviour as modalities for affective automatic recognition and modulation in technology-mediated scenarios (games, health sector). Her work has gone beyond acted emotions by investigating naturalistic affective expressions such as laughter and pain. In the context of full-body game design, she has shown how body movement can be used as a way to steer the experience of the player. 
+ 
+               She has proposed a new conceptual framework for designing physical rehabilitation technology in chronic pain that takes into account psychological progress and not just physical improvement. This has led to the implementation of a novel wearable device that received various awards. She has been invited to write chapters for prestigious handbooks (Oxford Handbooks, APA Psychology series), to give a TEDxStMartin talk and being a keynote speaker for various academic and industry-led conferences. She has been PI and Co-I in various UK, EU and Japan funded projects. She is part of the EU- UBI-HEALTH Network that sets roadmaps for ubiquitous health technology.
+ 
+               www.cs.ucl.ac.uk/staff/n.berthouze
+ 
+                
+              
+
+              
+               
+                
+                 
+                  
+                   
+                    
+                   
+
+                  
+ 
+                  
+                   
+                    
+                   
+
+                  
+
+                 
+ 
+                 
+                  
+                   
+                    
+                   
+
+                  
+ 
+                  
+                   
+                    
+                   
+
+                  
+
+                 
+
+                
+
+               
+
+              
+
+             
+ 
+              
+            
+ 
+             
+             
+           
+ 
+            
+          
+ 
+          Scalable & Secure Systems & Networking: Algorithms, Adversaries, Doubt & Details, Prof Brad Karp
+ 
+           
+            
+            
+             
+             
+             
+              
+             
+              
+             
+ 
+              
+            
+ 
+             
+             
+             
+              
+             
+               
+                
+               Friday 5 February 2016 
+ 
+               View the recording on Lecturecast (UCL login required) here 
+ 
+               Networking has profoundly improved modern life by enabling ubiquitous access to vast stores of information. The Internet already interconnects billions of users and a globally distributed collection of servers. As the next several billion Internet users connect wirelessly and the population of embedded devices increases by orders of magnitude, we face unprecedented scaling challenges. More worryingly still, our success in interconnecting the world's computer systems has done harm. Providing remote reachability for computer systems that run imperfect, vulnerable software puts individuals’ and organizations’ security and privacy at risk. In this talk, Brad will present an array of techniques that enable scalable and secure networks and computer systems, including:
+ - scaling wireless networks to vast device populations (geographic routing)
+ - scaling interfering wireless networks’ capacity (cooperative power allocation)
+ - stopping the spread of malicious code within networks (automatic worm signature generation)
+ - preserving users’ privacy even when an attacker successfully exploits software (exploit-tolerant architecture), and
+ - enforcing privacy for web browser users’ sensitive data in the presence of malicious web code (COWL, Confinement with Origin Web Labels).
+ 
+ In discussing these seemingly disparate problems and their solutions, Brad will highlight the shared characteristics of the systems approach that underlies them, which emphasizes: 
+ - the design and application of efficient algorithms;
+ - explicit consideration of adversarial workloads;
+ - careful attention to whether a design will work in practice; and
+ - “bottom-up” design—leveraging low-level detail in a complex computer system in the service of design goals.
+ 
+               Brad Karp is a Professor of Computer Systems and Networks and Head of the Systems and Networks Research Group in the Department of Computer Science at UCL. His research interests span computer system and network security (current work includes web browser and JavaScript security; past work includes the Wedge secure OS extensions and the Autograph and Polygraph worm signature generation systems), large-scale distributed systems (recent work includes LOUP, a provably loop-free Internet routing protocol; past work includes the Open DHT shared public DHT service), and wireless networks (current work includes techniques for improving capacity at the MAC and PHY layers; past work includes the GPSR and CLDP scalable geographic routing protocols). Prior to taking up his post at UCL in late 2005, Brad held joint appointments at Intel Research and Carnegie Mellon, and as a researcher at ICSI at UC Berkeley. He is a recipient of the Royal Society-Wolfson Research Merit Award (2005-2010) and the Henry Dunster Tutor Prize (1994, for excellence in advising Harvard undergraduates). He served as program co-chair of ACM SIGCOMM 2015, and as a member of the ACM HotNets Steering Committee from 2009-2014. Brad earned his Ph.D. in Computer Science at Harvard University in 2000, and holds a B.S. in Computer Science from Yale University, earned in 1992.
+ 
+                
+              
+
+              
+               
+                
+                 
+                  
+                   
+                    
+                   
+
+                  
+ 
+                  
+                   
+                    
+                   
+
+                  
+
+                 
+ 
+                 
+                  
+                   
+                    
+                   
+
+                  
+ 
+                  
+                   
+                    
+                   
+
+                  
+
+                 
+
+                
+
+               
+
+              
+
+             
+ 
+              
+            
+ 
+             
+             
+           
+ 
+            
+          
+ 
+         
+ 
+        
+ 
+         
+         
+       
+ 
+        
+        
+        
+         
+         
+         
+          
+          Computational Support for Creative Modeling, Prof Niloy Mitra
+ 
+           
+            
+            
+             
+            
+             Computational Support for Creative Modeling, Prof Niloy Mitra
+
+            
+ 
+             
+             
+            
+              
+               
+              Tuesday 27 October 2015 
+ 
+              Form and function are long believed to be tightly coupled. While scientists have studied this relation for centuries, the recent popularity of 3D scans and models provides new avenues to revisit the problem. I will discuss the latest in computational analysis techniques to discover relations and structures that can then act as priors for interpreting sketches, images, 3D scans. Beyond analysis, the results lead to new methodologies to design functional objects for physical use. In this talk, I will also present some computational tools we have developed for creating functional prototypes, designing furniture, and layouts of spaces. For more details visit http://geometry.cs.ucl.ac.uk/. 
+ 
+              Niloy Mitra is a Professor of Geometry Processing in the Department of Computer Science, UCL. Niloy received his MS (2002) and PhD (Sept. 2006) in Electrical Engineering from Stanford University under the guidance of Prof. Leonidas Guibas and Prof. Marc Levoy, and was a postdoctoral scholar with Prof. Helmut Pottmann at Technical University Vienna. Niloy's research primarily centers around algorithmic issues in shape analysis and geometry processing. He is also interested in applying the analysis findings (e.g., relations, constraints, etc.) towards next generation design tools including smart shape synthesis and fabrication-aware functional model design. Niloy received the 2013 ACM Siggraph Significant New Researcher Award for "his outstanding work in discovery and use of structure and function in 3D objects" and the BCS Roger Needham award in 2015. He received the ERC Starting Grant on SmartGeometry in 2013. 
+ 
+               
+             
+
+             
+              
+               
+                
+                 
+                  
+                   
+                  
+
+                 
+ 
+                 
+                  
+                   
+                  
+
+                 
+
+                
+ 
+                
+                 
+                  
+                   
+                  
+
+                 
+ 
+                 
+                  
+                   
+                  
+
+                 
+
+                
+
+               
+
+              
+
+             
+
+            
+ 
+             
+           
+ 
+            
+          
+ 
+         
+ 
+        
+ 
+         
+         
+       
+ 
+        
+        
+        
+         
+        
+         Recordings and Slides from previous Distinguished Lectures
+
+        
+ 
+         
+         
+         
+         
+          
+          Doing Practical Data Science for Social Good and Public Policy by Rayid Ghani
+ 
+           
+            
+            
+             
+            
+             
+            
+ 
+            Tuesday 13 September 2016
+ 
+            View the recording on Lecturecast (UCL login required) here
+ 
+            Can data science help reduce police violence and misconduct? Can it help prevent children from getting lead poisoning? Can it help cities better target limited resources to improve lives of citizens? We're all aware of the data science hype right now but turning this hype into any social impact takes effort. In this talk, I'll discuss lessons learned from our work at University of Chicago while working on dozens of data science projects over the past few years with non-profits and governments on high-impact public policy and social challenges. These lessons span from challenges these organizations face when trying to apply data science, to understanding how to effectively train and build cross-disciplinary teams to do practical data science, as well as what data science and social science research challenges need to be tackled, and what tools and techniques need to be developed in order to have a social and policy impact with data science.
+ 
+            Rayid is a reformed computer scientist and wanna-be social scientist, but mostly just wants to increase the use of data-driven approaches in solving large public policy and social challenges. Rayid is also passionate about teaching practical data science and started the Eric & Wendy Schmidt Data Science for Social Good Fellowship at UChicago that trains computer scientists, statisticians, and social scientists from around the world to work on data science problems with social impact. Before joining the University of Chicago, Rayid was the Chief Scientist of the Obama 2012 Election Campaign where he focused on data, analytics, and technology to target and influence voters, donors, and volunteers. Previously, Rayid was a Research Scientist and led the Machine Learning group at Accenture Labs. Rayid did his graduate work in Machine Learning at Carnegie Mellon University and is actively involved in organizing Data Science related conferences and workshops. In his ample free time, Rayid works with governments and non-profits to help them with their data, analytics and digital efforts and strategy.
+ 
+             
+           
+ 
+            
+          
+ 
+          Language-based techniques for cryptography and privacy by Prof Gilles Barthe
+ 
+           
+            
+            
+             
+            
+             
+            
+ 
+            Tuesday 26 July 2016
+ 
+            View the recording on Lecturecast (UCL login required) here
+ 
+            A common theme in program verification is establishing relationships between two runs of the same program or of different programs. Such relationships can be proved by semantical means, or with syntactic methods such as relational program logics and product constructions. Gilles shall present an overview of these methods and their applications to provable security, differential privacy, and secure implementations.
+ 
+            Gilles Barthe is a research professor at the IMDEA Software Institute. His research interests include logic, formal verification, programming languages, and security. His current work focuses on verification and synthesis methods for cryptography and differential privacy. He is a member of the editorial boards of the Journal of Automated Reasoning and Journal of Computer Security. He received a Ph.D. in Mathematics from the University of Manchester, UK, in 1993, and an Habilitation à diriger les recherches in Computer Science from the University of Nice, France, in 2004.
+ 
+             
+           
+ 
+            
+          
+ 
+          Moving Fast with Software Verification by Prof Peter O'Hearn
+ 
+           
+            
+            
+             
+            
+             
+            
+ 
+            Thursday 5 November 2015
+ 
+            View the recording on Lecturecast (UCL login required) here
+ 
+            This is a story of transporting ideas from theoretical research in reasoning about programs into the fast-moving engineering culture of Facebook. The context is that I landed at Facebook in September of 2013, when we brought the Infer static analyser with us from the verification startup Monoidics. Infer is based on recent research in program analysis, which applied a relatively recent development in logics of programs, separation logic. Infer is deployed internally, running continuously to verify select properties of every code modification in Facebook's mobile apps; these include the main Facebook apps for Android and iOS, Facebook Messenger, Instagram, and other apps which are used by over a billion people in total. This talk describes our experience deploying verification technology inside Facebook, some the challenges we faced, lessons learned, and speculates on prospects for broader impact of verification technology.
+ 
+            Peter O'Hearn works as an Engineering Manager at Facebook with the Static Analysis Tools team, and as a Professor of Computer Science at UCL. His research has been in the broad areas of programming languages and logic, ranging from new logics and mathematical models to industrial applications of program proof. With John Reynolds he developed separation logic, a theory which opened up new practical possibilities for program proof. In 2009 he cofounded a software verification startup company, Monoidics Ltd, which was acquired by Facebook in 2013. The Facebook Infer program analyzer, recently open-sourced, runs on every modification to the code of Facebook's mobile apps, in a typical month issuing millions of calls to a custom separation logic theorem prover and catching hundreds of bugs before they reach production.
+ 
+             
+           
+ 
+            
+          
+ 
+          Designing Computer Systems That See by Abigail Sellen
+ 
+           
+            
+            
+             
+            
+             
+            
+ 
+            Wednesday 10 June 2015
+ 
+            View the recording on Lecturecast (UCL login required) here
+ 
+            The last decade has witnessed rapid advancements in computer vision systems, not just in the world of gaming, but in many aspects of everyday life from medical systems to augmented reality. Computer systems “that see” enable new forms of input, can track and identify people, can capture and model the physical world around us, and can be combined with other system capabilities such as conversational agents.  But the challenge in developing these systems is much more than technical. In this talk I explore the process of designing computer vision applications from a human perspective, and through our own attempts to build them for a variety of real world settings.  In doing so, I propose that such systems need to make their users aware of the differences between how computer systems and how people sense, perceive, analyse and respond to the world.  This has implications beyond computer vision to more general notions of “smart” systems in an era where artificial intelligence has again taken hold of our collective imagination.
+ 
+            Abigail Sellen is a Principal Researcher at Microsoft Research Cambridge where she manages the Human Experience & Design Group. Prior to Microsoft, she worked at Hewlett-Packard Labs, Rank Xerox EuroPARC, Apple Computer and Bell Northern Research. Abigail first became interested in Human-Computer Interaction through a summer internship at Apple while working on her doctorate in Cognitive Science with Don Norman.  She has since published extensively on many diverse topics including the book "The Myth of the Paperless Office" (with co-author Richard Harper). Alongside her honorary professorship at UCL, she is also a Fellow of the Royal Academy of Engineering, Fellow of the British Computer Society, and a member of the ACM SIGCHI Academy.
+ 
+             
+           
+ 
+            
+          
+ 
+          Experiments with Non-parametric Topic Models by Prof Wray Buntine
+ 
+           
+            
+            
+             
+            
+             
+            
+ 
+            Thursday 22 January 2015
+ 
+            View the recording on Lecturecast (UCL login required) here
+ 
+            This talk will cover some of our recent work in extended topic models to serve as tools in text mining and NLP (and hopefully, later, in IR) when some semantic analysis is required.  In some sense our goals are akin to the use of Latent Semantic Analysis.  The basic theoretical/algorithmic tool we have for this is non-parametric Bayesian methods for reasoning on hierarchies of probability vectors. The concepts will be introduced but not the statistical detail. Then I'll present some of our KDD 2014 paper (Experiments with Non-parametric Topic Models), and some extended work such as "Bibliographic Analysis with the Citation Network Topic Model" (ACML 2014) and "Topic Segmentation with a Structured Topic Model" (NAACL 2013).  Various evaluations and comparisons will be made.
+ 
+            Prof. Wray Buntine joined Monash University in February 2014 after 7 years at NICTA in Canberra Australia.  He was previously of Helsinki Institute for Information Technology from 2002, and at NASA Ames Research Center, University of California, Berkeley, and Google. He is known for his theoretical and applied work in document and text analysis, data mining and machine learning, and probabilistic methods. He applies probabilistic and non-parametric methods to tasks such as text analysis.  In 2009 he was programme co-chair of ECML-PKDD in Bled, Slovenia, and was programme co-chair of ACML in Singapore in 2012.  He reviews for conferences such as ACML, ECIR, SIGIR, ECML-PKDD, ICML, NIPS, UAI, and KDD, and is on the editorial board of Data Mining and Knowledge Discovery.
+ 
+             
+           
+ 
+            
+          
+ 
+          Understanding user behaviour at three scales by Daniel Russell
+ 
+           
+            
+            
+             
+            
+             
+            
+ 
+            Tuesday 8 July 2014
+ 
+            How people behave is really the central question for data analytics.  The way people play, the ways they interact, the kinds of behaviors they bring to the game ultimately drive how our systems perform, and what we can understand about why they do what they do.  In this talk I’ll describe three different scales of collecting data about user behavior, showing how looking at behavior data at the micro-, meso-, and macro-levels is a superb way to understand what people are doing in our systems, and why.  Knowing this lets you not just understand what’s going on, but also how to improve the user experience for the next design cycle. 
+ 
+            Daniel Russell is the Uber Tech Lead for Search Quality and User Happiness in Mountain View. He earned his PhD in computer science, specializing in artificial intelligence until he realized that magnifying and understanding human intelligence was his real passion. Twenty years ago he foreswore AI in favor of HI, and enjoys teaching, learning, running and music, preferably all in one day. He worked at Xerox PARC before it was PARC.com, and was in the Advanced Technology Group at Apple, where he wrote the first 100 web pages for www.Apple.com using SimpleText and a stone knife. He also worked at IBM and briefly at a startup that developed tablet computers before the iPad.
+ 
+             
+           
+ 
+            
+          
+ 
+          Computational Differential Geometry & Fabrication-Aware Design by Dr Helmut Pottmann
+ 
+           
+            
+            
+             
+            
+             
+            
+ 
+            Wednesday 26 February 2014
+ 
+            This talk will present an overview of my recent research which evolves around discrete and computational differential geometry with applications in architecture, computational design and manufacturing. From the mathematical perspective, we are working on extensions of classical differential geometry to data and objects which frequently arise in applications, but do not satisfy the classical differentiability assumptions. On the practical side, our work aims at geometric modeling tools which include important aspects of function and fabrication already in the design phase. This interplay of theory and applications will be illustrated at hand of selected recent projects on the computational design of architectural freeform structures under manufacturing and structural constraints. In particular, we will address smooth skins from simple and repetitive elements, self-supporting structures, form-finding with polyhedral meshes, optimized support structures, shading systems and the exploration of the available design space.
+ 
+            Helmut Pottmann earned a Ph.D. in Mathematics from Vienna University of Technology in 1983. He has held faculty positions in Germany (Kaiserslautern, Hamburg) and the US (UC Davis, Purdue) and has been Professor of Applied Geometry at Vienna University of Technology since 1992. In 2009 he became Professor at King Abdullah University of Science and Technology, where he served as Director of the Geometric Modeling and Scientific Visualization Center until 2013. Pottmann has co-authored two books and more than 200 articles in scientific journals. He is also co-founder and scientific director of Evolute GmbH, a company which offers services and software to industries facing challenges related to complex geometry.
+ 
+             
+           
+ 
+            
+          
+ 
+          The Functoriality of Data: Understanding Geometric Data Sets Jointly by Prof Leonidas J. Guibas
+ 
+           
+            
+            
+             
+            
+             
+            
+ 
+            Wednesday 4 September 2013
+ 
+            The information contained across many data sets is often highly correlated. Such connections and correlations can arise because the data captured comes from the same or similar objects, or because of particular repetitions, symmetries or other relations and self-relations that the data sources satisfy. This is particularly true for data sets of a geometric character, such as GPS traces, images, videos, 3D scans, 3D models, etc. We argue that when extracting knowledge from the data in a given data set, we can do significantly better if we exploit the wider context provided by all the relationships between this data set and a "society" or "social network" of other related data sets. We discuss mathematical and algorithmic issues on how to represent and compute relationships or mappings between data sets at multiple levels of detail. We also show how to analyze and leverage networks of maps, small and large, between inter-related data. The network can act as a regularizer, allowing us to benefit from the "wisdom of the collection" in performing operations on individual data sets or in map inference between them.
+ 
+            This "functorial" view of data puts the spotlight on consistent, shared relations and maps as the key to understanding structure in data. It is a little different from the current dominant paradigm of extracting supervised or unsupervised feature sets, defining distance or similarity metrics, and doing regression or classification – though sparsity still plays an important role. The inspiration is more from ideas in homological algebra or algebraic topology,  exploiting the algebraic structure of data relationships or maps in an effort to disentangle dependencies and assign importance to the vast web of all possible relationships among multiple data sets. We illustrate these ideas largely using examples from the realm of 3D shapes and images -- but the notions are more generally to the analysis of graphs and other networks, acoustic data, biological data such as microarrays, homeworks in MOOCs, etc. This is an overview of joint work with multiple collaborators, as discussed in the talk.
+ 
+            Leonidas Guibas obtained his Ph.D. from Stanford under the supervision of Donald Knuth. His main subsequent employers were Xerox PARC, DEC/SRC, MIT, and Stanford. He is currently the Paul Pigott Professor of Computer Science (and by courtesy, Electrical Engineering) at Stanford University. He heads the Geometric Computation group and is part of the Graphics Laboratory, the AI Laboratory, the Bio-X Program, and the Institute for Computational and Mathematical Engineering. Professor Guibas' interests span geometric data analysis, computational geometry, geometric modeling, computer graphics, computer vision, robotics, ad hoc communication and sensor networks, and discrete algorithms. Some well-known past accomplishments include the analysis of double hashing, red-black trees, the quad-edge data structure, Voronoi-Delaunay algorithms, the Earth Mover's distance, Kinetic Data Structures (KDS),  Metropolis light transport, and the Heat-Kernel Signature. Professor Guibas is an ACM Fellow, an IEEE Fellow and winner of the ACM Allen Newell award.
+ 
+             
+           
+ 
+            
+          
+ 
+          Evolution of Computing by Rick Rashid
+ 
+           
+            
+            
+             
+            
+             
+            
+ 
+            Friday 18 January 2013
+ 
+            Limits in computing power and our ability to interact with computers have also imposed limits on our understanding of the world around us.  Increasingly, those limits are being removed, clearing the way for new advances in almost every kind of human endeavor.
+ 
+            Rick Rashid, Microsoft chief research officer and head of Microsoft Research, will present his vision of the future of computing research in light of these breakthroughs and the opportunities that lie ahead.
+ 
+             
+           
+ 
+            
+          
+ 
+          Folkflore of Network Protocols by Radia Perlman
+ 
+           
+            
+            
+             
+            
+             
+            
+ 
+            Tuesday 15 January 2013
+ 
+            It's very hard to understand the field of network protocols by focusing on the details of one particular protocol. Issues are clouded by marketing hype and protocol group rivalry. What is really intrinsic to the differences between one protocol and another? This talk covers some of the ways in which solutions can differ, as well as demystifying some especially confusing pieces of this field, such as what is really the difference between "layer 2 solutions" and "layer 3 solutions", why we need both Ethernet and IP, the evolution of Ethernet from its original invention (CSMA/CD) through spanning tree and now TRILL, and some things that people assume to be true that may not be. The talk includes some possible research areas.
+ 
+            Radia Perlman is a Fellow at Intel Labs, specializing in network protocols and security protocols.  Many of the technologies she designed have been deployed in the Internet for decades, including link state routing, the spanning tree algorithm, and TRILL, which improves upon spanning tree while still "being Ethernet".  She has also made contributions to network security, including assured delete of data, design of the authentication handshake of IPSec, trust models for PKI, and network infrastructure robust against malicious trusted components. She is the author of the textbook "Interconnections: Bridges, Routers, Switches, and Internetworking Protocols", and co-author of "Network Security". She has a PhD from MIT in computer science, holds over 100 issued patents, and has received various industry awards including lifetime achievement awards from ACM's SIGCOMM and Usenix, and an honorary doctorate from KTH.
+ 
+             
+           
+ 
+            
+          
+ 
+          Behavioural Nudge or Technological Fudge? by Prof Yvonne Rogers
+ 
+           
+            
+            
+             
+            
+             
+            
+ 
+            Wednesday 3 October 2012
+ 
+            We all have a pet behaviour we would like to change, such as eating better, exercising more, or reducing our energy consumption. Many of us would also like to manage our time more effectively, by spending less time randomly Googling, sofa slouching or looking out the window. How can we design new technologies to help people change their behaviour? Nudging methods, derived from behavioural economics and social psychology, have become increasingly popular. But how effective are they and can technology be designed to exploit them? In this talk, Yvonne will describe our investigations into how decision environments can be restructured in innovative ways, using pervasive, ambient and wearable technologies to nudge behaviour in ways that are desirable to the individual. Our goal is to help people make better-informed decisions in situ. Underlying all of this, however, is the nagging question of whether it is ethical, desirable or sustainable to be nudging people in a desired direction. Or, is it a case of technological fudging, where we may be covering over deeper problems?
+ 
+            Yvonne's research interests are in the areas of ubiquitous computing, interaction design and human-computer interaction. A central theme is how to design interactive technologies that can enhance life by augmenting and extending everyday, learning and work activities. This involves informing, building and evaluating novel user experiences through creating and assembling a diversity of pervasive technologies. Yvonne has been awarded a prestigious EPSRC dream fellowship and is currently (until June 2012) rethinking the relationship between ageing, computing and creativity. Yvonne is also visiting Professor at the Open University, Indiana University, and Sussex University, and has spent sabbaticals at Stanford, Apple, Queensland University, and UCSD. Central to her work is a critical stance towards how visions, theories and frameworks shape the fields of HCI, cognitive science and Ubicomp. She has been instrumental in promulgating new theories (e.g. external cognition), alternative methodologies (e.g. in the wild studies) and far-reaching research agendas (e.g. "Being Human: HCI in 2020 manifesto).
+ 
+             
+           
+ 
+            
+          
+ 
+          Computers & Brains by Prof Steve Furber
+ 
+           
+            
+            
+             
+            
+             
+            
+ 
+            Wednesday 14 September 2012
+
+ 
+            The principles of information processing in the brain are still far from understood. But progress in computer technology means that we can now realistically contemplate building computer models of the brain that can be used to probe these principles much more readily than is feasible, or ethical, with a living biological brain. What might these models tell us about brain function, and what might we learn that can then be applied to building more efficient, fault-tolerant, parallel computers?
+ 
+            Steve Furber CBE, FRS, FREng is the ICL Professor of Computer Engineering at the School of Computer Science at the University of Manchester and is probably best known for his work at Acorn Computers, where he was one of the designers of the BBC Micro and the ARM 32-bit RISC microprocessor.
+ 
+             
+           
+ 
+            
+          
+ 
+          Cyber Security From 30,000 Feet: The Benefits of Multidisciplinary Research by Dr Shari Lawrence Pfleeger
+ 
+           
+            
+            
+             
+            
+             Cyber Security From 30,000 Feet: The Benefits of Multidisciplinary Research by Dr Shari Lawrence Pfleeger
+
+            
+ 
+             
+             
+            Wednesday 21 March 2012 
+ 
+            Download the slides here 
+
+Shari Lawrence Pfleeger is Director of Research for the Institute for Information Infrastructure Protection at Dartmouth College. She joined the I3P after serving for almost nine years as a senior researcher at the RAND Corporation. Previously, she headed Systems/Software, Inc., a consultancy specializing in software engineering and technology.  She has been a developer and maintainer for real-time, business-critical software systems, a principal scientist at MITRE Corporation's Software Engineering Center, and manager of the measurement program at the Contel Technology Center. She has also held several research and teaching positions at universities world-wide. 
+ 
+            Shari is well-known for her work in empirical studies of software engineering and is the author of many books and articles, including Analyzing Computer Security (with Charles P. Pfleeger), Security in Computing (4e, with Charles P. Pfleeger), and Software Engineering: Theory and Practice (4e, with Joanne Atlee). She has been associate editor of IEEE Transactions on Software Engineering, associate editor-in-chief of IEEE Software, and she is currently associate editor-in-chief of IEEE Security & Privacy. Shari has been named repeatedly by the Journal of Systems and Software as one of the world's top software engineering researchers..  Shari earned a BA in mathematics from Harpur College, an MA in mathematics from Penn State, an MS in planning from Penn State, a PhD in information technology and engineering from George Mason University, and was awarded a Doctor of Humane Letters by Binghamton University. 
+ 
+             
+           
+ 
+            
+          
+ 
+         
+ 
+        
+ 
+         
+         
+       
+ 
+        
+        
+        
+         
+        Posting New Events
+ 
+        We are keen to ensure that Departmental events and news items are publicised through the CS Web site. CS staff who are organising an event or know some news that would be of general interest can help us by sending details to announce@cs.ucl.ac.uk.
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 07 Apr 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

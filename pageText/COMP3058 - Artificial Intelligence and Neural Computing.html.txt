@@ -1,0 +1,562 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Students
+      ›› Syllabus ›› 3058 - Artificial Intelligence and Neural Computing 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMP3058 - Artificial Intelligence and Neural Computing
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	 COMP3058 (Also taught as: COMPGC26) 
+	Year	3
+	Prerequisites	Successful completion of years 1 and 2 of the Computer Science programme or a strong background in university-level maths (in particular logic) 
+	Term	2
+	Taught By	Denise Gorse (50%) 
+Anthony Hunter (50%) 
+	Aims	 This course introduces artificial intelligence and neural computing as both technical subjects and as fields of intellectual activity. The overall targets are: (1) to present basic methods of expressing knowledge in forms suitable for holding in computing systems, together with methods for deriving consequences from that knowledge by automated reasoning; (2) to present basic methods for learning knowledge; and (3) to introduce neural computing as an alternative knowledge acquisition/representation paradigm, to explain its basic principles and their relationship to neurobiological models, to describe a range of neural computing techniques and their application areas. 
+	Learning Outcomes	 Ability to identify problems that can be expressed in terms of search problems or logic problems, and translate them into the appropriate form, and know how they could be addressed using an algorithmic approach. Ability to identify problems that can be expressed in terms of neural networks, and to select an appropriate learning methodology for the problem area. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         
+Scope of the Subject
+Nature and goals of AI.
+          
+Application areas.
+          
+
+          
+
+          Searching state-spaces
+Use of states and transitions to model problems.
+          
+Breadth-first, depth-first and related types of search.
+          
+A* search algorithm.
+          
+Use of heuristics in search.
+          
+
+          
+
+          Reasoning in logic
+Brief revision of propositional and predicate logic.
+          
+Different characterisations of reasoning.
+          
+Generalized modus ponens.
+          
+Resolution.
+          
+Forward and backward chaining.
+          
+
+          
+
+          Knowledge Representation
+          
+Diversity of knowledge.
+          
+Inheritance hierarchies.
+          
+Semantic networks.
+          
+Knowledgebase ontologies.
+          
+
+          
+
+          Handling uncertainty
+          
+Diversity of uncertainty.
+          
+Inconsistency.
+          
+Dempster-Shafer theory. 
+          
+
+          
+
+          Machine Learning
+          
+Induction of knowledge.
+          
+Decision tree learning algorithms. 
+          
+
+          
+
+          Intelligent agents
+          
+An architecture for intelligent agents.
+          
+Argumentation.
+          
+Decision-making. 
+          
+
+          
+
+          Nature and Goals of Neural Computing
+          
+Comparison with rule-based AI.
+          
+Overview of network architectures and learning paradigms. 
+          
+
+          
+
+          Binary Decision Neurons
+          
+The McCullough-Pitts model.
+          
+Single-layer perceptrons and their limitations. 
+          
+
+          
+
+          The Multilayer Perceptron
+          
+The sigmoid output function.
+          
+Hidden units and feature detectors.
+          
+Training by error backpropagation.
+          
+The error surface and local minima.
+          
+Generalisation, how to avoid 'overtraining'. 
+          
+
+          
+
+          The Hopfield Model
+          
+Content addressable memories and attractor nets.
+          
+Hopfield energy function.
+          
+Setting the weights.
+          
+Storage capacity. 
+          
+
+          
+
+          Self-Organising Nets
+          
+Topographic maps in the brain.
+          
+The Kohonen self-organising feature map.
+          
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lecture presentations.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	 Written Examination (2.5 hours, 90%);
+	Coursework Section (2 pieces, 10%).
+
+
+         To pass this course, students must:
+
+         	Obtain an overall pass mark of 40% for all components combined;
+	Obtain a minimum mark of 30% in each component worth ≥ 30% of the module as a whole. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Artificial Intelligence - A Modern Approach; First Edition; Prentice Hall; ISBN: 0-13-103805-2
+ 
+         
+
+         (Background reading) Neural Computing: An Introduction; R Beale and T Jackson; 
+ 
+          Institute of Physics Publishing; ISBN: 0-85-274262-2 
+ 
+         
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

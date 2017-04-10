@@ -1,0 +1,372 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Research
+      ›› Research Notes
+      ›› Research Note Archive ›› 2005 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Research Notes - 2005
+
+        
+ 
+         
+         
+        	RN Number	Title	Author 1	Author 2	Author 3	Author 4
+	RN/05/01 	Model Checking ATL and its Epistemic Extensions 	Franco Raimondi 	Alessio Lomuscio 	  	  
+	RN/05/02 	Challenges: Opportunities for Coalition-Based Community Networking 	Manish Lad 	Saleem Bhatti 	Peter Kirstein 	  
+	RN/05/03 	The Coalition Peering Domain: a New Entity in the Routing Landscape 	Manish Lad 	Saleem Bhatti 	Peter Kirstein 	Steven Hailes 
+	RN/05/04 	Spatio-temporal Interaction Primitives for Delay Tolerant Systems 	Mirco Musolesi 	Cecilia Mascolo 	  	  
+	RN/05/05 	Epidemic-style Communication Primitives Exploiting Network Topology Information 	Mirco Musolesi 	Cecilia Mascolo 	  	  
+	RN/05/06 	Resilient State Management in Large Scale Networks 	Yangcheng Huang 	Saleem Bhatti 	  	  
+	RN/05/07 	Grid Service Orchestration using the Business Process Execution Language (BPEL) 	Wolfgang Emmerich 	Ben Butchart 	Liang Chen 	Bruno Wassermann 
+	RN/05/08 	Challenges, Opportunities and Incentives for Coalition-Based Community Networking 	Manish Lad 	Saleem Bhatti 	Peter Kirstein 	  
+	RN/05/09 	Error bounds for learning the kernel 	C.A. Micchelli 	M. Pontil 	Q. Wu 	D.X. Zhou 
+	RN/05/10 	Combining graph Laplacian for semi-supervised learning 	A. Argyriou 	M. Herbster 	M. Pontil 	  
+	RN/05/11 	Learning the kernel from fixed features 	C.A. Micchelli 	M. Pontil 	  	  
+	RN/05/12 	Regularization in L-p spaces 	C.A. Micchelli 	M. Pontil 	  	  
+	RN/05/13 	An Efficient Octree For Interactive Large Model Visualization 	Joao Fradinho Oliveira 	Bernard Francis Buxton 	  	  
+	RN/05/14 	Using an Avatar to Develop a System for the Predication of Human Body Pose from Moments 	Song Hu 	Bernard Francis Buxton 	  	  
+	RN/05/15 	Enabling Coalition-Based Community Networking 	Manish Lad 	Saleem Bhatti 	Peter Kirstein 	Steven Hailes 
+	RN/05/16 	Motivation for Coalition-Based Community Networking 	Manish Lad 	Saleem Bhatti 	Peter Kirstein 	Steven Hailes 
+	RN/05/17 	Model Based Analysis on Soft State Signaling Protocols 	Yangcheng Huang 	Saleem Bhatti 	Dimitrios Miras 	  
+	RN/05/18 	A combination of explicit and deductive knowledge with branching time: completeness and decidability results 	Bozena Wozna 	Alessio Lomuscio 	  	  
+	RN/05/19 	Bounded Model Checking for the Existential Fragment of \TCTL\ and Diagonal Timed Automata 	Bozena Wozna 	Andrzej Zbrzezny 	  	  
+	RN/05/20 	Adaptability Aware Signaling Mechanims for Large-Scale Networks 	Yangcheng Huang	Saleem N. Bhatti 	  	  
+	RN/05/21 	Controlled Epidemic-style Data Dissemination in Mobile Ad Hoc Networks 	Mirco Musolesi 	Cecilia Mascolo 	  	  
+	RN/05/22 	An Overview of the Identifier-Locator Network Protocol (ILNP) 	Ran Atkinson 	  	  	  
+	RN/05/23 	Logical Framework for Template Creation and Information Extraction 	David Corney 	Emma Byrne 	Bernard Buxton   	David Jones 
+	RN/05/24 	Applying ArchOptions to Value the Flexibility in Product-Line Architectures: Preliminary Results   	Rami Bahsoon   	Wolfgang Emmerich   	  	  
+	RN/05/25 	The Coalition Peering Domain: A New Entity on the Routing Landscape 	Manish Lad   	  	  	  
+	RN/05/26 	A Revised Overview of the Identifier-Locator Network Protocol 	Ran Atkinson 	  	  	  
+	RN/05/27 	A Temporal Epistemic Logic with a Reset Operation 	Bozena Wozna   	Alessio Lomuscio 	  	  
+	RN/05/28 	Naming in the 
+ Internet Architecture: Provenance and Current Issues 	Ran Atkinson 	  	  	  
+	RN/05/29 	Sensorimotor Information flow in Genetic Regulatory Network driven control systems 	Tom Quick 	Chrystopher Nehaniv 	Kerstin Dautenhahn 	Graham Roberts 
+	RN/05/30 	Enabling Confidentiality in Content-Based Publish/Subscribe Infrastructures 	Costin Raiciu   	David S. Rosenblum 	fileadmin/UCL-CS/research/Research_Notes/Archive/rn_05_30.pdf	fileadmin/UCL-CS/research/Research_Notes/Archive/rn_05_30.pdf
+
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Rachel Scott 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

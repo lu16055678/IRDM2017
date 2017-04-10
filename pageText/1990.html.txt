@@ -1,0 +1,2536 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Research
+      ›› Research Notes
+      ›› Research Note Archive ›› 1990 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Research Notes Index - 1990
+
+        
+ 
+         
+         
+         
+         
+         An Investigation of the Fractal Properties of Flint Microwear Images 
+ D. Rees , G.G. Wilkinson , R. Grace , C.R. Orton 
+          RN/90/1 
+
+          July 1989 
+
+         Keywords: Flint Tools, Microwear, Texture Analysis, Fractals. 
+
+          Pages: 10 
+
+          Abstract: Abstract: human visual perception of roughness, have been computed for 
+
+          
+
+         
+ 
+          
+
+         A Model for Inheritance Factorisation in Object-Oriented Systems 
+ Winnie Pun , Russel Winder 
+          RN/90/2 
+
+          December 1989 
+
+         Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Error Handling in Object Oriented Languages 
+ J.A. Purchase , R.L. Winder 
+          RN/90/3 
+
+          December 1989 
+
+         Pages: 15 
+
+          Abstract: Abstract: object in a manner upon which order is difficult to impose. We present a promote clarity and invariants and temporal protocols are used to 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         A Domain Theoretic Characterization of the Universal Relation 
+ Mark Levene , George Loizou 
+          RN/90/4 
+
+          January 1990 
+
+         Journal: International Journal of Computer Mathematics 
+
+          Keywords: Domain theory, relational database, universal relation 
+
+          Pages: 6 
+
+          pages count: 69-74 
+
+          Vol: 40 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Issues raised by an X.500 pilot service 
+ Paul Barker , report is given on the status of the U.K. Academic Pilot and 
+          RN/90/5 
+
+          January 1990 
+
+         Book: Proc. Online conference on X.500 and Electronic Directory Services, March 1990 
+
+          City: Pinner, Middlesex 
+
+          Issuer: Blenheim Online 
+
+          pages count: 65-74 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Managing data derived from multiple sources in an X.500 Directory 
+ Paul Barker 
+          RN/90/6 
+
+          revised January 1991 
+
+         Journal: Computer Communication Review (ACM SIGCOMM) 
+
+          Volume: 3 
+
+          Pages: 11 
+
+          pages count: 61-70 
+
+          Vol: 21 
+
+          Abstract: Abstract: sources. The volume of data will require that maintenance procedures are automated as possible. 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Directory System Configuration Guide 
+ Paul Barker 
+          RN/90/7 
+
+          January 1990 
+
+         Issuer: would like to acknowledge the help given by Andrew Findlay, Graham 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         The Construction of a Connectionless Ethernet ISDN Gateway 
+ S.M. Walton , G.J. Knight 
+          RN/90/8 
+
+          January 1990 
+
+         Journal: Microprocessors and Microsystems 
+
+          Keywords: ISDN gateway relay 
+
+          Volume: 1 
+
+          Pages: 10 
+
+          pages count: 3-10 
+
+          Vol: 15 
+
+          Abstract: Abstract: is designed to have a minimal impact on the native SUN 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Specification, Design, and Implementation of A Real Time Conferencing System 
+ Jon Crowcroft , Mark d'Inverno 
+          RN/90/9 
+
+          February 1990 
+
+         Book: IEEE INFOCOM '91 : Proc. 10th Annual Joint Conference of the IEEE Computer and Communications Societies, Networking in the 90s : April 7-11 1991, The Sheraton Bal Harbour Resort, Bal Harbour, FL, USA 
+
+          City: New York, N.Y. 
+
+          Issuer: IEEE 
+
+          Keywords: Distributed Systems, Formal Specification, Conferencing, Floor Control, Z. 
+
+          pages count: 1114-1126 
+
+          Abstract: Abstract: a text based multi-way real time conferencing the windowing interface to the conference, and how they affect the X-Windows. 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Message Pattern Specifications: A New Technique for Handling Bugs in Parallel Object Oriented Systems 
+ Jan A. Purchase , Russel L. Winder 
+          RN/90/10 
+
+          February 1990 
+
+         Journal: Sigplan Notices 
+
+          Volume: 10 
+
+          Pages: 11 
+
+          pages count: 116-125 
+
+          Vol: 25 
+
+          Abstract: Abstract: run-time behaviour in which their objects may engage. Furthermore, it 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Shortest Path First with Emergency Exits 
+ Z. Wang , J. Crowcroft 
+          RN/90/11 
+
+          February 1990 
+
+         Book: Proc. ACM SIGCOMM'90 
+
+          City: New York 
+
+          Issuer: ACM Press 
+
+          Keywords: Routing algorithm, shortest-path algorithm 
+
+          pages count: 166-176 
+
+          Abstract: Abstract: congestion and resource failures, the traffic can be dispersed 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Implementing The Directory 
+ S.E. Kille , prerequisite to any practical investigation or use of the directory is the 
+          RN/90/12 
+
+          March 1990 
+
+         Abstract: Abstract: April 1990. closed and open applications for which this service is suitable. A natural open and distributed directory. Implementing the directory is discussed implement a service. the directory, and their key features are described. Then, the application these systems into two directory pilots is described. Finally, some of the 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         The Challenges of Distributed Computing 
+ S.R. Wilbur 
+          RN/90/13 
+
+          November 1989 
+
+         Pages: 25 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         A Six-Stage Model for Inductive Reasoning 
+ Michael Luck 
+          RN/90/14 
+
+          March 1990 
+
+         Pages: 6 
+
+          Abstract: Abstract: the model -- prediction, experimentation, observation, evaluation, revision 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Planning Efficiently Using Abstraction 
+ Maria Fox , Derek Long 
+          RN/90/15 
+
+          March 1990 
+
+         Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         A User-Friendly Human-Computer Interface for a NMR workstation 
+ Gabriele von Voigt 
+          RN/90/16 
+
+          April 1990 
+
+         Pages: 7 
+
+          Abstract: Abstract: a field study a general purpose HCI (GP-HCI) for medical workstations (MWS). interface and, in the last section, examples of specifications 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Design Guidelines for an Image-based Medical Work Station 
+ Gabriele von Voigt 
+          RN/90/17 
+
+          February 1990 
+
+         Pages: 2 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Replication in the OSI Directory 
+ S.E. Kille 
+          RN/90/18 
+
+          April 1990 
+
+         Pages: 6 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Message passing via singly-buffered channels: an efficient and flexible communications control mechanism 
+ A.N. Refenes 
+          RN/90/19 
+
+          March 1990 
+
+         Journal: Microprocessing and Microprogramming 
+
+          Volume: 1-5 
+
+          pages count: 645-653 
+
+          Vol: 30 
+
+          Abstract: Abstract: the usual approach employed in languages like CSP and Ada, in 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Designing a Parallel Object-Oriented Compiler Target Language (TOOL) 
+ A.T. Balou , A.N. Refenes 
+          RN/90/20 
+
+          March 1990 
+
+         Journal: Microprocessing and Microprogramming 
+
+          Volume: 1-5 
+
+          pages count: 457-465 
+
+          Vol: 30 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Interactive Video using Broadcast Satellite and Terrestrial Return Paths 
+ Tom Casey , Richard Beckwith , Gordon Jameson , Yael Pinto , Bill Tuck 
+          RN/90/21 
+
+          April 1990 
+
+         Book: Education and Application of Computer Technology 
+
+          City: Bari, Italy 
+
+          Ed: M. De Blasi E. Luque E. Scerri 
+
+          Issuer: Fratelli Laterza 
+
+          Keywords: Video Broadcast,Image Server, Teletext, Laser Video Recorder 
+
+          Pages: 13 
+
+          pages count: 155-167 
+
+          Abstract: Abstract: the University of London. The system will then be scaled up to include video transmission on the Olympus satellite with data links between the receiver and 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         The Communications Infrastructure for Interactive Video using DBS and ISDN 
+ Tom Casey , Richard Beckwith , Gordon Jameson , Bill Tuck 
+          RN/90/22 
+
+          April 1990 
+
+         Keywords: DBS, ISDN, Image, Server, Access, Protocol 
+
+          Pages: 11 
+
+          Abstract: Abstract: being developed and tested on the interactive video network of the University London, and in the Computer Science Communications Laboratory of University College London using a pair of British Telecom IDA connections. The system is 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         VLSI Architectures for Neural Networks 
+ Philip Treleaven , Marco Pacheco , Marley Vellasco 
+          RN/90/23 
+
+          October 1989 
+
+         Journal: IEEE Micro 
+
+          Volume: 6 
+
+          pages count: 8-27 
+
+          Vol: 9 
+
+          Abstract: Abstract: the last few years. However, the true computing potential of the computation of neural models. For realising these provides an introduction to neural networks and neural 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         ConSTrainer: A Generic Toolkit for Connectionist Dataset Selection 
+ A.N. Refenes 
+          RN/90/24 
+
+          April 1990 
+
+         Book: Konnektionismus in Artificial Intelligence und Kognitionsforschung 
+
+          City: Berlin 
+
+          Ed: G. Dorffner 
+
+          Issuer: Springer Verlag 
+
+          Pages: 10 
+
+          pages count: 163-177 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Integrating Cryptography in the Trusted Computing Base 
+ Michael Roe , Tom Casey 
+          RN/90/25 
+
+          May 1990 
+
+         Keywords: TCB, STREAMS, cryptography, validation 
+
+          Pages: 8 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         An Object-Oriented Data Model Formalised through Hypergraphs 
+ Mark Levene , Alexandra Poulovassilis 
+          RN/90/26 
+
+          May 1990 
+
+         Journal: Data \& Knowledge Engineering 
+
+          Keywords: Object-oriented vs value-oriented databases, hypergraphs, inheritance, sharing 
+
+          Pages: 31 
+
+          pages count: 205-224 
+
+          Vol: 6 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         On Extended Attribute Grammars 
+ 
+          RN/90/26 
+
+          
+
+         Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          N.P. Chapman 
+
+         On Extended Attribute Grammars 
+ N.P. Chapman 
+          RN/90/27 
+
+          October 1990 
+
+         Journal: Bulletin of the European Association for Theoretical Computer Science 
+
+          Pages: 7 
+
+          pages count: 140-146 
+
+          Vol: 46 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          new formal definition of Madsen and Watt's extended 
+
+         On Extended Attribute Grammars 
+ new formal definition of Madsen and Watt's extended 
+          RN/90/27 
+
+          
+
+         Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Semantics for Null Extended Nested Relations 
+ M. Levene , G. Loizou 
+          RN/90/28 
+
+          June 1990 
+
+         Journal: ACM Transactions on Database Systems 
+
+          Keywords: Nested relations, null extended algebra, null extended data dependencies, null extended chase 
+
+          Pages: 66 
+
+          pages count: 414-459 
+
+          Vol: 18 
+
+          Abstract: Abstract: investigate only fundamental semantics which are common to all unmarked 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Using the OSI Directory to achieve User Friendly Naming 
+ 
+          RN/90/28 
+
+          
+
+         Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          S.E. Kille 
+
+         Using the OSI Directory to achieve User Friendly Naming 
+ S.E. Kille 
+          RN/90/29 
+
+          June 1990 
+
+         Abstract: Abstract: the directory does not achieve this. Two aspects not achieved are: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Upgrading the intercontinental links for research collaboration with emphasis on the UK-US scene 
+ P.T. Kirstein 
+          RN/90/30 
+
+          May 1990 
+
+         Journal: Computer Networks and ISDN Systems 
+
+          Keywords: Intercontinental links, data networks, Internet, OSI data services, video conferencing, SPAN, JANET. 
+
+          Pages: 13 
+
+          pages count: 286-293 
+
+          Vol: 19 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Analysis of Shortest-Path Routing Algorithms in an Dynamic Network Environment 
+ Z. Wang , J. Crowcroft 
+          RN/90/31 
+
+          June 1990 
+
+         Journal: ACM Computer Communication Review, 
+
+          Keywords: Routing algorithm, shortest-path-first 
+
+          Volume: 2 
+
+          pages count: 63-71 
+
+          Vol: 22 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Making Deepness Explicit 
+ J. Washbrook , E.T. Keravnou 
+          RN/90/32 
+
+          March 1990 
+
+         Journal: Artificial Intelligence in Medicine 
+
+          pages count: 129-134 
+
+          Vol: 2 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         A Temporal Reasoning Framework used in the Diagnosis of Skeletal Dysplasias 
+ E.T. Keravnou , J. Washbrook 
+          RN/90/33 
+
+          June 1990 
+
+         Journal: Artificial Intelligence in Medicine 
+
+          Keywords: temporal-reasoning, time-interval, event, finding,diagnostic expert system, SDD. 
+
+          Volume: 5 
+
+          pages count: 239-265 
+
+          Vol: 2 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Towards a Framework for Self-organising Distributed Systems 
+ June Power 
+          RN/90/34 
+
+          May 1990 
+
+         Abstract: Abstract: an architecture for automating distributed system evolution. guide its interaction in some specified environment. It builds its components from significant bit clusters, called schemata, which 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         The Hypernode Model and its Associated Query Language 
+ Mark Levene , Alexandra Poulovassilis 
+          RN/90/35 
+
+          June 1990 
+
+         Book: Proc. 5th Jerusalem Conference on Information Technology, October 22-25, 1990, Jerusalem, Israel 
+
+          City: Los Alamitos, California 
+
+          Issuer: IEEE Computer Society Press 
+
+          Keywords: Directed graph, hypernode, hypernode programs, query and update completeness 
+
+          Pages: 12 
+
+          pages count: 520-530 
+
+          Abstract: Abstract: addition to primitive nodes. 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         PYGMALION Neural Network Programming Environment 
+ M. Azema-Barac , M. Hewetson , M. Recce , J. Taylor , P. Treleaven , M. Vellasco 
+          RN/90/36 
+
+          January 1990 
+
+         Book: Proc. INNC 90 Paris : International Neural Network Conference, July 9-13 1990 
+
+          City: Dordrecht 
+
+          Issuer: Kluwer Academic Publishers 
+
+          Pages: 4 
+
+          pages count: 709-712 
+
+          Abstract: Abstract: demonstrate to European industry the potential of develop a European ``standard'' neural network programming algorithm library (containing backpropagation, boltzmann, hopfield, 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Hybrid Analogue and Digital Networks: Inplementing a Prototype 
+ Tom Casey , Jon Crowcroft , Bill Tuck 
+          RN/90/37 
+
+          June 1990 
+
+         Keywords: conferencing analogue video, hybrid analogue digital networks, digital video conferencing. 
+
+          Pages: 19 
+
+          Abstract: Abstract: a text based computer conferencing system which is being extended to include date of a hybrid digital analogue interactive video system is also explained. 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Correction to ``Null Values in Relational Databases'' by M.A. Roth, H.F. Korth, and A. Silberschatz 
+ Mark Levene , George Loizou 
+          RN/90/38 
+
+          June 1990 
+
+         Journal: Acta Informatica 
+
+          Keywords: Nested relations; Partioned Normal Form; Projection; Unnesting. 
+
+          Pages: 4 
+
+          pages count: 603-605 
+
+          Vol: 28 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Integration of Message Handling and Directory: A System Manager's View 
+ Steve Kille 
+          RN/90/39 
+
+          June 1990 
+
+         Book: Proc. EUUG Conference, Nice, October 1990 
+
+          City: Buntingford, Herts. 
+
+          Issuer: EUUG 
+
+          pages count: 203-206 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Formal Aspects of Computing 
+
+          
+
+         
+ 
+          
+
+         Approaches to Integrating Numeric and Symbolic Programming 
+ R.L. Winder , G.A. Roberts 
+          RN/90/40 
+
+          July 1990 
+
+         Pages: 10 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          
+
+         Silicon Compilation of Neural Networks 
+ Meyer Nigri , Philip Treleaven , Marley Vellasco 
+          RN/90/41 
+
+          July 1990 
+
+         Book: Proc. IEEE CompEuro '91, Bologna, 13-16 May 1991 
+
+          City: Los Alamitos, California 
+
+          Issuer: IEEE Computer Society Press 
+
+          Pages: 14 
+
+          pages count: 541-546 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          
+
+         Inferring Null Join Dependencies in Relational Databases 
+ 
+          RN/90/41 
+
+          
+
+         Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          M. Levene 
+
+         Inferring Null Join Dependencies in Relational Databases 
+ M. Levene , G. Loizou 
+          RN/90/42 
+
+          
+
+         Journal: BIT 
+
+          Keywords: generic null, null-relations, or-relations, null join dependencies, or-chase procedure. 
+
+          pages count: 413-429 
+
+          Vol: 32 
+
+          Abstract: Abstract: the problem of deciding whether a set of data dependencies logically utilising the well-known chase procedure. 
+
+          Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          
+
+         Hardware Realisable Models of Neural Processing 
+ T.G. Clarkson , D. Gorse , J.G. Taylor 
+          RN/90/43 
+
+          October 1989 
+
+         Book: Proc. 1st IEE International Conference on Artificial Neural Networks, London, October 1989, 
+
+          City: ??? 
+
+          Issuer: IEE 
+
+          Pages: 5 
+
+          pages count: 242-246 
+
+          Abstract: Abstract: is hoped to construct more realistically sized networks (with learning 
+
+          Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          
+
+         Training Strategies for Probabilistic RAMs 
+ D. Gorse , J.G. Taylor 
+          RN/90/44 
+
+          March 1990 
+
+         Book: Parallel processing in neural systems and computers 
+
+          City: Amsterdam 
+
+          Ed: R. Eckmiller, G. Hartmann G. Hauske 
+
+          Issuer: North-Holland 
+
+          Pages: 4 
+
+          pages count: 161-164 
+
+          Abstract: Abstract: The probabilistic random access memory (pRAM) is a very flexible, 
+
+          Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          
+
+         Hardware Realisable Learning Algorithms 
+ D. Gorse , J.G. Taylor 
+          RN/90/45 
+
+          July 1990 
+
+         Book: INNC 90 Paris : Proc. International Neural Network Conference, July 9-13 1990, Paris 
+
+          City: Dordrecht, The Netherlands 
+
+          Issuer: Kluwer Academic Publishers 
+
+          Pages: 4 
+
+          pages count: 821-824 
+
+          Abstract: Abstract: nets of pRAMs is also shown to occur. 
+
+          Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          
+
+         Universal Associative Stochastic Learning Automata 
+ D. Gorse , J.G. Taylor 
+          RN/90/46 
+
+          July 1990 
+
+         Journal: Neural Network World 
+
+          Volume: 4 
+
+          Pages: 22 
+
+          pages count: 193-202 
+
+          Vol: 1 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          generalisation of the concept of binary-input stochastic learning automata 
+
+         Universal Associative Stochastic Learning Automata 
+ generalisation of the concept of binary-input stochastic learning automata 
+          RN/90/46 
+
+          
+
+         Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          
+
+         Reinforcement Training Strategies for Probabilistic RAMs 
+ D. Gorse , J.G. Taylor 
+          RN/90/47 
+
+          April 1990 
+
+         Book: Theoretical Aspects of Neurocomputing : selected papers from the Symposium on Neural Networks and Neurocomputing (NEURONET '90), Prague, Czechoslovakia, September 10-14, 1990 
+
+          City: Singapore 
+
+          Ed: M. Novak E. Pelikan 
+
+          Issuer: World Scientific 
+
+          Pages: 3 
+
+          pages count: 180-184 
+
+          Abstract: Abstract: problems of associative search, using local reinforcement training rules 
+
+          Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          
+
+         Training Strategies for Probabilistic RAMs 
+ D. Gorse , J.G. Taylor 
+          RN/90/48 
+
+          April 1990 
+
+         Book: Proc. Neural Computing Meeting (NCM 90), London, April 1990 
+
+          Pages: 7 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          
+
+         Experience with Mapping The X Windows Protocol onto OSI Protocols 
+ J. Crowcroft 
+          RN/90/49 
+
+          July 1990 
+
+         Book: Networks 90 network management : proceedings of the international conference held in Birmingham, June 1990 
+
+          City: London 
+
+          Issuer: Blenheim Online 
+
+          pages count: 41-50 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          
+
+         DoD Internet Protocols and JANET 
+ J. Crowcroft , R. Bradshaw , number of user services are available over the DoD Internet Protocol 
+          RN/90/50 
+
+          July 1990 
+
+         Book: Proc. 2nd RARE International Networking Conference, Blois, May 1991 
+
+          City: ??? 
+
+          Issuer: ??? 
+
+          pages count: ??? 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          
+
+         DoD Internet Protocols and JANET 
+ Winnie Pun , Russel Winder 
+          RN/90/51 
+
+          
+
+         Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          A Design Method for Object-Oriented Programming 
+
+         A Design Method for Object-Oriented Programming 
+ 
+          RN/90/51 
+
+          July 1990 
+
+         Journal: Journal of Object-Oriented Programming 
+
+          pages count: 61-73 
+
+          Abstract: Abstract: an object-oriented fashion. This indicates that a new design serve this purpose. The design method contains a new design notation 
+
+          Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          
+
+         Optimizing Connectionist Datasets with ConSTrainer 
+ 
+          RN/90/51 
+
+          
+
+         Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          A.N. Refenes 
+
+         Optimizing Connectionist Datasets with ConSTrainer 
+ A.N. Refenes 
+          RN/90/52 
+
+          August 1990 
+
+         Book: Proc. IEEE 2nd Symposium on Parallel and Distributed Processing, Dallas, Texas, December 1990 
+
+          City: Los Alamitos, California 
+
+          Issuer: IEEE Computer Society Press 
+
+          Pages: 6 
+
+          pages count: 806-811 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          
+
+         ODA Activities at University College London and their relation to the PODA Project 
+ Seyed N. Golkar , Peter T. Kirstein , Afzal M. Kohsari 
+          RN/90/53 
+
+          April 1990 
+
+         Journal: Computer Networks and ISDN Systems 
+
+          Keywords: Office document architecture, document interchange, interchange format, X.400, Message Handeling System 
+
+          Pages: 15 
+
+          pages count: 187-196 
+
+          Vol: 21 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          
+
+         Open Management of Limited Systems 
+ G. Knight 
+          RN/90/54 
+
+          June 1990 
+
+         Book: Networks 90 network management : proceedings of the international conference held in Birmingham, June 1990 
+
+          City: London 
+
+          Issuer: Blenheim Online 
+
+          Keywords: OSI Management, Network Management, Gateway, Limited Systems 
+
+          pages count: 51-60 
+
+          Abstract: Abstract: manageable in an ``open'' way via OSI Network Management Protocols, ``Limited Systems''-- i.e., those which do not possess a full OSI capability. tasks between the Limited System and its proxy. a full OSI approach. 
+
+          Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          
+
+         OSI-based Management of an Ethernet/ISDN Gateway 
+ G. Knight 
+          RN/90/55 
+
+          September 1990 
+
+         Book: Issues in LAN Management, II 
+
+          City: Amsterdam 
+
+          Ed: I.N. Dallas E.B. Spratt J-P. Cabanel 
+
+          Issuer: Elsevier Science Pubs. 
+
+          pages count: 101-112 
+
+          Abstract: Abstract: the management of such gateways has been considered. As with all kept to a minimum. In order to achieve this, it has been decided employ a proxy system to share the management load. Ethernet/ISDN gateway, there seems no reason to believe that it 
+
+          Submission Status: submitted to Knowledge Engineering Review Journal 
+
+          
+
+         
+ 
+          
+
+         Experience of Implementing OSI Management Facilities 
+ G. Knight , G. Pavlou 
+          RN/90/56 
+
+          August 1990 
+
+         Book: Proc. IFIP TC6/WP6.6 2nd International Symposium on Integrated Network Management, Washington, 1-5 April 1991 
+
+          City: Amsterdam 
+
+          Issuer: Elsevier Science Pubs. 
+
+          pages count: 259-270 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to the IFIP Second International Symposium on Integrated Network Management, Washington 1991. 
+
+          
+
+         
+ 
+          
+
+         Basic Rate ISDN Workstation Traffic Patterns 
+ George Pavlou , Graham Knight 
+          RN/90/57 
+
+          April 1990 
+
+         Journal: Computer Communications 
+
+          Keywords: Basic Rate ISDN, LAN, Workstation, NFS, performance 
+
+          Volume: 10 
+
+          pages count: 587-593 
+
+          Vol: 13 
+
+          Abstract: Abstract: to be replaced by the Integrated Services Digital University College London on the extent to which 
+
+          Submission Status: submitted to the IFIP Second International Symposium on Integrated Network Management, Washington 1991. 
+
+          
+
+         
+ 
+          
+
+         Artificial neural learning: themes and variations 
+ A.N. Refenes 
+          RN/90/58 
+
+          July 1990 
+
+         Book: Int. Workshop on Future Generation Computer Systems, Samarkand, Uzbekistan, USSR, September 10-15 1990 
+
+          City: ??? 
+
+          Issuer: ??? 
+
+          Pages: 11 
+
+          pages count: ??? 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to the IFIP Second International Symposium on Integrated Network Management, Washington 1991. 
+
+          
+
+         
+ 
+          
+
+         Self-organising feature maps in pre-processing datasets for decision support in histopathology 
+ A.N. Refenes , U. Bilge 
+          RN/90/59 
+
+          July 1990 
+
+         Book: Proc. North Sea Conference on Biomedical Engineering, Antwerp, 19-22 Nov. 1990 
+
+          City: ??? 
+
+          Issuer: ??? 
+
+          Pages: /a/pink/cs/research/biolab/pink/pnr/papers/north_sea/feature_maps 
+
+          pages count: ??? 
+
+          Abstract: Abstract: effective unsupervised learning procedure when the input particular interest for diagnostic decision support 
+
+          Submission Status: submitted to the IFIP Second International Symposium on Integrated Network Management, Washington 1991. 
+
+          
+
+         
+ 
+          
+
+         The Design and Implementation of VOOM: a Parallel Virtual Object-Oriented Machine 
+ Aggeliki T. Balou , Paul N. Refenes 
+          RN/90/60 
+
+          
+
+         Journal: Microprocessing and Microprogramming 
+
+          pages count: 289-296 
+
+          Vol: 32 
+
+          Abstract: Abstract: configured as a homogeneous network of have implemented a software simulator for the architecture, VLSI. 
+
+          Submission Status: submitted to the IFIP Second International Symposium on Integrated Network Management, Washington 1991. 
+
+          
+
+         
+ 
+          
+
+         Experiences with the University of London Interactive Video Education Network 
+ P.T. Kirstein , R. Beckwith 
+          RN/90/61 
+
+          October 1990 
+
+         Journal: Electronics \& Communication Engineering Journal 
+
+          Volume: 1 
+
+          Pages: 20 
+
+          pages count: 4-12 
+
+          Vol: 3 
+
+          Abstract: Abstract: others in the US. Finally the paper considers the administrative 
+
+          Submission Status: submitted to the IFIP Second International Symposium on Integrated Network Management, Washington 1991. 
+
+          
+
+         
+ 
+          
+
+         A Protocol Design For Large Group Multicasting: The Message Distribution Protocol 
+ Mark G.W. Jones , Soren-Aksel Sorensen , Steve Wilbur 
+          RN/90/62 
+
+          September 1990 
+
+         Journal: Computer Communications 
+
+          Keywords: Multicast, Scale 
+
+          Volume: 5 
+
+          pages count: 287-297 
+
+          Vol: 14 
+
+          Abstract: Abstract: to 50 members. Many of the techniques used do not scale to larger 
+
+          Submission Status: submitted to the IFIP Second International Symposium on Integrated Network Management, Washington 1991. 
+
+          
+
+         
+ 
+          
+
+         A Continuous Input RAM-Based Stochastic Neural Model 
+ D. Gorse , J.G. Taylor 
+          RN/90/63 
+
+          August 1990 
+
+         Journal: Neural Networks 
+
+          Pages: 20 
+
+          pages count: 657-665 
+
+          Vol: 4 
+
+          Abstract: Abstract: reinforcement training. The model is then further extended to allow for 
+
+          Submission Status: submitted to the IFIP Second International Symposium on Integrated Network Management, Washington 1991. 
+
+          
+
+         
+ 
+          
+
+         An Image Server for an Interactive Video Network 
+ 
+          RN/90/63 
+
+          
+
+         Submission Status: submitted to the IFIP Second International Symposium on Integrated Network Management, Washington 1991. 
+
+          
+
+         
+ 
+          Tom Casey 
+
+         An Image Server for an Interactive Video Network 
+ Tom Casey , Bill Tuck 
+          RN/90/64 
+
+          August 1990 
+
+         Book: Proc. IMAGE'COM 90, Bordeaux, France, 19-21 November 1990 
+
+          Pages: 6 
+
+          pages count: 7-12 
+
+          Abstract: Abstract: the Protocol Data Units; the use of teletext insertion for frame 
+
+          Submission Status: submitted to the IFIP Second International Symposium on Integrated Network Management, Washington 1991. 
+
+          
+
+         
+ 
+          
+
+         A Processor with List Structured Memory 
+ 
+          RN/90/64 
+
+          
+
+         Submission Status: submitted to the IFIP Second International Symposium on Integrated Network Management, Washington 1991. 
+
+          
+
+         
+ 
+          P.A. Rounce 
+
+         A Processor with List Structured Memory 
+ P.A. Rounce 
+          RN/90/65 
+
+          August 1990 
+
+         Book: Proc. COMP EURO 91, Advanced Computer Technology, Reliable Systems and Applications, 5th Annual European Computer Conference, 13-16 May 1991 
+
+          City: Los Alamitos, California 
+
+          Issuer: IEEE Computer Society Press 
+
+          Pages: 8 
+
+          pages count: 41-45 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to the IFIP Second International Symposium on Integrated Network Management, Washington 1991. 
+
+          
+
+         
+ 
+          
+
+         SPRINT and DICE: Architectures within the ESPRIT SPAN Project 
+ 
+          RN/90/65 
+
+          
+
+         Submission Status: submitted to the IFIP Second International Symposium on Integrated Network Management, Washington 1991. 
+
+          
+
+         
+ 
+          P.A. Rounce 
+
+         SPRINT and DICE: Architectures within the ESPRIT SPAN Project 
+ P.A. Rounce , J. Delgado , central feature was a model architecture, called the 
+          RN/90/66 
+
+          August 1990 
+
+         Journal: IEEE MICRO 
+
+          Volume: 6 
+
+          pages count: 24-27 \& 88-97 
+
+          Vol: 10 
+
+          Abstract: Abstract: symbolic and numeric computing on parallel systems, provided with particular reference to the other 
+
+          Submission Status: submitted to the IFIP Second International Symposium on Integrated Network Management, Washington 1991. 
+
+          
+
+         
+ 
+          
+
+         TCP/IP Present and Future -- An Open Standard? 
+ J. Crowcroft , number of user services are available over the DoD Internet Protocol 
+          RN/90/67 
+
+          October 1990 
+
+         Abstract: Abstract: three Internet services, namely Network File System (NFS), X-Windows 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         UC++: Concurrent Object-Oriented C++ 
+ 
+          RN/90/67 
+
+          
+
+         Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          G. Roberts 
+
+         UC++: Concurrent Object-Oriented C++ 
+ G. Roberts , R. Winder , M. Wei 
+          RN/90/68 
+
+          September 1990 
+
+         Pages: 11 
+
+          Abstract: Abstract: the COOTS project (IED 1059). The primary aim is to develop a specifically aimed at supporting parallel object-oriented Parallel Object-Oriented Programmming. 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         The Implementation of FDL, a Functional Database Language 
+ Alexandra Poulovassilis 
+          RN/90/69 
+
+          September 1990 
+
+         Keywords: Functional Languages, Functional Databases, Binary Relational Storage Structures 
+
+          Pages: 20 
+
+          Abstract: Abstract: supporting arbitrarily nested data types which are all persistent. individual equations and an integrity sub-system verifies updates against 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         A Modal Logic Formalism for Distributed Knowledge Bases: Preliminary Report 
+ M. Levene , G. Loizou 
+          RN/90/70 
+
+          October 1990 
+
+         Keywords: Modal logics of knowledge and belief, replicated and fragmented data, DBMS and location transparency, extensional distributed database, intentional distributed database, local and global fixpoint, knowledge availability 
+
+          Pages: 12 
+
+          Abstract: Abstract: a network of user sites, W, having an accessibility relation, N, two inflationary fixpoint operators, the local fixpoint and the global 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         An Integrated Neural Network System for Histological Image Understanding 
+ A.N. Refenes , N. Jain , M. AlSulaiman 
+          RN/90/71 
+
+          September 1990 
+
+         Book: Proc. Int. Symp. OE/BOSTON '90, conf. 1386, 4-9 Nov. 1990 Boston, Massachusetts 
+
+          City: Bellingham, Washington, U.S.A. 
+
+          Ed: B. Batchelor F.M. Waltz 
+
+          Issuer: SPIE 
+
+          Pages: 13 
+
+          pages count: ??? 
+
+          Abstract: Abstract: heterogeneous sub-networks for performing specialised 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         Parallel Abstract Machines: Towards a Unifying Intermediate Representation? 
+ A.N. Refenes 
+          RN/90/72 
+
+          September 1990 
+
+         Book: Applied Artificial Intelligence 
+
+          City: Stevenage, Herts 
+
+          Ed: K. Warwick 
+
+          Issuer: Peter Peregrinus 
+
+          Pages: 32 
+
+          pages count: 94-127 
+
+          Abstract: Abstract: message-passing by call. 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         Default Information in Database Systems 
+ Peter King , Alexandra Poulovassilis , Carol Small 
+          RN/90/73 
+
+          October 1990 
+
+         Book: Proc. Expert Systems 90 
+
+          City: Cambridge 
+
+          Issuer: Cambridge University Press. 
+
+          Keywords: Deductive databases. Default Information. Functional and Logic Databases. 
+
+          Pages: 8 
+
+          pages count: 195-202 
+
+          Abstract: Abstract: coded in FDL, a recently introduced database language which follows the 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         On the Coupling of Logic and Functional Database Languages 
+ Alexandra Poulovassilis , Carol Small 
+          RN/90/74 
+
+          October 1990 
+
+         Keywords: Deductive databases. Functional and Logic Databases. 
+
+          Pages: 17 
+
+          Abstract: Abstract: deductive database languages which have generally been based either on 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         The Transputer Application Activities at the UCL Department of Computer Science 
+ Mark Holden 
+          RN/90/75 
+
+          July 1990 
+
+         Book: Proc. ESPRIT Parallel Computing Action Workshop 1, University of Southampton, 9 July 1990 
+
+          City: ??? 
+
+          Issuer: ??? 
+
+          pages count: ??? 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         Internetworking Architectures for ISDN and PBX 
+ S.M. Walton 
+          RN/90/76 
+
+          October 1990 
+
+         Book: IFIP 2nd International Conference on Local Communications Systems: LAN and PBX 
+
+          City: Amsterdam 
+
+          Ed: G. Pujolle R. Puigjaner 
+
+          Issuer: Elsevier Science Pubs 
+
+          Keywords: ISDN, gateway 
+
+          Pages: 11 
+
+          pages count: 77-88 
+
+          Abstract: Abstract: to utilise primary rate ISDN interconnect 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         Towards a General-purpose Neurocomputing System 
+ Philip Treleaven , Paulo V. Rocha 
+          RN/90/77 
+
+          November 1990 
+
+         Book: IFIP Workshop on Silicon Architectures for Neural Networks, St. Paul de Vence, France November 28-30 1990 
+
+          Pages: 13 
+
+          Abstract: Abstract: 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         A New Congestion Control Scheme: Slow Slart and Search (Tri-S) 
+ Z. Wang , J. Crowcroft 
+          RN/90/78 
+
+          November 1990 
+
+         Journal: ACM SIGCOMM Computer Communication Review 
+
+          Keywords: Congestion control 
+
+          Volume: 1 
+
+          pages count: 32-43 
+
+          Vol: 21 
+
+          Abstract: Abstract: evaluation of throughput gradient and resource sharing is 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         Novel Information Technologies for Rocket Science 
+ Philip Treleaven , Siew Lan Loo , {\it Rocket Scientist\/} in a financial institution, broadly, is a 
+          RN/90/79 
+
+          September 1990 
+
+         Book: Proc. conference Rocket Science Made Simple: Forecasting and Optimisation in Financial Services, 3-4 October 1990, London 
+
+          City: London 
+
+          Issuer: IBC Technical Services Ltd. 
+
+          Pages: 12 
+
+          pages count: 1-12 
+
+          Abstract: Abstract: 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         Representing organisational structures in the OSI Directory 
+ Paul Barker 
+          RN/90/80 
+
+          October 1990 
+
+         Book: Online Conference on Electronic Directories, 6th December 1990 
+
+          City: Pinner, Middlesex 
+
+          Issuer: Blenheim Online 
+
+          Pages: 13 
+
+          pages count: 157-169 
+
+          Abstract: Abstract: 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         X.500 Directory Services 
+ Paul Barker 
+          RN/90/81 
+
+          June 1990 
+
+         Journal: Communication \& Computer News 
+
+          Pages: 5 
+
+          pages count: 1,4 
+
+          Abstract: Abstract: the CCITT X.500/ISO IS9594 standards. Noting that the 1988 standard 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         Challenges for Knowledge Representation 
+ J.A. Campbell 
+          RN/90/82 
+
+          September 1990 
+
+         Book: Computational Intelligence III 
+
+          City: Amsterdam 
+
+          Ed: N. Cercone F. Gardin 
+
+          Issuer: Elsevier Science Pubs 
+
+          Pages: 12 
+
+          pages count: 1-10 
+
+          Abstract: Abstract: 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         Measuring and Assessing Knowledge Acquisition: Lessons from the EQUUS Project 
+ J.A. Campbell 
+          RN/90/83 
+
+          November 1990 
+
+         Journal: Heuristics 
+
+          Keywords: knowledge acquisition, metrication 
+
+          Pages: 16 
+
+          pages count: 90-96 
+
+          Vol: 3 
+
+          Abstract: Abstract: 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         Technical opportunities for the development of world band broadcast reception 
+ J.A. Campbell , L.E. Magne , J.R. Sherwood 
+          RN/90/84 
+
+          September 1990 
+
+         Book: Proc. 8th International Conference on Consumer Electronics 
+
+          City: Washington, D.C. 
+
+          Issuer: IEEE 
+
+          Pages: 7 
+
+          pages count: 242-244 
+
+          Abstract: Abstract: 
+
+          Submission Status: presented at Interoperability Workshop (not a formal publication) 
+
+          
+
+         
+ 
+          
+
+         A Design for Parallel C++ 
+ M. Wei , G.A. Roberts , R. Winder , P. Treleaven 
+          RN/90/85 
+
+          November 1990 
+
+         Pages: 10 
+
+          Abstract: Abstract: object-oriented and include direct support for the description of parallelism all types. Such languages will combine several major design trends seen in used to support active objects. 
+
+          Submission Status: submitted to the ECOOP'91 -- The 5th European Conference on Object-Oriented Programming 
+
+          
+
+         
+ 
+          
+
+         A Nested-Graph Model for the Representation and Manipulation of Complex Objects 
+ Alexandra Poulovassilis , Mark Levene 
+          RN/90/86 
+
+          July 1990 
+
+         Journal: ACM Transactions on Information Systems 
+
+          Keywords: Database models; Complex objects; Rule-based languages; Typed languages; Graph-based query languages. 
+
+          Volume: 1 
+
+          Pages: 35 
+
+          pages count: 35-68 
+
+          Vol: 12 
+
+          Abstract: Abstract: Hyperlog programs is intractable in the general case -- we identify cases 
+
+          Submission Status: submitted to the ECOOP'91 -- The 5th European Conference on Object-Oriented Programming 
+
+          
+
+         
+ 
+          
+
+         A precise difference operator for null extended nested relations 
+ Mark Levene , George Loizou 
+          RN/90/87 
+
+          December 1990 
+
+         Keywords: null extended nested relation, null extended algebra, null extended difference, faithful and precise null extended operators, 
+
+          Pages: 11 
+
+          Abstract: Abstract: due to its inherent non-monotonic property. 
+
+          Submission Status: submitted to the ECOOP'91 -- The 5th European Conference on Object-Oriented Programming 
+
+          
+
+         
+ 
+          
+
+         	
+           Translator  
+         
+
+
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Rachel Scott 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

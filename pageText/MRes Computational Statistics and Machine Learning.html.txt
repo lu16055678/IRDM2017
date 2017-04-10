@@ -1,0 +1,1569 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Prospective Students ›› MRes CSML 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         
+          
+           
+            
+             
+            
+
+           
+
+          
+
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+         
+         
+          
+          	Overview
+	Course Structure
+	Entry Requirements
+	Fees & Funding
+	Employability
+	Contact
+	Apply
+
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+              The MRes in Computational Statistics and Machine Learning prepares students for a research career in machine learning and related large-scale data analysis. 
+ 
+              Students are expected to have a strong background in a numerate subject, ideally mathematics, statistics or computer science.  The MRes is particularly suitable for students that have some prior familiarity with data analysis and wish to engage in a substantial research project, prior to continuing a research career.  Taking the MRes will give students a deeper understanding of a research level topic and also enable the department to more fully assess the future research potential of potential PhD applicants.
+ 
+              The MRes is taught jointly by the Department of Computer Science and the Department of Statistical Science.
+ 
+               
+             
+ 
+              
+              
+              
+               
+              
+               
+
+              
+ 
+               
+             
+ 
+              
+              
+              
+               
+              
+               Upcoming Events and Open Days
+
+              
+ 
+               
+               
+              Virtual Open Day - 5th April 2017, 1pm - 2pm
+ 
+              Find out more about the benefits of studying the MRes Computational Statistics and Machine Learning at UCL, the top-rated university in the UK for research in Computer Science. 
+ 
+              Take the opportunity to (virtually) meet the team behind the Masters, with a chance to chat with them via dedicated online forums.  
+ 
+              For further information and to register your attendance, please click here.
+ 
+               
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+               	2016/17
+	2017/18
+
+ 
+                
+                 
+                  
+                  
+                   
+                   
+                   
+                    
+                   The MRes programme is split into core and optional modules and a research project. Students must take 2 core modules and 3 optional modules. They will also complete a research project over a period of 9 months.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     EDUCGE01 Investigating Research
+ 
+                      
+                       
+                       
+                        
+                       
+                        EDUCGE01 Investigating Research
+
+                       
+ 
+                        
+                        
+                       This module is taught by UCL Centre for Advancing Learning and Teaching. 
+ 
+                       More information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     EDUCGE02 Researcher Profesional Development
+ 
+                      
+                       
+                       
+                        
+                       
+                        EDUCGE02 Researcher Profesional Development
+
+                       
+ 
+                        
+                        
+                       More information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGM98 MRes Dissertation
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGM98 MRes Dissertation
+
+                       
+ 
+                        
+                        
+                       A research project over a period of 9 months.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Optional Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGI01 Supervised Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI01 Supervised Learning
+
+                       
+ 
+                        
+                        
+                       This module covers supervised approaches to machine learning. It starts by reviewing fundamentals of statistical decision theory and probabilistic pattern recognition followed by an in-depth introduction to various supervised learning algorithms such as Perceptron, Backpropagation algorithm, Decision trees, instance-based learning, support vector machines. Algorithmic-independent principles such as inductive bias, side information, approximation and estimation errors. Assessment of algorithms by jackknife and bootstrap error estimation, improvement of algorithms by voting methods such as boosting. Introduction to statistical learning theory, hypothesis classes, PAC learning model, VC-dimension, growth functions, empirical risk minimization, structural risk minimization. 
+ 
+                       Students will gain an in-depth familiarity with various classical and contemporary supervised learning algorithms, understand the underlying limitations and principles that govern learning algorithms and ways of assessing and improving their performance, understand the underlying fundamentals of statistical learning theory, the complexity of learning and its relationship to generalization ability. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI08 Graphical Models
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI08 Graphical Models
+
+                       
+ 
+                        
+                        
+                       The module provides an entry into probabilistic modeling and reasoning, primarily of discrete variable systems. Very little continuous variable calculus is required, and students more familiar with discrete mathematics should find the course digestible. The emphasis is to demonstrate the potential applications of the techniques in plausible real-world scenarios related to information retrieval and analysis. Concrete challenges include questionnaire analysis, low-density parity check error correction, and collaborative filtering of Netflix data 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI13 Advanced Topics in Machine Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI13 Advanced Topics in Machine Learning
+
+                       
+ 
+                        
+                        
+                       To learn the fundamentals of machine-learning based artificial intelligence:
+
+                       	to understand fundamentals and practice of deep learning,
+	to understand methods for reinforcement learning, planning and control in sequential decision making processes,
+	to learn how to implement algorithms in TensorFlow.
+
+
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI14 Machine Vision
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI14 Machine Vision
+
+                       
+ 
+                        
+                        
+                       The course addresses algorithms for automated computer vision. It focuses on building mathematical models of images and objects and using these to perform inference. Students will learn how to use these models to automatically find, segment and track objects in scenes, perform face recognition and build three-dimensional models from images. 
+ 
+                       At the end of the course, students will be able to understand and apply a series of probabilistic models of images and objects in machine vision systems. To understand the principles behind face recognition, segmentation, image parsing, super-resolution, object recognition, tracking and 3D model building. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI15 Information Retrieval & Data Mining
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI15 Information Retrieval & Data Mining
+
+                       
+ 
+                        
+                        
+                       The course is aimed at an entry level study of information retrieval and data mining techniques. It is about how to find relevant information and subsequently extract meaningful patterns out of it. While the basic theories and mathematical models of information retrieval and data mining are covered, the course is primarily focused on practical algorithms of textual document indexing, relevance ranking, web usage mining, text analytics, as well as their performance evaluations. Practical retrieval and data mining applications such as web search engines, personalisation and recommender systems, business intelligence, and fraud detection will also be covered. 
+ 
+                       Students are expected to master both the theoretical and practical aspects of information retrieval and data mining. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI16 Approximate Inference and Learning in Probabilistic Models
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI16 Approximate Inference and Learning in Probabilistic Models
+
+                       
+ 
+                        
+                        
+                       The module will present the foundations of approximate inference and learning in probabilistic graphical models (e.g. Bayesian networks and Markov networks), with particular focus on models composed from conditional exponential family distributions. Both stochastic (Monte Carlo) methods and deterministic approximations will be covered. The methods will be discussed in relation to practical problems in real-world inference in Machine Learning, including problems in tracking and learning. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI18 Probabilistic & Unsupervised Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI18 Probabilistic & Unsupervised Learning
+
+                       
+ 
+                        
+                        
+                       This module provides students with an in-depth introduction to statistical modelling and unsupervised learning techniques. It presents probabilistic approaches to modelling and their relation to coding theory and Bayesian statistics. A variety of latent variable models will be covered including mixture models (used for clustering), dimensionality reduction methods, time series models such as hidden Markov models which are used in speech recognition and bioinformatics, independent components analysis, hierarchical models, and nonlinear models.
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG001 Statistical Models & Data Analysis
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG001 Statistical Models & Data Analysis
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG003 Statistical Computing
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG003 Statistical Computing
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG012 Statistical Inference
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG012 Statistical Inference
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG019 Selected Topics in Statistics
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG019 Selected Topics in Statistics
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                 
+ 
+                  
+                
+ 
+               
+ 
+                
+                 
+                  
+                  
+                   
+                   
+                   
+                    
+                   
+                    Course Structure for 2017/18
+
+                   
+ 
+                    
+                    
+                   The MRes programme is split into core and optional modules and a research project. Students must take 2 core modules and 3 optional modules. They will also complete a research project over a period of 9 months.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Core Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     EDUCGE01 Investigating Research
+ 
+                      
+                       
+                       
+                        
+                       
+                        EDUCGE01 Investigating Research
+
+                       
+ 
+                        
+                        
+                       This module is taught by UCL Centre for Advancing Learning and Teaching. 
+ 
+                       More information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     EDUCGE02 Researcher Profesional Development
+ 
+                      
+                       
+                       
+                        
+                       
+                        EDUCGE02 Researcher Profesional Development
+
+                       
+ 
+                        
+                        
+                       This module is taught by UCL Centre for Advancing Learning and Teaching. 
+ 
+                       More information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGM98 MRes Dissertation
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGM98 MRes Dissertation
+
+                       
+ 
+                        
+                        
+                       A research project over a period of 9 months.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Optional Modules
+
+                   
+ 
+                    
+                    
+                    
+                    
+                     
+                     COMPGI01 Supervised Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI01 Supervised Learning
+
+                       
+ 
+                        
+                        
+                       This module covers supervised approaches to machine learning. It starts by reviewing fundamentals of statistical decision theory and probabilistic pattern recognition followed by an in-depth introduction to various supervised learning algorithms such as Perceptron, Backpropagation algorithm, Decision trees, instance-based learning, support vector machines. Algorithmic-independent principles such as inductive bias, side information, approximation and estimation errors. Assessment of algorithms by jackknife and bootstrap error estimation, improvement of algorithms by voting methods such as boosting. Introduction to statistical learning theory, hypothesis classes, PAC learning model, VC-dimension, growth functions, empirical risk minimization, structural risk minimization. 
+ 
+                       Students will gain an in-depth familiarity with various classical and contemporary supervised learning algorithms, understand the underlying limitations and principles that govern learning algorithms and ways of assessing and improving their performance, understand the underlying fundamentals of statistical learning theory, the complexity of learning and its relationship to generalization ability. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI08 Graphical Models
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI08 Graphical Models
+
+                       
+ 
+                        
+                        
+                       The module provides an entry into probabilistic modeling and reasoning, primarily of discrete variable systems. Very little continuous variable calculus is required, and students more familiar with discrete mathematics should find the course digestible. The emphasis is to demonstrate the potential applications of the techniques in plausible real-world scenarios related to information retrieval and analysis. Concrete challenges include questionnaire analysis, low-density parity check error correction, and collaborative filtering of Netflix data. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI13 Advanced Topics in Machine Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI13 Advanced Topics in Machine Learning
+
+                       
+ 
+                        
+                        
+                       To learn the fundamentals of machine-learning based artificial intelligence:
+
+                       	to understand fundamentals and practice of deep learning,
+	to understand methods for reinforcement learning, planning and control in sequential decision making processes,
+	to learn how to implement algorithms in TensorFlow.
+
+
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI14 Machine Vision
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI14 Machine Vision
+
+                       
+ 
+                        
+                        
+                       The course addresses algorithms for automated computer vision. It focuses on building mathematical models of images and objects and using these to perform inference. Students will learn how to use these models to automatically find, segment and track objects in scenes, perform face recognition and build three-dimensional models from images. 
+ 
+                       At the end of the course, students will be able to understand and apply a series of probabilistic models of images and objects in machine vision systems. To understand the principles behind face recognition, segmentation, image parsing, super-resolution, object recognition, tracking and 3D model building. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI15 Information Retrieval & Data Mining
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI15 Information Retrieval & Data Mining
+
+                       
+ 
+                        
+                        
+                       The course is aimed at an entry level study of information retrieval and data mining techniques. It is about how to find relevant information and subsequently extract meaningful patterns out of it. While the basic theories and mathematical models of information retrieval and data mining are covered, the course is primarily focused on practical algorithms of textual document indexing, relevance ranking, web usage mining, text analytics, as well as their performance evaluations. Practical retrieval and data mining applications such as web search engines, personalisation and recommender systems, business intelligence, and fraud detection will also be covered. 
+ 
+                       Students are expected to master both the theoretical and practical aspects of information retrieval and data mining. 
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI16 Approximate Inference and Learning in Probabilistic Models
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI16 Approximate Inference and Learning in Probabilistic Models
+
+                       
+ 
+                        
+                        
+                       The module will present the foundations of approximate inference and learning in probabilistic graphical models (e.g. Bayesian networks and Markov networks), with particular focus on models composed from conditional exponential family distributions. Both stochastic (Monte Carlo) methods and deterministic approximations will be covered. The methods will be discussed in relation to practical problems in real-world inference in Machine Learning, including problems in tracking and learning.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI18 Probabilistic & Unsupervised Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI18 Probabilistic & Unsupervised Learning
+
+                       
+ 
+                        
+                        
+                       This module provides students with an in-depth introduction to statistical modelling and unsupervised learning techniques. It presents probabilistic approaches to modelling and their relation to coding theory and Bayesian statistics. A variety of latent variable models will be covered including mixture models (used for clustering), dimensionality reduction methods, time series models such as hidden Markov models which are used in speech recognition and bioinformatics, independent components analysis, hierarchical models, and nonlinear models.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGI21 Introduction to Machine Learning
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGI21 Introduction to Machine Learning
+
+                       
+ 
+                        
+                        
+                       Students will become familiar with the conceptual landscape of machine learning and have developed practical skills to solve real world problems using available software.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     COMPGV08 Inverse Problems in Imaging
+ 
+                      
+                       
+                       
+                        
+                       
+                        COMPGV08 Inverse Problems in Imaging
+
+                       
+ 
+                        
+                        
+                       To introduce the concepts of optimisation, and appropriate mathematical and numerical tools applications in image processing and image reconstruction.
+ 
+                        
+ 
+                       Further syllabus information can be found here.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG001 Statistical Models & Data Analysis
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG001 Statistical Models & Data Analysis
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus.
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG003 Statistical Computing
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG003 Statistical Computing
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG004 Applied Bayesian Methods
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG004 Applied Bayesian Methods
+
+                       
+ 
+                        
+                        
+                       Taught by Department of Statistical Science - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG012 Statistical Inference
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG012 Statistical Inference
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                     STATG019 Selected Topics in Statistics
+ 
+                      
+                       
+                       
+                        
+                       
+                        STATG019 Selected Topics in Statistics
+
+                       
+ 
+                        
+                        
+                       Taught by Statistics - see here for syllabus
+ 
+                        
+                      
+ 
+                       
+                     
+ 
+                    
+ 
+                   
+ 
+                    
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   You will need to choose 45 credits from the optional modules.
+ 
+                    
+                  
+ 
+                   
+                   
+                   
+                    
+                   
+                    Module Selection
+
+                   
+ 
+                    
+                    
+                   The modules that make up a programme are either core, optional or elective, which reflects whether they must be taken or can optionally be taken. The programme’s curriculum (also called a programme diet) will prescribe in what combinations modules can be taken, any restrictions on doing so, and how much credit can and must be taken. 
+ 
+                   Core/compulsory modules are fundamental to the programme’s curriculum and students must take these. You will be automatically allocated a place on any core modules for your programme and will not need to select these during the module selection process. There will be no timetable clashes between your programme’s core modules. 
+ 
+                   Optional modules are strongly related to the programme and students can choose which of these they wish to take, usually from within specific groups (for example, a student may be asked to choose two optional modules from one group and three from another, etc.) Places of optional modules are strictly limited (due to spatial, resource and timetable constraints) and will be allocated on a first come first serve basis. Some optional modules have pre-requisites which students will need to meet in order to be eligible for a place. 
+ 
+                   Elective modules are not programme specific, but allow students the opportunity to explore their interests more widely. Students are usually restricted to taking one or two elective modules. There is no guarantee of being accepted onto an elective module. These modules are core or optional on other programme diets, consequently students on these programmes will be given priority. Any remaining places will then be allocated on a first come first served basis. Some elective modules have pre-requisites which students will need to meet in order to be eligible for a place. 
+ 
+                   Please note: timetable clashes between optional and elective modules from different specialisations are inevitable and this can result in limiting the available choices. It is the student’s responsibility to select modules that do not clash in order to meet UCLs minimum attendance requirements. Please speak to your Programme Director and/ or Programme Administrator if you have any queries. 
+ 
+                   Non-Computer Science students should note that priority on COMP* modules will always be given to Computer Science students in the first instance.
+ 
+                    
+                  
+ 
+                   
+                   
+                 
+ 
+                  
+                
+ 
+               
+ 
+              
+ 
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             	The MRes is designed for people who have a first or upper second class honours BSc (or equivalent) in a numerate discipline such as Computer Science, Mathematics, Engineering or the Physical Sciences. 
+	As the course is co-taught with the Department of Statistical Sciences, we require candidates to have studied a significant mathematics and/or statistics component as part of their degree, to ensure they are able to cope with the level of Statistics involved.
+	Students should also have some experience with a programming language such as Matlab.
+	Appropriate industrial experience may also be considered in some cases
+
+ 
+             English Language Requirements 
+ 
+             If your education has not been conducted in the English language, you will be expected to demonstrate evidence of an adequate level of English proficiency. 
+ 
+             The English language level for this programme is: Good 
+ 
+             Further information can be found on our English language requirements page. 
+ 
+             International students 
+ 
+             Country-specific information, including details of when UCL representatives are visiting your part of the world, can be obtained from the International Students website.
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+              
+              
+               
+              UK/EU fees (FT):  £11,800 for 2017/18
+ 
+               
+             
+ 
+              
+              
+              
+               
+              Overseas fees (FT):  £25,130 for 2017/18
+ 
+               
+             
+ 
+              
+              
+              
+               
+              For a comprehensive list of the funding opportunities available at UCL, including funding relevant to your nationality, please visit the Scholarship and Funding website.
+ 
+               
+             
+ 
+              
+              
+              
+               
+              
+               Tuition Fee Deposit
+
+              
+ 
+               
+               
+               
+                
+               This programme requires that applicants firmly accepting their offer pay a deposit. This allows UCL to effectively plan student numbers, as students are more demonstrably committed towards commencing their studies with us. 
+ 
+               For full details about the UCL tuition fee deposit, please see the central UCL pages. 
+ 
+               Tuition fee deposits within the Department of Computer Science are currently listed as:
+
+               	UK/EU	Overseas
+	Full-time	*Part-time	Full-time	*Part-time
+	£2000	£1000	£2000	£1000
+	 
+	*where part-time is an available mode of study
+
+ 
+                
+              
+ 
+               
+             
+ 
+              
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             	 Top graduate destinations:            
+ 
+                 	DeepMind
+	Google
+	Salesforce
+	YoungGov
+
+ 	 Top graduate roles:                           
+ 
+                 	Software Developer 
+	Accountant
+	Financial Consultant
+	Actuary
+
+ 	 Further study destinations:
+ 
+                 	UCL
+	University of Cambridge
+	MIT
+
+ 
+
+
+             Average starting salary £47,500 (Graduate Surveys, January 2015).
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             
+               
+                
+               Programme Administrator
+Rebecca Martin
+Office 5.22, Malet Place Engineering Building 
++44 (0)20 7679 0481
+advancedmsc-admissions@cs.ucl.ac.uk 
+ 
+               More information
+ 
+                
+              
+
+              
+               
+                
+                 
+                  
+                 
+
+                
+ 
+                
+                 
+                  
+                 
+
+                
+ 
+                
+                 
+                  
+                 
+
+                
+
+               
+
+              
+
+             
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+           
+            
+             
+             
+              
+             Before you apply:
+ 
+             The MRes being a research agree and you will be required to submit a research proposal and identify a potential supervisor. Further information is available here.
+We will not be able to progress your application until we have received your research proposal and suggestion of a suitable supervisor.
+
+ 
+ 
+             To apply now click here.
+ 
+             Students are advised to apply as early as possible due to competition for places, later applications may be less successful. Those applying for scholarship funding (particularly overseas applicants) should take note of application deadlines.
+Deadline 17th June 2017
+ 
+              
+            
+ 
+             
+           
+ 
+          
+ 
+         
+ 
+        
+ 
+         
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 03 Apr 2017 and is maintained by 
+      Steve Marchant 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

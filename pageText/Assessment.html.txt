@@ -1,0 +1,905 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Students
+      ›› Undergrad. Inf. ›› Assessment 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Assessment of Undergraduate Modules in the Computer Science Department
+
+        
+ 
+         
+         
+        These pages are being updated for 2016-17. If you have any queries in the meantime please contact us by email to ugadmin@cs.ucl.ac.uk
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         Table of Contents
+
+        
+ 
+         
+         
+        	Table of Contents
+	Introduction
+	What do you have to do to get a degree?
+	Grade System and Scheme for the Award of Honours
+	Definition of 'Complete' and 'Incomplete'
+	How is coursework assessed?
+	Organisation of coursework
+	Late submission of coursework
+	Special (or Extenuating) Circumstances
+	Registering for Examinations
+	Examinations, Results and Resits
+	Deferred Assessment
+	Referred Assessment
+	Plagiarism
+
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         Introduction
+
+        
+ 
+         
+         
+        This document relates to undergraduate degree programmes offered by the Department of Computer Science: 
+ 
+        BSc Computer Science (G400) 
+ 
+        MEng Computer Science (G402) 
+ 
+        MEng Computer Science (international Programme) (G403) 
+ 
+        MEng Mathematical Computation (G430) 
+ 
+        The information below is intended to guide Computer Science students through the UCL examinations and assessment process, and to describe departmental policy. However, the UCL regulations covering examinations, the award of degrees etc. are complex. In this document we have tried to be faithful to the sense of the rules whilst keeping things as simple as possible. If there are any conflicts between what is stated in this document and the official UCL rules then it is, of course, the UCL rules which apply. Students should refer in particular to: 
+ 
+        1. UCL Registry and Academic Services Examinations web pages at http://www.ucl.ac.uk/current-students/exams_and_awards 
+ 
+        2. UCL Registry and Academic Services Library and Learning web pages at http://www.ucl.ac.uk/current-students/libraryandlearning 
+ 
+        
+ 
+         
+       
+
+       To top
+ 
+        
+        
+        
+         
+        
+         What do you have to do to get a degree?
+
+        
+ 
+         
+         
+        In each year you study modules which add up to a total of 4.0 Course-units (120 FHEQ credits). With one or two exceptions CS modules are worth 0.5 Course-units (15 FHEQ credits). Typically, a CS module is taught as about 30 hours of lectures plus tutorials, computer lab classes, help sessions and so on. We expect that, normally, the workload for a 0.5 Course-unit (15 FHEQ credit) module is about 150 Learning hours when lectures, exercises, coursework, reading, revision etc. are totalled. Some modules are compulsory whilst others are chosen from a range of options. Such choices must always be with the approval of the Departmental Tutor. Further details of the rules concerning choices can be found in the curriculum pages.  The number of credits you pass or fail determines whether you are allowed to progress to the next year of the programme and, ultimately, whether you will be awarded a degree.  
+ 
+        Levels of modules:
+ 
+        Modules are defined in terms of levels as follows: 
+ 
+        (a) basic/introductory (level 3 - ie at a level below that of a normal first-year module); 
+ 
+        (b) first level (level 4 - ie COMP101P, COMP102P etc) 
+ 
+        (c) intermediate level (level 5 - ie COMP201P, COMP202P etc) 
+ 
+        (d) advanced level (level 6 - ie COMP3005, COMP3072 etc) 
+ 
+        (e) masters level (level 7 - ie COMPM012, COMPM061 etc) 
+ 
+        The following rules then apply: 
+ 
+        (a) students may take a maximum of 5.0 Course-units (150 FHEQ credits) at first level (level 4) and a minimum of 3.0 Course-units (90 FHEQ credits) at advanced level (level 6) in order to be awarded a BSc Honours degree; 
+ 
+        (b) students may take no more than 0.5 Course-units (15 FHEQ credits) at basic/introductory level in order to be awarded an Honours degree; 
+ 
+        (c) students must take at least 1.0 Course-units (30 FHEQ credits) at advanced level in order to be awarded an Ordinary degree; 
+ 
+        (d) for 16.0 Course-unit MEng programmes, students must take at least 4.0 Course-units (120 FHEQ credits) at Master's (M) level. 
+ 
+        To pass a module, you must:
+ 
+        (a) be 'complete' in the module (please see the section 'How are CS modules assessed); and 
+ 
+        (b) achieve the pass mark (please see the table below)
+
+        	For all Computer Science undergraduate modules: 	
+	The pass mark for 1st, 2nd and 3rd year modules = 40%. You must also achieve a minimum mark of 30% in each component worth ? 30% of the module as a whole
+
+	
+	The pass mark for 4th year modules = 50%. You must also achieve a minimum mark of 40% in each component worth ? 30% of the module as a whole.	
+
+
+        To progress from one year to the next, and ultimately be awarded a degree, you must:
+ 
+        (a) achieve passes in a certain number of modules; and 
+ 
+        (b) satisfy the examiners in certain specified modules (please see the tables below) 
+ 
+        BSc Progression (to be updated for 2015/16)
+
+        	BSc Computer Science	
+	To progress from year 1 -> year 2, you need to pass 3.5 Course-units (105 FHEQ credits)
+	
+	To progress from year 2 -> year 3, you need to pass 7.0 Course-units (210 FHEQ credits)
+	
+	To graduate with Honours, you need to pass 11.0 Course-units* (330 FHEQ credits)
+	
+
+
+        *To be eligible for the award of the BSc in Computer Science you must normally have completed and passed the final year project. Students who do not complete and pass the final year project may be eligible for the award of the BSc in Computing. 
+ 
+        MEng Progression (to be updated for 2015/16)
+
+        	MEng Computer Science/ Mathematical Computation	
+	To progress from year 1 -> year 2, you need to pass 3.5 Course-units (105 FHEQ credits)
+	
+	To progress from year 2 -> year 3, you need to pass 7.0 Course-units (210 FHEQ credits) and your weighted average for first and second-year modules must be 50% or more (see below for the weights that are applied).Note that, normally, if you fail to meet these criteria but do meet the criteria for progression to the third year of the equivalent BSc programme you may transfer to that programme. 
+In addition, if you meet the specified progression requirements but still have a weighted average of less than 60% and one or more failed modules at the end of year 2, then you will be advised to transfer to the BSc programme. You are not required to transfer but such results are a strong indication that you will find the full MEng too challenging, especially in the final year.
+	
+	To progress from year 3 -> year 4, you need to pass 11.0 Course-units (330 FHEQ credits) and your weighted average for first, second and third-year modules must be 50% or more (see below for the weights that are applied); A student who fails to meet the requirements for progression to the final year of the MEng programme but who meets the Faculty requirements for a BSc will be considered for a BSc degree. Given that the student will not have tackled an individual project, the examiners will normally award BSc in Computing.
+	
+	To graduate with Honours - you need to pass 14.5 Course-units* (435 FHEQ credits)
+	
+
+
+        *To be eligible for the award of the MSci/MEng in Computer Science you must normally have completed and passed the final year project. Students who do not complete and pass the final year project may be eligible for the award of a degree in Computing. 
+ 
+        Weightings applied to each year
+ 
+        The following weightings are applied to results achieved in each year as set out below. All credits are included in the calculation. 
+
+        	BSc Computer Science	
+	1:3:5 
+(i.e. Yr 1 modules are weighted 1; Yr 2 modules are weighted 3; Yr 3 modules are weighted 5)
+	
+
+
+        	MEng Computer Science programmes	
+	1:3:5:5 
+(i.e. Yr 1 modules are weighted 1; Yr 2 modules are weighted 3; Yr 3 modules are weighted 5; Yr 4 modules are weighted 5)
+	
+
+ 
+         
+       
+
+       To top
+ 
+        
+        
+        
+         
+        
+         Grade System and Scheme for the Award of Honours
+
+        
+ 
+         
+         
+        Once examination marking is complete at the end of the summer term, and after the Board of Examiners has met, the Department will issue provisional marks for each of the modules you have taken. 
+ 
+        Later in the summer, following Faculty and UCL endorsement, UCL Registry and Academic Services will issue finalists with an official transcript giving the exact marks obtained in each module. See also http://www.ucl.ac.uk/current-students/exams_and_awards/Qualifications/transcripts From the start of August, continuing students can also view their results via Portico. 
+ 
+        Scheme for the of Award of Honours
+ 
+        The Scheme of Award for undergraduate degree programmes in the Faculty of Engineering Sciences is the official set of rules governing the award of degrees offered by Computer Science. You should read the Faculty Scheme of Award in conjunction with this document.  
+ 
+        The final result that you obtain is decided by the UCL Board of Examiners following recommendations made by the Computer Science Board and approved by the Engineering Sciences Faculty. The Computer Science Board is attended by External Examiners as well as members of the Department and representatives of the Faculty. The role of the External Examiners is to see that standards are maintained and that all students are treated fairly. The percentage marks you obtain help the examiners to determine the class of degree you will be awarded. The final mark is a weighted average of the marks you obtain in the modules you take throughout your studies. Note that the process is not entirely mechanical and the examiners are required to use their judgement and discretion.  
+ 
+        Examiners may take note of all relevant information, and any special factors such as certified disability or illness, before making the final recommendation of Honours Class. 
+ 
+        Students who have acquired credits from another UCL degree programme prior to joining the CS Department might reach 11 credits before the end of their final year. Students in such a position must formally apply to "postpone honours" so that they can proceed to the final year. Please contact the Departmental Tutor about this if it applies to you. 
+ 
+        Honours Degrees
+ 
+         An initial assessment of Honours Class is made with reference to the following values:
+
+        	Mean Mark % 	Class Awarded
+	70	First
+	60-69	Upper Second
+	50-59	Lower Second
+	40-49	Third
+
+
+        Ordinary Degrees
+ 
+        Students entering in 2005/06 and thereafter may be awarded an Ordinary Degree if they have failed to meet the criteria for an Honours Degree. To be eligible for an Ordinary Degree students must have accumulated at total of at least 11.0 completed Course-units, with a minimum of 10.0 Course-units passed, with the number of passes at advanced level being not less than 2.0 Course-units for a 12.0 Course-unit programme. There is no equivalent for the MEng degree.
+ 
+         
+       
+
+       To top
+ 
+        
+        
+        
+         
+        
+         Definition of 'Complete' and 'Incomplete'
+
+        
+ 
+         
+         
+        Failure to be complete in every module (12 course units for BSc students and 16 course units for MEng students) could result in students being ineligible to graduate with an Honours degree. 
+ 
+        The Computer Science department follows the UCL guidelines regarding the definition of complete and incomplete, as follows: 
+ 
+        Coursework:
+
+        	Where the coursework component represents more than 20% or more of the overall module assessment a threshold for completion, such as a requirement to submit at least a specified fraction of the coursework, must be set by the department and clearly publicised to students taking the module. 
+	In the event that any threshold set is not reached, the results for the component will be 'incomplete' regardless of the mark obtained. Otherwise, the threshold criteria are met and the candidate is declared 'complete' on the component.
+	If the coursework component represents less than 20% of the overall module assessment, no coursework completion criteria need be set by the department.
+	If no coursework threshold criteria are set then the mark obtained by the candidate, including zero, is returned for the component and the overall mark calculated in the usual way and the candidate declared 'complete' on the component.
+
+
+        Unseen Examinations:
+
+        	An unseen examination component is only deemed complete if a candidate has submitted an answer that can be academically assessed. The mark awarded, however, might be zero. If the candidate makes little or no attempt at the examination this will be deemed 'incomplete' and the module as a whole will also be deemed 'incomplete'.
+
+
+        Where the coursework element consists of several separate items of work, it is up to the examiners to decide whether all items must be completed or whether the omission of some may be disregarded. The precise conditions applying to a particular module can normally be found in the syllabus. If this is not the case then the information should be obtained direct from the lecturer concerned. 
+ 
+        Note that model solutions for a piece of coursework are often made available very soon after the submission deadline. It may be difficult for you to convince the examiners that a "serious attempt" has been made if you submit work after the solutions have been published. 
+ 
+        If you are deemed to be "incomplete" for a module you may take the examination one year hence. Further information on re-sit examinations is given below. 
+ 
+         
+       
+
+       To top
+ 
+        
+        
+        
+         
+        
+         How is coursework assessed?
+
+        
+ 
+         
+         
+        "Coursework" here includes work done in your own time and handed in or paper or electronically, online tests and class tests. Coursework is set for a variety of reasons. In some cases it is designed principally to assist you in understanding the taught material, in others it is intended to assess skills and knowledge which cannot sensibly be tested in an examination. To cover this range the department sets coursework in the following main categories: 
+
+        	
+          Unmarked exercises
+         
+	
+          These are not essential and will not be marked but may be used as the basis for discussion during tutorial sessions or problem classes. 
+         
+	
+          Binary marked coursework
+         
+	
+          The aim of this type of coursework is to help you to learn but to relieve you of the worry of chasing the last 1% of the marks. You will receive 100% for an honest attempt at the questions, otherwise you will get 0%. The coursework will be marked and feedback should normally be returned to you within four weeks of the hand-in deadline. Binary marked coursework does contribute to the final mark for the module but the contribution will be no more than 15%.
+         
+	
+          Mini-test
+         
+	
+          Some modules include one or more mini-tests, part-way through the term to help you test your progress. In some cases the results of these tests contribute towards the final mark of the module.
+         
+	
+          Graded coursework
+         
+	
+          This is the most common form of coursework and its aim is to test your ability. You will receive a grade for an honest attempt at the questions, otherwise you will get 0%. The coursework will be marked and feedback should normally be returned to you within four weeks of the hand-in deadline. 
+         
+	
+          Mini-Project
+         
+	
+          This is a major piece of work. You will receive a grade for an honest attempt at the project. Otherwise you will get 0%. The project will be marked and commented and will be returned to you before the end of the current academic year.
+         
+
+
+        Note that, with the exception of "unmarked exercises", coursework is formally part of the assessment of the module. Therefore, failure to make a serious attempt at it can render you liable to be "incomplete" for the module. The precise conditions applying to a particular module can normally be found in the syllabus. If this is not the case then the information should be obtained direct from the lecturer concerned. 
+ 
+         
+       
+
+       To top
+ 
+        
+        
+        
+         
+        
+         Organisation of coursework
+
+        
+ 
+         
+         
+        You must complete a coversheet for each piece of coursework and attach it to the front of your work. Copies of the coversheet are available from the Departmental Office (Computer Science Reception on the 5th Floor of the Malet Place Engineering Building), or can be printed from the web at http://www-typo3.cs.ucl.ac.uk/fileadmin/UCL-CS/students/documents/cwsheet.pdf. 
+ 
+        When the coursework is set you should be told: 
+
+        	Which of the categories above the coursework is in;
+	What percentage of the total module mark it represents;
+	The deadline for submission;
+	The format the submission should be in (ie on paper, via Moodle etc.);
+	How and where the submission is to be made.
+
+
+        In most cases, coursework submitted on paper should be handed in to the Departmental Office where there will be a list for you to sign. Any disputes about the time at which coursework was submitted will be resolved by reference to this list. If you have not signed, you have not submitted. 
+ 
+        UCL is moving increasingly towards the electronic submission of coursework. You will be informed by the lecturers setting the coursework whether they wish to receive it electronically or in hard copy. You should note that UCL has now signed up to use a sophisticated detection system (JISC Turn-It-In) to scan work for evidence of plagiarism, and the Department intends to use this for assessed coursework.  This system gives access to billions of sources worldwide, including websites and journals, as well as work previously submitted to the Department, UCL and other universities
+ 
+         
+       
+
+       To top
+ 
+        
+        
+        
+         
+        
+         Late submission of coursework
+
+        
+ 
+         
+         
+        The Computer Science department follows the UCL guidelines regarding penalties for late submission of coursework, and penalties for over-length coursework, including dissertations. 
+ 
+        Click on the link below for more details:
+
+        	Assessment Penalties 
+
+ 
+         
+       
+
+       To top
+ 
+        
+        
+        
+         
+        
+         Special (or Extenuating) Circumstances
+
+        
+ 
+         
+         
+        Your performance may be adversely affected by ill health or personal problems. This might prevent you from submitting coursework on time, make it difficult or impossible for you to sit an exam, or cause you to miss a large number of lectures. Very minor problems which result in missed coursework deadlines can normally be dealt with informally by the lecturer concerned. More serious problems should be notified to the Departmental Tutor by filling in a Notification of Extenuating Circumstances form. The form must give dates of when the circumstances took place and details of which modules, courseworks or exams were affected. Suitable evidence must be attached (medical/ doctor's/ hospital letter, or other documentation). The completed form should be returned with the evidence to the Departmental Tutor. 
+ 
+        When the examiners consider degree awards or progression to the next year of a degree programme, they take account of any problems which have affected your performance or prevented you from taking exams. However, this can only be done if such problems are notified in writing and are accompanied by copies of supporting evidence. Such evidence should be provided to the Departmental Tutor as soon as is practical. Be aware that reports of illness which are submitted late tend to lose credibility and look like excuses. 
+ 
+        If you do not understand how to complete a piece of coursework, please discuss this with the lecturer or with your tutor before the hand-in date. It might be possible for you to be given extra help, or you may be able to get credit for the attempts you have made even if these are not successful. Whatever happens, do not be tempted to copy other students' work - the penalties for plagiarism can be very severe. 
+ 
+         
+       
+
+       To top
+ 
+        
+        
+        
+         
+        
+         Registering for Examinations
+
+        
+ 
+         
+         
+        Provisional registration for returning students takes place at the beginning of the autumn term. Registration is a matter of agreeing with the Department which modules you want to take. This process takes place within Portico. Our curriculum pages set out the rules that govern your choice. Your initial choices should be made by the end of week one in term one; you get a final opportunity to change second term option choices by the end of term 2 week 2. 
+ 
+        Once you have registered your initial choice of modules these can only be changed in consultation with the Departmental Tutor. You will not be allowed to join a module that has already started if it is too late for you to catch up or if this is likely to be disruptive to students already on the module. 
+ 
+        Withdrawing from Examinations
+ 
+        In some, limited, circumstances it is possible to withdraw from exams and postpone them for a year. Generally this is only possible on grounds of ill health or other serious personal circumstance. Departmental approval is required, via the Departmental Tutor.  Details are given in the Registry and Academic Services website at http://www.ucl.ac.uk/current-students/exams_and_awards/GI/withdraw_exams. 
+ 
+        If you are registered to re-sit an exam, which (after having sought appropriate academic advice) you decide not to re-take - you MUST formally withdraw from the exam via the UCL Examinations Office. If you simply do not turn up, this will result in you being declared absent from the exam, and 'not complete' in the module (i.e. you will receive a mark of zero, even if your previous mark was higher). More guidance on re-sits can be found below.
+ 
+         
+       
+
+       To top
+ 
+        
+        
+        
+         
+        
+         Examinations, Results and Resits
+
+        
+ 
+         
+         
+        All Computer Science undergraduate exams take place in Term 3. The provisional results of the exams become available after the Board of Examiners' meeting which normally takes place in mid-June. Once they have been confirmed by the UCL Board of Examiners you can also access them on-line via Portico (marks normally become available on Portico at the end of July) UCL Registry and Academic Services sends official transcripts to all graduating students at their permanent home address during July/August. Please see http://www.ucl.ac.uk/current-students/exams_and_awards/Qualifications/transcripts or further details. 
+ 
+        If you are absent from an examination without permission (or if you attend but either make no attempt at the paper or attempt so little that it cannot be academically assessed) and provide no evidence of extenuating circumstances, then normally you will be awarded a mark of 0 for the missed/non-attempted examination (i.e. a mark of zero would be counted in any average and it would be treated as a first attempt; the overall result for the module would be recorded for the Examinations Office purposes as absent or incomplete, as appropriate); 
+ 
+        Once the results are known you should take urgent action if: 
+
+        	You have missed exams through illness or some other reason beyond your control. You may then be eligible for "Deferred Assessment" (continuing students only);
+	You have failed by a narrow margin (marks between 35-39%) and you might be eligible for "Referred Assessment" (applies continuing students only); 
+	You have failed to meet the requirements for progression to the next year of the programme; 
+	You believe there is some other problem with your results.
+ 
+
+
+        In all cases you should contact the Departmental Tutor in the first instance. 
+ 
+        If you fail a module (either a coursework component, an examination component, or both) you have the right to re-sit the failed component(s) at the next normal occasion (i.e at the same time in the next academic year).  Only in exceptional circumstances would a student be permitted a second resit.   It is your responsibility to confirm to Registry and Academic Services the examinations you wish to re-sit, via on-line module registration using PORTICO. It is also your responsibility to check with the Department to determine whether you are required to submit new coursework.  
+ 
+        Resit marks are not capped, meaning they are not restricted to a bare pass mark of 40%. The highest of the resit and first attempt marks is taken as the final module mark. 
+ 
+        UCL regulations state that a candidate must complete the assessment for a module within two years of attending that module. This period of two years may only be extended at the discretion of the UCL Board of Examiners. 
+ 
+        Students who withdraw from an examination owing to special circumstances will not be regarded as having made an entry and therefore would be taking the examination as if for the first time the next academic year. If you have passed the coursework component already, then the marks you achieved will be brought forward.
+ 
+         
+       
+
+       To top
+ 
+        
+        
+        
+         
+        
+         Deferred Assessment
+
+        
+ 
+         
+         
+        The purpose of Deferred Assessment is to enable students who have missed their exams, through no fault of their own, to complete the exam at a later date in the same academic year. The assessment will normally be through a formal examination usually taken in early September. There are various restrictions: 
+
+        	A maximum of 3.0 Course-units (90 FHEQ credits) may be permissible for deferred assessment in any one year;
+	The total value of modules assessed in this way must not exceed 4.0 Course-units (120 FHEQ credits) over the whole of a three-year BSc degree programme, or 6.0 Course-units (180 FHEQ credits) for a four-year MEng degree programme);
+	Deferred assessment is not available to final year students (unless exceptionally permitted though a suspension of regulations);
+	You must have missed the whole of the examination. Once you have entered the examination room and the examination has begun this will be classed as an attempt at the examination. An examination attempt cannot be retrospectively discounted or deferred.
+
+
+        If you believe you are eligible then you must apply on a form (from the Computer Science Undergraduate Administrator or Departmental Tutor or from the Registry and Academic Services website at http://www.ucl.ac.uk/current-students/exams_and_awards/GI/deferred_assess_ug. You should apply within one week of the end of the examination period in question and submit your form via the Departmental Tutor together with appropriate supporting documentation (medical certificate or statement).  Full details are in the Registry and Academic Services web pages at http://www.ucl.ac.uk/current-students/exams_and_awards/GI/deferred_assess_ug. 
+ 
+        If you are applying for Deferred Assessment in a module offered by another department, you must ask that department to fill in their part of the form and sign it. 
+ 
+        If your application is successful, details of the assessment, deadlines etc. will then be sent to you. 
+
+ It is your responsibility to ensure you receive the relevant information. You MUST ensure that UCL has your correct contact details. This will be used for all communication with you regarding Deferred or Referred Assessment. If information does not reach you in good time we regret that we cannot be held responsible. 
+ 
+         
+       
+
+       To top
+ 
+        
+        
+        
+         
+        
+         Referred Assessment
+
+        
+ 
+         
+         
+        Referred assessment is available to continuing students where they have gained a mark between 35% and 39% (in some modules in the Faculty of Mathematical and Physical Sciences, the band is 30% to 39%).   If you take a Referred Assessment, you will be given an additional (supplementary) assessment over the summer in order to give the Board of Examiners the information it needs to make a pass/fail judgement on the overall performance in that module. Referred assessment is not available to final year students.  
+ 
+        The modes of assessment can be either oral, formal written examination or essay.   The maximum mark available for the module overall as a result of successful supplementary assessment is 40%. 
+ 
+        This additional (supplementary) assessment should be assessed and the result communicated to you before the start of the next session. 
+ 
+        Students who fall into the referred band can opt as follows: 
+
+        	 take the referred assessment and, if passed, be awarded the bare minimum pass mark of 40%;
+	 refuse the offer of referred assessment and re-enter at the next normal occasion, if all resit attempts have not already been used. If the student passes the resit attempt, the mark will not be capped at 40%;
+	 opt not to resit and keep the mark gained up to the value of 1.0 Course-unit maximum, having sought academic advice.   
+
+
+        If a continuing student opts to retain a failed mark, this would be treated as a “fail with credit” (i.e. it counts as completion of a module but without a pass mark), and students can only have one of these not to jeopardise the final classification. 
+ 
+        For students who have been referred and who then fail the referred assessment, unless they have used all their resit attempts, they will resit at the next normal opportunity. 
+ 
+        There are no circumstances whereby a student, who has failed a CS module at below 35% (or below 30% for certain modules in the Faculty of Mathematical and Physical Sciences), would be allowed to take the module at any other time other than the next normal opportunity. 
+ 
+        If students are incomplete (i.e. where they have not attempted all elements of all assessments for a given module), the incomplete module will count as one of their attempts.   Students with an incomplete result will not normally be expected to resit any piece of assessment passed: they would normally be expected to resit only the part failed at the next normal occasion. 
+ 
+         
+       
+
+       To top
+ 
+        
+        
+        
+         
+        
+         Plagiarism
+
+        
+ 
+         
+         
+        Your attention is drawn to UCL's information on plagiarism at http://www.ucl.ac.uk/current-students/guidelines/plagiarism:
+
+        	Plagiarism is defined as the presentation of another person's thoughts or words or artefacts or software as though they were a student's own. Any quotation from the published or unpublished works of other persons must, therefore, be clearly identified as such by being placed inside quotation marks, and students should identify their sources as accurately and fully as possible. A series of short quotations from several different sources, if not clearly identified as such, constitutes plagiarism just as much as does a single unacknowledged long quotation from a single source. Equally, if a student summarises another person's ideas, judgements, figures, software or diagrams, a reference to that person in the text must be made and the work referred to must be included in the bibliography.
+	 Recourse to the services of 'ghost-writing' agencies (for example in the preparation of essays or reports) or of outside word-processing agencies which offer correction/improvement of English is strictly forbidden, and students who make use of the services of such agencies render themselves liable for an academic penalty.
+	Use of unacknowledged information downloaded from the internet also constitutes plagiarism.
+	Where part of an examination consists of 'take away' papers, essays or other work written in a student's own time, or a coursework assessment, the work submitted must be the candidate's own.
+	It is also illicit to reproduce material which a student has used in other work/assessment for the course or programmes concerned. Students should be aware of this ‘self-plagiarism’. If in doubt, students should consult their Personal Tutor or another appropriate teacher.
+	Failure to observe any of the provisions of this policy or of approved departmental guidelines constitutes an examination offence under UCL and University Regulations. Examination offences will normally be treated as cheating or irregularities under the Regulations in respect of Examination Irregularities. Under these Regulations students found to have committed an offence may be excluded from all further examinations of UCL or the University or of both.
+	The expression of original ideas is considered intellectual property, and is protected by copyright laws, just like original inventions. Almost all forms of expression fall under copyright protection as long as they are recorded in some way (such as a book or a computer file).
+
+
+        Please take this information very seriously. There have been cases in the past in which students have been found to have cheated by copying the work of other students and submitting this as their own. UCL takes an extremely serious view of plagiarism. Students found to have been cheating may be given a mark of 0% for the work in question. In severe cases all of a student's results for the year can be declared void and he/she can be sent down for a year. Persistent offenders may be permanently excluded from UCL. Note that, when plagiarism is discovered, it is not normally obvious which piece of work is the original from which the others have been copied. This means that all those involved, including one possibly innocent party, come under suspicion. 
+ 
+        Computer Science students are perhaps especially vulnerable since much of the material they deal with is electronic and hence easy to copy. For example, if you find information or software on the internet which helps you with a piece of coursework you must acknowledge your source. The acknowledgement must be precise indicating exactly what was the source and which sections of your work are affected. If it turns out that an almost complete solution to a problem is available on the internet, you should report that fact - it is then a problem for the lecturer rather than for you! You should avoid looking at other students' solutions or allowing others to look at yours; once you have see someone else's solution it is virtually impossible for you to erase it from your memory and produce your own independent work. 
+ 
+        Note that we do not wish to discourage students from discussing their work with fellow students and collaborating in solving problems. However you should avoid allowing the collaborative phase to approach too close to a final solution which might make it impossible for you to make your own distinctive intellectual contribution. The key point is that you must not present the results of another person's work "as though they were your own". If you feel that a substantial part of a piece of work you submit for assessment has resulted from collaboration with other students you must make that clear in writing before the work is marked. 
+ 
+        In order to clarify some of the issues around collaborative working, the Departmental Teaching Committee (DTC) agreed some guidelines, a copy of which you can read here: Guidelines to clarify issues of collaborative working in coursework. 
+ 
+        You must complete a coversheet for each piece of coursework and attach it to the front of your work.  Copies of the coversheet are available from the Departmental Office, or can be printed from the web at http://www-typo3.cs.ucl.ac.uk/students/student_information/coursework_cover_sheet/ You should note that UCL has now signed up to use a sophisticated detection system (JISC Turn-It-In) to scan work for evidence of plagiarism, and the Department intends to use this for assessed coursework.  This system gives access to billions of sources, as well as work previously submitted to the department, UCL and other universities. 
+ 
+        You may have worked hard on a solution but has been quite unable to make progress. Do not try to solve this problem by copying. Instead, explain to the lecturer what has happened either in person or in writing. Keep copies of the preliminary work you have done (rough notes etc.) as evidence that you have tried. You will not be declared "not complete" if you can show you have made a serious attempt at a piece of work even if this was not successful.
+ 
+         
+       
+
+       To top
+ 
+        
+        
+        
+         
+        Please email any comments or queries to the Teaching and Learning Manager (teachingadmin@cs.ucl.ac.uk)
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

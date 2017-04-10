@@ -1,0 +1,439 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         Records of Web filtering in Syria analysed for first time
+ 
+         
+          
+          
+
+         
+ 
+         Real data on the filtering methods used for web censorship in Syria in 2011 have been analysed for the first time by researchers at INRIA (The French Institute for Research in Computer Science and Automation), NICTA (Australia) and UCL. This analysis reveals the techniques used to monitor, filter and block traffic from Syrian users. These include address blocks based on geographic location, and requests containing specific keywords related to censorship avoidance. 
+ 
+         Studying how Internet censorship is practiced in the real world is difficult due to lack of data. Previously studies have attempted to access web services in restricted areas and observed which are successful, but this does not reveal the full extent of censorship, or how regular users may be affected or work around it. Unusually, this work analyses 600GB of records from the censor’s side, taken from filtering ‘proxies’ inserted between the local network and the main routes for long-distance communications. 
+ 
+         This dataset specifies the results of millions of requests for content, which may either be allowed, denied, or returned from stored records. They were captured and published to the Internet by the Telecomixgroup of hacking activists in October 2011. The records were subsequently confirmed as genuine by the device manufacturer Blue Coat Systems, although the company has stated that they did not authorize the use of their proxies in this country. 
+ 
+         While the records give a rare opportunity to examine how censorship is applied in practice at large scale, this also means they are messy and include mistakes and dead ends. To handle this large and challenging collection, the international group of privacy researchers developed a method which they hope will be transferrable to others doing similar work, balancing the joint needs of accuracy and ease of use. Only aggregated traffic was analysed in order to preserve users’ privacy. 
+ 
+         They found that four main kinds of filtering were employed: based on URLs, keywords, destination IP addresses and customized categories. These aimed to restrict access to instant messaging such as Skype, video sharing, and Wikipedia. Sites and Facebook pages related to news and opposition parties were off-limits, as was the keyword ‘Israel’, the domain .il, and some subnetworks. Detailed inspection of requests (Deep Packet Inspection, DPI) was used to deny those related to anti-censorship tools (for instance, any searches containing the word ‘proxy’), although this also removes a large section of content not related to censorship evasion. 
+ 
+         In response to this, the researchers found people in Syria engaging in self-censorship: taking precautions and limiting their online behavior due to surveillance. However, they also use technology to get around these restrictions. Peer-to-peer networks like BitTorrent are used for sharing instant messaging software and privacy related tools. Google Cache, which stores versions of pages suggested by the search engine, is also used to avoid blocking, as the content is located on Google servers rather than at the banned addresses. 
+ 
+         Dr Emiliano De Cristofaro (UCL Computer Science) said: 
+ 
+         “We have exposed strengths and weaknesses of Web filtering conducted using Blue Coat proxies (which are still used in many countries worldwide). Through the lessons we learn we hope to give recommendations to users in how they can adapt to surveillance and censorship, and also guide research in the design of censorship-evading tools.” 
+ 
+         Dr Mohamed-Ali Kaafar (NICTA Australia and INRIA Rhône-Alpes), said: 
+ 
+         “Our analysis shows that compared to other censoring regimes, Internet censorship in Syria is less invasive and quite targeted. In fact, while aggressively censoring Instant Messaging, the censorship selectively targets a few Facebook pages and geo-politically significant content. This, however, does not necessarily mean minor information control or less ubiquitous surveillance, but rather shows that censorship aims at a more subtle control of the Internet. This is achievable today as the proxy appliances seamlessly support Deep Packet Inspection (DPI) which allows fine-grained censorship in real-time.” 
+ 
+         The technical report “Censorship in the Wild: Analyzing Web Filtering in Syria”, has been published as a pre-print on the arXiv repository and is now freely available. The manuscript will soon be submitted for peer review. 
+ 
+         Read more:
+
+         	UCL infosec group
+	NICTA Network Research Group
+	Inria Privatics group
+
+
+         Science contacts: 
+ 
+         Emiliano De Cristofaro, UCL Computer Science
+e.decristofaro@ucl.ac.uk +44 2076790349 
+ 
+         Mohammed Ali (Dali) Kaafar, NICTA (Australia)
+ Dali.Kaafar@nicta.com.au
+ 
+         
+ 
+         
+ 
+         
+           Posted 05 Mar 14 09:43 
+         
+ 
+          
+          
+           Next: Installation created... >
+
+          
+ 
+          
+           < Previous: 37 MSc and MEng students...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

@@ -1,0 +1,580 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Degree Programme
+      ›› Second Year
+      ›› Tutorials ›› Second Year Tutorials 2013-14 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+         
+          
+         Your tutor's role is to monitor your progress and be someone to talk to about your work or any problems you are having. You are required to meet  your tutor twice per term (in terms 1 and 2) to report on how things are going. Usually this will be near the start and end of each term. You can also make an appointment to see your tutor at any time you feel the need.  
+ 
+         Our policy is that you normally have the same tutor throughout your time as an undergraduate student in the department. If your tutor becomes unavailable you will be assigned to a new tutor. 
+ 
+         A guide to the tutorial system, which explains student and tutor expectations and entitlements in more detail can be found here. 
+ 
+         The tutor/tutee list is: 
+
+         	Dr. Jade Alglave
+
+	Saagar Hemrajani
+	Vera Johne
+
+
+          	Prof. Simon Arridge
+
+	Dat Pham
+	Esben Sorig
+
+
+          	Dr. Tomaso Aste
+
+	Jujhar Sandhu
+	Shindanai Sorapipat
+
+
+          	Dr. David Barber
+
+	Jia Chen
+	Ran Gutin
+	Jack Shipway
+
+
+          	Dr. Earl Barr
+
+	Reece Doyle
+	Ragavan Guneshalingham
+
+
+          	Dr. Gabriel Brostow
+
+	Aditya Gandhi
+	Richard Isaac
+
+
+          	Dr. Kevin Bryson
+
+	Dominik Krejcik
+	Michael Nemec
+
+
+          	Dr. Licia Capra
+
+	Martin Lazarov
+	Isaac Ortega Ghio
+
+
+          	Dr. Chris Clack
+
+	Anuz Adhikari
+
+
+          	Dr. David Clark
+
+	Tom Brown
+	Aman Chopra
+
+
+          	Dr. Nicholas Courtois
+
+	Szymon Makula
+	Daanish Rijhwani
+
+
+          	Prof. Ingemar Cox
+
+	Richard Haar
+	Nilesh Khatwani Mankani
+
+
+          	Dr. John Dowell
+
+	Edward James
+	Samuel Loveday
+
+
+          	Dr. Nicolas Gold
+
+	Oscar Robinson
+	Manoj Vaseekharan
+
+
+          	Dr. Denise Gorse
+
+	Marcin Cuber
+	Christodoulos Demetriades
+	Oliver Tun
+
+
+          	Dr. Lewis Griffin
+
+	Yiu Lau
+	Tuan Nguyen
+
+
+          	Prof. Steve Hailes
+
+	Jay Shah
+	Aaron Tran
+
+
+          	Prof. Mark Handley
+
+	Yuanlu Li
+	Kamran Poursohrab
+
+
+          	Dr. Mark Herbster
+
+	Zhi Lim
+
+
+          	Prof. Tony Hunter
+
+	Brian Yuen
+	Kapileshwar Syamasundar
+	Ziyu Zhong
+
+
+          	Prof. David Jones
+
+	Mohan Dai
+
+
+          	Dr. Simon Julier
+
+	Yeong Cheow
+	Sam Rolson
+	Thiam Tan
+
+
+          	Dr. Brad Karp
+
+	Ismaa'Eel Ataullah
+	Navin Bharwani
+
+
+          	Prof. Jan Kautz
+
+	Navid Hallajian
+	Hyuk Koh
+
+
+          	Dr. Jens Krinke
+
+	Andrew Greatorex
+	Xuan Luu
+
+
+          	Dr. Emmanuel Letier
+
+	Keqin Feng
+	Aarondeep Hothi
+	Syed Hussain
+
+
+          	Dr. Niloy Mitra
+
+	Gabriel Bila
+	Abbas Mirza
+	Genki Saito
+
+
+          	Dr. Dean Mohamedally
+
+	Raluca-Cristina Cocioban
+	Minh-Long Do
+	Mahi Khan
+
+
+          	Dr. Juan Navarro Perez
+
+	Kelvin Khoo
+	Timothy Mcphie
+
+
+          	Prof. Massi Pontil
+
+	Dennis Liu
+	Andrew Rennie
+
+
+          	Dr. Graham Roberts
+
+	Ryan Carter
+	Emily Garvin
+	Siri Vinay
+
+
+          	Prof. John Shawe Taylor
+
+	Laurence Clark-Michalek
+	Keshav Nehra
+
+
+          	Prof. Anthony Steed
+
+	Sarah Alkulaibi
+
+
+          	Prof. Philip Treleaven
+
+	Shehroze Bhatti
+	Nicola Greco
+	Jonathan Manfield
+
+
+          	Dr. Jun Wang
+
+	Vladyslav Kolesnyk
+	Necati Munir
+
+
+          	Dr. Tim Weyrich
+
+	Ellery Smith
+	Amman Vedi
+
+
+          	Dr. Shin Yoo
+
+	Bohan Chen
+	Alexander Emms
+	Tudor Maxim
+
+
+          	Dr. Shi Zhou
+
+	Samuel Payne
+	Safina Siddiqui
+
+
+          
+          
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Steve Marchant 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

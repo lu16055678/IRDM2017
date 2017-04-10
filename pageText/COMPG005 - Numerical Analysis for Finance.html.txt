@@ -1,0 +1,454 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus
+      ›› MSc Financial Risk Management ›› G005 - Numerical Analysis for Finance 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPG005 - Numerical Analysis for Finance
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPG005
+	Year	MSc
+	Prerequisites	Students not on MSc CF, FRM, FM or EF should check with the module tutor.
+	Term	1
+	Taught By	Guido Germano (100%) 
+	Aims	An introduction to numerical/computational methods and techniques with code examples in Matlab and an emphasis on applications in finance.
+	Learning Outcomes	Demonstrable skills in turning mathematical equations into working Matlab code; application of numerical methods and programming proficiency in Matlab to solve practical problems in mathematical finance.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content
+
+         
+ 
+          
+          
+         1 Introduction: Bibliography, Matlab, its command window and editor, basic use and important instructions: assignment, arrays, control structures (iteration i.e. for-loop, conditional execution i.e. if-then-else, etc.), online help and documentation, plot command, etc. 
+ 
+         2. Fundamental probability distributions: Normal, exponential, log-normal, chi square, etc; plot of the probability distribution function, sampling with pseudo-random numbers, histograms, transformation from uniform to other distributions by inversion of the cumulative distribution function. 
+ 
+         3. Random numbers: Linear congruential generators, requirements and statistical tests, pathologic cases, more advanced generators; inversion and transformation in one and more dimensions, acceptance-rejection method, Box-Muller method for normal deviates, polar method by Marsaglia, Ziggurat algorithm by Marsaglia and Tsang, correlated normal random variates, quasi-random numbers. 
+ 
+         4. Monte Carlo methods: General considerations, risk-neutral valuation of options, Euler-Maruyama method for the numerical solution of a stochastic differential equation (SDE), approximation error, strong and weak solution. 
+ 
+         5. Important stochastic differential equations: Arithmetic and geometric Brownian motion, Ornstein-Uhlenbeck process and the Vasicek model, Cox-Ingersoll-Ross process, constant elasticity of variance processes, Brownian bridge, Heston model of stochastic volatility. 
+ 
+         6. Stochastic processes with jumps: Poisson process, normal compound Poisson process, Gamma process, jump-diffusion processes (Merton, Kou), time-changed Brownian motion (variance Gamma process), Lévy processes. 
+ 
+         7. Partial differential equations: Classification, second-order PDEs, notable examples of elliptic, parabolic and hyperbolic PDEs, diffusion equation, Black-Scholes equation, Feynman-Kac theorem and relationship with SDEs.  
+ 
+         8. Fourier methods: Definitions, inverse transform, notable examples (double exponential, normal, Dirac delta function), fast Fourier transform, Laplace transform, transform of the derivative, solution of the standard diffusion equation by Fourier transform and in Fourier-Laplace space, fractional derivatives, space-time fractional diffusion equation and its solution in Fourier-Laplace space, characteristic function, moment-generating function, cumulant-generating function, Lévy processes, correlation/convolution theorem, auto/cross-covariance and correlation, Parseval/Plancherel theorem, use in option pricing. 
+ 
+         9. Exotic options: Fourier methods for the numerical pricing of discretely monitored path-dependent options like barrier and lookback.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction
+
+         
+ 
+          
+          
+         30 hours of lectures plus homework and assignments.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	Coursework (30%) 
+	Written examination (2.5 hours, 70%)
+
+
+          To pass this course, students must:
+
+         	Obtain an overall pass mark of 50% for all sections combined.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources
+
+         
+ 
+          
+          
+         Notes
+1. Gianluca Fusai, Laura Ballotta, Daniele Marazzina, PDE Tools for Financial Engineering: A Matlab Introduction, 2014.
+2. Rüdiger U. Seydel, Course Notes on Computational Finance, 2014, www.compfin.de. 
+ 
+         Recommended books
+1. Gianluca Fusai, Andrea Roncoroni, Implementing Models in Quantitative Finance: Methods and       Cases, Springer 2008.
+2. Rüdiger U. Seydel, Tools for Computational Finance, 5th edition, Springer 2012.
+3. Jörg Kienitz, Daniel Wetterau, Financial Modelling: Theory, Implementation and Practice with Matlab, Wiley 2012. 
+ 
+         More specialistic books for further reading
+1. William H. Press, Saul A. Teukolsky, William T. Vetterling, Brian P. Flannery, Numerical Recipes in C++: The Art of Scientific Computing, 3rd edition, Cambridge University Press, 2007.
+2. Paul Glasserman, Monte Carlo Methods in Financial Engineering, Springer, 2003.
+3. Peter Jaeckel, Monte Carlo Methods in Finance, Wiley, 2002.
+4. Yves Achdou, Olivier Pironneau, Computational Methods for Option Pricing (Frontiers in Applied Mathematics, volume 30), Society for Industrial and Applied Mathematics (SIAM), 2005.
+5. K. W. Morton, David F. Mayers, Numerical Solution of Partial Differential Equations, Cambridge University Press, 2005.
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

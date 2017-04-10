@@ -1,0 +1,3374 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Research
+      ›› Research Notes
+      ›› Research Note Archive ›› 1996 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Research Notes Index - 1996
+
+        
+ 
+         
+         
+         
+         
+         
+ 
+          
+
+          
+
+         
+
+         
+ 
+          
+
+         Using Data Structures within Genetic Programming 
+ 
+          
+
+          
+
+         
+
+         
+ 
+          W. B. Langdon 
+
+         Using Data Structures within Genetic Programming 
+ W. B. Langdon 
+          RN/96/1 
+
+          January 1996 
+
+         Keywords: Genetic Programming, Genetic Algorithms, stack, 
+
+          Pages: 10 
+
+          Abstract: Abstract: In earlier work we showed that GP can automatically 
+
+          Submission Status: GP-96 
+
+          
+
+         
+ 
+          
+
+         Using Data Structures within Genetic Programming 
+ 
+          RN/96/1 
+
+          
+
+         Submission Status: GP-96 
+
+          
+
+         
+ 
+          
+
+         Using Data Structures within Genetic Programming 
+ 
+          RN/96/1 
+
+          
+
+         Submission Status: GP-96 
+
+          
+
+         
+ 
+          
+
+         GP-COM: A Distributed, Component-Based Genetic Programming System in C++ 
+ 
+          RN/96/1 
+
+          
+
+         Submission Status: GP-96 
+
+          
+
+         
+ 
+          Christopher Harris 
+
+         GP-COM: A Distributed, Component-Based Genetic Programming System in C++ 
+ Christopher Harris , Bernard Buxton 
+          RN/96/2 
+
+          January 1996 
+
+         Keywords: Genetic Programming, Software System 
+
+          Pages: 10 
+
+          Abstract: Abstract: 
+
+          Submission Status: accepted by Genetic Programming-96 Conference, Stanford, CA one page summary in Proc. 
+
+          
+
+         
+ 
+          
+
+         Evolving Edge Detectors 
+ 
+          RN/96/2 
+
+          
+
+         Submission Status: accepted by Genetic Programming-96 Conference, Stanford, CA one page summary in Proc. 
+
+          
+
+         
+ 
+          Christopher Harris 
+
+         Evolving Edge Detectors 
+ Christopher Harris , Bernard Buxton 
+          RN/96/3 
+
+          January 1996 
+
+         Keywords: Genetic Programming, Edge Detection 
+
+          Pages: 10 
+
+          Abstract: Abstract: 
+
+          Submission Status: accepted by GP-96 Conference, Stanford, CA as short 6 page paper 
+
+          
+
+         
+ 
+          
+
+         
+ Quereshi 
+          RN/96/4 
+
+          January 1996 
+
+         Submission Status: accepted by GP-96 Conference, Stanford, CA as short 6 page paper 
+
+          
+
+         
+ 
+          
+
+         Evaluating Audio and Video Quality in Multimedia Conferencing Systems 
+ 
+          RN/96/4 
+
+          
+
+         Submission Status: accepted by GP-96 Conference, Stanford, CA as short 6 page paper 
+
+          
+
+         
+ 
+          A. Watson 
+
+         Evaluating Audio and Video Quality in Multimedia Conferencing Systems 
+ A. Watson 
+          RN/96/5 
+
+          January 1996 
+
+         Submission Status: submitted to Interacting with Computers journal 
+
+          
+
+         
+ 
+          
+
+         Requirements for Graphical User Interface Development Environments for Groupware 
+ 
+          RN/96/5 
+
+          
+
+         Submission Status: submitted to Interacting with Computers journal 
+
+          
+
+         
+ 
+          R. Hazemi 
+
+         Requirements for Graphical User Interface Development Environments for Groupware 
+ R. Hazemi , L. Macaulay 
+          RN/96/6 
+
+          January 1996 
+
+         Submission Status: to be published in Interacting with Computers, 8(1) March 1996 
+
+          
+
+         
+ 
+          
+
+         Inter-domain Service Management of Broadband Virtual Private Networks 
+ Lennart H. Bjerring , David Lewis , Ingi H. Thorarensen 
+          RN/96/7 
+
+          January 1996 
+
+         Keywords: VPN Service Management, Inter-Domain Management, TMN, Value Added Service 
+
+          Abstract: Abstract: administrative and technological domains. This paper presents a management 
+
+          Submission Status: Journal of Network and System Management- Special Issue on Service Management 
+
+          
+
+         
+ 
+          
+
+         Robust-Audio over the Internet: Analysis and Implementation 
+ 
+          RN/96/7 
+
+          
+
+         Submission Status: Journal of Network and System Management- Special Issue on Service Management 
+
+          
+
+         
+ 
+          V. Hardman 
+
+         Robust-Audio over the Internet: Analysis and Implementation 
+ V. Hardman , I. Kouvelas , M-A. Sasse , A. Watson 
+          RN/96/8 
+
+          February 1996 
+
+         Submission Status: Journal of Network and System Management- Special Issue on Service Management 
+
+          
+
+         
+ 
+          
+
+         The Joint Electronic Document Interchange Project (JEDI) 
+ 
+          RN/96/8 
+
+          
+
+         Submission Status: Journal of Network and System Management- Special Issue on Service Management 
+
+          
+
+         
+ 
+          G. Montasser-Khosari 
+
+         The Joint Electronic Document Interchange Project (JEDI) 
+ G. Montasser-Khosari , P. Kirstein , D. Houghton 
+          RN/96/9 
+
+          February 1996 
+
+         Submission Status: accepted by NetWorkshop'96 
+
+          
+
+         
+ 
+          
+
+         World Wide Web: Organising Cyberspace 
+ 
+          RN/96/9 
+
+          
+
+         Submission Status: accepted by NetWorkshop'96 
+
+          
+
+         
+ 
+          J. Crowcroft 
+
+         World Wide Web: Organising Cyberspace 
+ J. Crowcroft 
+          RN/96/10 
+
+          February 1996 
+
+         Book: The Tenth Annual Computers in Libraries International Conference, 
+
+          pages count: 183-199 
+
+          Submission Status: accepted by NetWorkshop'96 
+
+          
+
+         
+ 
+          
+
+         An Architecture for Argumentative Dialogue Planning 
+ C.A. Reed , D.P. Long , M. Fox 
+          RN/96/11 
+
+          February 1996 
+
+         Book: Proceedings of the First International Conference 
+
+          City: Berlin 
+
+          Issuer: Springer Verlag 
+
+          Pages: 13 
+
+          pages count: in~press 
+
+          Submission Status: accepted by NetWorkshop'96 
+
+          
+
+         
+ 
+          
+
+         An Architecture for Argumentative Agent 
+ C.A. Reed , D.P Long , M. Fox 
+          RN/96/12 
+
+          February 1996 
+
+         Pages: 13 
+
+          Submission Status: accepted by NetWorkshop'96 
+
+          
+
+         
+ 
+          
+
+         UCL Expereinces with Higher Speed Working 
+ P.T. Kirstein , D. Lewis , A. Hutton , M. Handley , P. Su 
+          RN/96/13 
+
+          February 1996 
+
+         Submission Status: JENC7'96, May 13-16 1996, Budapest, Hungary 
+
+          
+
+         
+ 
+          
+
+         Network Text (nt) - A Scalable Shared Text Editor for the Mbone 
+ 
+          RN/96/13 
+
+          
+
+         Submission Status: JENC7'96, May 13-16 1996, Budapest, Hungary 
+
+          
+
+         
+ 
+          M. Handley 
+
+         Network Text (nt) - A Scalable Shared Text Editor for the Mbone 
+ M. Handley 
+          RN/96/14 
+
+          February 1996 
+
+         Pages: 21 
+
+          Submission Status: JENC7'96, May 13-16 1996, Budapest, Hungary 
+
+          
+
+         
+ 
+          
+
+         Groupware Tools for Asynchronous Collaboration in Academic Sector 
+ R. Hazemi , S. Hailes , M. Pitsika , S. Wilbur 
+          RN/96/15 
+
+          February 1996 
+
+         Submission Status: to be published in Proc. of Networkshop 24, March 1996 
+
+          
+
+         
+ 
+          
+
+         The Application of the TINA Service Architecture to an IP-based Multimedia 
+ D. Lewis 
+          RN/96/16 
+
+          March 1996 
+
+         Keywords: Multimedia Conferencing, TINA Service Architecture, IETF, MMUSIC 
+
+          Pages: 13 
+
+          Abstract: Abstract: approaches taken by the distributed computing community, in particular exemplified by the TINA-Consortium, in the area of multimedia indicate how they could be resolved by presenting a design for multimedia 
+
+          Submission Status: to be published in Proc. of Networkshop 24, March 1996 
+
+          
+
+         
+ 
+          
+
+         Lip Synchronisation for Use Over the Internet: Analysis and Implementation 
+ 
+          RN/96/16 
+
+          
+
+         Submission Status: to be published in Proc. of Networkshop 24, March 1996 
+
+          
+
+         
+ 
+          I. Kouvelas 
+
+         Lip Synchronisation for Use Over the Internet: Analysis and Implementation 
+ I. Kouvelas , V. Hardman , A. Watson 
+          RN/96/17 
+
+          March 1996 
+
+         Book: Proc. Globecom96, 18-22 London, November 1996 
+
+          City: Los Alamitos, CA 
+
+          Issuer: IEEE 
+
+          pages count: 893-898 
+
+          Submission Status: to be published in Proc. of Networkshop 24, March 1996 
+
+          
+
+         
+ 
+          
+
+         Towards an Analysis of Minimaxing of Game Trees with Random Leaf Values 
+ M. Levene , T. Fenner 
+          RN/96/18 
+
+          March 1996 
+
+         Keywords: game tree, random minimaxing 
+
+          Pages: 21 
+
+          Abstract: Abstract: the depth of the lookahead is increased. gain an better understanding of the utility of the minimax procedure 
+
+          Submission Status: to be published in Proc. of Networkshop 24, March 1996 
+
+          
+
+         
+ 
+          
+
+         Towards an Analysis of Minimaxing of Game Trees with Random Leaf Values 
+ 
+          RN/96/18 
+
+          
+
+         Submission Status: to be published in Proc. of Networkshop 24, March 1996 
+
+          
+
+         
+ 
+          
+
+         PAC-like Upper Bounds for the Sample Complexity of Leave-One-Out 
+ S. Holden 
+          RN/96/19 
+
+          March 1996 
+
+         Submission Status: accepted by 9th Annual Conference on Computational Learning Theory, 1996 
+
+          
+
+         
+ 
+          
+
+         Applying Service Engineering Principles to TMN Systems 
+ D. Lewis , T. Tiropanis , R. Shi , A. Richter 
+          RN/96/20 
+
+          March 1996 
+
+         Book: Proc. TINA '96 Conference, The Convergence of telecommunications and 
+
+          City: Berlin 
+
+          Government Order Number: 3800722011 
+
+          Issuer: VDE-VERLAG GmbH 
+
+          Keywords: Service Management, TMN, TINA Service Architecture, Service Components 
+
+          Pages: 11 
+
+          pages count: 265-266 
+
+          Submission Status: accepted as extended abstract by TINA'96, Heidelberg 
+
+          
+
+         
+ 
+          
+
+         Morphic Search Strategies 
+ J. Kingdon , L. Dekker 
+          RN/96/21 
+
+          April 1996 
+
+         Book: 1996 IEEE International Conference on Evolutionary Computation (ICEC '96) 
+
+          City: New Jersey 
+
+          Issuer: IEEE] 
+
+          Keywords: search techniques, optimisation, hill-climbing, genetic algorithms 
+
+          Pages: 5 
+
+          pages count: 837-841 
+
+          Abstract: Abstract: the IEEE First International Contest on Evolutionary Optimisation. 
+
+          Submission Status: accepted as extended abstract by TINA'96, Heidelberg 
+
+          
+
+         
+ 
+          
+
+         Building a Model of Computer-Based Systems Development: Testing Elements 
+ R. Winder , P. Wernick 
+          RN/96/22 
+
+          April 1996 
+
+         Book: Information System Methodologies 1996: Proceedings of the Fourth 
+
+          Ed: Brian Fitzgerald et al 
+
+          Issuer: BCS Information Systems Methodologies Specialist Group/UK Systems Society Conference 
+
+          Pages: 12 
+
+          Submission Status: accepted as extended abstract by TINA'96, Heidelberg 
+
+          
+
+         
+ 
+          
+
+         Addessing the Problem of Stategy Formulation Through the Use of SSM 
+ I.Ismail , R. Winder 
+          RN/96/23 
+
+          April 1996 
+
+         Keywords: strategy formulation, information systmes planning, soft systems 
+
+          Pages: 10 
+
+          Submission Status: submitted to British Computer Society Specialist Group Conference on 
+
+          
+
+         
+ 
+          
+
+         Intelligent Hybrid Systems: Issues, Classification and Development Cycle 
+ S. Khebbal , S. Goonatilake , P. Treleavan 
+          RN/96/24 
+
+          April 1996 
+
+         Pages: 4 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to British Computer Society Specialist Group Conference on 
+
+          
+
+         
+ 
+          
+
+         Parallelizing Vision-related applications on Network of Workstations using Design Patterns 
+ 
+          RN/96/24 
+
+          
+
+         Submission Status: submitted to British Computer Society Specialist Group Conference on 
+
+          
+
+         
+ 
+          Sanjay S. Kadam 
+
+         Parallelizing Vision-related applications on Network of Workstations using Design Patterns 
+ Sanjay S. Kadam , Graham Roberts , Bernard Buxton 
+          RN/96/25 
+
+          April 1996 
+
+         Submission Status: submitted to Ninth International Conference on Parallel and Distributed 
+
+          
+
+         
+ 
+          
+
+         Secure management information exchange 
+ Saleem N. Bhatti , Kevin M. T. McCarthy , Graham Knight , George Pavlou 
+          RN/96/26 
+
+          April 1996 
+
+         Journal: Journal of Network and Systems Management 
+
+          Keywords: network security, network management, distributed systems management 
+
+          Volume: 3 
+
+          pages count: 251-257 
+
+          Vol: 4 
+
+          Submission Status: submitted to Ninth International Conference on Parallel and Distributed 
+
+          
+
+         
+ 
+          
+
+         Integrating Rule-based and Case-based Reasoning in Legal Decision-making 
+ K. Pal , J.A. Campbell 
+          RN/96/27 
+
+          April 1996 
+
+         Book: Proc. Fourth German Workshop on Case-based Reasoning - System Development 
+
+          Ed: H. Burkhard M. Lenz 
+
+          Issuer: CS Department Humboldt University 
+
+          Pages: 8 
+
+          pages count: 136-143 
+
+          Submission Status: submitted to Ninth International Conference on Parallel and Distributed 
+
+          
+
+         
+ 
+          
+
+         Suitability of Reasoning Methods in a Hybrid System 
+ K. Pal , J.A. Campbell 
+          RN/96/28 
+
+          April 1996 
+
+         Book: Proc. of the Second UK Case-Based Reasoning Workshop, Salford 
+
+          Ed: I. Watson 
+
+          Issuer: Salford University Press 
+
+          Pages: 12 
+
+          pages count: 31-43 
+
+          Submission Status: submitted to Ninth International Conference on Parallel and Distributed 
+
+          
+
+         
+ 
+          
+
+         Rapid Application Generation and the HANSA Project 
+ C. Sharpington , S. Khebbal 
+          RN/96/29 
+
+          April 1996 
+
+         Book: Rapid Application Generation of Business and Finance Software 
+
+          Ed: S. Khebbal Chris Sharpington 
+
+          Issuer: Kluwer Academic Publishers 
+
+          pages count: 1-8 
+
+          Submission Status: submitted to Ninth International Conference on Parallel and Distributed 
+
+          
+
+         
+ 
+          
+
+         The HANSA Toolkit and the MIMENICE Tool 
+ E. LeSaint , S. Khebbal 
+          RN/96/30 
+
+          
+
+         Book: Rapid Application Generation of Business and Finance Software 
+
+          Ed: S. Khebbal C. Sharpington 
+
+          Issuer: Kluwer Academic Publishers 
+
+          pages count: 27-41 
+
+          Submission Status: submitted to Ninth International Conference on Parallel and Distributed 
+
+          
+
+         
+ 
+          
+
+         Survey of Object-Oriented Integration Methods 
+ S. Khebbal , J. Ladipo 
+          RN/96/31 
+
+          April 1996 
+
+         Book: Rapid Application Generation of Business and Finance Software 
+
+          Ed: S. Khebbal C. Sharpington 
+
+          Issuer: Kluwer Academic Publishers 
+
+          pages count: 45-80 
+
+          Submission Status: submitted to Ninth International Conference on Parallel and Distributed 
+
+          
+
+         
+ 
+          
+
+         Evaluating the HANSA Framework 
+ S. Khebbal , J. Ladipo 
+          RN/96/32 
+
+          April 1996 
+
+         Book: Rapid Application Generation of Business and Finance Software 
+
+          Ed: S. Khebbal C. Sharpington 
+
+          Issuer: Kluwer Academic Publishers 
+
+          pages count: 183-198 
+
+          Submission Status: submitted to Ninth International Conference on Parallel and Distributed 
+
+          
+
+         
+ 
+          
+
+         Conclusions and Future Directions 
+ C. Sharpington , S. Khebbal 
+          RN/96/33 
+
+          April 1996 
+
+         Book: Rapid Application Generation of Business and Finance Software 
+
+          Ed: S. Khebbal C. Sharpington 
+
+          Issuer: Kluwer Academic Publishers 
+
+          pages count: 199-205 
+
+          Submission Status: submitted to Ninth International Conference on Parallel and Distributed 
+
+          
+
+         
+ 
+          
+
+         Collaborative Writing with Synchronous and Asynchronous Support 
+ M.A. Sasse , M. Handley 
+          RN/96/34 
+
+          May 1996 
+
+         Book: Groupware and Authoring 
+
+          Ed: R. Rada 
+
+          Government Order Number: 0125750056 
+
+          Issuer: Academic Press 
+
+          pages count: 205-218 
+
+          Submission Status: submitted to Ninth International Conference on Parallel and Distributed 
+
+          
+
+         
+ 
+          Ismail Ismail 
+
+         Addressing the Problem of Strategy Formulation through the use of SSM 
+ Ismail Ismail , Russel Winder 
+          RN/96/35 
+
+          May 1996 
+
+         Keywords: Strategy Formulation, Information Systems Planning, Soft Systems 
+
+          Pages: 10 
+
+          Abstract: Abstract: information technology as a potential source of competitive advantage. The strategy formulation is identified as addressed through the utilisation of 
+
+          Submission Status: British Computer Society SG Conference on Information Systems 
+
+          
+
+         
+ 
+          
+
+         Incorporating End-Users into the Strategic Planning of Information Systems 
+ Ismail Ismail , Russel Winder 
+          RN/96/36 
+
+          May 1996 
+
+         Keywords: Strategic Information Systems Planning, End-Users, Soft Systems 
+
+          Pages: 12 
+
+          Abstract: Abstract: IT, in both public and private sectors, and the gradual alignment of global an IS, moreover, the importance of end-user participation in the planning an IS is recommended through the use of the Soft Systems Methodology. 
+
+          Submission Status: Participatory Design - 4th Biennial Conference, Cambridge, Massachusetts. 
+
+          
+
+         
+ 
+          
+
+         Interactive Pollution Mapping on the Internet: Making sense of information 
+ J.T. McDonnell , S. Pipes 
+          RN/96/37 
+
+          May 1996 
+
+         Keywords: environmental information, world wide web, pollution data, 
+
+          Abstract: Abstract: database and communication technologies, can be used to present information the daily increasing audience who have access to the Internet. The an understandable form is presented to illustrate the argument. 
+
+          Submission Status: Proceedings of the 10th International Conference of Women Engineers and 
+
+          
+
+         
+ 
+          
+
+         Advancd Technology Support for Information Management at Friends of 
+ C.D. Clack , S.J. Gould , P.R. Lidwell , J.T. McDonnell 
+          RN/96/38 
+
+          May 1996 
+
+         Book: Proceedings of Technology Transfer and Innovation Conference, 
+
+          Abstract: Abstract: advanced technology to enhance information management in a medium sized 
+
+          Submission Status: Proceedings of the 10th International Conference of Women Engineers and 
+
+          
+
+         
+ 
+          
+
+         Evaluating Audio and Video Quality in Multimedia Conferencing Systems 
+ Anna Watson , Martina Angela Sasse 
+          RN/96/39 
+
+          May 1996 
+
+         Keywords: Multimedia conferencing, internet conferencing, audio quality, video 
+
+          Pages: 11 
+
+          Abstract: Abstract: 
+
+          Submission Status: Interacting with Computers 
+
+          
+
+         
+ 
+          
+
+         Obtaining Multiple Distinct Solutions with Genetic Algorithm Niching Methods 
+ 
+          RN/96/39 
+
+          
+
+         Submission Status: Interacting with Computers 
+
+          
+
+         
+ 
+          Alasdair Turner 
+
+         Obtaining Multiple Distinct Solutions with Genetic Algorithm Niching Methods 
+ Alasdair Turner , David Corne (Reading) , Graeme Ritchie (Edinburgh) , Peter Ross (Edinburgh) 
+          RN/96/40 
+
+          May 1996 
+
+         Keywords: Genetic Algorithm Niche Tribes Deme Multimodal 
+
+          Pages: 10 
+
+          Abstract: Abstract: 
+
+          Submission Status: accepted for Parallel Problem Solving from Nature IV(PPSN4) published September'96 
+
+          
+
+         
+ 
+          
+
+         Resolving Design as Reflective Exploratio nwith Formal Descriptions of the 
+ J.T. McDonnell 
+          RN/96/41 
+
+          May 1996 
+
+         Abstract: Abstract: conceiving and evaluating possible design solutions and the process of which descriptions of some aspects of design situations can be understood paths through such an SGN are illustrated using further examples from the 
+
+          Submission Status: Proceedings of the First International Symposium on 
+
+          
+
+         
+ 
+          
+
+         A Hybrid BTC/ADCT Video Codec Simulation Bench 
+ 
+          RN/96/41 
+
+          
+
+         Submission Status: Proceedings of the First International Symposium on 
+
+          
+
+         
+ 
+          S. Horbelt 
+
+         A Hybrid BTC/ADCT Video Codec Simulation Bench 
+ S. Horbelt , J. Crowcroft 
+          RN/96/42 
+
+          June 1996 
+
+         Book: Proc. 7th International Workshop on Packet Video, Brisbane, Australia, 
+
+          City: Australia 
+
+          Government Order Number: 0732606543 
+
+          Issuer: Telstra 
+
+          pages count: 77-81 
+
+          Submission Status: Proceedings of the First International Symposium on 
+
+          
+
+         
+ 
+          
+
+         Some Lessons Learned from ALF and ILP Applications 
+ 
+          RN/96/42 
+
+          
+
+         Submission Status: Proceedings of the First International Symposium on 
+
+          
+
+         
+ 
+          A. Ghosh 
+
+         Some Lessons Learned from ALF and ILP Applications 
+ A. Ghosh , J. Crowcroft 
+          RN/96/43 
+
+          June 1996 
+
+         Journal: The Australian Computer Journal 
+
+          Volume: 2 
+
+          pages count: 42-47 
+
+          Vol: 28 
+
+          Submission Status: Proceedings of the First International Symposium on 
+
+          
+
+         
+ 
+          
+
+         Overcoming Workstation Scheduling Problems in a Real-Time Audio Tool 
+ 
+          RN/96/43 
+
+          
+
+         Submission Status: Proceedings of the First International Symposium on 
+
+          
+
+         
+ 
+          I. Kouvelas 
+
+         Overcoming Workstation Scheduling Problems in a Real-Time Audio Tool 
+ I. Kouvelas , V. Hardman 
+          RN/96/44 
+
+          June 1996 
+
+         Submission Status: to be presented at Usenix'97, Anaheim, CA 
+
+          
+
+         
+ 
+          
+
+         An Adaptive Document Classification Agent 
+ 
+          RN/96/44 
+
+          
+
+         Submission Status: to be presented at Usenix'97, Anaheim, CA 
+
+          
+
+         
+ 
+          C. Clack 
+
+         An Adaptive Document Classification Agent 
+ C. Clack , J. Farringdon , P. Lidwell , T. Yu 
+          RN/96/45 
+
+          June 1996 
+
+         Submission Status: submitted to BCS ES'96, December 1996, Cambridge 
+
+          
+
+         
+ 
+          
+
+         Using Canny's Criteria to Evolve Edge Detectors by Means of Genetic 
+ Christopher Harris , Bernard Buxton 
+          RN/96/46 
+
+          June 1996 
+
+         Keywords: Genetic Programming, Edge Detection, Canny 
+
+          Pages: 10 
+
+          Submission Status: submitted to BCS ES'96, December 1996, Cambridge 
+
+          
+
+         
+ 
+          
+
+         A Modular pRAM Architecture for the Classsification of TESPAR-Encoded 
+ D. Gorse , D. Romano-Critchley , J. Taylor 
+          RN/96/47 
+
+          June 1996 
+
+         Journal: Neural Network World 
+
+          Volume: 3 
+
+          pages count: 299-304 
+
+          Vol: 6 
+
+          Submission Status: submitted to BCS ES'96, December 1996, Cambridge 
+
+          
+
+         
+ 
+          
+
+         Binary state machines for arithmetic operations on pulse-coded signals 
+ Denise Gorse 
+          RN/96/48 
+
+          June 1996 
+
+         Book: Proc. ICONIP'96, Hong Kong, September 1996 
+
+          Keywords: Stochastic automata, pulse-stream computation 
+
+          Pages: 4 
+
+          pages count: 563-566 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to BCS ES'96, December 1996, Cambridge 
+
+          
+
+         
+ 
+          
+
+         Scheduling Maintenance of Electricity Transmission Networks using 
+ W. Langdon 
+          RN/96/49 
+
+          June 1996 
+
+         Submission Status: submitted to BCS ES'96, December 1996, Cambridge 
+
+          
+
+         
+ 
+          
+
+         The Internet: A Tutorial 
+ J. Crowcroft 
+          RN/96/50 
+
+          July 1996 
+
+         Journal: Electronics and Communication Engineering Journal 
+
+          Volume: 3 
+
+          pages count: 113-122 
+
+          Vol: 8 
+
+          Submission Status: submitted to BCS ES'96, December 1996, Cambridge 
+
+          
+
+         
+ 
+          
+
+         Low-cost Multi-way Distance Learning 
+ V. Hardman 
+          RN/96/51 
+
+          July 1996 
+
+         Submission Status: to appear in Proceedings of Coseners Networkshop '96 
+
+          
+
+         
+ 
+          
+
+         Enhanced Reality Audio in Interactive Networked Environments 
+ V. Hardman , M. Iken 
+          RN/96/52 
+
+          July 1996 
+
+         Submission Status: to appear in Proceedings of Coseners Networkshop '96 
+
+          
+
+         
+ 
+          
+
+         Justification for Inclusion Dependency Normal Form 
+ M. Levene , M. Vincent 
+          RN/96/53 
+
+          July 1996 
+
+         Keywords: 
+
+          Pages: 
+
+          Submission Status: to appear in Proceedings of Coseners Networkshop '96 
+
+          
+
+         
+ 
+          
+
+         Autonomous Document Classification for Business 
+ C. Clack , J. Farringdon , P. Lidwell , T. Yu 
+          RN/96/54 
+
+          
+
+         City: New York, NY 
+
+          Issuer: ACM Press 
+
+          pages count: to~appear 
+
+          Submission Status: Proc. First International Conference on Autonomous Agents (Agents '97) 
+
+          
+
+         
+ 
+          
+
+         Explicit Rate Marking in ATM ABR Service and its Use in Explicit 
+ Q. Li , Z. Wang 
+          RN/96/55 
+
+          July 1996 
+
+         Book: Proceedings of Fourth IFIP Workshop on Performance Modelling 
+
+          City: Bradford 
+
+          Ed: Demetres Kouvatsos 
+
+          Issuer: Department of Computing, University of Bradford, UK 
+
+          Submission Status: Proc. First International Conference on Autonomous Agents (Agents '97) 
+
+          
+
+         
+ 
+          
+
+         Prefetching in World Wide Web 
+ Z. Wang , J. Crowcroft 
+          RN/96/56 
+
+          July 1996 
+
+         Submission Status: Proc. First International Conference on Autonomous Agents (Agents '97) 
+
+          
+
+         
+ 
+          
+
+         MMD: Multicast Mail Delivery 
+ A. Ghosh , Z. Wang , J. Crowcroft 
+          RN/96/57 
+
+          July 1996 
+
+         Submission Status: Proc. First International Conference on Autonomous Agents (Agents '97) 
+
+          
+
+         
+ 
+          
+
+         A Web Computer 
+ J. Farringdon 
+          RN/96/58 
+
+          July 1996 
+
+         Keywords: parallel distributed WWW, World Wide Web 
+
+          Submission Status: Proc. First International Conference on Autonomous Agents (Agents '97) 
+
+          
+
+         
+ 
+          
+
+         The Impact of the Development Context on the Implementation of RAD 
+ D. Fulton , M-A. Sasse 
+          RN/96/59 
+
+          July 1996 
+
+         Book: Proc. `Lessons Learnt from the Use of Methodologies' 
+
+          pages count: 395-406 
+
+          Submission Status: Proc. First International Conference on Autonomous Agents (Agents '97) 
+
+          
+
+         
+ 
+          
+
+         Successful Multi-party Audio Communication over the Internet 
+ V. Hardman , M-A. Sasse , I. Kouvelas 
+          RN/96/60 
+
+          August 1996 
+
+         pages count: to~appear 
+
+          Submission Status: accepted by Communications of the ACM Journal 
+
+          
+
+         
+ 
+          
+
+         Knowledge Interpolation: A New Approach To Rapid Symbolic Reasoning 
+ N. Chatterjee , J. Campbell 
+          RN/96/61 
+
+          August 1996 
+
+         Book: Proc. INTERNATIONAL CONFERENCE ON KNOWLEDGE BASED COMPUTER SYSTEMS 
+
+          Issuer: Narosa Publishing House 
+
+          Pages: 9 
+
+          pages count: 67-78 
+
+          Abstract: Abstract: 
+
+          Submission Status: accepted by Communications of the ACM Journal 
+
+          
+
+         
+ 
+          
+
+         Multimedia Fabric Libraries For The Clothing Industry 
+ S. Phillips , J. Farringdon 
+          RN/96/61 
+
+          September 1996 
+
+         Submission Status: presented at a conference held at the London College of 
+
+          
+
+         
+ 
+          
+
+         Multimedia Fabric Libraries For The Clothing Industry 
+ 
+          RN/96/61 
+
+          
+
+         Submission Status: presented at a conference held at the London College of 
+
+          
+
+         
+ 
+          
+
+         Introducing CLOVER: an Object-Oriented Functional Language 
+ C. Clack , L. Braine 
+          RN/96/62 
+
+          September 1996 
+
+         Book: Proc. IFL'96 Implementation of Functional Languages 1996 
+
+          City: Berlin 
+
+          Issuer: Springer-Verlag 
+
+          pages count: to~appear 
+
+          Series: LNCS 
+
+          Submission Status: presented at a conference held at the London College of 
+
+          
+
+         
+ 
+          
+
+         Multi-Spectral Probabilistic Diffusion Using Unsupervised Clustering 
+ S. Arridge , A. Simmons 
+          RN/96/63 
+
+          July 1996 
+
+         Pages: 29 
+
+          Abstract: Abstract: method is illustrated on both simulated and clinically acquired Magnetic Reso 
+
+          Submission Status: presented at a conference held at the London College of 
+
+          
+
+         
+ 
+          
+
+         Cross-Validation and the PAC Learning Model 
+ S. Holden 
+          RN/96/64 
+
+          September 1996 
+
+         Submission Status: presented at a conference held at the London College of 
+
+          
+
+         
+ 
+          
+
+         Modelling Service Management Systems for the Open Services Market 
+ David Lewis 
+          RN/96/65 
+
+          September 1996 
+
+         Keywords: Service Management, Open Distributed Systems, Object-oriented Development 
+
+          Abstract: Abstract: the definition of interfaces for management systems, its clear. This paper examines some of the approaches applicable management system development from the 
+
+          Submission Status: submitted to Journal of Systems and Network Management 
+
+          
+
+         
+ 
+          
+
+         A Service Engineering Approach to Inter-domain TMN Systems Development 
+ David Lewis , Thanassis Tiropanis , Rong Shi , Alexander Richter 
+          RN/96/66 
+
+          September 1996 
+
+         Book: Proc. of the fifth IFIP/IEEE International Symposium on Integrated 
+
+          City: London 
+
+          Government Order Number: 0412809605 
+
+          Issuer: Chapman-Hall 
+
+          Keywords: Service Engineering, Distributed Processing Environment, 
+
+          pages count: 165-171 
+
+          Abstract: Abstract: address the needs of large corporate data networks and monolithic public 
+
+          Submission Status: submitted to Journal of Systems and Network Management 
+
+          
+
+         
+ 
+          
+
+         Designing end-to-end inter-domain management systems for 
+ Vincent Wade , Dave Lewis , Jane Hall , Dave Hayes 
+          RN/96/67 
+
+          September 1996 
+
+         Keywords: Telecommunication Service Management, Inter-Domain 
+
+          Pages: 12 
+
+          Abstract: Abstract: develop management systems which co-operate across different service the modelling and development of end-to-end service management 
+
+          Submission Status: submitted to Journal of Systems and Network Management 
+
+          
+
+         
+ 
+          
+
+         Accurate Parallel Form Filter Synthesis 
+ 
+          RN/96/67 
+
+          
+
+         Submission Status: submitted to Journal of Systems and Network Management 
+
+          
+
+         
+ 
+          M. Price 
+
+         Accurate Parallel Form Filter Synthesis 
+ M. Price , S. Holden , M. Sandler 
+          RN/96/68 
+
+          September 1996 
+
+         Submission Status: submitted to Electronics Letters 
+
+          
+
+         
+ 
+          
+
+         Ascribing Intensional Ontologies in Anthropologically-Based Cultural 
+ R. Bordini , J.A. Campbell , R. Vieira 
+          RN/96/69 
+
+          September 1996 
+
+         Book: Second International Conference on Multi-Agent Systems (ICMAS'96), Kyoto, 
+
+          Submission Status: poster to be published as extended abstract 
+
+          
+
+         
+ 
+          
+
+         One Perspective on the Future of IP Multicast 
+ A. Ballardie , K. Carlberg 
+          RN/96/70 
+
+          September 1996 
+
+         Submission Status: submitted to IEEE Computer - Special Issue Internet 2001 
+
+          
+
+         
+ 
+          
+
+         Core Based Tree (CBT) Multicast 
+ A. Ballardie 
+          RN/96/71 
+
+          September 1996 
+
+         Submission Status: submitted to IEEE Transactions on Networking 
+
+          
+
+         
+ 
+          
+
+         OSQL: An Extension to SQL to Manipulate Ordered Relational Databases 
+ W. Ng , M. Levene 
+          RN/96/72 
+
+          September 1996 
+
+         Book: Proc. 3rd International Workshop on Next Generation Information 
+
+          pages count: to~appear 
+
+          Submission Status: submitted to IEEE Transactions on Networking 
+
+          
+
+         
+ 
+          
+
+         Making the Most of Your Colour 
+ D. Alexander 
+          RN/96/73 
+
+          September 1996 
+
+         Book: Proc. RECPAD'96 The Portuguese Conference on Pattern Recognition, 21-22 
+
+          Submission Status: submitted to IEEE Transactions on Networking 
+
+          
+
+         
+ 
+          
+
+         Physically Based Statistical Colour Models 
+ D. Alexander 
+          RN/96/74 
+
+          September 1996 
+
+         Book: Proc. RECPAD'96 The Portuguese Conference on Pattern recognition, 21-22 
+
+          pages count: 351-358 
+
+          Submission Status: submitted to IEEE Transactions on Networking 
+
+          
+
+         
+ 
+          
+
+         A Case-Based model that Integrates Specific and General Knowledge in 
+ J.A. Campbell , E. Reatgui , B. Leao 
+          RN/96/75 
+
+          September 1996 
+
+         Journal: Applied Intelligence 
+
+          pages count: in~press 
+
+          Vol: in~press 
+
+          Submission Status: submitted to IEEE Transactions on Networking 
+
+          
+
+         
+ 
+          
+
+         Internet Multimedia Conferencing 
+ M. Handley , J. Crowcroft 
+          RN/96/76 
+
+          September 1996 
+
+         Book: Proc. NetWorkshop 24, Universoty of Sussex, 26-28 March 1996 
+
+          City: Didcot 
+
+          Issuer: UKERNA 
+
+          pages count: 11/1-13 
+
+          Submission Status: submitted to IEEE Transactions on Networking 
+
+          
+
+         
+ 
+          
+
+         Multimedia Conferencing for Remote Language Teaching over SuperJANET 
+ E. Matthews , A. Watson , J. Buckett , T. Watson 
+          RN/96/77 
+
+          September 1996 
+
+         Journal: Computer Assisted Language Learning 
+
+          Volume: 2-3 
+
+          pages count: 99-105 
+
+          Vol: 9 
+
+          Submission Status: submitted to IEEE Transactions on Networking 
+
+          
+
+         
+ 
+          
+
+         Hierarchical shape description of MR brain images based on active contour 
+ J.A. Schnabel , S.R. Arridge 
+          RN/96/78 
+
+          September 1996 
+
+         Book: Image Fusion and Shape Variability Techniques, 16th Leeds 
+
+          City: Leeds 
+
+          Ed: K.V. Mardia C.A. Gill I.L. Dryden 
+
+          Issuer: Leeds University Press 
+
+          pages count: 36-43 
+
+          Submission Status: submitted to IEEE Transactions on Networking 
+
+          
+
+         
+ 
+          
+
+         A multi-scale shape description tool for 3D MR brain images 
+ J.A. Schnabel , S.R. Arridge 
+          RN/96/79 
+
+          September 1996 
+
+         Book: Computer Assisted Radiology CAR'96 
+
+          City: The Netherlands 
+
+          Ed: H.U. Lemke M.W. Vannier K. Inamura A.G. Farman 
+
+          Issuer: Elsevier Publishers 
+
+          pages count: 292-297 
+
+          Submission Status: submitted to IEEE Transactions on Networking 
+
+          
+
+         
+ 
+          
+
+         Shape description of spinal cord atrophy in MS patients 
+ J.A. Schnabel , L. Wang , S.R. Arridge 
+          RN/96/80 
+
+          September 1996 
+
+         Book: Computer Assisted Radiology CAR'96 
+
+          City: The Netherlands 
+
+          Ed: H.U. Lemke M.W. Vannier K. Inamura A.G. Farman 
+
+          Issuer: Elsevier Publishers 
+
+          pages count: 286-291 
+
+          Submission Status: submitted to IEEE Transactions on Networking 
+
+          
+
+         
+ 
+          
+
+         Multiscale shape description of MR brain images using active contour 
+ J.A. Schnabel , S.R. Arridge 
+          RN/96/81 
+
+          September 1996 
+
+         Book: Medical Imaging 1996: Image Processing, volume Proc SPIE 2710 
+
+          Ed: M.H. Loew K.M. Hanson 
+
+          pages count: 596-606 
+
+          Submission Status: submitted to IEEE Transactions on Networking 
+
+          
+
+         
+ 
+          
+
+         Simulation of MRI Cluster Plots and Application to 
+ A. Simmons , Arridge, S.R. , G.J. Barker , Williams S.C.R. 
+          RN/96/82 
+
+          September 1996 
+
+         Journal: Magnetic Resonance Imaging 
+
+          Volume: 1 
+
+          pages count: 73-92 
+
+          Vol: 14 
+
+          Submission Status: submitted to IEEE Transactions on Networking 
+
+          
+
+         
+ 
+          
+
+         Analysis of light propogation in inhomogeneous turbid media by 
+ Okada, E. , Firbank, M. , Schweiger, M. , Arridge, S.R. , Delpy, D.T. 
+          RN/96/83 
+
+          September 1996 
+
+         Journal: Japanese Journal of Optics 
+
+          Volume: 1 
+
+          pages count: 33-41 
+
+          Vol: 25 
+
+          Submission Status: submitted to IEEE Transactions on Networking 
+
+          
+
+         
+ 
+          
+
+         Experimental of Monte Carlo and Finite Element Methods for the 
+ Okada, E. , Schweiger, M. , Arridge, S.R. , Firbank, M. , Delpy, D.T. 
+          RN/96/84 
+
+          September 1996 
+
+         Journal: Applied Optics 
+
+          Volume: 19 
+
+          pages count: 3362-3371 
+
+          Vol: 35 
+
+          Submission Status: submitted to IEEE Transactions on Networking 
+
+          
+
+         
+ 
+          
+
+         Improvement to separability of clusters using multi-spectral anisotropic 
+ S.R. Arridge , A. Simmons 
+          RN/96/85 
+
+          September 1996 
+
+         Book: Proc. of the Society of Magnetic Resonance in Medicine XV, New York, 
+
+          pages count: 1626n 
+
+          Submission Status: abstact only 
+
+          
+
+         
+ 
+          
+
+         Quantitative evaluation of registration algorithms 
+ H. Lester , S.R. Arridge 
+          Rn/96/86 
+
+          September 1996 
+
+         Book: Proc. of the Society of Magnetic Resonance in Medicine XV, New York, 
+
+          pages count: 1615 
+
+          Submission Status: abstract only 
+
+          
+
+         
+ 
+          
+
+         Technologies for Telecommunications Management Systems 
+ G. Pavlou 
+          RN/96/87 
+
+          October 1996 
+
+         Book: Bringing Telecommunications Services to the People - IS&N'95 
+
+          City: Berlin 
+
+          Ed: A. Clarke M. Campolargo N. Karatzas 
+
+          Government Order Number: 3540604790 
+
+          Issuer: Springer Verlag 
+
+          Pages: 2 
+
+          pages count: 132-133 
+
+          Abstract: Abstract: 
+
+          Submission Status: abstract only 
+
+          
+
+         
+ 
+          
+
+         Technologies for Telecommunications Management Systems 
+ 
+          RN/96/87 
+
+          
+
+         Submission Status: abstract only 
+
+          
+
+         
+ 
+          
+
+         Technologies for Telecommunications Management Systems 
+ 
+          RN/96/87 
+
+          
+
+         Submission Status: abstract only 
+
+          
+
+         
+ 
+          
+
+         Technologies for Telecommunications Management Systems 
+ very important parallel standardisation activity relates to Intelligent 
+          RN/96/87 
+
+          
+
+         Submission Status: abstract only 
+
+          
+
+         
+ 
+          
+
+         Technologies for Telecommunications Management Systems 
+ 
+          RN/96/87 
+
+          
+
+         Submission Status: abstract only 
+
+          
+
+         
+ 
+          
+
+         Issues in the Integration of IN and TMN 
+ G. Pavlou , D. Griffin 
+          RN/96/88 
+
+          October 1996 
+
+         Book: Bringing Telecommunications Services to the People - IS&N'95 
+
+          City: Berlin 
+
+          Ed: A. Clarke M. Campolargo N. Karatzas 
+
+          Government Order Number: 3540604790 
+
+          Issuer: Springer Verlag 
+
+          Keywords: Control, Management, Service, IN, TMN, TINA, OSI, ODP 
+
+          Pages: 14 
+
+          pages count: 12-25 
+
+          Abstract: Abstract: operation in the control and management planes. It considers the use the TMN to manage or even replace the IN and discusses issues 
+
+          Submission Status: abstract only 
+
+          
+
+         
+ 
+          
+
+         Intelligent Remote Monitoring 
+ G. Pavlou , K. McCarthy , G. Mykoniatis , J. Sanchez 
+          RN/96/89 
+
+          October 1996 
+
+         Book: Bringing Telecommunications Services to the People - IS&N'95 
+
+          City: Berlin 
+
+          Ed: A. Clarke M. Campolargo N. Karatzas 
+
+          Government Order Number: 3540604790 
+
+          Issuer: Springer Verlag 
+
+          Keywords: Management, Monitoring, OSI, TMN, GDMO, CORBA 
+
+          Pages: 15 
+
+          pages count: 430-444 
+
+          Abstract: Abstract: hand. The OSI management metric monitoring and summarisation management 
+
+          Submission Status: abstract only 
+
+          
+
+         
+ 
+          
+
+         Distributed Intelligent Remote Monitoring and Reporting Facilities 
+ G. Pavlou , G. Mykoniatis , J. Sanchez 
+          RN/96/90 
+
+          October 1996 
+
+         Book: IEE Distributed Systems Engineering Journal Special Issue on Management 
+
+          City: UK 
+
+          Ed: J. Moffett J. Magee 
+
+          Issuer: IOP Publishing 
+
+          Keywords: Management, Monitoring, Reporting, OSI, TMN, ODP 
+
+          Pages: 12 
+
+          pages count: vol. 3, issue 2, pp. 124-135 
+
+          Abstract: Abstract: security issues and the applicability of the model in 
+
+          Submission Status: abstract only 
+
+          
+
+         
+ 
+          
+
+         A CMIS-capable Scripting Language and Associated Lightweight Protocol 
+ G. Pavlou , T. Tin 
+          RN/96/91 
+
+          October 1996 
+
+         Book: IEEE Communications Special Issue on Making TMN a Reality 
+
+          City: New York 
+
+          Ed: R. Glitho S. Hayes 
+
+          Issuer: IEEE Press 
+
+          Pages: 6 
+
+          pages count: 82-87 
+
+          Abstract: Abstract: the market have reached a level of maturity, blending naturally Europe to verify the TMN concepts, study their applicability and provide the OSI Management Information Service (OSIMIS) object-oriented platform 
+
+          Submission Status: abstract only 
+
+          
+
+         
+ 
+          
+
+         A CMIS-capable Scripting Language and Associated Lightweight Protocol 
+ 
+          RN/96/91 
+
+          
+
+         Submission Status: abstract only 
+
+          
+
+         
+ 
+          
+
+         A CMIS-capable Scripting Language and Associated Lightweight Protocol 
+ 
+          RN/96/91 
+
+          
+
+         Submission Status: abstract only 
+
+          
+
+         
+ 
+          
+
+         A CMIS-capable Scripting Language and Associated Lightweight Protocol 
+ 
+          RN/96/91 
+
+          
+
+         Submission Status: abstract only 
+
+          
+
+         
+ 
+          
+
+         An Evolutionary Approach Towards the Future Integration of IN and TMN 
+ G. Pavlou , D. Griffin 
+          RN/96/92 
+
+          October 1996 
+
+         Book: Proceedings of the EUNICE'96 Summer School on Telecommunications Services, September 1996, Lausanne, Switzerland 
+
+          Keywords: Control, Management, Service, IN, TMN, TINA, OSI, ODP 
+
+          pages count: 3/53-64 
+
+          Abstract: Abstract: an integrated fashion. Target, long term architectures such as TINA 
+
+          Submission Status: abstract only 
+
+          
+
+         
+ 
+          
+
+         Active Objects in TMN 
+ Anastasia Vassila , George Pavlou , Graham Knight 
+          RN/96/93 
+
+          October 1996 
+
+         Keywords: TMN, OSI Management, Active Managed Objects 
+
+          Abstract: Abstract: rather passive Managed Objects (MOs) with pre-specified behaviour. There 
+
+          Submission Status: submitted to IFIP/IEEE ISINM'97, March 1997, San Diego, USA 
+
+          
+
+         
+ 
+          
+
+         The Influence of Shadows on Presence in Immersive Virtual Environments 
+ M. Slater , M. Usoh , Y. Chrysanthou 
+          RN/96/94 
+
+          October 1996 
+
+         Book: Virtual Environments '95 
+
+          Ed: M. Goebel 
+
+          Government Order Number: ISSN 0946-2767 
+
+          Issuer: Springer Computer Science 
+
+          pages count: 8-21 
+
+          Submission Status: submitted to IFIP/IEEE ISINM'97, March 1997, San Diego, USA 
+
+          
+
+         
+ 
+          
+
+         The Influence of Shadows on Presence in Immersive Virtual Environments 
+ M. Usoh 
+          RN/96/94 
+
+          
+
+         Submission Status: submitted to IFIP/IEEE ISINM'97, March 1997, San Diego, USA 
+
+          
+
+         
+ 
+          
+
+         Collaborative Geometric Modelling in Immersive Virtual Environments 
+ M. Slater , T.I. Vassilev 
+          RN/96/95 
+
+          October 1996 
+
+         Book: Proc. Virtual Environments and Scientific Visualisation '96 
+
+          Ed: M. Goebel P. Slavik J.J. van Wijk 
+
+          Government Order Number: ISSN 0946-2767 
+
+          Issuer: Springer Computer Science 
+
+          pages count: 111-120 
+
+          Submission Status: submitted to IFIP/IEEE ISINM'97, March 1997, San Diego, USA 
+
+          
+
+         
+ 
+          
+
+         Distributed Extensible Virtual Reality Laboratory (DEVRL) 
+ M. Slater , M. Usoh , S. Benford , D. Snowdon , C. Brown , T. Rodden , G. Smith, , S. Wilbur 
+          RN/96/96 
+
+          October 1996 
+
+         Book: Virtual Environments and Scientific Visualisation '96 
+
+          Ed: M. Goebel P. Slavik J.J. van Wijk 
+
+          Government Order Number: ISSN 0946-2767 
+
+          Issuer: Springer Computer Science 
+
+          pages count: 137-148 
+
+          Submission Status: submitted to IFIP/IEEE ISINM'97, March 1997, San Diego, USA 
+
+          
+
+         
+ 
+          
+
+         A Dataflow Representation for Defining Behavious Within Virtual 
+ A. Steed , M. Slater 
+          RN/96/97 
+
+          October 1996 
+
+         Book: Proc. of the IEEE Virtual Reality Annual International Symposium 
+
+          Ed: S. Bryson 
+
+          Government Order Number: ISSN 1087-8270 
+
+          pages count: 163-167 
+
+          Submission Status: submitted to IFIP/IEEE ISINM'97, March 1997, San Diego, USA 
+
+          
+
+         
+ 
+          
+
+         Immersion, Presence and Performance in Virtual Environments: An Experiment 
+ M. Slater , V. Linakis , M. Usoh , R. Kooper 
+          RN/96/98 
+
+          October 1996 
+
+         Book: ACM Virtual Reality Software and Technology (VRST) 
+
+          Ed: Mark Green 
+
+          Government Order Number: 0-89791-825-8 
+
+          pages count: 163-172 
+
+          Submission Status: submitted to IFIP/IEEE ISINM'97, March 1997, San Diego, USA 
+
+          
+
+         
+ 
+          
+
+         Orientation and Presence in Immersive Environments 
+ M. Usoh , M. Slater , C. Alberto 
+          RN/96/99 
+
+          October 1996 
+
+         Book: Experimentelle Psychologie 38. Tagung Experimentell Arbeitender 
+
+          Ed: A. Schorr 
+
+          Government Order Number: 3-931660-12-5 
+
+          pages count: 334 
+
+          Submission Status: submitted to IFIP/IEEE ISINM'97, March 1997, San Diego, USA 
+
+          
+
+         
+ 
+          
+
+         Absolute Distance Estimations in Mediated Environments 
+ P. Vianin , M. Flukiger , M. Usoh 
+          RN/96/100 
+
+          October 1996 
+
+         Book: Experimentelle Psychologie 38. Tagung Experimentell Arbeitender 
+
+          Ed: A. Schorr 
+
+          Government Order Number: 3-931660-12-5 
+
+          pages count: 335 
+
+          Submission Status: submitted to IFIP/IEEE ISINM'97, March 1997, San Diego, USA 
+
+          
+
+         
+ 
+          
+
+         SNMP and OSI Management Information Modeling and Translation: A Case Study 
+ I. Khan , G. Knight 
+          RN/96/101 
+
+          October 1996 
+
+         Book: Proc. of the Annual Joint Conference of the IEEE Computer and 
+
+          pages count: 481-288 
+
+          Submission Status: submitted to IFIP/IEEE ISINM'97, March 1997, San Diego, USA 
+
+          
+
+         
+ 
+          
+
+         A Hybrid Legal Decision Support System using both Rule-Based and 
+ P. Pal , J.A. Campbell 
+          RN/96/102 
+
+          October 1996 
+
+         Journal: Information and Communications Technology Law 
+
+          pages count: 227-241 
+
+          Vol: 5 
+
+          Submission Status: submitted to IFIP/IEEE ISINM'97, March 1997, San Diego, USA 
+
+          
+
+         
+ 
+          
+
+         A Management System for Load Balancing through Adaptive Routing in 
+ D. Griffin , Georgatsos, P. 
+          RN/96/103 
+
+          October 1996 
+
+         Book: Proc. IEEE INFOCOM'96 
+
+          City: Los Alimitios, CA, USA 
+
+          Government Order Number: 0-8186-7292-7. 
+
+          Issuer: IEEE Computer Society Press 
+
+          pages count: Vol. 2, 863-870 
+
+          Submission Status: submitted to IFIP/IEEE ISINM'97, March 1997, San Diego, USA 
+
+          
+
+         
+ 
+          
+
+         An Evaluation of Physically Based Statistical Colour Models for Image 
+ D. Alexander , B. Buxton 
+          RN/96/104 
+
+          October 1996 
+
+         Book: Proc. ICIP'96, International Conference of Image Processing, Lausanne, 
+
+          Government Order Number: has ISBN 
+
+          Issuer: FOCUS Interactive Technology 
+
+          pages count: 1023-1026 
+
+          Submission Status: submitted to IFIP/IEEE ISINM'97, March 1997, San Diego, USA 
+
+          
+
+         
+ 
+          
+
+         An Evaluation of Physically Based Statistical Colour Models for Image 
+ 
+          RN/96/104 
+
+          
+
+         Submission Status: submitted to IFIP/IEEE ISINM'97, March 1997, San Diego, USA 
+
+          
+
+         
+ 
+          
+
+         The Shape of Space: Topology and Trajectory 
+ L. Dekker , J. Kingdon 
+          RN/96/105 
+
+          October 1996 
+
+         Keywords: optimisation, genetic algorithms, hill-climbing 
+
+          Abstract: Abstract: the formal limitations on search algorithms. Dynamic and random proposed as a pragmatic means for probing a cost function from many 
+
+          Submission Status: Journal of Institute of Mechanical Engineers, Special Issue on 
+
+          
+
+         
+ 
+          
+
+         What comes after Object Orientation? 
+ L. Braine , C. Clack 
+          RN/96/106 
+
+          October 1996 
+
+         Submission Status: commissioned report for Andersen Consulting 
+
+          
+
+         
+ 
+          
+
+         Performance Profiling 
+ C. Clack 
+          RN/96/107 
+
+          October 1996 
+
+         Submission Status: commissioned report for Andersen Consulting 
+
+          
+
+         
+ 
+          
+
+         Evolving Knowledge Reuse 
+ C. Clack 
+          RN/96/108 
+
+          October 1996 
+
+         Submission Status: commissioned report for Andersen Consulting 
+
+          
+
+         
+ 
+          
+
+         Grow Your Own Programs 
+ B. Langdon , C. Clack 
+          RN/96/109 
+
+          October 1996 
+
+         Submission Status: commissioned report for Andersen Consulting 
+
+          
+
+         
+ 
+          
+
+         Automatic Document Classification for Business 
+ C. Clack , D. Azmi , J. Lababidi 
+          RN/96/110 
+
+          October 1996 
+
+         Submission Status: commissioned report for Andersen Consulting 
+
+          
+
+         
+ 
+          
+
+         Pangea: An Intelligent Workbench for Architectural Sketch Design 
+ A. Penn , P. Treleaven , B. Hillier , L. Bull , R. Conroy , N. Dalton , L. Dekker , C. Mottram , A. Turner 
+          RN/96/111 
+
+          October 1996 
+
+         Book: 16th Annual International Conference of the British Computer Society 
+
+          Keywords: architecture, design, 3-d CAD, knowledge-based systems, genetic algorithms, 
+
+          Pages: 13 
+
+          Abstract: Abstract: the provision of a generic application, on open communication and on 
+
+          Submission Status: commissioned report for Andersen Consulting 
+
+          
+
+         
+ 
+          
+
+         On the Information Content of Object Databases 
+ M. Levene 
+          RN/96/112 
+
+          October 1996 
+
+         Submission Status: commissioned report for Andersen Consulting 
+
+          
+
+         
+ 
+          
+
+         Categorisation of Computable Database Queries 
+ M. Levene , G. Loizou 
+          RN/96/113 
+
+          October 1996 
+
+         Journal: Fundamenta Informaticae 
+
+          pages count: 319-348 
+
+          Vol: 27 
+
+          Submission Status: commissioned report for Andersen Consulting 
+
+          
+
+         
+ 
+          
+
+         Average-Case Learning Curves for Radial Basis Function Networks 
+ S. Holden , M. Niranjan 
+          RN/96/114 
+
+          October 1996 
+
+         Journal: Neural Computation 
+
+          Volume: 2 
+
+          pages count: 441-460 
+
+          Vol: 9 
+
+          Submission Status: commissioned report for Andersen Consulting 
+
+          
+
+         
+ 
+          
+
+         The Development of Ordered SQL Packages for Modelling Advanced 
+ W. Ng , M. Levene 
+          RN/96/115 
+
+          October 1996 
+
+         Book: Proc. of the 8th International Conference and Workshop on Database and 
+
+          Pages: 36 
+
+          pages count: to~appear 
+
+          Submission Status: commissioned report for Andersen Consulting 
+
+          
+
+         
+ 
+          
+
+         Performance-enhanced Genetic Programming 
+ C. Clack , T. Yu 
+          RN/96/116 
+
+          October 1996 
+
+         Submission Status: accepted by Evolutionary Programming Conference 1997 
+
+          
+
+         
+ 
+          
+
+         Inter-Domain Integration of Service and Service Management 
+ 
+          RN/96/116 
+
+          
+
+         Submission Status: accepted by Evolutionary Programming Conference 1997 
+
+          
+
+         
+ 
+          David Lewis 
+
+         Inter-Domain Integration of Service and Service Management 
+ David Lewis , Thanassis Tiropanis , Alistair McEwan , Cliff Redmond , Vincent Wade , Ralf Bracht 
+          RN/96/117 
+
+          November 1996 
+
+         Book: Proc. of the 4th International Conference on Intelligence in Services 
+
+          City: Berlin 
+
+          Government Order Number: 3540631356 
+
+          Issuer: Springer-Verlag 
+
+          pages count: 281-291 
+
+          Submission Status: accepted by Evolutionary Programming Conference 1997 
+
+          
+
+         
+ 
+          
+
+         Introducing PCS to a Multi-Service, Multi-Domain Environment 
+ 
+          RN/96/117 
+
+          
+
+         Submission Status: accepted by Evolutionary Programming Conference 1997 
+
+          
+
+         
+ 
+          Thanassis Tiropanis 
+
+         Introducing PCS to a Multi-Service, Multi-Domain Environment 
+ Thanassis Tiropanis , Alexander Richter , Lennart H. Bjering 
+          RN/96/118 
+
+          November 1996 
+
+         Submission Status: extended abstract has been submitted to the IS&N '97 conference. 
+
+          
+
+         
+ 
+          
+
+         Genetic Algorithms and Genetic Programming 
+ C. Clack 
+          RN/96/119 
+
+          November 1996 
+
+         Submission Status: extended abstract has been submitted to the IS&N '97 conference. 
+
+          
+
+         
+ 
+          
+
+         Object-Oriented Functional Progamming 
+ C. Clack , L. Braine 
+          RN/96/120 
+
+          November 1996 
+
+         Submission Status: extended abstract has been submitted to the IS&N '97 conference. 
+
+          
+
+         
+ 
+          
+
+         Improving Automated Alignment in Multilingual Corpora 
+ 
+          RN/96/120 
+
+          
+
+         Submission Status: extended abstract has been submitted to the IS&N '97 conference. 
+
+          
+
+         
+ 
+          J.A. Campbell 
+
+         Improving Automated Alignment in Multilingual Corpora 
+ J.A. Campbell , N. Chatterjee , Alex Chengyu Fang , M. Manela 
+          RN/96/121 
+
+          December 1996 
+
+         Book: Proc. of PACLIC 11,(11th Pacific Asia Conference on Language, Information 
+
+          pages count: 63-72 
+
+          Abstract: Abstract: 
+
+          Submission Status: extended abstract has been submitted to the IS&N '97 conference. 
+
+          
+
+         
+ 
+          
+
+         Incorporating Stakeholders into Strategic Information Systems Planning 
+ Ismail Ismail , Russel Winder 
+          RN/96/122 
+
+          December1996 
+
+         Keywords: Strategic Information Systems Planning, Soft Systems, Participation 
+
+          Pages: 12 
+
+          Abstract: Abstract: 
+
+          Submission Status: submitted to the Software Technology and Engineering Practice (STEP)/CASE 
+
+          
+
+         
+ 
+          
+
+         Multipoint Communication: A Survey of Protocols, Functions and Mechanisms 
+ C. Diot , W. Dabbous , J. Crowcroft 
+          RN/96/123 
+
+          December 1996 
+
+         Journal: IEEE JSAC 
+
+          Pages: 26 
+
+          pages count: 277-290 
+
+          Vol: 3 
+
+          Submission Status: submitted to the Software Technology and Engineering Practice (STEP)/CASE 
+
+          
+
+         
+ 
+          
+
+         Evolving Example Relations to Satisfy Functional Dependencies 
+ M. Levene , E. Collopy 
+          RN/96/124 
+
+          December 1996 
+
+         Keywords: Database Design, Functional Dependency, Numerical Dependency, 
+
+          Pages: 21 
+
+          Abstract: Abstract: assume that the constraints are specified in terms of the structure of the example relation viewed, therefore providing 
+
+          Submission Status: submitted to the Software Technology and Engineering Practice (STEP)/CASE 
+
+          
+
+         
+ 
+          
+
+         Evolving Example Relations to Satisfy Functional Dependencies 
+ W. Langdon 
+          RN/96/125 
+
+          December 1996 
+
+         Submission Status: submitted to the Software Technology and Engineering Practice (STEP)/CASE 
+
+          
+
+         
+ 
+          
+
+         Language Acquisition and Practice through Multimedia Conferencing 
+ J. Hughes , A. Sasse 
+          RN/96/126 
+
+          December 1996 
+
+         Book: Proc. Workshop Video and Computer Conferencing in Education and Training, University of Aberdeen, 23-24 September 1996 
+
+          Submission Status: submitted to the Software Technology and Engineering Practice (STEP)/CASE 
+
+          
+
+         
+ 
+          
+
+         A Technique for Generating Partial Advice from a Rule Base or a Hybrid 
+ K. Pal , J. Campbell 
+          RN/96/127 
+
+          December 1996 
+
+         Book: Proc. of Expert Systems'96, Sixteenth Annual Technical Conference of the 
+
+          Ed: J. Nealon J. Hunt 
+
+          pages count: 301-313 
+
+          Submission Status: submitted to the Software Technology and Engineering Practice (STEP)/CASE 
+
+          
+
+         
+ 
+          
+
+         Step by Step - Building Representations in Algebraic Logic 
+ R. Hirsch , I. Hodkinson 
+          RN/96/128 
+
+          December 1996 
+
+         Submission Status: submitted to the Software Technology and Engineering Practice (STEP)/CASE 
+
+          
+
+         
+ 
+          
+
+         Complete Representations in Algebraic Logic 
+ R. Hirsch , I. Hodkinson 
+          RN/96/129 
+
+          December 1996 
+
+         Submission Status: submitted to the Software Technology and Engineering Practice (STEP)/CASE 
+
+          
+
+         
+ 
+          
+
+         Expressive Power and Complexity in Algebraic Logic 
+ R. Hirsch 
+          RN/96/130 
+
+          December 1996 
+
+         Submission Status: submitted to the Software Technology and Engineering Practice (STEP)/CASE 
+
+          
+
+         
+ 
+          
+
+         Relation Algebras of Intervals 
+ R. Hirsch 
+          RN/96/131 
+
+          December 1996 
+
+         Journal: Artificial Intelligence Journal 
+
+          pages count: 1-29 
+
+          Vol: 83 
+
+          Submission Status: submitted to the Software Technology and Engineering Practice (STEP)/CASE 
+
+          
+
+         
+ 
+          
+
+         	
+           Translator  
+         
+
+
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Rachel Scott 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

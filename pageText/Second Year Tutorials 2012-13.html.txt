@@ -1,0 +1,589 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Degree Programme
+      ›› Second Year
+      ›› Tutorials ›› Second Year Tutorials 2012-13 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        Your tutor's role is to monitor your progress and be someone to talk to about your work or any problems you are having. You are required to meet  your tutor twice per term (in terms 1 and 2) to report on how things are going. Usually this will be near the start and end of each term. You can also make an appointment to see your tutor at any time you feel the need.  
+ 
+        Our policy is that you normally have the same tutor throughout your time as an undergraduate student in the department. If your tutor becomes unavailable you will be assigned to a new tutor. 
+ 
+        A guide to the tutorial system, which explains student and tutor expectations and entitlements in more detail can be found here. 
+ 
+        In addition to tutorials, there is a series of Transferable Skills Workshops that you must attend. 
+ 
+        The tutor/tutee list is: 
+
+        
+
+
+         	Prof. Simon Arridge
+
+          	No second year tutees
+
+
+
+	Dr. David Barber
+
+          	Arifuddin Ahmad
+	Rawan Farwana
+
+
+
+	Dr. Gabriel Brostow
+
+          	Martin Bazley
+	Mukhtar Kulmanov
+
+
+
+	Dr. Kevin Bryson
+
+
+          	Li Khoo
+	Vincent Nguyen
+
+
+
+	Dr. Licia Capra
+
+          	Amrita Bhattacharjee
+	Jing Li
+	Manal Ali
+
+
+
+	Chris Clack
+
+          	Morrison Cole
+
+
+
+	Dr. David Clark
+
+          	Kinga Mrugala
+	Alexander Wells
+
+
+
+	Dr. Nicholas Courtois
+
+          	No first year tutees
+
+
+
+	Prof. Ingemar Cox
+
+          	Elliott Burrowes
+
+
+
+	Dr. John Dowell
+
+
+          	Markus Padourek
+
+
+
+	Dr. Nicolas Gold
+
+          	Eduard Mucilianu
+
+
+
+	Dr. Denise Gorse
+
+          	Benjamin Congdon
+	Seo Lee
+	Victor Popescu
+
+
+
+	Dr. Lewis Griffin
+
+          	Richard Davis
+	Jia Long
+	Yasmin Ahmad Fakri
+
+
+
+	Dr. Jens Groth
+
+
+          	Giulia Deiana
+	Jerrine Soh
+
+
+
+	Prof. Steve Hailes
+
+          	Aizhan Demeugaliyeva
+
+
+
+	Prof. Mark Handley
+
+
+          	No first year tutees
+
+
+
+	Dr. Mark Herbster
+
+          	Tina Fallahi
+
+
+
+	Dr. Robin Hirsch
+
+          	Gemma Bartlett
+	Shindanai Sorapipat
+
+
+
+	Prof. Tony Hunter
+
+          	Panayiotis Stylianou
+	Ee Ren Tan
+
+
+
+	Prof. David Jones
+
+
+          	Zhanelya Subebayeva
+
+
+
+	Dr. Simon Julier
+
+          	Stephanie Georgiou
+
+
+
+	Dr. Brad Karp
+
+
+          	Cheung Tin Szeto
+	Haolin Zou
+
+
+
+	Dr. Jan Kautz
+
+          	Assel Jiyentayeva
+	Daniyar Kaliyev
+
+
+
+	Dr. Jens Krinke
+
+          	Jay Nanavati
+	Rasheed Wihaib
+
+
+
+	Dr. Emmanuel Letier
+
+          	David Johnson
+	Teruki Tauchi
+
+
+
+	Dr. Niloy Mitra
+
+
+          	Hio Leong
+
+
+
+	Dr. Dean Mohamedally
+
+          	Michael Boon
+
+
+
+	Dr. Graham Roberts
+
+          	No second year tutees
+
+
+
+	Prof. John Shawe-Taylor
+
+          	Yue Sun
+
+
+
+	Prof. Philip Treleaven
+
+          	Vaibhav Bhatla
+	Terrance Chi Chiu
+
+
+
+	Dr. Jun Wang
+
+          	Ho Li
+	Adit Trivdedi
+
+
+
+	Dr. Tim Weyrich
+
+
+          	Vijay Vashdev Kishnani
+
+
+
+	Dr. Shi Zhou
+
+          	Emil Mocanu
+
+
+
+
+
+
+         
+        If your name is missing, incorrect or shown with the wrong tutor, email the Departmental Tutor (g.roberts@cs.ucl.ac.uk). 
+ 
+        
+ 
+        Groups from previous years
+ 
+        	2005/6 
+	2006/7
+	2007/8
+	2008/9
+	2009/10
+	2010/11
+	2011/12
+
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Steve Marchant 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

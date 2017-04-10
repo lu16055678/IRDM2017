@@ -1,0 +1,549 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+          
+          UCL 4th in the world
+ 
+          
+           
+            
+           
+ 
+          
+           UCL is listed 4th in the world according to the latest QS World University rankings. 
+ 
+           UCL's new president and provost, Professor Michael Arthur, said the university's high place in the rankings reflected its efforts both in the UK and overseas. 
+ 
+           But he said: "As pleasing as it is, rankings success will not divert us from focusing on our core mission of educating and inspiring our students and delivering world class research." 
+ 
+           Read more here.  
+ 
+          
+ 
+          
+ 
+         
+ 
+          
+          MSc mid project presentations at Level39
+ 
+          
+           
+            
+           
+ 
+          
+           Last month our MSc Software Systems and MSc Financial Risk Manangement students enjoyed the wonderful view at Level39, Canary Wharf, Europe's largest financial IT accelerator space, where they presented their projects to date to an audience of leading industry professionals. 
+ 
+           The Engineering Faculty at UCL is very proud to have run one of the most successful work placement programs as a mandatory part of specialty finance graduate degrees, and over 100 students enhanced their relationship with City firms as they networked with City regulators and key stakeholders following their presentations... [more]
+
+          
+ 
+          
+ 
+         
+ 
+          
+          UCL-CS announce new DUCO Prize Winners
+ 
+          
+           
+            
+           
+ 
+          
+           We are delighted to announce the winners of our new DUCO prize for our 2nd Year students on BSc & MEng Computer Science courses. The UCL Duco Prize in Computer Science is awarded for the best performance in examinations. As a Department we are always keen to recognise outstanding academic achievement so we send our congratulations to the winners: 
+ 
+           1st : Michael Boon (£1000) 
+ 
+           2nd : Kinga Mrugala (£600) 
+ 
+           3rd : Jing Li (£400) 
+ 
+           We are very grateful to UCL-CS Alumnus Dr Christian Nentwich, CEO of DUCO, for his support. Christian will meet the winners at a reception next term. 
+
+          
+ 
+          
+ 
+         
+ 
+          
+          Imagine Cup 2013 world finals takes place in St Petersburg
+ 
+          
+           
+            
+           
+ 
+          
+           The Imagine Cup worldwide finals 2013 was held in St Petersburg, Russia. 
+ 
+           300 of the brightest students from 70 countries worldwide attended, with backgrounds in software engineering and CS, electrical engineering, mechanical engineering and other disciplines. They presented viva-style presentations and live demos to a panel of international judges. 
+ 
+           From University College London, our own Dr Dean Mohamedally attended as a judge in the World Citizenship Category. He writes: 
+ 
+           "The ambition and motivation of these students to build not just the next big thing but to solve a real-world problem w... [more]
+
+          
+ 
+          
+ 
+         
+ 
+          
+          Sebastian Riedel wins Google Focused Research Award
+ 
+          
+           
+            
+           
+ 
+          
+           Sebastian Riedel, Lecturer in the Intelligent Systems Group at UCL-CS, has been awarded a competitive Google Focused Research Award. The award was granted for his proposal on “Populating a Knowledge Base of Compositional Universal Schema.” In line with Google's recent efforts in moving from "strings to things", or from document collections to knowledge graphs, the projects aims at building rich and large-scale probabilistic knowledge bases of entities, relations, and events using matrix factorisation methods. 
+ 
+           On receiving the award, Sebastian said: "I was honoured to be able to apply to this... [more]
+
+          
+ 
+          
+ 
+         
+ 
+          
+          Larissa Romualdo Suzuki wins Intel award
+ 
+          
+           
+            
+           
+ 
+          
+           Larissa Romualdo Suzuki, UCL-CS software engineering research student, is to be the recipient of Intel Doctoral Student Honor Programme award worth $35,000. Larissa will be attending the awards ceremony at the Europe Research and Innovation Conference (ERIC) in October. 
+ 
+           Larissa is delighted to with the award: 
+ 
+           "I expect that the next two years of my research agenda will provide a multitude of outputs and outcomes which will be relevant both to academia and software practice. With the help of this award I will attend relevant events, training, and present my research at leading international ... [more]
+
+          
+ 
+          
+ 
+         
+ 
+          
+          Fernando Brandao receives QIPC Young Investigator Award 2013
+ 
+          
+           
+            
+           
+ 
+          
+           Fernando Brandao, lecturer at UCL Computer Science, has been awarded the 2013 European Quantum Information Young Investigator Award for his work on quantum information science. The award recognizes outstanding accomplishments in quantum information science (both theoretical and experimental) by researchers less than 35 years old. 
+ 
+           According to the prize announcement, the award was given to Dr. Brandao “for his highly appraised achievements in entanglement theory, quantum complexity theory, and quantum many-body physics, which combine dazzling mathematical ability and impressive physical insigh... [more]
+
+          
+ 
+          
+ 
+         
+ 
+          
+          New CS teaching technology at the Big Bang
+ 
+          
+           
+            
+           
+ 
+          
+           On 3 & 4 July UCL-CS participated in the Big Bang – the UK’s biggest young scientists & engineers fair. Staff and students showed off our robots, our new Engduino Boards, which are an innovative teaching tool designed in the Department, and the Oculus Rift, pictured, which gave children the chance to see the future of virtual reality. Over 800 secondary school children attended and they all enjoyed their computer science experience. Thanks to Prof Mark Handley, Dr Graham Roberts, Rae Harbird, Sarah Clegg, Larissa Romualdo Suzuki and Steve Marchant for their help.
+
+          
+ 
+          
+ 
+         
+ 
+         
+          
+           Displaying results 169 to 176 out of 237
+          
+
+          
+           << First 
+           < Previous 
+           145-152 
+           153-160 
+           161-168 
+           169-176 
+           177-184 
+           185-192 
+           193-200 
+           Next > 
+           Last >>
+          
+
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 1 item
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

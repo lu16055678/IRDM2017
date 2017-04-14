@@ -49,15 +49,18 @@ public class CrawlerLeg {
 																// great.
 				{
 					System.out.println("\n**Visiting** Received web page at " + url);
-
+					
 					Elements title = htmlDocument.getElementsByTag("title");
 					String name = title.text() + ".html";
-					File file = new File(DIR, name);
-					FileOutputStream fos = new FileOutputStream(file);
-					fos.write(htmlDocument.html().getBytes());
-					fos.close();
+					File filePath = new File(DIR);
+					if(!filePath.exists()){
+						File file = new File(DIR, name);
+						FileOutputStream fos = new FileOutputStream(file);
+						fos.write(htmlDocument.html().getBytes());
+						fos.close();
+						System.out.println("Saved");
+					}				
 				}
-				System.out.println(connection.response().contentType());
 				if (connection.response().contentType() == null) {
 					System.out.println("**Failure** Retrieved Nothing");
 					return false;

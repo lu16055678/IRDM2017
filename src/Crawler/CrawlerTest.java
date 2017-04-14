@@ -15,8 +15,7 @@ public class CrawlerTest {
 	 */
 	public static void main(String[] args) {
 		Crawler spider = new Crawler();
-		spider.search(
-				"http://www.cs.ucl.ac.uk/home/");
+		spider.search("http://www.cs.ucl.ac.uk/home");
 	}
 
 }

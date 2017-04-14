@@ -58,7 +58,7 @@ public class SearchFiles {
 
 		int start = 0;
 		int end = Math.min(numTotalHits, hitsPerPage);
-
+		System.out.println(end+" "+hits.length);
 		while (true) {
 			if (end > hits.length) {
 				System.out.println("Only results 1 - " + hits.length + " of " + numTotalHits

@@ -31,7 +31,6 @@ public class SearchFiles {
 		IndexReader reader = DirectoryReader.open(FSDirectory.open(Paths.get(INDEXPATH)));
 		IndexSearcher searcher = new IndexSearcher(reader);
 		Analyzer analyzer = new StandardAnalyzer();
-
 		BufferedReader in = null;
 		in = Files.newBufferedReader(Paths.get(DOCPATH), StandardCharsets.UTF_8);
 		QueryParser parser = new QueryParser(field, analyzer);
@@ -140,10 +139,11 @@ public class SearchFiles {
 			}
 		}
 	}
-	public static void main(String args[]) throws IOException, ParseException{
+
+	public static void main(String args[]) throws IOException, ParseException {
 		SearchFiles search = new SearchFiles();
 		System.out.println("Enter a word to search:");
-		String input = new Scanner(System.in).next();
+		String input = new Scanner(System.in).nextLine();
 		search.Search(input);
 	}
 }

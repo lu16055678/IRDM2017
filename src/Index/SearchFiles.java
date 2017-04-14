@@ -2,11 +2,10 @@ package Index;
 
 import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.Date;
+import java.util.Scanner;
 
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
@@ -143,6 +142,8 @@ public class SearchFiles {
 	}
 	public static void main(String args[]) throws IOException, ParseException{
 		SearchFiles search = new SearchFiles();
-		search.Search("Computer Science");
+		System.out.println("Enter a word to search:");
+		String input = new Scanner(System.in).next();
+		search.Search(input);
 	}
 }

@@ -1,0 +1,555 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--?xml version="1.0" encoding="utf-8"?-->
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2016 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+--> 
+  <base href="http://www.cs.ucl.ac.uk/"> 
+  <link rel="shortcut icon" href="/fileadmin/UCL-CS/favicon.ico" type="image/x-icon; charset=binary"> 
+  <link rel="icon" href="/fileadmin/UCL-CS/favicon.ico" type="image/x-icon; charset=binary"> 
+  <meta name="generator" content="TYPO3 CMS"> 
+  <meta name="keywords" content="University, College, London, Computer Science"> 
+  <meta name="charset" content="utf-8"> 
+  <link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_1734292a8f.css?1458040091" media="all"> 
+  <link rel="stylesheet" type="text/css" href="fileadmin/UCL-CS/css/csCommon.css?1485355348" media="all"> 
+  <script src="uploads/tx_t3jquery/jquery-1.8.x-1.9.x-1.2.x.js?1383917144" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/googleAnalytics.js?1340190657" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/jqueryImageSlider2.js?1391601155" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/start.fader.js?1413468507" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/jquery.bxslider.js?1391781521" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/jquery.kinetic.js?1432630323" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/startKinetic.js?1432630719" type="text/javascript"></script> 
+  <title>
+			Travel Blog
+		</title> 
+  <link rel="stylesheet" type="text/css" href="fileadmin/UCL-CS/css/csDT2Col.css" media="all"> 
+ </head> 
+ <body> 
+  <div id="everything" class="page_layout"> 
+   <!-- Div for UCL banner --> 
+   <div id="banner" class="page_layout"> 
+    <div id="section_head">
+      Department of Computer Science 
+    </div> 
+    <div id="UCLLogo"> 
+     <a href="http://www.ucl.ac.uk/" target="_top"> <img id="ucl_logo" src="fileadmin/UCL-CS/web_assets/ucl_logo/ucl_logo_whitebg.png" alt="UCL - Home"></a> 
+    </div> 
+   </div> 
+   <!-- End of div for UCL banner --> 
+   <!-- Div for UCL divider --> 
+   <div id="ucl_divider" class="page_layout"> 
+    <!-- UCL Search - CS site--> 
+    <form class="searchForm" id="googlesearch" method="get" action="http://search2.ucl.ac.uk/s/search.html?collection=website-meta&amp;profile=_website&amp;tab=websites"> 
+     <input class="text" type="text" placeholder="Search UCL-CS" value="" accesskey="q" name="query"> 
+     <input class="button" type="submit" value="" name="Submit"> 
+     <input type="hidden" value="ucl-public-meta" name="collection"> 
+     <input type="hidden" value="cs" name="subsite"> 
+    </form> 
+    <div id="breadcrumb" class="breadcrumb"> 
+     <a href="home/">›&nbsp;Home</a>
+     <a href="current_students/">&nbsp;››&nbsp;Current Students</a>
+     <a href="current_students/mphilphd/">&nbsp;››&nbsp;MPhil/PhD</a>&nbsp;››&nbsp;Travel Blog 
+    </div> 
+   </div> 
+   <!-- End of div for UCL divider --> 
+   <!-- Start of main content div --> 
+   <div id="mainDiv"> 
+    <!-- Start of inner container --> 
+    <div id="innerContainer"> 
+     <!-- Start of left content--> 
+     <div id="leftCol" class="leftContent"> 
+      <!-- left content start --> 
+      <!--  CONTENT ELEMENT, uid:19043/list [begin] --> 
+      <div id="c19043" class="csc-default"> 
+       <!--  Plugin inserted: [begin] --> 
+       <div class="tx-typoscript2ce"> 
+        <div id="mobileText">
+         <h3><a href="mobile/current_students/mphilphd/travel_blog/">Mobile Version</a></h3>
+        </div> 
+       </div> 
+       <!--  Plugin inserted: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19043/list [end] --> 
+      <!--  CONTENT ELEMENT, uid:19061/menu [begin] --> 
+      <div id="c19061" class="csc-default"> 
+       <!--  Menu/Sitemap element: [begin] --> 
+       <ul class="csc-menu csc-menu-def">
+        <li><a href="home/" title="Home">Home</a></li>
+        <li><a href="prospective_students/" title="Prospective Students">Prospective Students</a></li>
+        <li><a href="research/" title="Research">Research</a></li>
+        <li><a href="industry_outreach/" title="Industry &amp; Outreach">Industry &amp; Outreach</a></li>
+        <li><a href="careers/" title="Careers">Careers</a></li>
+        <li><a href="current_students/" title="Current Students"><span class="inPath">Current Students</span></a></li>
+        <li><a href="people/?no_cache=1" title="People">People</a></li>
+        <li><a href="about_us/" title="About Us">About Us</a></li>
+        <li><a href="wics/home/" title="Women in Computer Science">Women in Computer Science</a></li>
+        <li><a href="intranet/" title="Staff Intranet">Staff Intranet</a></li>
+       </ul> 
+       <!--  Menu/Sitemap element: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19061/menu [end] --> 
+      <!--  CONTENT ELEMENT, uid:23946/list [begin] --> 
+      <div id="c23946" class="csc-default"> 
+       <!--  Plugin inserted: [begin] --> 
+       <div class="tx-typoscript2ce"> 
+       </div> 
+       <!--  Plugin inserted: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:23946/list [end] --> 
+      <!--  CONTENT ELEMENT, uid:19046/image [begin] --> 
+      <div id="c19046" class="csc-default csc-space-before-50 csc-space-after-50"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-above">
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-imagerow csc-textpic-imagerow-last">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.facebook.com/pages/University-College-London-Computer-Science/132472916819198" target="_top"><img src="fileadmin/_processed_/csm_facebook_03_a3f147f505.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.linkedin.com/groups?gid=4046543&amp;trk=myg_ugrp_ovr" target="_top"><img src="fileadmin/_processed_/csm_linkedin_03_6c9523f528.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="https://twitter.com/#!/uclcs" target="_top"><img src="fileadmin/_processed_/csm_twitter_03_0c37f5536b.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.youtube.com/user/UCLComputerScience/videos" target="_top"><img src="fileadmin/_processed_/csm_youtube_04_6b8742f9fc.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19046/image [end] --> 
+      <!--  CONTENT ELEMENT, uid:19044/list [begin] --> 
+      <div id="c19044" class="csc-default csc-space-before-30 csc-space-after-50"> 
+       <!--  Header: [begin] --> 
+       <div class="csc-header csc-header-n5">
+        <h1><a href="events/">Forthcoming Events</a></h1>
+       </div> 
+       <!--  Header: [end] --> 
+       <!--  Plugin inserted: [begin] --> 
+       <div class="tx-typoscript2ce"> 
+        <div id="events_div" class="controlledTicker"> 
+         <ul> 
+          <li> New events will be posted here as soon as details become known. </li> 
+         </ul>
+        </div> 
+       </div> 
+       <!--  Plugin inserted: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19044/list [end] --> 
+      <!--  CONTENT ELEMENT, uid:26215/textpic [begin] --> 
+      <div id="c26215" class="csc-default csc-space-before-20"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-above">
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-image csc-textpic-last">
+          <a href="http://www.cs.ucl.ac.uk/degrees/" target="_top"><img src="fileadmin/_processed_/csm_bcs_85243c6ac1.png" width="105" height="43" alt="" border="0"></a>
+         </div>
+        </div>
+        <div class="csc-textpic-text"></div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:26215/textpic [end] --> 
+      <!--  CONTENT ELEMENT, uid:19047/textpic [begin] --> 
+      <div id="c19047" class="csc-default csc-space-before-5"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-below">
+        <div class="csc-textpic-text"></div>
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-imagerow csc-textpic-imagerow-last">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="https://www.itskillsacademy.org.uk/about-us/who-we-work-with/" target="_top"><img src="fileadmin/_processed_/csm_e_skills_d4087aff09.jpg" width="105" height="89" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.cs.ucl.ac.uk/computer_science_news/article/athena-swan-silver-award-for-ucl-computer-science/" target="_top"><img src="fileadmin/_processed_/csm_AthenaSwanLogo_silver_efa303f87a.jpg" width="105" height="58" alt="" border="0"></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19047/textpic [end] --> 
+      <!--  CONTENT ELEMENT, uid:21855/image [begin] --> 
+      <div id="c21855" class="csc-default csc-space-before-15"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-above">
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-imagerow">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.computingatschool.org.uk/" target="_top" title="Network of Excellence - Computer Science"><img src="fileadmin/_processed_/csm_NOE_image_a809f677bf.jpg" width="220" height="63" alt="Network of Excellence - Computer Science" border="0"></a>
+           </div>
+          </div>
+         </div> 
+         <div class="csc-textpic-imagerow csc-textpic-imagerow-last">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.epsrc.ac.uk/research/centres/acecybersecurity/" target="_top" title="Academic Centre of Excellence - Cyber Security Research"><img src="fileadmin/_processed_/csm_GCHQ_image_851b6cc992.jpg" width="220" height="64" alt="Academic Centre of Excellence - Cyber Security Research" border="0"></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:21855/image [end] --> 
+      <!-- left content end --> 
+     </div> 
+     <!-- End of left content --> 
+     <!-- Start ofmiddle content --> 
+     <div id="middleCol"> 
+      <div id="mainText" class="text"> 
+       <!--  CONTENT ELEMENT, uid:25005/image [begin] --> 
+       <div id="c25005" class="csc-default"> 
+        <!--  Image block: [begin] --> 
+        <div class="csc-textpic csc-textpic-center csc-textpic-above csc-textpic-border">
+         <div class="csc-textpic-imagewrap">
+          <div class="csc-textpic-center-outer">
+           <div class="csc-textpic-center-inner">
+            <div class="csc-textpic-image csc-textpic-last">
+             <img src="fileadmin/_processed_/csm_Travel_Blog_Banner_678bb54613.jpg" width="737" height="103" alt="" border="0">
+            </div>
+           </div>
+          </div>
+         </div>
+        </div> 
+        <!--  Image block: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:25005/image [end] --> 
+       <!--  CONTENT ELEMENT, uid:25006/textpic [begin] --> 
+       <div id="c25006" class="csc-default"> 
+        <!--  Image block: [begin] --> 
+        <div class="csc-textpic-text"> 
+         <!--  Text: [begin] --> 
+         <p>In the Department of Computer Science at UCL, we frequently encourage our Research Students to submit and attend multiple international conferences while they are with us. In order to enable this, the Department often funds our students' travel, accommodation and registration for such events. </p> 
+         <p>To apply for funding please complete the&nbsp;<a href="current_students/mphilphd/form_templates/" title="Opens internal link in current window" class="internal-link">form</a> and return to Sarah Turnbull&nbsp;at <a href="mailto:cs.researchdegrees@ucl.ac.uk">cs.researchdegrees@ucl.ac.uk</a>&nbsp;</p> 
+         <!--  Text: [end] --> 
+        </div> 
+        <!--  Image block: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:25006/textpic [end] --> 
+       <!--  CONTENT ELEMENT, uid:29666/textpic [begin] --> 
+       <div id="c29666" class="csc-frame csc-frame-rulerAfter"> 
+        <!--  Header: [begin] --> 
+        <div class="csc-header csc-header-n3">
+         <h1>Thanapong Intharah, ACM IUI 2017, Limassol Cyprus </h1>
+        </div> 
+        <!--  Header: [end] --> 
+        <!--  Image block: [begin] --> 
+        <div class="csc-textpic-text"> 
+         <!--  Text: [begin] --> 
+         <p>ACM IUI 2017 is the 22nd annual meeting of the intelligent user interfaces community and serves as a premier international forum for reporting outstanding research and development on intelligent user interfaces. </p> 
+         <p>This year the conference was hold at The St. Raphael Resort, which was located on one of the most renowned and largest beaches in Limassol. </p> 
+         <p><img style="transform: rotate(0rad);" width="624" height="468" alt="" src="https://lh4.googleusercontent.com/tVIC8yiix4Zbz3Zp0ru6p12QCqTed1Frk7cfGBm5gZMpw0k20fRaRjOjCAPypXNrO-xeTKdohjyHzEeuPRfUSxRZm83H3RIrZ8df4Qp76rqp5gq59RjslChfrcn9n0DcOD1oj7sd"> </p> 
+         <p>The acceptance rate for this year conference was 23%. Our work, Help, It Looks Confusing: GUI Task Automation Through Demonstration and Follow-up Questions, was accepted as a long paper and I also got an opportunity to demo our work in the Demo/Poster session of the same conference. Additionally, our paper was fortunate enough to be awarded the Best Student Paper Honourable Mention. </p> 
+         <p><img style="transform: rotate(0rad);" width="624" height="468" alt="" src="https://lh4.googleusercontent.com/WfLC9yDUBjyDGhoph3vwWvBN0P875bL60kZCI4_s4x4HQKAoaLIhq8Vc-cvJ2IuJ8oN_y2D8QzcaYX82sBCcHFa9MDnkfAEjNDhauWR_0S9RQ0C1EraDLqKK0mt2l0XkcqWuifGP"> </p> 
+         <p>The first day of the main conference started with chairs of the conference gave overview talk about the agenda of the conference as well as paper submissions and acceptance rate of this year ACM IUI. One of the interesting talk of the first day, for me, was the talk given by Shumin Zhai, from Google Research, on the topic “Modern Touchscreen Keyboards as Intelligent User Interfaces: A Research Review” which highlighted that one of the important challenges of Touchscreen Keyboards was users’ sloppy input. Sloppy input means users are always inconsistent when giving input to the system, in terms of both within the same individual and across different persons. In the evening, I demo’ed the system in the Demo/Poster session which was nicely held together with the welcome reception cocktail. I had received a lot of positive feedbacks and also useful comments from the audience which I was planning to use them to improve the project further. </p> 
+         <p><img style="transform: rotate(0rad);" width="624" height="468" alt="" src="https://lh4.googleusercontent.com/9U-HSu6AG2_70MRxcvoxr5Vjtj2O5jv-YM2-y7UlHFNOd_CzECYmaecrJ7F8qjcQcpeXYbrBeNSOFsypj77M__vf5I2dKyNHuQNWYjndwMmWHDhr7n2kTRPCBSCghGsp3m73pLIo"> </p> 
+         <p>On the second day of the main conference, I was presenting our paper in the Interactive Programming and Automation track. Most of the papers from this track were interesting and related to my research in many aspects. </p> 
+         <p>For example, the paper “UI X-Ray: Interactive Mobile UI Testing Based on Computer Vision” from IBM which won the Best Paper Award, used Computer Vision to analyze screenshot images of the GUI to help improve the software development process. Additionally, the paper “That Makes Sense: Identifying Frequent User Tasks from Application Logs” from Adobe Research which analyzed application logs was also closely related to my research. At the end of the day, There was the Awards/Banquet session where they brought all of the participants to a traditional Cypriot restaurant to taste a variety of tasty Cypriot cuisines and also watched Cypriot traditional shows. </p> 
+         <p><img style="transform: rotate(0rad);" width="624" height="468" alt="" src="https://lh6.googleusercontent.com/-bP7jgmmUCMgrezvR-E0w6dWBFIwMaYyrPTFNe-QYw40MRvBCsc79L_JCBiP7NO6msAqzbe-Imv8NawtqwmCrvEGkH6iyDysc54uT34zpTfycaw3yzS95P__SYvDhwpvbQHTVHJI"> </p> 
+         <p><img style="transform: rotate(0rad);" width="624" height="832" alt="" src="https://lh3.googleusercontent.com/RaNKbynyDkLupEob9iRR6HVK7WKEtRvsK-SODr_D94xQD2NsjGbZZYRv--haI9wIF9yA8MOgJlEWnFk7nMe1LmmlhtDhvNSC32UBo3Q9ZICdV0zbZiw9IUcrBUiZNJF4RzShDJX3"> </p> 
+         <p><img style="transform: rotate(0rad);" width="624" height="468" alt="" src="https://lh6.googleusercontent.com/PQEhmg7qo_Mt2LS76rr8kKMW_ouGc8qY0v11xTYlGBsl0xWxPJOUy5_u6f4lBDBoShGmiFoAnm-m3B_6EObq2tUT5g1GO0RnbvSuyA7Xf_qVGF_PS8470cfi-D48Yc87RPZw7p--"> </p> 
+         <p><img style="transform: rotate(0rad);" width="624" height="468" alt="" src="https://lh6.googleusercontent.com/RcNFCw_NGRv1ocZo2TxOL3EETrBKJVm9TMSejkoWhkQssk6uKzWcvOOtdOgvVPrrah3rmUjx79VmsiRR_ACNwzujI-HeyfxcH7dEvdUSz5hHbRcqGqGLO6HmsTy3P7-BkGcfR1-U"> </p> 
+         <p><img style="transform: rotate(0rad);" width="624" height="832" alt="" src="https://lh5.googleusercontent.com/nzYy87kYzteG6A8GjBCdNulDgP8BixCzaTZhr958lUoTZdESeS0XRT77jPMflf2YBzlVt6rfmGzCXzzwOhlTu9NUrpPVfJmDt8wQasuZ-IHPUW95uDPFUUIoqpXQYt3Lp9FFoNKN"> </p> 
+         <p>In conclusion, the conference was very well organized and gave me opportunities to meet with interesting people in the Human Computer Interaction as well as Artificial Intelligence field. Cypriot dishes were a lot better than I was expected but Limassol in March was a little bit too quiet. </p> 
+         <!--  Text: [end] --> 
+        </div> 
+        <!--  Image block: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:29666/textpic [end] --> 
+       <!--  CONTENT ELEMENT, uid:29470/textpic [begin] --> 
+       <div id="c29470" class="csc-frame csc-frame-rulerAfter"> 
+        <!--  Header: [begin] --> 
+        <div class="csc-header csc-header-n4">
+         <h1>João M. Monteiro, Multivariate methods applied to imaging genetics data workshop, Munich, Germany</h1>
+        </div> 
+        <!--  Header: [end] --> 
+        <!--  Image block: [begin] --> 
+        <div class="csc-textpic-text"> 
+         <!--  Text: [begin] --> 
+         <p>The “Multivariate methods applied to imaging genetics data workshop” was held during two days at the Max Planck Institute of Psychiatry in Munich, Germany. The objective was to bring together researchers working in brain imaging, genetics, and machine learning, in order to exchange ideas in how to combine the knowledge from these fields to study psychiatric disorders. </p> 
+         <p><b>Thursday, October 27, 2016&nbsp;</b>The workshop started in the afternoon with an introduction from one of the organisers, Gunter Schumann, whose talk addressed the current challenges in psychiatry, and gave an overview of the large datasets currently being acquired to study different psychiatric disorders. </p> 
+         <p>The first talks included: the discussion of population heterogeneity and clustering approaches (Andre Marquand); multi-model learning (Bertrand Thirion); and statistics (Bertram Muller-Myhsok). </p> 
+         <p>After the coffee break, the workshop continued with a presentation from Nikolaos Koutsouleris about their machine learning toolbox (NeuroMiner), followed by Robert Whelan about feature selection, and Christian Wachinger on new measures of brain morphology and how to use distances between brains in a “brain manifold”. </p> 
+         <p>The day ended with a very nice Italian dinner provided by the organisation. </p> 
+         <p><b>Friday, October 28, 2016</b>&nbsp;The second day started with a talk by Elisabeth Binder on how psychiatric diseases arise from a combination of both genetics and environment. Followed by a presentation by Gokcen Eraslan on how to combine deep learning and LASSO models for genetics. The session ended with a presentation by Fabian Theiss on cell gene expression, and how to visualise it using latent manifold modeling. </p> 
+         <p>The first session after lunch was particularly relevant for me, as it was about Canonical Correlation Analysis (CCA) and Partial Least Squares (PLS). It started with an introduction to CCA by John Shawe-Taylor, followed by Andre Altmann on meta analysis using PLS. I presented my recently published work using Sparse PLS to find associations between clinical scores and MRI scans, which got very positive comments, some attendants even expressed interest in applying it to their own data. </p> 
+         <p>The session was concluded with a presentation from Alex Ing on SPLS and psychiatric biomarkers. </p> 
+         <p>Finally, the workshop ended with a session on functional connectivity, with presentations from Philipp G. Samann, Jean Liu, and Juha Lahnakoski. The last one presented some very interesting experiments in which brain activity was measured whilst volunteers watched short clips from films </p> 
+         <p><b>Conclusion</b>&nbsp;The workshop was not only an excellent opportunity to present the work developed as part of my PhD at UCL, but it also allowed me to meet and exchange ideas with several experts from Europe and the USA.</p> 
+         <!--  Text: [end] --> 
+        </div> 
+        <!--  Image block: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:29470/textpic [end] --> 
+       <!--  CONTENT ELEMENT, uid:27691/textpic [begin] --> 
+       <div id="c27691" class="csc-frame csc-frame-rulerAfter"> 
+        <!--  Header: [begin] --> 
+        <div class="csc-header csc-header-n5">
+         <h1>Chaiyong Ragkhitwetsagul, SCAM/ICSME/SSBSE 2016 in Raleigh USA</h1>
+        </div> 
+        <!--  Header: [end] --> 
+        <!--  Image block: [begin] --> 
+        <div class="csc-textpic-text"> 
+         <!--  Text: [begin] --> 
+         <p><img style="" width="780" height="305" alt="" src="fileadmin/_processed_/csm_CR1_069f29dd9c.jpg"> </p> 
+         <p>I was very fortunate to have one paper accepted at the 16th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), and another paper accepted at the 8th International Symposium on Search-based Software Engineering (SSBSE). Both of them were co-located with one of major conferences in software engineering, the 32<sup>nd</sup> IEEE International Conference on Software Maintenance and Evolution (ICSME). Thus, I decided to submit my PhD topic to the doctoral symposium track of ICSME and it was also accepted. That made my trip to Raleigh in North Carolina a very meaningful one. This was also my first time to attend a conference so I was very excited. </p> 
+         <p>Raleigh was a nice medium-size city with a lot of oak trees (that is why it is called “city of oaks”). It is in the southern part of USA and a center of high-tech and biotech research. Red Hat headquarter is located just in the heart of the city. SCAM and ICSME were located at Raleigh Marriott City Center in downtown Raleigh while SSBSE was located just a few blocks away at Holiday Inn. </p> 
+         <p><img style="" width="545" height="358" alt="" src="fileadmin/user_upload/CR2.jpg"> </p> 
+         <p>Since I had one paper in each conference, I was busy during my whole stay in Raliegh. I started off by presenting my work titled “Similarity of Source Code in the Presence of Pervasive Modifications” on the 2<sup>nd</sup> day of SCAM. I really liked the conference since it had friendly atmosphere that encouraged attendees to discuss and exchange ideas. The Q&amp;A was also special. After each session ended, there were 30 minutes reserved to discuss the three papers which had just been presented or any controversial statements. </p> 
+         <p><img style="" width="627" height="362" alt="" src="fileadmin/user_upload/CR3.jpg"> </p> 
+         <p>On the next day, I attended ICSME doctoral symposium which I found very useful for my PhD study. It was a session involving early and late PhD students with a panel of three experienced and friendly researchers. The atmosphere was very constructive. We were trained to pitch our research topic (my research topic was “Measuring Code Similarity in Large-scaled Code Corpora) within 1 and 3 minutes, giving warm (positive) and cool (negative) comments to other people’s work, and presenting our posters. I learned from my friends’ work and received many useful feedbacks from them which I’ll adapt to my research. </p> 
+         <p>Since I had to wait to present another paper at SSBSE which started after ICSME, I had free time for 3 days to go into ICSME talks that were interesting to me. I found several talks which were fascinating in software engineering and some of them related to the work I’m currently doing. I also found that attending a conference gives you an opportunity to make connections with other researchers. Some of them might be people that you admire, you use their proposed techniques/approaches, or you read their papers. </p> 
+         <p><img style="" width="648" height="359" alt="" src="fileadmin/user_upload/CR4.jpg"> </p> 
+         <p>Last but not the least, after ICSME, I presented a challenge track paper at SSBSE under the title “Searching for Configurations in Clone Evaluation: A Replication Study”. We used a search-based technique to optimise agreement of four code clone detectors. It was also interesting to listen to other work in this area of search-based software engineering. </p> 
+         <p>Attending a conference for the very first time in my life turned out to be a very memorable experience. I found that there is still so much more to learn and to work on. I will just have to work hard and be inspired to keep producing good work and wait for the second conference to come. Finally, I would like to thank you CS department for supporting me during my stay in Raleigh.&nbsp; </p> 
+         <!--  Text: [end] --> 
+        </div> 
+        <!--  Image block: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:27691/textpic [end] --> 
+       <!--  CONTENT ELEMENT, uid:27210/textpic [begin] --> 
+       <div id="c27210" class="csc-frame csc-frame-rulerAfter"> 
+        <!--  Header: [begin] --> 
+        <div class="csc-header csc-header-n6">
+         <h1>Zbigniew Wojna, Machine Learning Summer School 2016 in Cadiz, Spain</h1>
+        </div> 
+        <!--  Header: [end] --> 
+        <!--  Image block: [begin] --> 
+        <div class="csc-textpic csc-textpic-center csc-textpic-above">
+         <div class="csc-textpic-imagewrap">
+          <div class="csc-textpic-center-outer">
+           <div class="csc-textpic-center-inner">
+            <div class="csc-textpic-image csc-textpic-last">
+             <img src="fileadmin/user_upload/MLSS1.jpg" width="705" height="320" alt="" border="0">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="csc-textpic-text"> 
+          <!--  Text: [begin] --> 
+          <p>MLSS is the biggest and most recognized summer school for PhD students, young scientists, researchers who transition from different field and enthusiasts from industry. The series was started in 2002 with the motivation to promulgate modern methods of statistical machine learning and inference. This year’s summer school was held at the University of Cádiz, in Cádiz, Spain, from 11-21th May, 2016. It is considered one of the oldest continuously inhabited city in Western Europe, established in 1100 BC. Hence, the city boasts of an impressive heritage as well as some of the most beautiful beaches in Spain. The courses consists of lectures by <a href="http://learning.mpi-sws.org/mlss2016/speakers/" target="_top">respected researchers</a> who come from the industry as well as from academia. The topics touch several fundamental as well as advanced concepts related to, but not limited to, machine learning, data analysis and inference. There were also tutorials, which concentrate on the practical aspect of machine learning. </p> 
+          <p>The summer school was co-organized with the 19th International Conference on Artificial Intelligence and Statistics (AISTATS 2016). This is typical practice for the summer school to follow by Machine Learning conference. For new adepts it is a great chance to be properly introduced to fundamentals topics in research and in the same time, get familiar with the latest advances. </p> 
+          <p class="align-center"><img style="transform: rotate(0rad);" width="362" height="483" alt="" src="https://lh6.googleusercontent.com/eWggWmcFFiRd8k6ePByaZBh5vWz5WSoTU27-vSOK3DSIbE9QrTJC0cv4KpAv32JIfCPzN2W0iJGyaWnWHBAZ5s8rXINQP41l2c0VMtpOwf5uJNStRnK2EdbQ-EE8LYttgNhkc3Gl"></p> 
+          <p>One publication that I specifically liked and which is relevant for my research is the work titled <a href="http://arxiv.org/pdf/1510.02795v1.pdf" target="_top">“Dreaming More Data: Class-dependent Distributions over Diffeomorphisms for Learned Data Augmentation”</a>. This is new very interesting approach to data augmentation. Authors synthesize new observations by applying pre-specified transformations to the original training data. Particularly, aligned image pairs within each class under the assumption that the spatial transformation between images belongs to a large class of diffeomorphisms. For each class, then build a probabilistic generative model of the transformations. That gave them significant improvement over some state-of-the-art results. </p> 
+          <p>Lectures during the summer school were usually taught in 4 hours block per specific topics. The topics cover almost all the possible areas of machine learning. To me, the most interesting ones were the one that I know the least about. Bernhard Schölkopf gave very inspiring talk about the causal inference, he presented few methods how to infer the causality over the group of variables, even for a pair of variables. It is interesting to think about it, the correlation between number of nobelists is very strongly correlated with the amount of chocolate consumed in particular country :) There were 2 very informative blocks about nonparametric models (Gaussian Processes, Dirichlet and Chinese Restaurant Process) from Neil Lawrence and Tamara Broderick. David Lopez-Paz made me realized that calculating SVD can be done with randomized methods reducing significantly the complexity. Stephen Mallat talked about the theory behind the scatter networks and robustness proofs for such image recognition structure. </p> 
+          <p>Some claim, that the most important is the social aspect. And that is definitely true, long evenings of machine learning discussion with new friends, sipping sweet refreshing sangria, will definitely stay in my heart for long time. </p> 
+          <p><img style="transform: rotate(0rad);" width="624" height="416" alt="" src="https://lh3.googleusercontent.com/fh6AeXHbbAwlr691zLTUEPtwhd5xoAjwFZ0q5kfaL8nXlEZfBFiaVUY2N6ZVwPPwylLXCeFHAUFMdQ4Runwe2NVqIiScwTjRe5MVi7VAWoqyxvfgxw_wUraEAMYJ3FrYWYgOKtH9"> </p> 
+          <p>* Note that the videos of many past MLSS courses are available at <a href="http://videolectures.net/site/search/?q=MLSS" target="_top">Videolectures</a>. The talks from the most recent MLSS can be found at <a href="http://learning.mpi-sws.org/mlss2016/videos" target="_top">http://learning.mpi-sws.org/mlss2016/videos</a>. </p> 
+          <p>-------------------------------------------</p> 
+          <!--  Text: [end] --> 
+         </div>
+        </div> 
+        <!--  Image block: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:27210/textpic [end] --> 
+       <!--  CONTENT ELEMENT, uid:27161/textpic [begin] --> 
+       <div id="c27161" class="csc-frame csc-frame-invisible"> 
+        <!--  Header: [begin] --> 
+        <div class="csc-header csc-header-n7">
+         <h1>Yiran Cui, National Institute of Informatics, Internship 2016, Tokyo</h1>
+        </div> 
+        <!--  Header: [end] --> 
+        <!--  Image block: [begin] --> 
+        <div class="csc-textpic csc-textpic-center csc-textpic-below csc-textpic-equalheight">
+         <div class="csc-textpic-text"> 
+          <!--  Text: [begin] --> 
+          <p class="align-center"><img class="" style="" width="520" height="280" alt="" src="fileadmin/_processed_/csm_Japan_5_116bdfc297.jpg"></p> 
+          <p class="align-center">(A look from the building of NII)</p> 
+          <p>National Institute of Informatics (NII) is the only nationwide research centre on informatics &amp; technology in Japan. Under the MOU agreement between UCL and NII, I took a few months being an intern at the Division of Principles of Informatics Research. </p> 
+          <p>Thanks to the great platform that NII provides, I got the precious opportunity to learn from the most knowledgeable people in the numerical linear algebra and optimization area. Our work has been presented at many conferences and workshops, and was submitted to SIAM journal on Optimization recently. </p> 
+          <p>It is great to have such an experience in a typical eastern country where the research and living environment is very different from UK or the other western countries. Japanese researchers live up to their reputation in diligence, rigour, and being good at taking in technologies irrespective of their origins. I can always find prompt and useful help from my supervisor and fellow students, which makes our collaborative research progress efficiently. Immersed in this atmosphere, one would feel like being a studious and dependable person like they are. </p> 
+          <!--  Text: [end] --> 
+         </div>
+         <div class="csc-textpic-imagewrap">
+          <div class="csc-textpic-center-outer">
+           <div class="csc-textpic-center-inner">
+            <div class="csc-textpic-imagerow csc-textpic-imagerow-last">
+             <div class="csc-textpic-imagecolumn csc-textpic-firstcol">
+              <div class="csc-textpic-image csc-textpic-last">
+               <img src="fileadmin/_processed_/csm_Japan_4_fb81d35212.jpg" width="188" height="250" alt="" border="0">
+              </div>
+             </div> 
+             <div class="csc-textpic-imagecolumn csc-textpic-lastcol">
+              <div class="csc-textpic-image csc-textpic-last">
+               <img src="fileadmin/_processed_/csm_Japan_1_2d99cc7178.jpg" width="200" height="250" alt="" border="0">
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div> 
+        <!--  Image block: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:27161/textpic [end] --> 
+       <!--  CONTENT ELEMENT, uid:27164/textpic [begin] --> 
+       <div id="c27164" class="csc-frame csc-frame-rulerAfter"> 
+        <!--  Image block: [begin] --> 
+        <div class="csc-textpic csc-textpic-center csc-textpic-below csc-textpic-equalheight">
+         <div class="csc-textpic-text"> 
+          <!--  Text: [begin] --> 
+          <p>Similar to their attitude towards science, Japan welcomes food from every corner of the world: once I even found a Fish &amp; Chips place at Roppongi (a central part of Tokyo that is famous for active night life). </p> 
+          <p>Aside from research, I feel very fortunate to catch the sakura (cherry) blossom, which is short but stunning. For one week, pink and white shaded the sky in the daytime,and lightened the night. The city was swarming with hanami (flower- viewing) tourists and become full of life. I have the impression that the blossom is the “spring festival” for Japan. </p> 
+          <!--  Text: [end] --> 
+         </div>
+         <div class="csc-textpic-imagewrap">
+          <div class="csc-textpic-center-outer">
+           <div class="csc-textpic-center-inner">
+            <div class="csc-textpic-imagerow csc-textpic-imagerow-last">
+             <div class="csc-textpic-imagecolumn csc-textpic-firstcol">
+              <div class="csc-textpic-image csc-textpic-last">
+               <img src="fileadmin/_processed_/csm_Japan_2_86f5d04a01.jpg" width="188" height="250" alt="" border="0">
+              </div>
+             </div> 
+             <div class="csc-textpic-imagecolumn csc-textpic-lastcol">
+              <div class="csc-textpic-image csc-textpic-last">
+               <img src="fileadmin/_processed_/csm_Japan_3_a2e8a40eec.jpg" width="250" height="250" alt="" border="0">
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div> 
+        <!--  Image block: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:27164/textpic [end] --> 
+       <!--  CONTENT ELEMENT, uid:26213/textpic [begin] --> 
+       <div id="c26213" class="csc-frame csc-frame-rulerBefore"> 
+        <!--  Header: [begin] --> 
+        <div class="csc-header csc-header-n9">
+         <h1>Rui Yu, ICCV15, Santiago</h1>
+        </div> 
+        <!--  Header: [end] --> 
+        <!--  Image block: [begin] --> 
+        <div class="csc-textpic csc-textpic-intext-right">
+         <div class="csc-textpic-imagewrap">
+          <div class="csc-textpic-image csc-textpic-last">
+           <img src="fileadmin/_processed_/csm_iccv2015_5fc31b5f6b.png" width="370" height="125" alt="" border="0">
+          </div>
+         </div>
+         <div class="csc-textpic-text"> 
+          <!--  Text: [begin] --> 
+          <p>ICCV is the premiere biennial conference on computer vision and this year ICCV15 was held in beautiful Santiago, Chile from 11 to 18 Dec. The first and last two days were devoted to workshops and tutorials, and the four-day main conference ran from 13-16. </p> 
+          <p>Due to the recent take-off of deep learning techniques, the computer vision community has kept growing rapidly and attracted more and more industry interests. This year there was 1698 valid submissions, of which 525 papers (30.3%) were accepted and 56 (3.3%) were selected for oral presentation. There were also a record number of attendees (1460) and company sponsors (more than 20) supporting best paper awards, the doctor consortium, and travel support etc. </p> 
+          <p><b>Interesting papers</b> </p> 
+          <p>Learning image representations tied to ego-motion Dinesh Jayaraman and Kristen Grauman. &nbsp;In this work, the authors propose to exploit proprioceptive motor signals to provide unsupervised regularization in convolutional neural networks to learn visual representations from egocentric video. Specifically, they enforce that the learned features exhibit equivariance i.e. they respond predictably to transformations associated with distinct egomotions. </p> 
+          <p>MeshStereo: A Global Stereo Model With Mesh Alignment Regularisation for View Interpolation Chi Zhang, Zhiwei Li, Yanhua Cheng, Rui Cai, Hongyang Chao, Yong Rui They proposed a stereo model for view interpolation whose output can be easily converted to a triangular mesh in 3D. The outputted mesh is able to synthesise novel views with both visual coherency and high PSNR values. </p> 
+          <p>Render for CNN: Viewpoint Estimation in Images using CNNs trained with Rendered 3D Model Views Hao Su, Charles R. Qi, Yangyan Li, Leonidas J. Guibas They proposed a scalable and overfit- resistant image synthesis pipeline, together with a novel CNN specifically tailored for the viewpoint estimation task. They results are very interesting, trained on millions of ”rendered” images, the CNN-based viewpoint estimator significantly outperforms state-of-the-art methods, tested on "real" images from the challenging PASCAL 3D+ dataset. </p> 
+          <p>Unsupervised Visual Representation Learning by Context Prediction, Carl Doersch, Abhinav Gupta, and Alexei A. Efros. This work explores the use of spatial context as a source of free and plentiful supervisory signal for training a rich visual representation. Given only a large, unlabelled image collection, we extract random pairs of patches from each image and train a convolutional neural net to predict the position of the second patch relative to the first. They show that doing well on this artificial task requires the model to learn to recognize objects and their parts. </p> 
+          <p>These are just two of the many interesting unsupervised or weakly-supervised learning papers in this conference. It is clear that as supervised deep learning needs a lot of expensive labelled data to achieve good performance, unsupervised learning will be an interesting trend in the next few years. </p> 
+          <p><b>Plenary talk</b> </p> 
+          <p>Stephen Boyd from Stanford gave a great inspiring talk on convex optimisation. He talked about his recent work on matrix-free optimisation and under development python optimisation library CVXPY, which is much faster than traditional methods and feasible for solving vision-type problems, which typically involves tens of thousands or even millions of variables. In particular, he emphases that although this technique is often much slower than custom optimisation methods tailored for particular applications, it is much more flexible general and doesn't need any tuning. Therefore, it is extremely useful for fast prototyping and research. </p> 
+          <p><b>Workshops and tutorials</b> </p> 
+          <p>Apart from main conference, I’d also attended some interesting tutorials (“how to build a digital body” etc) and workshops ("Joint ImageNet and MS COCO Visual Recognition Challenges" etc) Workshop “how to build a digital body” was organised by Michael Black’s group from Max Planck Institute. In this tutorial, they gave a complete tour of human modelling work in the whole group, including the establishment of huge amount of body scans using their advanced 4D scanners and several interesting work on modelling body deformations. It's exciting to see that these techniques have progressed so rapidly that we will probably see some interesting applications in the next few years. </p> 
+          <p>Since ILSVRC2012 (ImageNet Large Scale Visual Recognition Challenge 2012), deep learning has become the mainstream in this rapid progressing field. This year ILSVRC2015 was held together with MS COCO (Microsoft Common Objects in Context). MSRA (Microsoft Research Asia) team has successfully trained an ultra-deep 152-layer network, won all the classification, localisation and detection challenges and beaten other teams by a large margin. Specifically, they achieved a top-5 error rate of 3.57 on ImageNet classification challenge?compared with 5.1 human performance error rate. What’s amazing is that the features trained using this deep network generalises really well to detection and localisation tasks. </p> 
+          <p>In summary, I enjoyed ICCV15 a lot and it was definitely the busiest and interesting conferences I’ve attended so far. </p> 
+          <p>-----------------------------------------------------------------------------------------------------------------------------------</p> 
+          <!--  Text: [end] --> 
+         </div>
+        </div> 
+        <!--  Image block: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:26213/textpic [end] --> 
+       <!--  CONTENT ELEMENT, uid:25026/textpic [begin] --> 
+       <div id="c25026" class="csc-default"> 
+        <!--  Header: [begin] --> 
+        <div class="csc-header csc-header-n10">
+         <h1>Georgios Nikolaidis, MobiCom 2015, Paris</h1>
+        </div> 
+        <!--  Header: [end] --> 
+        <!--  Image block: [begin] --> 
+        <div class="csc-textpic csc-textpic-intext-right">
+         <div class="csc-textpic-imagewrap">
+          <div class="csc-textpic-image csc-textpic-last">
+           <img src="fileadmin/_processed_/csm_eiffel-tower_88193ad5ec.jpg" width="370" height="247" alt="" border="0">
+          </div>
+         </div>
+         <div class="csc-textpic-text"> 
+          <!--  Text: [begin] --> 
+          <p>This year, the Annual International Conference on Mobile Computing and Networking (MobiCom) - the 21st in the series - crossed two oceans and from Maui it landed in Paris. </p> 
+          <p>Being one of the premier venues for wireless and mobile research and the flagship conference of ACM SIGMOBILE, it attracts people from industry and academia from all over the world. Although this was the first time I attended the conference, it was nice to see several familiar faces, mostly due to the overlap of the ACM SIGCOMM and ACM SIGMOBILE communities. At the same time, it being a smaller and more focused venue made the experience more intimate and mingling easier. The program started with a very promising work that allows users to charge all kinds of mobile devices, from phones to smartwatches and fitness trackers, wirelessly. Although such technology already exists, the authors have built a prototype that allows several devices to charge concurrently and does not require placing them on a special surface, but can charge them from a distance of up to half a meter. In fact, the work is so mature that the authors are preparing to launch a startup that capitalizes on their research. Wireless sensing, i.e. using wireless signals to track motion, was a major theme in the conference with several applications from user tracking to snooping keystrokes from a keyboard. The variety of themes was pleasantly surprising at times, with papers on the protection of copyrighted material, a framework for IoT devices, and efficient video surveillance systems, interspersed with papers on core networking and wireless research. </p> 
+          <p>The best paper award was given to CAreDroid, which is a framework that allows developers to create context aware mobile applications with far fewer lines of code that at the same time run faster and with greater power efficiency. For the first time this year authors were also encouraged to produce a one-minute video on their work and there was a best video award, which given to a team from Dartmouth College presenting their work on sensing motion using visible light communication, that was pretty sleek indeed. I attended a collocated workshop as well, ACM S3, where I gave a talk on my work and got useful feedback. There was also a student-employer forum that gave the opportunity to students to come into contact with potential employers in a very relaxed way, and an app contest where participants pitched their apps to VCs. Finally, the organization of the conference was excellent, the food admittedly superb and Paris majestically beautiful.</p> 
+          <!--  Text: [end] --> 
+         </div>
+        </div> 
+        <!--  Image block: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:25026/textpic [end] --> 
+      </div> 
+      <!-- End of div for main text --> 
+     </div> 
+     <!-- End of middle content --> 
+    </div> 
+    <!-- End of inner container --> 
+   </div> 
+   <!-- Start of main content div --> 
+   <!-- Start of footer div --> 
+   <div id="footer" class="page_layout clearblock"> 
+    <div id="owner"> 
+     <div class="tx-responsible-pi1">
+      This page was last modified on 20 Mar 2017 and is maintained by 
+      <a href="mailto:postgradadmin@cs.ucl.ac.uk">Research Student Administrator</a> 
+     </div> 
+    </div> 
+    <div id="footer_1" class="clearblock"> 
+     <div id="address"> 
+      <p>Computer Science Department </p> 
+      <p>University College London </p> 
+      <p>Gower Street </p> 
+      <p>London </p> 
+      <p>WC1E 6BT </p> 
+     </div> 
+     <div id="telephone"> 
+      <p> <img src="fileadmin/UCL-CS/web_assets/other_images/phone.gif" width="13" height="9" id="phone" alt="Telephone:"> +44 (0)20 7679 7214 </p> 
+     </div> 
+     <div id="engfac"> 
+      <a href="http://www.engineering.ucl.ac.uk/"> <img src="fileadmin/UCL-CS/web_assets/other_images/ucle_logo_trans.png" id="ucl_eng_logo" alt="UCL Engineering Logo"> </a> 
+     </div> 
+     <div class="page_layout clearblock"> 
+     </div> 
+    </div> 
+    <div id="footer_2" class="clearblock"> 
+     <div id="disclaimer"> 
+      <ul class="inlineList"> 
+       <li> <a href="http://www.ucl.ac.uk/disclaimer/" title="Disclaimer" target="_top">Disclaimer</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/cookies/" title="Cookies" target="_top">Cookies</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/accessibility/" title="Accessibility" target="_top">Accessibility</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/priv/" title="Privacy" target="_top">Privacy</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/advanced-search/" title="UCL Advanced Search" target="_top">Advanced Search</a>| </li> 
+       <li> <a href="http://www.cs.ucl.ac.uk/help/?noMobile=1" title="Help" target="_top">Help</a> </li> 
+      </ul> 
+     </div> 
+     <div id="copyright"> 
+      <p>Copyright © 1999- 2017 UCL </p> 
+     </div> 
+     <div class="page_layout clearblock"> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- End of footer div --> 
+   <div class="page_layout clearblock"></div> 
+  </div>  
+ </body>
+</html>

@@ -15,24 +15,20 @@ public class Parser {
 	private static final String OUTPUTDIR = "pageText";
 
 	public void Parse() throws Exception {
-		// Tika默认是10*1024*1024，这里防止文件过大导致Tika报错
+		
 		
 		File inputPath = new File(INPUTDIR);
 		String[] filelist = inputPath.list();
-		for (int i = 0; i < inputPath.length(); i++) {
+		for (int i = 0; i < inputPath.length(); i++) {			
 			BodyContentHandler handler = new BodyContentHandler(1024 * 1024 * 10);
-			Metadata metadata = new Metadata();
-			
+			Metadata metadata = new Metadata();			
 			//File readfile = new File(INPUTDIR + "\\" + filelist[i]);
 			File inputFile = new File(INPUTDIR,filelist[i]);
 			FileInputStream inputstream = new FileInputStream(inputFile);
 			ParseContext pcontext = new ParseContext();
-			
-			// 解析HTML文档时应由超类AbstractParser的派生类HtmlParser实现
-			HtmlParser msofficeparser = new HtmlParser();
-			
+			HtmlParser msofficeparser = new HtmlParser();	
 			msofficeparser.parse(inputstream, handler, metadata, pcontext);
-			FileOutputStream fs = new FileOutputStream(new File(OUTPUTDIR,inputFile.getName()+".txt"));
+			FileOutputStream fs = new FileOutputStream(new File(OUTPUTDIR,inputFile.getName()));
 			PrintStream p = new PrintStream(fs);
 			p.println(handler.toString());
 

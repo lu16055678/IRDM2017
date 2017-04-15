@@ -1,5 +1,8 @@
 package Index;
-
+/**
+ * This code was based on the source code on tutorials of Apache Lucene website.
+ * It was modified by @author mingminlu.
+ */
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;

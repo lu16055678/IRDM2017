@@ -1,0 +1,569 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus Index 2017-2018 (Provisional) ›› COMPM034 - Multimedia Systems 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPM034 - Multimedia Systems
+
+       This database contains the 2017-18 versions of syllabuses. These are still being finalised and changes may occur before the start of the session.
+
+       Syllabuses from the 2016-17 session are available here.
+
+        
+         
+         
+          
+         	Code	 COMPM034 (Also taught as: COMPGZ05 Multimedia) 
+	Year	4
+	Prerequisites	
+	Term	2
+	Taught By	Mark Handley (100%) 
+	Aims	The aims of this course are to describe the ways in which multimedia information is captured, processed, and rendered, to introduce multimedia quality of service (QoS) and to compare subjective and objective methods of assessing user satisfaction, to analyse the ways in which multimedia data is transmitted across networks, and to discuss privacy and copyright issues in the context of multimedia. 
+	Learning Outcomes	The ability to: describe different realisations of multimedia tools and the way in which they are used; analyse the structure of the tools in the light of low-level constraints imposed by the adoption of various QoS schemes (ie bottom up approach); analyse the effects of scale and use on both presentation and lower-level requirements (ie top down approach); state the properties of different media streams; compare and contrast different network protocols and to describe mechanisms for providing QoS guarantees in the network. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         
+Introduction and overview.
+Discrete Cosine Transform
+          
+Coefficient Coding 
+          
+
+          
+
+          Audio Coding.
+Analogue and digital form:
+          
+ - Sample rate, bits/sample, nyquist rate, CD audio
+          
+Compression techniques:
+          
+ - PCM, ADPCM, LPC, GSM/CELP, MP3/AAC 
+          
+
+Video
+          
+TV Standards:
+          
+- Interlacing vs progressive scan, PAL, NTSC, SECAM
+          
+Video digitisation
+          
+Raw Image Representation:
+          
+- RGB, YUV411, YUV422, Indexed color vs true colour
+          
+Image Compression:
+          
+- GIF, JPEG, Motion JPEG:
+          
+Video Compression:
+          
+- Motion estimation
+          
+- Motion compensation
+          
+Video Compression Schemes:
+          
+- H.261, H.263
+          
+- MPEG 1, MPEG 2, MPEG 4
+          
+Video Adaptation:
+          
+- Sender-side adaptation, buffering, VBR->CBR conversion 
+          
+
+          
+System Streams
+          
+MPEG program and transport streams
+          
+H.221 framing (for ISDN)
+          
+IP-based transport:
+          
+- packet loss
+          
+- TCP vs UDP
+          
+- Application-level framing
+          
+- RTP
+          
+- H.261 as example of payload format
+          
+- DCCP
+          
+Audio/Video synchronization
+          
+- RTCP
+          
+- MPEG system stream 
+          
+
+          
+Signalling
+          
+H.323
+          
+SIP and SDP
+          
+RTSP
+          
+Megaco 
+          
+
+          
+OS Issues
+          
+Buffering
+          
+Scheduling 
+          
+
+          
+Describing Network Traffic
+          
+Traffic patterns
+          
+Application requirements
+          
+QoS parameters and descriptions 
+          
+
+          
+Congestion control and Resource Management
+          
+TCP congestion control
+          
+Real-time traffic congestion control
+          
+Queue management:
+          
+- Random Early Detection + other AQM
+          
+- Explicit Congection Notification (ECN)
+          
+- Scheduling mechanisms (FQ, WFQ) 
+          
+
+          
+Enhanced Quality of Service
+          
+Intserv
+          
+Resource reSerVation Protocol (RSVP)
+          
+Diffserv 
+          
+
+          
+IP Multicast
+          
+Service Model
+          
+Layered transmission
+          
+Multicast congestion control 
+          
+
+          
+Digital rights management
+          
+Legal issues
+          
+Watermarking 
+          
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lecture presentations
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	 Written Examination (2 hours, 85%)
+	Coursework Section (15%)
+
+
+         To pass this course, students must:
+
+         	Obtain an overall pass mark of 50% for all sections combined
+	Obtain a minimum mark of 40% in each component worth ≥ 30% of the module as a whole.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 03 Apr 2017 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

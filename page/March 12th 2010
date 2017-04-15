@@ -1,0 +1,374 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--?xml version="1.0" encoding="utf-8"?-->
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2016 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+--> 
+  <base href="http://www.cs.ucl.ac.uk/"> 
+  <link rel="shortcut icon" href="/fileadmin/UCL-CS/favicon.ico" type="image/x-icon; charset=binary"> 
+  <link rel="icon" href="/fileadmin/UCL-CS/favicon.ico" type="image/x-icon; charset=binary"> 
+  <meta name="generator" content="TYPO3 CMS"> 
+  <meta name="keywords" content="University, College, London, Computer Science"> 
+  <meta name="charset" content="utf-8"> 
+  <link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_1734292a8f.css?1458040091" media="all"> 
+  <link rel="stylesheet" type="text/css" href="fileadmin/UCL-CS/css/csCommon.css?1485355348" media="all"> 
+  <script src="uploads/tx_t3jquery/jquery-1.8.x-1.9.x-1.2.x.js?1383917144" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/googleAnalytics.js?1340190657" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/jqueryImageSlider2.js?1391601155" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/start.fader.js?1413468507" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/jquery.bxslider.js?1391781521" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/jquery.kinetic.js?1432630323" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/startKinetic.js?1432630719" type="text/javascript"></script> 
+  <title>
+			March 12th 2010
+		</title> 
+  <link rel="stylesheet" type="text/css" href="fileadmin/UCL-CS/css/csDT2Col.css" media="all"> 
+ </head> 
+ <body> 
+  <div id="everything" class="page_layout"> 
+   <!-- Div for UCL banner --> 
+   <div id="banner" class="page_layout"> 
+    <div id="section_head">
+      Department of Computer Science 
+    </div> 
+    <div id="UCLLogo"> 
+     <a href="http://www.ucl.ac.uk/" target="_top"> <img id="ucl_logo" src="fileadmin/UCL-CS/web_assets/ucl_logo/ucl_logo_whitebg.png" alt="UCL - Home"></a> 
+    </div> 
+   </div> 
+   <!-- End of div for UCL banner --> 
+   <!-- Div for UCL divider --> 
+   <div id="ucl_divider" class="page_layout"> 
+    <!-- UCL Search - CS site--> 
+    <form class="searchForm" id="googlesearch" method="get" action="http://search2.ucl.ac.uk/s/search.html?collection=website-meta&amp;profile=_website&amp;tab=websites"> 
+     <input class="text" type="text" placeholder="Search UCL-CS" value="" accesskey="q" name="query"> 
+     <input class="button" type="submit" value="" name="Submit"> 
+     <input type="hidden" value="ucl-public-meta" name="collection"> 
+     <input type="hidden" value="cs" name="subsite"> 
+    </form> 
+    <div id="breadcrumb" class="breadcrumb"> 
+     <a href="home/">›&nbsp;Home</a>
+     <a href="current_students/">&nbsp;››&nbsp;Current Students</a>
+     <a href="current_students/student_information/">&nbsp;››&nbsp;Student Information</a>
+     <a href="current_students/student_information/staff_student_committee/">&nbsp;››&nbsp;Staff-Student Committee</a>
+     <a href="current_students/student_information/staff_student_committee/minutes/">&nbsp;››&nbsp;Minutes</a>&nbsp;››&nbsp;March 12th 2010 
+    </div> 
+   </div> 
+   <!-- End of div for UCL divider --> 
+   <!-- Start of main content div --> 
+   <div id="mainDiv"> 
+    <!-- Start of inner container --> 
+    <div id="innerContainer"> 
+     <!-- Start of left content--> 
+     <div id="leftCol" class="leftContent"> 
+      <!-- left content start --> 
+      <!--  CONTENT ELEMENT, uid:19043/list [begin] --> 
+      <div id="c19043" class="csc-default"> 
+       <!--  Plugin inserted: [begin] --> 
+       <div class="tx-typoscript2ce"> 
+        <div id="mobileText">
+         <h3><a href="mobile/current_students/student_information/staff_student_committee/minutes/march_12th_2010/">Mobile Version</a></h3>
+        </div> 
+       </div> 
+       <!--  Plugin inserted: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19043/list [end] --> 
+      <!--  CONTENT ELEMENT, uid:19061/menu [begin] --> 
+      <div id="c19061" class="csc-default"> 
+       <!--  Menu/Sitemap element: [begin] --> 
+       <ul class="csc-menu csc-menu-def">
+        <li><a href="home/" title="Home">Home</a></li>
+        <li><a href="prospective_students/" title="Prospective Students">Prospective Students</a></li>
+        <li><a href="research/" title="Research">Research</a></li>
+        <li><a href="industry_outreach/" title="Industry &amp; Outreach">Industry &amp; Outreach</a></li>
+        <li><a href="careers/" title="Careers">Careers</a></li>
+        <li><a href="current_students/" title="Current Students"><span class="inPath">Current Students</span></a></li>
+        <li><a href="people/?no_cache=1" title="People">People</a></li>
+        <li><a href="about_us/" title="About Us">About Us</a></li>
+        <li><a href="wics/home/" title="Women in Computer Science">Women in Computer Science</a></li>
+        <li><a href="intranet/" title="Staff Intranet">Staff Intranet</a></li>
+       </ul> 
+       <!--  Menu/Sitemap element: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19061/menu [end] --> 
+      <!--  CONTENT ELEMENT, uid:23946/list [begin] --> 
+      <div id="c23946" class="csc-default"> 
+       <!--  Plugin inserted: [begin] --> 
+       <div class="tx-typoscript2ce"> 
+       </div> 
+       <!--  Plugin inserted: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:23946/list [end] --> 
+      <!--  CONTENT ELEMENT, uid:19046/image [begin] --> 
+      <div id="c19046" class="csc-default csc-space-before-50 csc-space-after-50"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-above">
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-imagerow csc-textpic-imagerow-last">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.facebook.com/pages/University-College-London-Computer-Science/132472916819198" target="_top"><img src="fileadmin/_processed_/csm_facebook_03_a3f147f505.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.linkedin.com/groups?gid=4046543&amp;trk=myg_ugrp_ovr" target="_top"><img src="fileadmin/_processed_/csm_linkedin_03_6c9523f528.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="https://twitter.com/#!/uclcs" target="_top"><img src="fileadmin/_processed_/csm_twitter_03_0c37f5536b.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.youtube.com/user/UCLComputerScience/videos" target="_top"><img src="fileadmin/_processed_/csm_youtube_04_6b8742f9fc.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19046/image [end] --> 
+      <!--  CONTENT ELEMENT, uid:19044/list [begin] --> 
+      <div id="c19044" class="csc-default csc-space-before-30 csc-space-after-50"> 
+       <!--  Header: [begin] --> 
+       <div class="csc-header csc-header-n5">
+        <h1><a href="events/">Forthcoming Events</a></h1>
+       </div> 
+       <!--  Header: [end] --> 
+       <!--  Plugin inserted: [begin] --> 
+       <div class="tx-typoscript2ce"> 
+        <div id="events_div" class="controlledTicker"> 
+         <ul> 
+          <li> New events will be posted here as soon as details become known. </li> 
+         </ul>
+        </div> 
+       </div> 
+       <!--  Plugin inserted: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19044/list [end] --> 
+      <!--  CONTENT ELEMENT, uid:26215/textpic [begin] --> 
+      <div id="c26215" class="csc-default csc-space-before-20"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-above">
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-image csc-textpic-last">
+          <a href="http://www.cs.ucl.ac.uk/degrees/" target="_top"><img src="fileadmin/_processed_/csm_bcs_85243c6ac1.png" width="105" height="43" alt="" border="0"></a>
+         </div>
+        </div>
+        <div class="csc-textpic-text"></div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:26215/textpic [end] --> 
+      <!--  CONTENT ELEMENT, uid:19047/textpic [begin] --> 
+      <div id="c19047" class="csc-default csc-space-before-5"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-below">
+        <div class="csc-textpic-text"></div>
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-imagerow csc-textpic-imagerow-last">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="https://www.itskillsacademy.org.uk/about-us/who-we-work-with/" target="_top"><img src="fileadmin/_processed_/csm_e_skills_d4087aff09.jpg" width="105" height="89" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.cs.ucl.ac.uk/computer_science_news/article/athena-swan-silver-award-for-ucl-computer-science/" target="_top"><img src="fileadmin/_processed_/csm_AthenaSwanLogo_silver_efa303f87a.jpg" width="105" height="58" alt="" border="0"></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19047/textpic [end] --> 
+      <!--  CONTENT ELEMENT, uid:21855/image [begin] --> 
+      <div id="c21855" class="csc-default csc-space-before-15"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-above">
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-imagerow">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.computingatschool.org.uk/" target="_top" title="Network of Excellence - Computer Science"><img src="fileadmin/_processed_/csm_NOE_image_a809f677bf.jpg" width="220" height="63" alt="Network of Excellence - Computer Science" border="0"></a>
+           </div>
+          </div>
+         </div> 
+         <div class="csc-textpic-imagerow csc-textpic-imagerow-last">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.epsrc.ac.uk/research/centres/acecybersecurity/" target="_top" title="Academic Centre of Excellence - Cyber Security Research"><img src="fileadmin/_processed_/csm_GCHQ_image_851b6cc992.jpg" width="220" height="64" alt="Academic Centre of Excellence - Cyber Security Research" border="0"></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:21855/image [end] --> 
+      <!-- left content end --> 
+     </div> 
+     <!-- End of left content --> 
+     <!-- Start ofmiddle content --> 
+     <div id="middleCol"> 
+      <div id="mainText" class="text"> 
+       <!--  CONTENT ELEMENT, uid:5816/text [begin] --> 
+       <div id="c5816" class="csc-default"> 
+        <!--  Text: [begin] --> 
+        <p><b>Department of Computer Science</b></p>
+        <p><b>STAFF STUDENT CONSULTATIVE COMMITTEE&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+        <p>Friday 12<sup>th</sup>&nbsp;March 2010<br>1.03 Malet Place Engineering Building</p>
+        <p><b>M I N U T E S</b></p>
+        <p><i>STAFF PRESENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i></p>
+        <p>Dr Graham Roberts (Departmental Tutor, DEOLO, Director of Studies, Chair) JJ Giwa (Departmental Administrator, Facilities Management and Operations), Patricia Fenoy (Departmental Office Administrator), Neil Daeche (Head of Internal Infrastructure), Jan Kautz (Teaching Support Co-ordinator), Jill Saunders (Departmental Manager), Robin Hirsch (MSc CS Programme Co-ordinator)</p>
+        <p><i>STUDENT REPRESENTATIVES PRESENT:</i></p>
+        <p>Raunuk Gupta (3rd Year UG Rep), Kamil Olesiejuk (3rd Year UG Rep), Yotam Doron (MSc CGVI Rep), Daniel Ryder-Cook (MSc CSML Rep), William Mayor (2nd Year UG Rep), Lauriane Kayungu-Nyeledi (2nd Year UG Rep), Alexandru Matei (MSc SSE), Pritesh Shah (MSc FSE), Thomas Stone (Graduate Research), Muhammad Hussain (Graduate Research), Simon Heard (MSc CS Rep), Catriona Johnstone (MSc FC), Rami Al-Maarri (4th Year UG Rep), Saqib Kakvi (MSc ISec), Geerd-Dietger Hoffmann (MSc SSE), Bernhard Huemer (1st Year UG Rep) and Ola Jacob Raji&nbsp;&nbsp;(1st Year UG Rep)</p>
+        <p><i>IN ATTENDANCE:</i></p>
+        <p>Mr Chris Neil, Undergraduate Administrator, (Secretary)</p>
+        <p><b><i>Key to abbreviations:</i></b></p>
+        <p><b>DTC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Departmental Teaching Committee</b></p>
+        <p><b>JSSC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joint Staff Student Committee</b></p>
+        <p><b>IQR</b><b>Internal Quality Review</b></p>
+        <p><b>SSCC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Staff Student Consultative Committee</b></p>
+        <p><b>DEOLO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Departmental Equal Opportunities Liaison Officer</b></p>
+        <p><b>IS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information Security Programme</b></p>
+        <p><b>TSG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical Support Group</b></p>
+        <p><b>FC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial Computing Programme</b></p>
+        <p>1<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;APOLOGIES FOR ABSENCE.&nbsp;&nbsp;&nbsp;</b></p>
+        <p>The Chair welcomed the committee and noted that apologies for absence were received from&nbsp;Malcolm Reynolds (Graduate Research) and Ramune Kauaite (MSc CS Rep)</p>
+        <p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NOTIFICATION OF ANY OTHER BUSINESS</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JJ Giwa noted further business in regard to the Taught Student Operations and Premises Representative.&nbsp;</p>
+        <p>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>APPROVAL OF MINUTES OF THE LAST MEETING&gt;ON 26TH NOVEMBER 2009</b><br>- Minutes should be signed by the chair and at least one student representative.</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Chair asked the committee to check that the minutes of the previous meeting were accurate and asked one of the student representatives who were present to sign them off.&nbsp;</p>
+        <br style="page-break-before: always;" clear="all">
+        <p>4<b></b><b>MATTERS ARISING FROM THE MINUTES OF THE PREVIOUS MEETING:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+        <p>4.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Module feedback forms to be discussed by the Teaching Committee (Graham Roberts)</b></p>
+        <p>The Chair reported that this issue was raised at the DTC where it was thought that focus groups would be a better way for students to give feedback.&nbsp;&nbsp;Jill noted that she would be contacting reps shortly regarding these sessions and that there is still a general UCL requirement for departments to use the paper feedback forms.&nbsp;&nbsp;The Reps noted that any focus groups would need to be held before the revision period.&nbsp;</p>
+        <p>ACTION – Jill Saunders to&nbsp;organise&nbsp;Focus Group Sessions before Easter break.&nbsp;</p>
+        <p><br>4.2&nbsp;<b></b><b>Induction Week activities for 2nd year students (Graham Roberts)</b></p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This issue was raised at the DTC and it was decided that the department should make better use of audio and video&nbsp;for the options talks and advice sessions.&nbsp;&nbsp;However, this may be difficult for modules held in other departments.</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ACTION – Chris and Graham to investigate</p>
+        <p><br>4.3&nbsp;<b></b><b>Improved No Smoking signage in front of the MPEB (JJ Giwa)</b></p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JJ noted that the Faculty Manager has now become involved in this issue, so progress is expected shortly.&nbsp;</p>
+        <p><br>4.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Paper recycling bins near printers and in labs (JJ Giwa)</b></p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JJ reported that Ian Wright from Domestic Services has informed her that the recycling bins have been ordered and are expected to arrive soon.&nbsp;</p>
+        <p><br>4.5&nbsp;<b></b><b>Student common room door lock fault (JJ Giwa)</b></p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Student Reps reported that p&lt;st1:personname w:st="on"&gt;rob&lt;/st1:personname&gt;lems with the common room door lock still remain.&nbsp;</p>
+        <p>ACTION – JJ to investigate</p>
+        <p><br>4.6&nbsp;<b></b><b>Money to spend on the student common room (Chris Neil)</b></p>
+        <p>Chris reported that following the last SSCC meeting he had been investigating this issue with a group of student reps and that a Student Clothing Competition had been introduced to try and raise funds for the Student Common Room facilities.&nbsp;&nbsp;The competition was held in December/January 2010 and over 20 designs were submitted by students onto Moodle.&nbsp;&nbsp;Students were then asked to vote on their&nbsp;favourite&nbsp;design and a winner, (Alireza Bahmanpour), had been established.&nbsp;&nbsp;The next stages are to find a suitable company to produce the clothing, make all of the necessary finance arrangements, organize the final designs and allow people to begin purchasing the clothing.&nbsp;</p>
+        <p>ACTION – Chris and Reps to continue with Departmental Clothing project.&nbsp;</p>
+        <p><br>4.7&nbsp;<b></b><b>Removing old equipment rack from the student common room and adding more laptop space&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Neil Daeche)</b></p>
+        <p>Neil noted that the equipment racks have now been removed.&nbsp;&nbsp;However, the laptop space is still restricted by the physical space available in the room.&nbsp;</p>
+        <p><br>4.8&nbsp;<b></b><b>Emailing students to remind them about the 'printerquota' command (Neil Daeche)</b></p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It was reported that the reminder emails had not yet been sent.&nbsp;</p>
+        <p>ACTION – Neil Daeche to send reminder email to students.&nbsp;</p>
+        <br style="page-break-before: always;" clear="all">
+        <p><br>4.9&nbsp;<b></b><b>Results of MScFSE and MScCVGI items to be added to the minutes of this meeting (Chris Neil)</b></p>
+        <p>Yotam Doron reported that he had been in contact with Simon Julier regarding the coursework load and that the issue had now been resolved by reducing the number of items.&nbsp;</p>
+        <p><b>5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><b>INTERNAL QUALITY REVIEW (IQR) RESULTS. The summary can be seen at&nbsp;<a href="http://www.cs.ucl.ac.uk/documents/cs-summary-of-findings.pdf" target="_top">http://www.cs.ucl.ac.uk/documents/cs-summary-of-findings.pdf</a>&nbsp;(Jill Saunders)</b></p>
+        <p>The Chair explained to the committee the purpose of the IQR and the importance of the results.&nbsp;&nbsp;Jill thanked the Student Reps who were involved in the IQR for their help and noted that the recommendations made will be acted on in areas such as;</p>
+        <p>§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Documenting discussions,</p>
+        <p>§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Peer observation and learning,</p>
+        <p>§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Personal tutor system,</p>
+        <p>§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD progress checks,</p>
+        <p>§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Increasing the use of Moodle in the Dept</p>
+        <p>§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the timescales for the marking and returning of coursework, (following UCL guidelines).&nbsp;</p>
+        <p>There were also some desirable areas where recommendations were made such as;</p>
+        <p>§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mixing Phd Students across boundaries</p>
+        <p>§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and setting a single coursework submission location.&nbsp;</p>
+        <p>The student Reps commented that seminars are often scheduled at the same time, which prevents different students from mixing.&nbsp;</p>
+        <p>The Reps also mentioned that having one physical and one virtual location for coursework submission would be fine.&nbsp;</p>
+        <p>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>DISRUPTION TO FACILITIES IN LAB 4.06 (Yotam Doron, MScCVGI)</b></p>
+        <p>The Chair noted that disruption in lab 4.06 was caused by the fact that it had to be reconfigured for the Information Security Sessions.&nbsp;&nbsp;The Reps listed the following concerns;</p>
+        <p>§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Only half of the machines were being used for the MSc IS sessions</p>
+        <p>§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The machines were being converted the day before the IS programme needed them.&nbsp;</p>
+        <p>§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students lost work due to PCs being remotely switched off</p>
+        <p>§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The use of the lab for Tech-Society gaming sessions has also contributed to the disruption</p>
+        <p>Other Student Reps noted that due to the closing of the Windows Laboratory, that the 4.06 lab is now the only option for the Tech Society to use and that posters are put up in advance to warn other students of the times and dates.</p>
+        <p>The Chair observed that the decline of suitable lab space is due to the general success of the department and that it seems that better communication is needed of when and how people have booked the space, possibly putting information up on the web.&nbsp;&nbsp;It was also recommended that incidents are reported as they arise.&nbsp;</p>
+        <p>The possibility of upgrading of the machines in the downstairs lab, 1.05, was discussed, but it was not felt that this would solve the p&lt;st1:personname w:st="on"&gt;rob&lt;/st1:personname&gt;lem.&nbsp;</p>
+        <p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>EXAM TIMETABLE (Graham Roberts)</b></p>
+        <p>The Chair noted that the Exam Timetable is scheduled to be released by the Registry before the end of term and although there should not be any clashes, it is unfortunately not possible to reschedule exams to be better spaced out for student revision.&nbsp;</p>
+        <p>Some Students had concerns that exams that were previously run in March, such as the papers set by the Gatsby, would be sprung upon students at short notice.&nbsp;&nbsp;The Chair assured them that all of the exams have been scheduled in the main exam period in May, including the Gatsby papers.&nbsp;</p>
+        <p>Some Reps thought that the&nbsp;&lt;st1:placetype w:st="on"&gt;University&lt;/st1:placetype&gt;&nbsp;of&nbsp;&lt;st1:placename w:st="on"&gt;London&lt;/st1:placename&gt;&nbsp;was centrally responsible for the organising of the examinations at UCL, but the Chair corrected that UCL is responsible for organising and scheduling it’s own exams and that due to the volume of students, the exam locations are spread out across&nbsp;&lt;st1:place w:st="on"&gt;&lt;st1:city w:st="on"&gt;London&lt;/st1:city&gt;&lt;/st1:place&gt;.&nbsp;</p>
+        <p>8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>TURNAROUND TIME FOR MARKING COURSEWORK (Yotam Doron, MScCVGI)</b></p>
+        <p>The Reps noted that students still had concerns about this issue and asked what the deadline for lecturers was with regard to the marking and returning coursework.&nbsp;&nbsp;The Chair responded that that the agreed deadline was two working weeks and that unfortunately this deadline is often not met.&nbsp;&nbsp;The Reps noted that there are still outstanding first term coursework assignments that have not been returned and in one instance they approached the lecturer and received an unacceptable response.&nbsp;</p>
+        <p>ACTION – The Student Reps involved should email Graham Roberts with details of the person and circumstances involved and Graham will investigate.&nbsp;&nbsp;&nbsp;</p>
+        <p>9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>MISTAKES IN ASSIGNED COURSEWORK (Yotam Doron, MScCVGI)</b></p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Reps noted that this issue had been raised with the lecturer concerned and had now been resolved.&nbsp;</p>
+        <p>10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>ANY OTHER BUSINESS</b></p>
+        <p>To note that Saqib Kakvi (MSc ISec) has volunteered to be the Taught Student Operations and Premises Representative.&nbsp;</p>
+        <p>11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>THE NEXT MEETING IS DUE IN NOVEMBER 2010</b></p>
+        <p>CHRIS NEIL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+        <p>Undergraduate Administrator</p>
+        <p>Department of Computer Science</p>
+        <p>[020 7679 3690, UCL extension 33690, email:&nbsp;<a href="mailto:c.neil@cs.ucl.ac.uk">c.neil@cs.ucl.ac.uk</a>&nbsp;]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+        <p>23 March 2010</p> 
+        <!--  Text: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:5816/text [end] --> 
+      </div> 
+      <!-- End of div for main text --> 
+     </div> 
+     <!-- End of middle content --> 
+    </div> 
+    <!-- End of inner container --> 
+   </div> 
+   <!-- Start of main content div --> 
+   <!-- Start of footer div --> 
+   <div id="footer" class="page_layout clearblock"> 
+    <div id="owner"> 
+     <div class="tx-responsible-pi1">
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      <a href="mailto:g.knight@cs.ucl.ac.uk">Graham Knight</a> 
+     </div> 
+    </div> 
+    <div id="footer_1" class="clearblock"> 
+     <div id="address"> 
+      <p>Computer Science Department </p> 
+      <p>University College London </p> 
+      <p>Gower Street </p> 
+      <p>London </p> 
+      <p>WC1E 6BT </p> 
+     </div> 
+     <div id="telephone"> 
+      <p> <img src="fileadmin/UCL-CS/web_assets/other_images/phone.gif" width="13" height="9" id="phone" alt="Telephone:"> +44 (0)20 7679 7214 </p> 
+     </div> 
+     <div id="engfac"> 
+      <a href="http://www.engineering.ucl.ac.uk/"> <img src="fileadmin/UCL-CS/web_assets/other_images/ucle_logo_trans.png" id="ucl_eng_logo" alt="UCL Engineering Logo"> </a> 
+     </div> 
+     <div class="page_layout clearblock"> 
+     </div> 
+    </div> 
+    <div id="footer_2" class="clearblock"> 
+     <div id="disclaimer"> 
+      <ul class="inlineList"> 
+       <li> <a href="http://www.ucl.ac.uk/disclaimer/" title="Disclaimer" target="_top">Disclaimer</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/cookies/" title="Cookies" target="_top">Cookies</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/accessibility/" title="Accessibility" target="_top">Accessibility</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/priv/" title="Privacy" target="_top">Privacy</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/advanced-search/" title="UCL Advanced Search" target="_top">Advanced Search</a>| </li> 
+       <li> <a href="http://www.cs.ucl.ac.uk/help/?noMobile=1" title="Help" target="_top">Help</a> </li> 
+      </ul> 
+     </div> 
+     <div id="copyright"> 
+      <p>Copyright © 1999- 2016 UCL </p> 
+     </div> 
+     <div class="page_layout clearblock"> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- End of footer div --> 
+   <div class="page_layout clearblock"></div> 
+  </div>  
+ </body>
+</html>

@@ -1,0 +1,18 @@
+<html>
+ <head> 
+  <meta NAME="Description" CONTENT=""> 
+  <meta NAME="keywords" CONTENT=""> 
+  <title>Welcome to RENOIR</title> 
+ </head> 
+ <frameset rows="10%,*,10%" border="0" frameborder="0"> 
+  <frame SRC="head.html" NAME="head" SCROLLING="no"> 
+  <frameset cols="25%,*" border="0" frameborder="no"> 
+   <frame SRC="menu.html" NAME="menu" SCROLLING="yes"> 
+   <frame SRC="main.html" NAME="main_page" SCROLLING="yes"> 
+  </frameset> 
+  <frame SRC="contact.html" NAME="foot" SCROLLING="no"> 
+  <noframes>
+    This page uses Frames - best used with &lt;A HREF="http://www.netscape.com"&gt;Netscape Navigator 3.0&lt;/A&gt; or &lt;A HREF="http://www.microsoft.com"&gt;Microsoft Explorer 3.0&lt;/A&gt; or above &lt;p&gt;This page uses Frames - best used with &lt;A HREF="http://www.netscape.com"&gt;Netscape Navigator 3.0&lt;/A&gt; or &lt;A HREF="http://www.microsoft.com"&gt;Microsoft Explorer 3.0&lt;/A&gt; or above 
+  </noframes> 
+ </frameset>    
+</html>

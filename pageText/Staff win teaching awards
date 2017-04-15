@@ -1,0 +1,422 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         Staff win teaching awards
+ 
+         
+          
+          
+
+         
+ 
+         The Head of Department is delighted to announce that Prof Steve Hailes, Prof Mark Handley and Dr Dean Mohamedally have won Teaching Prizes for their contribution towards innovation in teaching at Undergraduate and Postgraduate level. The following citations outline our winners' huge input into teaching across Computer Science. 
+ 
+         Prof Steve Hailes 
+ 
+         'Most Computer Science undergraduates are exposed in their first year to lectures that describe various aspects of how a modern CPU works. But how many of them *build* a CPU and program it in assembly in their first year? Thanks to Steve Hailes's innovative redesign of our Computer Architecture class, all UCL-CS undergraduates do. Steve wanted to break from the objectivist educational approach that is typically found in most CS departments, where academics lecture at students about facts that they are meant to retain. He favoured a more constructivist approach, where students undertake project-based work in groups and learn primarily by doing. Steve saw that asking students to build a stripped-down, single-cycle MIPS CPU in groups in their first term of university would be a rigorous technical challenge. But he further saw that teaching in this new way, done right, could achieve *cultural* goals for the entire degree program: making students feel motivated by the difficulty of the project, and instilling in them the notion that continuous, steady effort and active, self-directed learning are necessary to study computer science. The new Computer Architecture class Steve designed relegates lectures to the first week of term, and thereafter only one hour per week. Students spend all remaining time in the class working in pairs on installments of the project. 
+ 
+         'Hardware is a harsh mistress - it is extremely unforgiving of small implementation errors. Students therefore face difficult debugging and testing from the outset (both skills vital to succeed in the field). They further have no choice but to adopt modularity and reuse from early on, to cope with the complexity of the overall CPU design. Teaching using this problem-based approach is inherently extremely student contact-intensive: the project is cumulative over the term, and so students who encounter difficulty at one stage need careful guidance to be able to advance to the next stage. The class has been a great success. It helps ensure all our students start their degrees by being challenged, yet with the support they need to succeed. Producing an ambitious project-based class like this one takes great effort. Steve spent hundreds of man-hours over the course of six months creating it. It is my great pleasure to present the UCL CS Prize for Innovations in Teaching to Steve Hailes for his inspired work on the creation of the new COMP1001, Computer Architecture.' 
+ 
+         Prof Mark Handley 
+ 
+         'Mark Handley knew that the only way to become a skilled C programmer is by *doing* lots of C programming. But not by coding up toy exercises--by attacking a very tangible yet challenging problem. So Mark decided to have our first-years write code to control the navigation of a robot. Why controlling a robot, out of all the other tangible problems imaginable? First, because it's an open-ended problem, amenable to creative algorithm design (in a sense, the soul of our field--programs are merely musical notation, but algorithms are the music). Second, because it is hard to make correct decisions based on noisy, irreproducible sensor inputs, programming a robot forces one to learn how to design for robustness, and to develop skill in debugging. And third, because it inculcates the "systems culture" in students: they advance their work by designing, building, observing complex in-situ behaviour experimentally, and reaching robust conclusions about the merits of a design (and then refining it further). But how to provide a gradual learning curve for students despite the difficulty of the programming tasks set them? They are novice programmers trying to come to grips with C, memory management, low-level sensor behavior, and robust control algorithms all at once. 
+ 
+         'Mark's elegant solution was to provide the students with a robot simulator that runs the same exact student-written control code as the real robots. The simulator let students run "what-if" experiments quickly, in the comfort of their own homes. And it gently introduced them to debugging by providing simulated sensor values that were reproducible and whose ground-truth values were directly visible. A robot race ends the class, in which students compete to navigate around a course as quickly as possible. The race has become an occasion that ends the first year in a spirit of camaraderie and motivating, friendly competition. Finally, it would be remiss not to mention that Mark designed and built the robots used for the class, and wrote the robot simulator software; an effort that took him 600 hours before the class even began. 'Robots' shows that if we challenge our students, they rise to the occasion, not only learning difficult technical material, but also how to solve problems whose solution they've not been lectured on - how to persevere, and be masters of their own learning. It is my great pleasure to present the UCL-CS Prize for Innovations in Teaching to Mark Handley for his inspired work on the creation of COMP1010, Robotics Programming.' 
+ 
+         Dr Dean Mohamedally 
+ 
+         'This award is being made in recognition of Dean's outstanding impact on the way that student group projects are being run across a range of modules, both undergraduate and MSc. All these projects now have a sponsor, many from external companies and organisations, with the students developing apps, software and systems in response to the sponsors requirements. The results have truly met the Faculty aim of "Change the World". This has transformed the student experience, giving them valuable insight into what research and engineering are really about. 
+ 
+         The award also recognises the relationships that Dean has developed with a number of companies including Microsoft, Google, Facebook and IBM. UCL Computer Science is now recognised by these organisations as a leading department for student collaboration and producing the high quality graduates they look for.'
+ 
+         
+ 
+         
+ 
+         
+           Posted 15 Oct 13 12:10 
+         
+ 
+          
+          
+           Next: MSc SSE students and the... >
+
+          
+ 
+          
+           < Previous: Dr Fernando Brandão's...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 3 items
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

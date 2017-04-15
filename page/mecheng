@@ -1,0 +1,404 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+ <head> 
+  <base href="http://www.ucl.ac.uk/mecheng/"> 
+  <link rel="canonical" href="http://www.ucl.ac.uk/mecheng"> 
+  <link rel="dns-prefetch" href="//cdn.ucl.ac.uk"> 
+  <title>mecheng</title> 
+  <meta name="viewport" content="shrink-to-fit=no"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=9"> 
+  <link rel="shortcut icon" href="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/images/favicon2.ico"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta name="og:title" content="UCL Mechanical Engineering"> 
+  <meta name="contact.name" content="Web Services"> 
+  <meta name="contact.email" content="silva-support@ucl.ac.uk"> 
+  <!--Start General Layout Styles--> 
+  <!--Start UCL default layout 3 column styles--> 
+  <link href="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/css/ucl_default_layout.css" rel="stylesheet" media="screen, projection" type="text/css"> 
+  <!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/css/patches/patch_ucl_default_layout.css" /><![endif]--> 
+  <!--End UCL default layout 3 column styles--> 
+  <!--Corporate identity styling below--> 
+  <link href="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/css/screen/corp-identity-purple.css" rel="stylesheet" media="screen, projection" type="text/css"> 
+  <!--Corporate identity styling above--> 
+  <!--End General Layout Styles--> 
+  <!--Start Print CSS--> 
+  <link href="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/css/print/print.css" media="print" rel="stylesheet" type="text/css"> 
+  <!--Set IE to be print smaller width, so that it doesn't crop content--> 
+  <!--[if lte IE 8]>
+                <style type="text/css">
+                    @media print {body, div.page, #main{width:600px;}}
+                </style>
+            <![endif]--> 
+  <!--End Print CSS--> 
+  <!--Start IE CSS hacks--> 
+  <!--End IE CSS hacks--> 
+  <!-- Start Javascripts--> 
+  <!--Start JQuery Javascript
+<script src="//cdn.ucl.ac.uk/silva/UCLIndigoSkin/js/lib/jquery-1.9.1.min.js"></script>
+ <script>window.jQuery || document.write('<script src="//cdn.ucl.ac.uk/silva/UCLIndigoSkin/js/lib/jquery-1.9.1.min.js"><\/script>')</script>--> 
+  <!--End JQuery Javascript--> 
+  <!--Start Gallery javascripts--> 
+  <!--End Gallery javascripts--> 
+  <!--Start Ticker Javascript--> 
+  <script language="JavaScript" src="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/scripts/ticker.js" type="text/JavaScript"></script> 
+  <!--End Ticker Javascript--> 
+  <!--Start JQuery Javascript--> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script> 
+  <script>window.jQuery || document.write('<script src="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/scripts/jquery-1.3.2.min.js"><\/script>')</script> 
+  <!--End JQuery Javascript--> 
+  <!--Start UCL Javascript--> 
+  <!--<script type="text/javascript" src="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/scripts/ucl.min.js"></script>--> 
+  <!--End UCL Javascript--> 
+  <!--Start JQuery Core User Interface Javascript--> 
+  <script type="text/javascript" src="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/scripts/ui.core.min.js"></script> 
+  <!--End JQuery Core User Interface Javascript--> 
+  <!--Start JQuery Font Resizer Javascript--> 
+  <script type="text/javascript" src="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/scripts/fontsizer.jquery.js"></script> 
+  <!--End JQuery Font Resizer Javascript--> 
+  <!--Start JQuery cookie Javascript--> 
+  <script type="text/javascript" src="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/scripts/jquery.cookie.min.js"></script> 
+  <!--End JQuery cookie Javascript--> 
+  <!--Start UCL alerts Javascript--> 
+  <script type="text/javascript" src="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/scripts/ucl.alert.js"></script> 
+  <!--End UCL alerts Javascript--> 
+  <!--Start JQuery Core User Interface Javascript
+    <script type="text/javascript" src="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/scripts/ui.core.min.js"></script>--> 
+  <!--End JQuery Core User Interface Javascript--> 
+  <!--Start JQuery Font Resizer Javascript - this is in the default scripts too so take out of here
+    <script type="text/javascript" src="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/scripts//fontsizer.jquery.js"></script>--> 
+  <!--End JQuery Font Resizer Javascript--> 
+  <!--Start JQuery cookie Javascript
+    <script type="text/javascript" src="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/scripts//jquery.cookie.min.js"></script>--> 
+  <!--End JQuery cookie Javascript--> 
+  <!--<script type="text/javascript" src="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/scripts/jquery.doc.ready.js"></script>--> 
+  <!--<script src="/js/search-pack.min.js"></script>--> 
+  <!--
+<script src="//cdn.ucl.ac.uk/silva/UCLIndigoSkin/js/lib/handlebars.min.js"></script>
+<script src="//cdn.ucl.ac.uk/silva/UCLIndigoSkin/js/lib/typeahead.bundle.js"></script>
+<script src="//cdn.ucl.ac.uk/silva/UCLIndigoSkin/js/lib/ucl_typeahead_v2.js"></script>--> 
+  <script>
+  $(document).ready(function(){
+     //typeAhead();
+
+    //close faceted navigation on mobile
+    $('.mobileCloseAside').click(function(){
+      $('.facets').toggleClass("show-facet");
+      $('.off-canvas').toggleClass('spin');
+    });
+  })
+</script> 
+  <script type="text/javascript" src="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/scripts/jquery.doc.ready.js"></script> 
+  <script type="text/javascript" src="javascript/footer.js" language="javascript"></script> 
+  <!--start Silva Style Sheets--> 
+  <link rel="stylesheet" media="screen, projection" type="text/css" href="http://www.ucl.ac.uk/mecheng/local-styles.css"> 
+  <!-- Stylesheet for high contrast style switching --> 
+  <link rel="stylesheet" media="screen, projection" type="text/css" id="contrastCSS" href="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/css/screen/ucl_normal_view.css"> 
+  <!--<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">--> 
+  <link href="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/css/screen/uclSearch.css" media="screen, projection" rel="stylesheet" type="text/css"> 
+  <!--end Silva Style Sheets--> 
+  <!-- Begin Google Analytics code --> 
+  <script type="text/javascript">
+                        var _gaq = _gaq || [];
+                        _gaq.push(['_setAccount', 'UA-943297-1']);
+                        _gaq.push(['_setDomainName', 'ucl.ac.uk']);
+                        _gaq.push(['_setSiteSpeedSampleRate', 100]);
+                        _gaq.push(['_trackPageview']);
+                        _gaq.push(['t2._setAccount', 'UA-48268547-1']);
+                        _gaq.push(['t2._setDomainName', 'ucl.ac.uk']);
+                        _gaq.push(['t2._trackPageview']);
+                        (function() {
+                        var ga = document.createElement('script');
+                        ga.type = 'text/javascript';
+                        ga.async = true;
+                        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                        var s =document.getElementsByTagName('script')[0];
+                        s.parentNode.insertBefore(ga, s);
+                        })();</script> 
+  <!-- End Google Analytics code --> 
+  <script>
+(function(){
+  if (window.BOOMR && window.BOOMR.version) { return; }
+  var dom,doc,where,iframe = document.createElement("iframe"),win = window;
+
+  function boomerangSaveLoadTime(e) {
+    win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+  }
+  if (win.addEventListener) {
+    win.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (win.attachEvent) {
+    win.attachEvent("onload", boomerangSaveLoadTime);
+  }
+
+  iframe.src = "javascript:void(0)";
+  iframe.title = ""; iframe.role = "presentation";
+  (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+  where = document.getElementsByTagName("script")[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    if (dom) { this.domain = dom; }
+    js.id = "boomr-if-as";
+    js.src = "//c.go-mpulse.net/boomerang/" +
+    "SUWW2-HAKPB-Q4WN7-TQ6VL-GTMT2";
+    BOOMR_lstart=new Date().getTime();
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+})();
+</script> 
+  <!-- _______ Silva version 2.1.7 _______ --> 
+ </head> 
+ <body> 
+  <!--noindex--> 
+  <!-- new indigo header for corporate V4 --> 
+  <div id="nav-wrap-indigo"> 
+   <div id="global-masthead" role="navigation"> 
+    <div class="wrapper clearfix"> 
+     <div id="global-search"> 
+      <form id="global-form" action="//search2.ucl.ac.uk/s/search.html" method="get"> 
+       <div id="searchform"> 
+        <input type="search" placeholder="Search UCL websites, degrees, short courses, people, and more" id="searchUcl" name="query" value=""> 
+        <input type="hidden" name="collection" value="website-meta"> 
+        <input type="hidden" name="profile" value="_website"> 
+        <input type="hidden" name="tab" value="websites"> 
+       </div> 
+       <input type="submit" value="Go" class="btn search"> 
+      </form> 
+     </div> 
+     <nav> 
+      <ul id="audiences" class="m-clear"> 
+       <li><a href="//www.ucl.ac.uk/">UCL Home</a></li> 
+       <li><a href="//www.ucl.ac.uk/prospective-students">Prospective students</a></li> 
+       <li><a href="//www.ucl.ac.uk/students">Current students</a></li> 
+       <li><a href="//www.ucl.ac.uk/staff">Staff</a></li> 
+       <li><a href="//www.ucl.ac.uk/campaign" class="give-link">Give</a></li> 
+      </ul> 
+     </nav> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- new indigo header for corporate V4: END --> 
+  <!-- alert message block --> 
+  <!-- alert message block: END --> 
+  <!--endnoindex--> 
+  <div class="page_margins"> 
+   <!-- Graphic Border - Begin Part 1 --> 
+   <div id="border-top"> 
+    <div id="edge-tl"> 
+    </div> 
+    <div id="edge-tr"> 
+    </div> 
+   </div> 
+   <!-- Graphic Border - End Part 1 --> 
+   <div class="page"> 
+    <!--noindex--> 
+    <div id="printLogo">
+     <img src="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/images/printlogo.gif" alt="UCL logo">
+    </div> 
+    <div id="header" class="tb-dark_grey"> 
+     <div id="topnav"> 
+      <!-- start: skip link navigation --> 
+      <a class="skip" href="#navigation" title="skip link">skip to navigation</a>
+      <span class="hideme">.</span> 
+      <a class="skip" href="#content" title="skip link">skip to content</a>
+      <span class="hideme">.</span> 
+      <!-- end: skip link navigation --> 
+     </div> 
+     <h1 class="section_header_white">UCL Mechanical Engineering</h1> 
+     <span class="section_subheader_white">Faculty of Engineering Sciences</span> 
+     <div id="logo_holder"> 
+      <a href="/"> <img src="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV3/images/corp-identity-purple.gif" alt="UCL Home"> </a> 
+     </div> 
+    </div> 
+    <!-- Begin breadcrumbs row --> 
+    <div id="nav" class="noprint"> 
+     <div class="hlist" id="corp-identity-purple"> 
+      <ul> 
+       <li> <a href="http://www.ucl.ac.uk">UCL Home</a> 
+        <!--[if lte IE 7]>&raquo;<![endif]--> </li> 
+       <li> <a href="http://www.ucl.ac.uk/mecheng">UCL Department of Mechanical Engineering</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <!--End Breadcrumbs--> 
+    <!--endnoindex--> 
+    <!-- begin: main content area #main --> 
+    <div id="main"> 
+     <div class="mecheng"> 
+      <!-- begin: #col1 - first float column --> 
+      <!--noindex--> 
+      <div id="col1"> 
+       <div id="col1_content" class="clearfix"> 
+        <div id="col_top_left" class="col_top left_coltop"> 
+        </div> 
+        <a id="navigation" name="navigation"></a> 
+        <!--Start Generate Menu--> 
+        <h6 class="vlist"></h6> 
+        <ul class="vlist"> 
+         <li id="home-link_li"><a href="http://www.ucl.ac.uk/mecheng/home-link" class="home-link">Home</a></li> 
+         <li id="our-courses_li"><a href="http://www.ucl.ac.uk/mecheng/our-courses" class="our-courses">Our Courses</a></li> 
+         <li id="student-handbook_li"><a href="http://www.ucl.ac.uk/mecheng/student-handbook" class="student-handbook">Our Student Handbook</a></li> 
+         <li id="careers_li"><a href="http://www.ucl.ac.uk/mecheng/careers" class="careers">Careers</a></li> 
+         <li id="research_li"><a href="http://www.ucl.ac.uk/mecheng/research" class="research">Research</a></li> 
+         <li id="people_li"><a href="http://www.ucl.ac.uk/mecheng/people" class="people">People</a></li> 
+         <li id="dept-vacancies_li"><a href="http://www.ucl.ac.uk/mecheng/dept-vacancies" class="dept-vacancies">Vacancies</a></li> 
+         <li id="contact-details_li"><a href="http://www.ucl.ac.uk/mecheng/contact-details" class="contact-details">Contact Details</a></li> 
+         <li id="daisy-intranet_li"><a href="http://www.ucl.ac.uk/mecheng/daisy-intranet" class="daisy-intranet">Daisy Intranet</a></li> 
+         <li id="staff-intranet_li"><a href="http://www.ucl.ac.uk/mecheng/staff-intranet" class="staff-intranet">Staff Intranet</a></li> 
+        </ul> 
+        <!--End Generate Menu--> 
+        <!--Start left include--> 
+        <div id="left-silva-content" class="leftcontainer"> 
+         <!--noindex--> 
+         <div class="newsSmall clearfix"> 
+          <div class="invHead"> 
+           <a class="news-rss-feed" title="subscribe to the feed" href="http://www.ucl.ac.uk/mecheng/mecheng-news-viewer/rss.xml"> <img src="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/images/feed-icon-14x14.png" alt="Feed icon"> </a> 
+           <h3>News and Events</h3> 
+          </div> 
+          <div class="entry clearfix even"> 
+           <h3 class="heading newsitemheading"> <a href="http://www.ucl.ac.uk/mecheng/mecheng-news-publications/RAEng-prize-edirisinghe">New manufacturing methods land Edirisinghe RAEng materials prize</a> </h3> 
+          </div> 
+          <div class="entry clearfix odd"> 
+           <h3 class="heading newsitemheading"> <a href="http://www.ucl.ac.uk/mecheng/mecheng-news-publications/manufacturing-biomaterials-lab">New EPSRC manufacturing funding for Biomaterials Lab</a> </h3> 
+          </div> 
+          <div class="entry clearfix even"> 
+           <h3 class="heading newsitemheading"> <a href="http://www.ucl.ac.uk/mecheng/mecheng-news-publications/denny-medal">Greig, Suarez de la Fuente bag prestigious IMarEST medal</a> </h3> 
+          </div> 
+          <div class="entry clearfix odd"> 
+           <h3 class="heading newsitemheading"> <a href="http://www.ucl.ac.uk/mecheng/mecheng-news-publications/scar-tissue-soft">Scar tissue in the brain and spinal cord is surprisingly soft (Nature Communications)</a> </h3> 
+          </div> 
+          <div class="entry clearfix even"> 
+           <h3 class="heading newsitemheading"> <a href="http://www.ucl.ac.uk/mecheng/mecheng-news-publications/mechengday2017">In Pictures: MechEng Day 2017</a> </h3> 
+          </div> 
+          <div class="invFoot"> 
+           <p class="p newsviewer-otherarticles"> <br> <a href="http://www.ucl.ac.uk/mecheng/mecheng-news-viewer"> View all articles </a> </p> 
+          </div> 
+         </div> 
+         <!--endnoindex--> 
+        </div> 
+        <!--End left include--> 
+       </div> 
+      </div> 
+      <!--endnoindex--> 
+      <!-- end: #col1 --> 
+      <!-- begin: #col2 second float column --> 
+      <div id="col2"> 
+       <div id="col2_content" class="clearfix"> 
+        <div id="col_top_right" class="col_top right_coltop"> 
+        </div> 
+        <!--noindex--> 
+        <!--Start rightcontent--> 
+        <div id="rightcontent" class="container"> 
+         <!--insert index_right--> 
+         <div id="right-column"> 
+          <a class="image" href="https://twitter.com/uclmecheng" title="@uclmecheng" target="_self"><img src="http://www.ucl.ac.uk/mecheng/basic-social-media-button-twitter-reduced.gif" width="200" height="100" alt="twitter icon reduced" class="medium-image" title="@uclmecheng"></a>
+          <a class="image" href="https://www.facebook.com/ucl.mecheng" title="facebook.com/ucl.mecheng" target="_self"><img src="http://www.ucl.ac.uk/mecheng/basic-social-media-button-facebook-reduced.gif" width="200" height="100" alt="facebook icon reduced" class="medium-image" title="facebook.com/ucl.mecheng"></a>
+          <a class="image" href="https://www.youtube.com/channel/UCqq1okN2gjEIdohimDld77g" title="Our YouTube channel" target="_self"><img src="http://www.ucl.ac.uk/mecheng/basic-social-media-button-youtube-round-reduced.gif" width="200" height="100" alt="youtube icon reduced" class="medium-image" title="Our YouTube channel"></a>
+          <hr class="rule"> 
+          <h4 class="heading"></h4> 
+          <h4 class="heading"></h4> 
+          <h4 class="heading"></h4> 
+          <h4 class="heading"></h4> 
+          <hr class="rule"> 
+          <h4 class="heading">Featured Video</h4> 
+          <h6 class="heading">Understanding the physics of pancakes to save sight </h6> 
+          <iframe width="200" height="113" src="https://www.youtube.com/embed/wsFjIJMTUiE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe> 
+         </div> 
+         <!--Start image randomiser--> 
+         <!--End image randomiser--> 
+        </div> 
+        <!--End rightcontent--> 
+        <!--endnoinex--> 
+       </div> 
+      </div> 
+      <!-- end: #col2 --> 
+      <!-- begin: #col3 static column --> 
+      <div id="col3"> 
+       <div id="col3_content" class="clearfix"> 
+        <a id="content" name="content"></a> 
+        <!-- skiplink anchor: Content --> 
+        <!--noindex--> 
+        <div id="toptabs-container" class="top-tabs"> 
+        </div> 
+        <!--endnoindex--> 
+        <!--Start center content area--> 
+        <!-- start main slot where silva content gets rendered--> 
+        <h2 class="heading">UCL Mechanical Engineering</h2> 
+        <img src="http://www.ucl.ac.uk/mecheng/frontimage2" width="500" height="250" alt="ucl mecheng mosaic" class="medium-image" title="ucl mecheng frontimage 2"> 
+        <h5 class="heading"></h5> 
+        <h4 class="heading"></h4> 
+        <h4 class="heading"></h4> 
+        <h4 class="heading"><a href="http://www.ucl.ac.uk/mecheng/our-courses" target="_self">Our courses</a> | <a href="http://www.ucl.ac.uk/mecheng/people" target="_self">Our people</a> | <a href="http://www.ucl.ac.uk/mecheng/research" target="_self">Our research</a></h4> 
+        <hr class="rule"> 
+        <p class="p">UCL Mechanical Engineering is a research-led department that is a dynamic and vibrant place to study and carry out research, whether you are a prospective student, researcher or industrial collaborator. <br></p> 
+        <p class="p">Mechanical Engineering as a distinct discipline in the UK started right here at UCL in 1847. More recently, in the latest national research review (REF2014) over 90% of our department's research was judged "world leading" or "internationally excellent".<br></p> 
+        <p class="p">On this site you can learn more about <a href="http://www.ucl.ac.uk/mecheng/our-courses" target="_self">our programmes of study</a>,<a href="http://www.ucl.ac.uk/mecheng/people" target="_self"> our people</a> and the <a href="http://www.ucl.ac.uk/mecheng/research" target="_self">research</a> we conduct.<br></p> 
+        <p class="p">UCL Mechanical Engingeering is one of 11 departments of <a href="http://www.engineering.ucl.ac.uk/" target="_self">UCL Engineering</a>, one of ten faculties of <a href="http://www.ucl.ac.uk/" target="_self">London's Global University</a> UCL.</p> 
+        <p class="p"> <strong><a href="https://twitter.com/uclmecheng" target="_self">Follow us on Twitter</a></strong>&nbsp; | <strong><a href="https://www.facebook.com/ucl.mecheng" target="_self">Like us on Facebook </a></strong>| <strong><a href="https://www.youtube.com/channel/UCqq1okN2gjEIdohimDld77g" target="_self">Watch us on YouTube</a></strong><br></p> 
+        <!-- end main slot where silva content gets rendered--> 
+        <!--End center content area--> 
+        <!--noindex--> 
+        <!--Start last modified info--> 
+        <div> 
+         <p class="mod">Page last modified on <span style="text-transform:capitalize;">30&nbsp;nov&nbsp;16&nbsp;12:39</span> </p> 
+        </div> 
+        <!--End last modified info--> 
+        <!--Start contacts include--> 
+        <hr> 
+        <!--End contacts include--> 
+        <!--endnoindex--> 
+       </div> 
+       <div id="ie_clearing">
+        &nbsp;
+       </div> 
+       <!-- End: IE Column Clearing --> 
+      </div> 
+      <!-- end: #col3 --> 
+     </div> 
+    </div> 
+    <!-- end: #main --> 
+    <!--noindex--> 
+    <!-- begin: #footer --> 
+    <!-- =============== FOOTER =============== --> 
+    <div id="access"></div> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.ucl.ac.uk/disclaimer">Disclaimer</a></li> 
+      <li><a href="http://www.ucl.ac.uk/foi">Freedom of Information</a></li> 
+      <li><a href="http://www.ucl.ac.uk/accessibility">Accessibility</a></li> 
+      <li><a href="http://www.ucl.ac.uk/privacy">Privacy</a></li> 
+      <li><a href="http://www.ucl.ac.uk/cookies">Cookies</a></li> 
+      <li><a href="http://www.ucl.ac.uk/finance/policies-procedures/slavery-stmt">Slavery statement</a></li> 
+      <li><a href="http://www.ucl.ac.uk/contact-list/">Contact Us</a></li> 
+     </ul> 
+     <div> 
+      <address class="vcard"> <span class="adr"> University College London - Torrington Place - London - WC1E 7JE </span> <span class="tel"> <span class="type">Tel</span>: <span class="value">+44 (0)20 7679 2000</span> </span> </address> 
+      <p>© UCL 1999–2017</p> 
+     </div> 
+     <div id="editbar"> 
+      <span id="silvaedit"> <a href="http://www.ucl.ac.uk/mecheng/edit"> <img id="edit_button" src="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV3/images/edit.gif" alt="edit page" width="10" height="10"> </a> </span> 
+     </div> 
+    </div> 
+    <!-- end #footer --> 
+    <!--endnoindex--> 
+   </div> 
+   <!-- Graphic Border - Begin Part 2 --> 
+   <div id="border-bottom"> 
+    <div id="edge-bl"> 
+    </div> 
+    <div id="edge-br"> 
+    </div> 
+   </div> 
+   <!-- Graphic Border - End Part 2 --> 
+  </div>   
+ </body>
+</html>

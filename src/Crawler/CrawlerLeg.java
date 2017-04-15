@@ -51,10 +51,9 @@ public class CrawlerLeg {
 					System.out.println("\n**Visiting** Received web page at " + url);
 					
 					Elements title = htmlDocument.getElementsByTag("title");
-					String name = title.text() + ".html";
-					File filePath = new File(DIR);
-					if(!filePath.exists()){
-						File file = new File(DIR, name);
+					String name = title.text();					
+					File file = new File(DIR, name);
+					if(!file.exists()){						
 						FileOutputStream fos = new FileOutputStream(file);
 						fos.write(htmlDocument.html().getBytes());
 						fos.close();

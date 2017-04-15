@@ -1,0 +1,486 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus Index 2017-2018 (Provisional) ›› COMPM061 - People and Security 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPM061 - People and Security
+
+       This database contains the 2017-18 versions of syllabuses. These are still being finalised and changes may occur before the start of the session.
+
+       Syllabuses from the 2016-17 session are available here.
+
+        
+         
+         
+          
+         	Code	COMPM061 (Also taught as: COMPGA10) 
+	Year	4
+	Prerequisites	None
+	Term	1
+	Taught By	Angela Sasse (100%) 
+	Aims	Sudents will be able to specify usability criteria that a security mechanism has to meet to be workable for end-user groups and work contexts; - know the strengths and weaknesses of particular security mechanisms in practice, and hence be able to chose and configure mechanisms for best performance in a given organisational context; and - be able to specify accompanying measures (policies, training, monitoring and ensuring compliance) that a user organisation needs to implement to ensure long-term security in practice. 
+	Learning Outcomes	Students will be able to apply their knowledge of human factors to computer security 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         Introduction: The Human Factor in Security
+Systemic approach to security design
+Users, tasks and context
+Why only usable security is effective security?
+Basic concepts from security and risk analysis 
+
+Authentication mechanisms and their usability issues
+Knowledge-based authentication
+Passwords
+PINs
+Passphrases
+Graphical Passwords
+Challenge-Response systems
+Improving KBA: personal entropy
+Credential recovery
+Token-based authentication
+Securid tokens
+Smartcards
+Biometric authentication
+Physical Biometrics: Finger, Iris, Face
+Behavioural Biometrics: Voice, digital signature, gait, typing
+Enrolment
+Verification
+User perception and acceptance of biometrics 
+
+Security tasks and business processes
+Security as a supporting task
+Deriving performance requirements from production tasks
+Security mechanisms and context of use
+Risk analysis and risk management
+The AEGIS method 
+
+User education and training
+Identifying user perceptions
+Designing security training
+Changing user perceptions and behaviour
+Motivational approaches
+Security tests
+User interfaces to security tools
+Social engineering 
+
+Organisational issues
+Security culture
+Responsibility and communication
+Designing security policies
+Monitoring and compliance
+Insider threats
+Trust
+ 
+Enterprise security
+Customer requirements for security
+Data protection
+Privacy 
+Attacks and Attackers
+
+Surveillance and monitoring
+CCTV
+RFID
+Automated Detection
+
+         
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lecture presentations and classroom-based coursework
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	 Written Examination (2.5 hours, 90%)
+	Coursework (10%)
+
+
+         To pass this course, students must:
+
+         	 Achieve a mark of 50% or above when all sections are combined.
+	 Obtain a minimum mark of 40% in each component worth ≥ 30% of the module  as a whole.
+
+
+         
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Lorrie Faith Cranor and Simson Garfinkel, 'Security and Usability: Designing Secure Systems that People Can Use', 2005. 
+ 
+         Bruce Schneier, 'Beyond Fear - Thinking Sensibly About Security in an Uncertain World', 2005. 
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 04 Apr 2017 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

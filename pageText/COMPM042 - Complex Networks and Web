@@ -1,0 +1,475 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus Index 2017-2018 (Provisional) ›› COMPM042 - Complex Networks and Web 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPM042 - Complex Networks and Web
+
+       This database contains the 2017-18 versions of syllabuses. These are still being finalised and changes may occur before the start of the session.
+
+       Syllabuses from the 2016-17 session are available here.
+
+        
+         
+         
+          
+         	Code	COMPM042 (Also taught as COMPGW01) 
+	Year	4
+	Prerequisites	Normally offered only to students in computer science related programmes because programming skills are required for the coursework project.  
+	Term	1
+	Taught By	Shi Zhou (100%) 
+	Aims	This module introduces the fundamental concepts, principles and methods in the interdisciplinary academic field of network science, with a particular focus on the Internet, the World Wide Web and online social media networks. Topics covered include graphic structures of networks, mathematical models of networks, the Internet topology, structure of the Web, community structures, epidemic spreading, PageRank, temporal networks and spatial networks. 
+	Learning Outcomes	On successful completion of this module the students will be able to: 
+ 
+             	Define and calculate basic network graphic metrics. 
+	Describe structural features of the Internet and the Web. 
+	Relate graphic properties to network functions and evolution. 
+	Explore new angles to understand network collective behaviours. 
+	Design and conduct analysis on large network datasets. 
+
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content
+
+         
+ 
+          
+          
+         Network science
+
+         	Complex networks          
+	Network graphic metrics
+	Random networks
+	Small-world networks
+	Scale-free networks
+	Network mathematical models
+	Network structural constraints
+	Network centrality measures
+	Temporal networks
+	Spatial networks
+	Network visualisation
+
+
+         Communication and information networks
+
+         	Internet core structure – evolution and modelling
+	Structure of the Web – PageRank and document networks
+	Online social media networks - Twitter, Facebook, Amazon, …
+
+
+         Network functions and behaviours
+
+         	“Rich gets richer” phenomenon
+	Link, neighbourhood and community
+	Cascades and epidemics 
+	Network structure balance
+	Sentimental, temporal and spatial analysis of social media networks
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Delivery
+
+         
+ 
+          
+          
+         A Moodle webpage is created for the course. All course materials, such as lecture notes and online resources will be shared. By using the Moodle, students will also be able to discuss ideas and questions with the lecturer and other students. 
+ 
+         In the second half of the term, there will be a weekly one-hour lab/tutorial session, where the lecturer and/or a teaching assistant will discuss questions with students.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment
+
+         
+ 
+          
+          
+         The module has the following assessment components:
+
+         	Unseen written examination (2.5 hours, 70%)
+	Course project: individual project on network data analysis (programming is usually required); a project report (3000 words) including literature survey is due by the end of the Winter Holidays (30%).  
+
+
+         To pass this module, students must: 
+ 
+         	Obtain an overall pass mark of 50% for all components combined;
+	Obtain a minimum mark of 40% in each component worth ≥ 30% of the module as a whole.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources
+
+         
+ 
+          
+          
+         ·         D. Easley and J. Kleinberg. Networks, Crowds, and Markets: Reasoning About a Highly Connected World, Cambridge University Press, 2010. 
+ 
+         ·         M. E. J. Newman. Networks: An Introduction, Oxford University Press, 2010. 
+ 
+         ·         S. N. Dorogovtsev. Lectures on Complex Networks, Oxford University Press, 2010. 
+ 
+         Other books for interest: 
+ 
+         ·         D. J. Watts. Small Worlds: The Dynamics of Networks between Order and Randomness, Princeton University Press, 1999 
+ 
+         ·         M. Dodge and R. Kitchin. Atlas of Cyberspace, Pearson Education, 2001. 
+ 
+         ·         S. N. Dorogovtsev and J. F. F. Mendes. Evolution of Networks: From Biological Nets to the Internet and WWW, Oxford University Press, 2003. 
+ 
+         ·         M. Mitchell. Complexity: A Guided Tour, Oxford University Press, 2009.
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 03 Apr 2017 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

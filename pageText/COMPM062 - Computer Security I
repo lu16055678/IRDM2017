@@ -1,0 +1,428 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus Index 2017-2018 (Provisional) ›› COMPM062 - Computer Security I 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPM062 - Computer Security I
+
+       This database contains the 2017-18 versions of syllabuses. These are still being finalised and changes may occur before the start of the session.
+
+       Syllabuses from the 2016-17 session are available here.
+
+        
+         
+         
+          
+         	Code	COMPM062 (Also taught as COMPGA01) 
+	Year	4
+	Prerequisites	None
+	Term	1
+	Taught By	George Danezis (100%) 
+	Aims	This module provides an introduction to computer security concepts and techniques. It covers core security principles to engineer systems that provide certain properties, like confidentiality, integrity or availability, despite the efforts of malicious entities to subvert them. We will study military and commercial security design patterns, but also topics around privacy, censorship, or pervasive surveillance. All topics are approached from a security engineer perspective, but also from the perspective of someone who aims to bypass security protections. 
+	Learning Outcomes	Students will learn how to recognise security properties of systems, as well as formulate security policies, and model the threats they may face. Through exposure to a number of established industry and government security mechanisms and design patterns, they will be able to select appropriate controls to guarantee that the security policies are robustly implemented and may sustain efforts to subvert them. Conversely, students will gain skills in analysing computer systems, and developing strategies to bypass security controls.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content
+
+         
+ 
+          
+          
+         The course is organized in 10 topics. The first half of the course covers basic principles; access control; UNIX, Windows and Android security; high-confidentiality government systems; high-integrity commercial systems, including banking and medical informatics. The second half dives goes into the details of technical protection mechanisms and computer attacks including hardware mechanisms; network defences and attacks; authentication & identification; and applied cryptography.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction
+
+         
+ 
+          
+          
+         Lecture presentations with associated class coursework.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	Written Examination (2.5 hours, 85%)
+	Coursework Section (1 piece, 15%) due in week 10.
+
+
+         To pass this course, students must:
+
+         	Obtain an overall pass mark of 50% for all sections combined
+	Obtain a minimum mark of 40% in each component worth ≥ 30% of the module as a whole.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources
+
+         
+ 
+          
+          
+         Dieter Gollmann "Computer Security" (3rd edition, but 2nd is also fine) - available in the UCL library  
+ 
+         http://www.amazon.com/Computer-Security-Dieter-Gollmann/dp/0470741155   
+ 
+         Ross Anderson "Security Engineering"  
+ 
+         http://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/0470068523/  (Also available on-line at: http://www.cl.cam.ac.uk/ ~rja14/book.html)  
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 04 Apr 2017 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

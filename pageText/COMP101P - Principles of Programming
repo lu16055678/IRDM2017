@@ -1,0 +1,496 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Students
+      ›› Syllabus ›› 101P - Principles of Programming 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMP101P - Principles of Programming
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	
+           Code
+          
+	
+           COMP101P
+          
+	
+           Year
+          
+	
+           IEP Year 1 Discipline specific module
+          
+	
+           Prerequisites
+          
+	
+           None
+          
+	
+           Term
+          
+	
+           1
+          
+	
+           Taught By
+          
+	
+           Graham Roberts (50%) David Clark (50%)
+          
+	
+           Aims
+          
+	
+           This course introduces two different programming styles, imperative and functional programming. Its primary intention is to develop key programming and problem solving skills but it has a secondary aim, which is to build students' confidence in their ability to take on and learn new programming languages within a short space of time. In order to achieve these aims, this is an intense and practical course that relies on dedicated and active engagement of the student both within and outside lectures. To provide support for this self-learning, the course has accompanying lab classes that are compulsory.
+          
+	
+           Learning Outcomes
+          
+	
+           To be able to: (a) Design, implement, debug and test small programs using at least two different programming paradigms, given straightforward specifications; (b) Develop algorithms to solve a wide range of common programming problems; (c) Compare and contrast the different paradigms, understanding the relative advantages and disadvantages of each; (d) Use common programming tools such as compilers, editors and debuggers; and (e) to have an understanding of core computer architecture, memory and memory management, and the binary representation of data values. 
+          
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Contents:
+
+         
+ 
+          
+          
+         Core Programming Concepts
+What is programming?
+Programs and algorithms.
+Compilers and interpreters.
+Debugging programs.
+
+Introduction to Imperative Programming
+Core imperative programming ideas: sequence, selection, iteration, recursion, assignment and variables.
+Types and type checking.
+Functions, parameters, scope and lifetime.
+Arrays and files.
+Pointers and memory management.
+
+Introduction to Functional Programming
+Core functional programming ideas.
+Recursion and recursive data structures such as lists.
+Lazy evaluation.
+Role of types.
+Higher order functions.
+List comprehension.
+Recursive functions.
+Input output monad. 
+ 
+         
+Program design in the small
+Developing small programs using methods and functions.
+Designing and implementing simple algorithms and data structures.
+Good programming practice and defensive programming. 
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lecture presentations, online material, programming lab classes, and exercises. 
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	Written Examination (2.5 hours, 80%);
+	Coursework Section (20%).
+
+ 
+         To pass this course, students must:
+
+         	Obtain an overall pass mark of 40% for all components combined;
+	Obtain a minimum mark of 30% in each component worth ≥ 30% of the module as a whole. 
+
+ 
+         Note that the coursework is composed of several items.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         The C Programming Language (2nd Edition) by Brian Kernighan and Dennis Ritchie, published by Prentice Hall, 1988, ISBN-13 978-0131103627 
+ 
+         Programming in C by Stephen Kochan, published by SAMS, 2004, ISBN-13 978-0672326660. 
+ 
+         Head First C, David Griffiths and Dawn Griffiths, O'Reilly Media, 978-1449399917, 2012 
+ 
+         Learn You Haskell for Great Good! by Miran Lipovaca, published by No Starch Press, 2011, ISBN-13 978-1593272838 
+ 
+         Two courses can be found on Moodle, one for C, one for Haskell
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

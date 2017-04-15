@@ -1,0 +1,428 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         Computer-Aided Verification award for Peter O'Hearn
+ 
+         
+          
+          
+
+         
+ 
+         Professor Peter O'Hearn was one of seven researchers to share the 2016 CAV (Computer-Aided Verification) Award. 
+ 
+         The annual CAV Award was established in 2008 by the steering committee of the CAV conference, which is the premier international event for reporting research on computer-aided verification, a sub-discipline of Computer Science that is concerned with ensuring that software and hardware systems operate correctly and reliably. 
+ 
+          The 2016 CAV Award was given on July 21, 2016, at the 28th annual CAV conference held in Toronto, to Josh Berdine, Cristiano Calcagno, Dino Distefano, Samin Ishtiaq, Peter O'Hearn, John Reynolds, and Hongseok Yang for their pioneering work on “Separation Logic”. The award citation acknowledges these researchers  
+ 
+         "For the development of Separation Logic and for demonstrating its applicability in the automated verification of programs that mutate data structures". 
+ 
+         Professor O’Hearn is a member of the Programming Principles, Logic, and Verification research group in UCL CS, and also an Engineering manager at Facebook. He cofounded a verification startup, Monoidics, in 2013, which developed a verification tool based on Separation Logic; Monoidics was acquired by Facebook in 2013.   
+ 
+         UCL's PPLV group plays a leading role in the research area recognised by the CAV award.  The head of group, Prof David Pym, collaborated with O’Hearn on some of the foundational work that led to Separation Logic. Dr James Brotherston and Dr Ilya Sergey have also made significant contributions on the automation of Separation Logic and on its application to reasoning about concurrent programs. Peter also recently received the 2016 Godel prize for the invention of Concurrent Separation Logic. 
+ 
+         Head of the UCL-CS Programming Principles, Logic, and Verification group commented: 
+ 
+         "Separation Logic is a beautiful mathematical tool that helps to solve significant engineering problems. Teams with the ability to deliver at the highest level across that theory-to-application spectrum are very rare indeed; Josh, Dino, Samin, Hongseok, John, and Peter form one of the very best around.  When we began work on the underlying logical and semantic theory almost 20 years ago, the impact on program analysis and verification that Separation Logic would have was not merely unknown, but quite unknowable. Moreover, the engineering challenges in developing the industry-strength  tools that are now in place have been formidable. Peter and the team have done an outstanding job." 
+ 
+          The Award-Winning Contribution
+ 
+          Separation Logic is an extension of Hoare logic that allows reasoning about heap structures and pointer manipulation. The heap is the key aspect of imperative programs that makes their verification difficult, as compared to hardware designs or functional programs, especially, compositional reasoning about heap manipulating programs is particularly hard. Separation Logic provides the fundamental paradigm for achieving that, especially by introducing the crucial concept of the “separating conjunction”. This was a real breakthrough that changed our way of thinking, and opened the door to a wide field of research that lead to the development of efficient verification tools for heap manipulating programs. 
+ 
+          Separation Logic has been developed in a series of papers published between the years of 2000 to 2002, co-authored by Peter O’Hearn, John Reynolds, Samin Ishtiaq, and Hongseok Yang. This fundamental work was building on early work by Burstall in early 70’s and by O’Hearn and Pym in late 90’s on Bunched Logic.  
+ 
+          Then, after the discovery of the logic, a team formed by Josh Berdine, Cristiano Calcagno, Dino Distefano, Peter O’Hearn and Hongseok Yang, undertook the challenge of demonstrating the use of Separation Logic in practice. This group of researchers developed a series of prototype tools for automated program verification exploiting Separation Logic (tools such as Space Invader and Smallfoot), and applied these tools successfully to significant industrial-size case studies. The design of these tools was based on new decision procedures for useful fragments of the logic as well as on efficient techniques for abstract program analysis (using abstract interpretation and) partly building on the principles of the “Shape Analysis” defined by Sagiv, Reps and Wilhelm, and introducing the key concept of bi-abduction. The work of this team was absolutely crucial in making separation logic very popular in our research community. 
+ 
+         More generally, the work of the winners of 2016 CAV award had an important and deep impact on our community and is certainly among the major contributions to the area of formal methods and automated verification in the last two decades. The research around Separation Logic is still very active. Following the work initiated by the group of awardees, many researchers are nowadays working on both fundamental and practical issues related to Separation Logic and its use in efficient verification tools. Other examples of the impact of Separation Logic are the SLAyer tool developed at Microsoft, which was applied there to device drivers, and the Infer tool developed and currently used at Facebook for the verification of mobile applications. 
+ 
+         
+ 
+         
+ 
+         
+           Posted 15 Aug 16 09:00 
+         
+ 
+          
+          
+           Next: New scheme to aid image... >
+
+          
+ 
+          
+           < Previous: Can a computer copy your...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 3 items
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

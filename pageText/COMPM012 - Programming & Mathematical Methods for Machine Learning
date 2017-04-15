@@ -1,0 +1,474 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Teaching & Learning
+      ›› Syllabus Index (2015-2016) ›› M012 - Programming & Mathematical Methods for Machine Learning 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPM012 - Programming & Mathematical Methods for Machine Learning
+
+       This database contains 2015-16 versions of the syllabuses. For current versions please see here.
+
+        
+         
+         
+          
+         	Code	COMPM012 (Also taught as: COMPGI07) 
+	Year	4
+	Prerequisites	Part A: Proficiency in at least one high-level programming language such as C, C++, Pascal or Java etc as the course does not teach programming skills from scratch. Prior programming expertise is needed so that the new languages can be introduced quickly. Part B: although this course is not mathematically rigorous students should be at home in multivariate calculus and linear algebra. 
+	Term	1
+	Taught By	Mark Herbster (Part A) (50%) 
+Massi Pontil (Part B) (50%) 
+	Aims	The aims of Part A are: to provide a practical knowledge and understanding of the programming environments of Matlab and Mathematica. Knowledge of and proficiency in these languages/packages form an essential component of COMPM055 (Supervised Learning). The aim of Part B is to introduce the students to those elements of linear algebra which play an important role in machine learning and data analysis. 
+	Learning Outcomes	Part A - Programming Issues: To be able to program in Matlab and Mathematica and to recognize their strengths and weaknesses versus conventional programming languages. Part B - To become confident with vector/matrix computations and basic concepts of linear algebra which are important for the development of machine learning techniques.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         	
+           Part A - Programming Issues
+          
+
+
+          Matlab
+Matrix Operations
+Control flow
+I/O
+Script files
+2d and 3d graphics
+
+Mathematica
+Symbolic mathematics
+List processing
+Control flow
+Functions
+Graphics 
+ 
+         	
+           Part B - Elements of Linear Algebra and its Applications
+
+          
+
+
+         1. Vector and matrix operations, Orthogonality, Norms, Singular Value Decomposition (SVD).
+2. Applications of SVD to Machine Learning and data analysis.Principal component analysis, Least squares and regularization, Kernel Methods.
+3. Elements of Numerical Optimization. 
+ 
+         
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+          Part A: Lecture presentations with intensive programming coursework which is oriented towards machine learning. Part B: Lecture presentations with associated class problems. Part A and Part B are equally weighted. Full details of coursework to be set will be provided by the lecturers for this course. 
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment component:
+
+         	Coursework (100%)
+
+
+         To pass this course, students must:
+
+         	Obtain an overall minimum pass mark of 50% 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Mastering MATLAB 6: A Comprehensive Tutorial and Reference by Duane Hanselman and Bruce R. Littlefield, Prentice Hall, 
+ 
+          The Mathematica Book, Stephen Wolfram, Cambridge University Press, ISBN 0-521-64314-7.
+ 
+         The Definitive Guide to Project Management, Sebastian Nokes et al, Financial Times Prentice Hall, 2003
+ 
+          ISBN 0 273 66397 6
+ 
+         The Mythical Man-Month, Fredrick P Brooks, Addison-Wesley, 1995 Anniversary edition, Addison -Wesley
+ 
+          ISBN 0 201 83595 9
+ 
+         Leading Change, John P. Kotter, Harvard business School Press, 1996
+ 
+          ISBN 0 87584 747 1
+ 
+         Agile Software Development Ecosystems, Jim Highsmith, Addison-Wesley, 2002
+ 
+          ISBN 0 201 76043 6
+ 
+         In addition during the course you will be provided with both printed copies and references for research articles.
+ 
+         Lecture notes
+ 
+         General Information on Matlab and Mathematica
+ 
+         MSc Machine Learning Homepage
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

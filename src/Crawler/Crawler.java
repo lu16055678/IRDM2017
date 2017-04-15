@@ -18,7 +18,6 @@ public class Crawler {
 		Matcher match = FILTERS.matcher(url);
 		
 		if (!match.matches()) {
-		System.out.println(this.pageVisited.size());
 			while (this.pageVisited.size() < MAX_PAGES_TO_SEARCH) {
 				
 				String currentUrl;

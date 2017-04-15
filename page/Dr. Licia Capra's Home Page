@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta http-equiv="content-type" content="application/xhtml+xml; charset=windows-1252"> 
+  <title>Dr. Licia Capra's Home Page</title> 
+  <link rel="stylesheet" type="text/css" href="http://www.cs.ucl.ac.uk/Styles/cs_small.css" title="small"> 
+  <link rel="alternate stylesheet" type="text/css" href="http://www.cs.ucl.ac.uk/Styles/cs_xsmall.css" title="xsmall"> 
+  <!-- The main CS style sheet. Specific style sheets are in the derived templates --> 
+  <link rel="stylesheet" type="text/css" href="http://www.cs.ucl.ac.uk/Styles/cs_basic3.css"> 
+  <!-- The "specific" stylesheet --> 
+  <link rel="stylesheet" type="text/css" href="http://www.cs.ucl.ac.uk/Styles/cs_research.css"> 
+  <!-- IS Templates --> 
+  <link rel="stylesheet" type="text/css" href="/Styles/ucl_is/fonts.css"> 
+  <link rel="stylesheet" type="text/css" href="/Styles/ucl_is/extras.css"> 
+  <link rel="stylesheet" type="text/css" href="/Styles/cs_dimension_3.css"> 
+  <!-- rotating images -->
+  <!-- <script src="js/dw_event.js" type="text/javascript"></script>
+<script src="js/dw_rotator.js" type="text/javascript"></script><script src="js/dw_rotator_aux.js" type="text/javascript"></script><script type="text/javascript">var rotator1 = {path: 'images/',speed: 4000, // default is 4500id: 'r1',images: ["peru0.jpg", "peru1.jpg","peru2.jpg","peru3.jpg","peru4.jpg","peru5.jpg","peru6.jpg","peru7.jpg","peru8.jpg","peru9.jpg","peru10.jpg","peru11.jpg","peru12.jpg","peru13.jpg","peru14.jpg","peru15.jpg","peru16.jpg","peru17.jpg","peru18.jpg","peru19.jpg","peru20.jpg","peru21.jpg","peru22.jpg","peru23.jpg","peru24.jpg","peru25.jpg","peru26.jpg","peru27.jpg","peru28.jpg"], bTrans: true, // ie win filterbMouse: true, // pause/resumeactions: ["index.html"]}function initRotator() {dw_Rotator.setup(rotator1);}dw_Event.add( window, 'load', initRotator);</script> --> 
+ </head> 
+ <body> 
+  <!-- Main Table for whole doc --> 
+  <table width="100%" cellspacing="0" cellpadding="0" border="0"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="0"> 
+       <tbody> 
+        <tr> 
+         <td width="100%" valign="top" bgcolor="#868686"> 
+          <div id="section_heading">
+           <font color="#ffffff"> <span id="section_header_CS"><a href="http://www.cs.ucl.ac.uk">DEPARTMENT OF COMPUTER SCIENCE</a></span> <br> <span id="section_header_CS"><a href="http://www.cs.ucl.ac.uk/staff/l.capra">Dr. Licia Capra</a></span> </font> 
+          </div> </td> 
+         <td><a href="http://www.ucl.ac.uk"> <img width="265" height="110" border="0" src="ucl-bw.gif" alt="UCL Logo"></a></td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table width="100%" cellspacing="0" cellpadding="10" border="0" bgcolor="#e0e0e0"> 
+       <tbody> 
+        <tr> 
+         <td valign="middle" height="30"> <span id="section_header_CS"><a href="http://www.cs.ucl.ac.uk/staff/l.capra/">Home</a></span>&nbsp;&nbsp; <span id="section_header_CS"><a href="http://www.cs.ucl.ac.uk/staff/l.capra/profile.html">Profile</a></span>&nbsp;&nbsp; <span id="section_header_CS"><a href="http://www.cs.ucl.ac.uk/staff/l.capra/research.html">Research</a></span>&nbsp;&nbsp; <span id="section_header_CS"><a href="http://www.cs.ucl.ac.uk/staff/l.capra/publications/publications.html">Publications</a></span>&nbsp;&nbsp; <span id="section_header_CS"><a href="http://www.cs.ucl.ac.uk/staff/l.capra/teaching/teaching.html">Teaching</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+    <!-- End of Header --> 
+    <!-- Next row start real page content--> 
+    <tr> 
+     <td>&nbsp; 
+      <table width="100%" cellspacing="0" cellpadding="10" border="0" align="left"> 
+       <tbody> 
+        <tr class="class graytable"> 
+         <td width="35%" align="center"> 
+          <table border="0" id="table3"> 
+           <tbody> 
+            <tr> 
+             <td><br> </td> 
+             <td> <h1 align="center"><a href="http://www0.cs.ucl.ac.uk/staff/l.capra/licia17.png" target="_blank"><img style="border: 2px solid; width: 323px;" src="licia17.png" alt="licia - 2017" bordercolor="#FF00FF"></a><br> </h1> 
+              <dl> 
+               <dt>
+                <span style="font-weight: bold;"> Professor of Pervasive Computing</span>
+               </dt> 
+               <dd>
+                <br> 
+               </dd> 
+               <dt> 
+                <span style="font-weight: bold;">postal address:</span> Department of Computer Science 
+                <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University College London 
+                <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gower Street, London WC1E 6BT, UK 
+                <br> 
+                <b>office</b>: GS 3.07 @ 66-72 Gower Street
+                <b><br> phone</b>: +44 20 3108 7087 
+                <br> 
+                <b>e-mail: </b> 
+                <a href="mailto:l.capra@ucl.ac.uk">l.capra@ucl.ac.uk</a>
+               </dt> 
+              </dl> <p><br> </p> </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+         <td width="65%" valign="top" align="left"> 
+          <table cellspacing="3" cellpadding="3" border="0"> 
+           <tbody> 
+            <tr style="border-width: 0px; padding-bottom: 0px; padding-top: 0px; margin-bottom: 0px;"> 
+             <td style="padding-bottom: 0px; padding-top: 0px; margin-bottom: 0px;"> <h1 style="font-size: 1.1em; font-weight: bold; margin-bottom: 4pt; margin-top: 8pt; text-align: left;"><br> </h1> <span style="font-weight: bold;"><span style="font-weight: bold;"><span style="font-weight: bold;"> </span></span></span><span style="font-weight: bold;"><span style="font-weight: bold;"> 
+                <ul type="square"> 
+                </ul> </span></span></td> 
+            </tr> 
+            <tr> 
+             <td> 
+              <table cellspacing="3" cellpadding="3" border="0"> 
+               <tbody> 
+                <tr> 
+                 <td><br> <p><br> </p> 
+                  <ul> 
+                  </ul> 
+                  <ul> 
+                  </ul> </td> 
+                </tr> 
+                <tr> 
+                 <td><strong>Upcoming Conferences<br> </strong> <a href="https://recsys.acm.org/">11th ACM Conference on Recommender Systems (RecSys 2017)</a> - deadlines: 27/03 abstracts, 03/04 papers 
+                  <ul> 
+                  </ul> <br> </td> 
+                </tr> 
+               </tbody> 
+              </table> <br> <span style="font-weight: bold;">Academic year 2016-2017<br> </span>Term 2 office hours: Thursdays 1pm-2pm&nbsp; <br> 
+              <ul type="square" style="margin-left: 40px;"> 
+              </ul> <br> </td> 
+            </tr> 
+           </tbody> 
+          </table> <br> <br> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table>   
+ </body>
+</html>

@@ -1,0 +1,475 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus ›› 203P - Software Engineering and Human Computer Interaction 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMP203P - Software Engineering and Human Computer Interaction
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMP203P 
+	Year	2
+	Prerequisites	A Java programming course and ENGS102P
+	Term	1
+	Taught By	Graham Roberts (50%) 
+Emily Collins (30%)
+Other Staff and external speakers (20%)
+
+	Aims	 This module provides a foundation in Software Engineering (SE) and Human Computer Interaction (HCI), covering a range of core topics needed to be able to model, design, implement and evaluate larger software systems effectively, and gain a further understanding of the wider context in which software is developed.
+ The HCI portion introduces essential knowledge and methods for understanding users, designing systems and interactions that are effective, efficient and satisfying to use, and evaluating the usability of these systems.
+ The SE portion has two major themes. The first covers what software engineering is, managing the development process with an emphasis on agile development, legal issues and contract law, report writing, risk and risk management, quality control and standards, financial costing, and health and safety. The second theme explores the practical knowledge and skills to carry out software development, including requirements specification, the Unified Modelling Language (UML), software architecture, object-oriented analysis and design, design patterns and testing.
+ The module will host two of the second year IEP Scenario Weeks. The first week involves working through the requirements modelling, object-oriented analysis and design, and prototyping of a web application using the principles covered in the lectures. The second week will be the Maths Challenge.
+(Note, affiliate students do not take the Maths Challenge.)
+
+	Learning Outcomes	After completing the module, students will be able to: 
+
+             	Appreciate the wider engineering context that forms the background to developing complex, evolving software-intensive systems.
+	Plan and deliver an effective software development process.
+	Employ group working skills including general organization, planning and time management and inter-group negotiation.
+	Understand how to interact with a client to elicit input, requirements and to communicate progress.
+	Demonstrate knowledge of user centered design and use a user centred design process in their projects.
+	Translate a specification into a design, and then realize that design practically, employing UML and design strategies such as defining a software architecture, separation of concerns and design patterns.
+	Formulate a testing strategy for a software system, employing techniques such as unit testing, test driven development and functional testing.
+	Use a range of tools required for effective software development, such as version control and continuous integration.
+	Reflect on the appropriateness of different software engineering methodologies in different circumstances, and on the quality of the design of an application.
+
+ 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         Human-Computer Interaction
+Overview of HCI.
+Gathering Data from Users, understanding user needs/requirements.
+Design Guidelines, Sketching and Prototyping.
+Heuristic Evaluation.
+Evaluation with users.
+
+Software Engineering
+Managing software development projects, including the wider context such as legal issues, risk and risk management, quality control and standards.
+Software lifecycle models and Agile development.
+Documenting requirements, user stories, use cases and scenarios.
+UML models and object-oriented modelling.
+Version Control, Continuous Integration.
+
+Scenario Weeks
+Modelling Project.
+Maths Challenge.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lecture presentations and online material. Group working and scenario week.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The module has the following assessment components: 
+
+         	Coursework (100%)
+
+ 
+         To pass this course, students must:
+
+         	Obtain an overall pass mark of 40% for all components combined.
+
+
+
+
+         The coursework component is assessed as follows:
+
+         	Two Individual Courseworks on law and advanced writing (20%)
+	Individual UML modelling coursework (30%)
+	HCI group coursework (25%)
+	Group Scenario Week 1 (10% + includes completion of the HCI coursework)
+	Group Scenario Week 2 (15%).
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         A comprehensive set of materials, including lecture slides, online material and reference links can be found on Moodle. There are two Moodle sites, one for SE and one for HCI. 
+ 
+         A full UCL Library reading list can also be found on Moodle. The recommended text books are: 
+ 
+         UML 2 and the Unified Process - Jim Arlow, Ila Neustadt, Addison Wesley, 2001, ISBN-13: 978-0321321275 
+ 
+         Interaction Design - Sharp, Rogers and Preece, Wiley 2011, ISBN-13: 978-0470665763
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

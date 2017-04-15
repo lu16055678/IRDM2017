@@ -1,0 +1,488 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--?xml version="1.0" encoding="utf-8"?-->
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2016 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+--> 
+  <base href="http://www.cs.ucl.ac.uk/"> 
+  <link rel="shortcut icon" href="/fileadmin/UCL-CS/favicon.ico" type="image/x-icon; charset=binary"> 
+  <link rel="icon" href="/fileadmin/UCL-CS/favicon.ico" type="image/x-icon; charset=binary"> 
+  <meta name="generator" content="TYPO3 CMS"> 
+  <meta name="keywords" content="University, College, London, Computer Science"> 
+  <meta name="charset" content="utf-8"> 
+  <link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_1734292a8f.css?1458040091" media="all"> 
+  <link rel="stylesheet" type="text/css" href="fileadmin/UCL-CS/css/csCommon.css?1485355348" media="all"> 
+  <script src="uploads/tx_t3jquery/jquery-1.8.x-1.9.x-1.2.x.js?1383917144" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/googleAnalytics.js?1340190657" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/jqueryImageSlider2.js?1391601155" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/start.fader.js?1413468507" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/jquery.bxslider.js?1391781521" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/jquery.kinetic.js?1432630323" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/startKinetic.js?1432630719" type="text/javascript"></script> 
+  <title>
+			Information for students from other departments (2016-17)
+		</title> 
+  <link rel="stylesheet" type="text/css" href="fileadmin/UCL-CS/css/csDT2Col.css" media="all"> 
+ </head> 
+ <body> 
+  <div id="everything" class="page_layout"> 
+   <!-- Div for UCL banner --> 
+   <div id="banner" class="page_layout"> 
+    <div id="section_head">
+      Department of Computer Science 
+    </div> 
+    <div id="UCLLogo"> 
+     <a href="http://www.ucl.ac.uk/" target="_top"> <img id="ucl_logo" src="fileadmin/UCL-CS/web_assets/ucl_logo/ucl_logo_whitebg.png" alt="UCL - Home"></a> 
+    </div> 
+   </div> 
+   <!-- End of div for UCL banner --> 
+   <!-- Div for UCL divider --> 
+   <div id="ucl_divider" class="page_layout"> 
+    <!-- UCL Search - CS site--> 
+    <form class="searchForm" id="googlesearch" method="get" action="http://search2.ucl.ac.uk/s/search.html?collection=website-meta&amp;profile=_website&amp;tab=websites"> 
+     <input class="text" type="text" placeholder="Search UCL-CS" value="" accesskey="q" name="query"> 
+     <input class="button" type="submit" value="" name="Submit"> 
+     <input type="hidden" value="ucl-public-meta" name="collection"> 
+     <input type="hidden" value="cs" name="subsite"> 
+    </form> 
+    <div id="breadcrumb" class="breadcrumb"> 
+     <a href="home/">›&nbsp;Home</a>
+     <a href="current_students/">&nbsp;››&nbsp;Current Students</a>
+     <a href="current_students/degree_programme/">&nbsp;››&nbsp;Degree Programme</a>&nbsp;››&nbsp;Information for non-CS Students 
+    </div> 
+   </div> 
+   <!-- End of div for UCL divider --> 
+   <!-- Start of main content div --> 
+   <div id="mainDiv"> 
+    <!-- Start of inner container --> 
+    <div id="innerContainer"> 
+     <!-- Start of left content--> 
+     <div id="leftCol" class="leftContent"> 
+      <!-- left content start --> 
+      <!--  CONTENT ELEMENT, uid:19043/list [begin] --> 
+      <div id="c19043" class="csc-default"> 
+       <!--  Plugin inserted: [begin] --> 
+       <div class="tx-typoscript2ce"> 
+        <div id="mobileText">
+         <h3><a href="mobile/current_students/degree_programme/ancillary/">Mobile Version</a></h3>
+        </div> 
+       </div> 
+       <!--  Plugin inserted: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19043/list [end] --> 
+      <!--  CONTENT ELEMENT, uid:19061/menu [begin] --> 
+      <div id="c19061" class="csc-default"> 
+       <!--  Menu/Sitemap element: [begin] --> 
+       <ul class="csc-menu csc-menu-def">
+        <li><a href="home/" title="Home">Home</a></li>
+        <li><a href="prospective_students/" title="Prospective Students">Prospective Students</a></li>
+        <li><a href="research/" title="Research">Research</a></li>
+        <li><a href="industry_outreach/" title="Industry &amp; Outreach">Industry &amp; Outreach</a></li>
+        <li><a href="careers/" title="Careers">Careers</a></li>
+        <li><a href="current_students/" title="Current Students"><span class="inPath">Current Students</span></a></li>
+        <li><a href="people/?no_cache=1" title="People">People</a></li>
+        <li><a href="about_us/" title="About Us">About Us</a></li>
+        <li><a href="wics/home/" title="Women in Computer Science">Women in Computer Science</a></li>
+        <li><a href="intranet/" title="Staff Intranet">Staff Intranet</a></li>
+       </ul> 
+       <!--  Menu/Sitemap element: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19061/menu [end] --> 
+      <!--  CONTENT ELEMENT, uid:23946/list [begin] --> 
+      <div id="c23946" class="csc-default"> 
+       <!--  Plugin inserted: [begin] --> 
+       <div class="tx-typoscript2ce"> 
+       </div> 
+       <!--  Plugin inserted: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:23946/list [end] --> 
+      <!--  CONTENT ELEMENT, uid:19046/image [begin] --> 
+      <div id="c19046" class="csc-default csc-space-before-50 csc-space-after-50"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-above">
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-imagerow csc-textpic-imagerow-last">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.facebook.com/pages/University-College-London-Computer-Science/132472916819198" target="_top"><img src="fileadmin/_processed_/csm_facebook_03_a3f147f505.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.linkedin.com/groups?gid=4046543&amp;trk=myg_ugrp_ovr" target="_top"><img src="fileadmin/_processed_/csm_linkedin_03_6c9523f528.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="https://twitter.com/#!/uclcs" target="_top"><img src="fileadmin/_processed_/csm_twitter_03_0c37f5536b.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.youtube.com/user/UCLComputerScience/videos" target="_top"><img src="fileadmin/_processed_/csm_youtube_04_6b8742f9fc.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19046/image [end] --> 
+      <!--  CONTENT ELEMENT, uid:19044/list [begin] --> 
+      <div id="c19044" class="csc-default csc-space-before-30 csc-space-after-50"> 
+       <!--  Header: [begin] --> 
+       <div class="csc-header csc-header-n5">
+        <h1><a href="events/">Forthcoming Events</a></h1>
+       </div> 
+       <!--  Header: [end] --> 
+       <!--  Plugin inserted: [begin] --> 
+       <div class="tx-typoscript2ce"> 
+        <div id="events_div" class="controlledTicker"> 
+         <ul> 
+          <li> New events will be posted here as soon as details become known. </li> 
+         </ul>
+        </div> 
+       </div> 
+       <!--  Plugin inserted: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19044/list [end] --> 
+      <!--  CONTENT ELEMENT, uid:26215/textpic [begin] --> 
+      <div id="c26215" class="csc-default csc-space-before-20"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-above">
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-image csc-textpic-last">
+          <a href="http://www.cs.ucl.ac.uk/degrees/" target="_top"><img src="fileadmin/_processed_/csm_bcs_85243c6ac1.png" width="105" height="43" alt="" border="0"></a>
+         </div>
+        </div>
+        <div class="csc-textpic-text"></div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:26215/textpic [end] --> 
+      <!--  CONTENT ELEMENT, uid:19047/textpic [begin] --> 
+      <div id="c19047" class="csc-default csc-space-before-5"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-below">
+        <div class="csc-textpic-text"></div>
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-imagerow csc-textpic-imagerow-last">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="https://www.itskillsacademy.org.uk/about-us/who-we-work-with/" target="_top"><img src="fileadmin/_processed_/csm_e_skills_d4087aff09.jpg" width="105" height="89" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.cs.ucl.ac.uk/computer_science_news/article/athena-swan-silver-award-for-ucl-computer-science/" target="_top"><img src="fileadmin/_processed_/csm_AthenaSwanLogo_silver_efa303f87a.jpg" width="105" height="58" alt="" border="0"></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19047/textpic [end] --> 
+      <!--  CONTENT ELEMENT, uid:21855/image [begin] --> 
+      <div id="c21855" class="csc-default csc-space-before-15"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-above">
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-imagerow">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.computingatschool.org.uk/" target="_top" title="Network of Excellence - Computer Science"><img src="fileadmin/_processed_/csm_NOE_image_a809f677bf.jpg" width="220" height="63" alt="Network of Excellence - Computer Science" border="0"></a>
+           </div>
+          </div>
+         </div> 
+         <div class="csc-textpic-imagerow csc-textpic-imagerow-last">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.epsrc.ac.uk/research/centres/acecybersecurity/" target="_top" title="Academic Centre of Excellence - Cyber Security Research"><img src="fileadmin/_processed_/csm_GCHQ_image_851b6cc992.jpg" width="220" height="64" alt="Academic Centre of Excellence - Cyber Security Research" border="0"></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:21855/image [end] --> 
+      <!-- left content end --> 
+     </div> 
+     <!-- End of left content --> 
+     <!-- Start ofmiddle content --> 
+     <div id="middleCol"> 
+      <div id="mainText" class="text"> 
+       <!--  CONTENT ELEMENT, uid:22119/text [begin] --> 
+       <div id="c22119" class="csc-frame csc-frame-rulerAfter"> 
+        <!--  Header: [begin] --> 
+        <div class="csc-header csc-header-n1">
+         <h1 class="csc-firstHeader">Computer Science modules available to students from other departments (2016/17)</h1>
+        </div> 
+        <!--  Header: [end] --> 
+        <!--  Text: [begin] --> 
+        <p>A selection of our modules are offered to students from other departments. Two kinds of module are available: (1) modules which are designed specifically for students throughout UCL; (2) modules from our normal degree programmes which might be suitable for non-Computer Science students. </p> 
+        <h2><strong class="colouredtext brighttext">New for 2016/17:</strong></h2> 
+        <p><span class="colouredtext"><b>COMP211P Introduction to Programming</b> </span>will&nbsp;be offered&nbsp;in Term 1, Autumn 2016. This module is suitable for students from any UCL department,&nbsp;who have&nbsp;no prior of computer programming but who would like to learn how to code.&nbsp; </p> 
+        <h2><b>Please note:</b> </h2>
+        <ul>
+         <li>We sometimes have to limit the sizes of classes, so registration cannot be guaranteed. </li>
+        </ul> 
+        <!--  Text: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:22119/text [end] --> 
+       <!--  CONTENT ELEMENT, uid:22118/text [begin] --> 
+       <div id="c22118" class="csc-default"> 
+        <!--  Header: [begin] --> 
+        <div class="csc-header csc-header-n2">
+         <h1>Timetables</h1>
+        </div> 
+        <!--  Header: [end] --> 
+        <!--  Text: [begin] --> 
+        <p>Information is available via the <a href="http://www.ucl.ac.uk/timetable/" target="_top">UCL Online Timetable</a>&nbsp; You should re-check your timetable regularly throughout the term in case changes have had to be made, particularly to the rooms allocated.</p> 
+        <!--  Text: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:22118/text [end] --> 
+       <!--  CONTENT ELEMENT, uid:22117/text [begin] --> 
+       <div id="c22117" class="csc-frame csc-frame-rulerAfter"> 
+        <!--  Header: [begin] --> 
+        <div class="csc-header csc-header-n3">
+         <h1>Registration</h1>
+        </div> 
+        <!--  Header: [end] --> 
+        <!--  Text: [begin] --> 
+        <p>Your choice of Elective Modules must be approved by UCL Computer Science and your home department.&nbsp; The approval by UCL Computer Science sometimes requires the approval of the External Students' Tutor, depending on the level of the module.&nbsp; </p> 
+        <p>For modules&nbsp;COMP202P, COMP209P, COMP211P, COMP6010 (see details below), please select the modules directly on PORTICO. You can log into PORTICO at <a href="http://www.ucl.ac.uk/portico" target="_top">www.ucl.ac.uk/portico</a>. If you have technical problems logging on or registering with PORTICO, please contact the UCL Information Systems <a href="http://www.ucl.ac.uk/is/helpdesk/" target="_top">helpdesk</a>. </p> 
+        <p><b>Please note that if you are an Affiliate Student who is at UCL only for the autumn term, you have to select the 'A' version of a module on Portico.</b> </p> 
+        <p>For all other modules (COMP3004, COMP3058, COMP3072, COMPM054) the approval of the External Students Tutor is required. The registration is handled via a dedicated MOODLE module, "Computer Science Elective Modules - Help and Guidance" &lt;<a href="https://moodle.ucl.ac.uk/course/view.php?id=18720" title="Opens external link in new window" target="_top">https://moodle.ucl.ac.uk/course/view.php?id=18720</a>&gt;&nbsp; Only after your choice has been approved as explained in the MOODLE module, can you register the modules on PORTICO. </p> 
+        <p>If you require ACADEMIC advice about the suitability of a course, please contact <a href="mailto:j.krinke@cs.ucl.ac.uk" title="Opens window for sending email" class="mail">Dr Jens Krinke</a>, the computer science tutor for external students.</p>
+        <table class="greytable">
+         <thead>
+          <tr>
+           <th><b>Where</b> </th>
+           <th><b>When</b></th>
+          </tr>
+         </thead>
+         <tbody>
+          <tr>
+           <td><p>Malet Place Engineering Building </p><p>Room 5.06 </p></td>
+           <td><br><p>Please <a href="mailto:j.krinke@cs.ucl.ac.uk" title="Opens window for sending email" class="mail">email</a> Jens first to make an appointment.</p></td>
+          </tr>
+         </tbody>
+        </table> 
+        <!--  Text: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:22117/text [end] --> 
+       <!--  CONTENT ELEMENT, uid:22116/text [begin] --> 
+       <div id="c22116" class="csc-frame csc-frame-rulerAfter"> 
+        <!--  Header: [begin] --> 
+        <div class="csc-header csc-header-n4">
+         <h1>Where to find us</h1>
+        </div> 
+        <!--  Header: [end] --> 
+        <!--  Text: [begin] --> 
+        <p>The Computer Science department is in the Malet Place Engineering Building. The Departmental Office is on the 5th Floor.</p> 
+        <!--  Text: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:22116/text [end] --> 
+       <!--  CONTENT ELEMENT, uid:22115/text [begin] --> 
+       <div id="c22115" class="csc-frame csc-frame-rulerAfter"> 
+        <!--  Header: [begin] --> 
+        <div class="csc-header csc-header-n5">
+         <h1>How we get in touch with you</h1>
+        </div> 
+        <!--  Header: [end] --> 
+        <!--  Text: [begin] --> 
+        <p>It is assumed that each student will have a UCL computer account and knows how to use email. </p> 
+        <p>Each CS module has an associated&nbsp;Moodle page.&nbsp;Registration is normally automatic once you have registered for the module via Portico, however it is your responsibility to ensure that you are subscribed to all&nbsp;appropriate Moodle pages. </p> 
+        <p><a href="https://wiki.ucl.ac.uk/display/ELearningStudentSupport/Moodle+Quick+Start+Guide+for+Students" title="Opens external link in new window" target="_top" class="external-link-new-window">Guidance on how to use Moodle</a> </p> 
+        <!--  Text: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:22115/text [end] --> 
+       <!--  CONTENT ELEMENT, uid:22114/text [begin] --> 
+       <div id="c22114" class="csc-frame csc-frame-rulerAfter"> 
+        <!--  Header: [begin] --> 
+        <div class="csc-header csc-header-n6">
+         <h1>Available modules</h1>
+        </div> 
+        <!--  Header: [end] --> 
+        <!--  Text: [begin] --> 
+        <p>These modules are designed specifically for students throughout UCL. All of these are worth 15 UCL credits. Click on the links for syllabus details. These modules are sometimes over-subscribed.<b> Prompt registration is advised - please register directly on PORTICO. </b> </p> 
+        <p></p>
+        <div class="indent">
+         <p></p>
+         <table class="greytable">
+          <thead>
+           <tr>
+            <th><b>Module </b></th>
+            <th><b>Term </b></th>
+            <th><b>Aims</b></th>
+            <th><b>Prerequisites</b></th>
+           </tr>
+          </thead>
+          <tbody>
+           <tr>
+            <td><p><a href="http://www.cs.ucl.ac.uk/students/syllabus/undergrad/211p_introduction_to_programming/" title="Opens internal link in current window" target="_top">COMP211P</a></p></td>
+            <td>1</td>
+            <td><p>This is a module for students&nbsp;from any UCL department with an interest in learning to code&nbsp;with no prior experience in programming, designed to introduce students to problem-solving via object-oriented programming. &nbsp;</p></td>
+            <td>No prior programming experience required.</td>
+           </tr>
+           <tr>
+            <td rowspan="1"><a href="current_students/syllabus/undergrad/6010_computer_music/" title="Opens internal link in current window" class="internal-link">COMP6010 Computer Music</a>&nbsp;</td>
+            <td rowspan="1">2</td>
+            <td rowspan="1"><p>The&nbsp;module will cover three key aspects of computer music, representation, creativity and analysis addressed through theory and practice. It will cover sound, music as organised sound, and specific applications (e.g. music information retrieval and musicology). Students will be strongly encouraged to explore both scientific and artistic aspects of the course through programming exercises to generate sound and music in contemporary visual/ textual music and arts programming languages (e.g. Processing, Nyquist, Pure Data). Students will compose a short algorithmic work using the computer.</p></td>
+            <td rowspan="1">A good standard of computer literacy.</td>
+           </tr>
+          </tbody>
+         </table>
+         <p></p>
+        </div>
+        <p></p> 
+        <!--  Text: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:22114/text [end] --> 
+       <!--  CONTENT ELEMENT, uid:22112/text [begin] --> 
+       <div id="c22112" class="csc-frame csc-frame-rulerAfter"> 
+        <!--  Header: [begin] --> 
+        <div class="csc-header csc-header-n7">
+         <h1>Intermediate modules</h1>
+        </div> 
+        <!--  Header: [end] --> 
+        <!--  Text: [begin] --> 
+        <table class="greytable">
+         <thead>
+          <tr>
+           <th><b>Module </b></th>
+           <th><b>Term </b></th>
+           <th><b>Aims</b></th>
+           <th><b>Prerequisites</b></th>
+          </tr>
+         </thead>
+         <tbody>
+          <tr>
+           <td><p>COMP202P<a href="current_students/syllabus/undergrad/202p_logic_and_database_theory/" title="Opens internal link in current window" class="internal-link"><img style="" alt="" src="typo3/clear.gif" data-htmlarea-file-uid="3241" data-htmlarea-file-table="sys_file"> Logic and Database Theory </a></p></td>
+           <td>1</td>
+           <td>To introduce and familiarise students with logical and mathematical inference and with database theory, the latter having an emphasis on the fundamentals of relational database systems and SQL. Students learn syntax and semantics of first-order logic, various proof methods and elementary models of computation. </td>
+           <td><a href="current_students/syllabus/undergrad/102p_theory_i/" title="Opens internal link in current window" class="internal-link">102P Theory I</a>, <a href="current_students/syllabus/undergrad/104p_theory_ii/" title="Opens internal link in current window" class="internal-link">104P Theory II</a>&nbsp;or equivalent</td>
+          </tr>
+          <tr>
+           <td rowspan="1"><p>COMP209P<a href="http://www.cs.ucl.ac.uk/students/syllabus/undergrad/209p_cognitive_systems_and_intelligent_technologies/" title="Opens internal link in current window" target="_top">&nbsp;Cognitive Systems and Intelligent Technologies </a></p></td>
+           <td rowspan="1">2</td>
+           <td rowspan="1">The word 'cognitive' refers to perceiving and knowing. Cognitive systems explains the natural intelligence of humans in computational terms, in other words, thought processes and the use of knowledge are explained as information processing. As well as helping us understand the human mind,&nbsp; Cognitive systems contributes important models for building artificially intelligent systems, and it contribute to the design of tools we use to perform cognitive work. This module provides a general introduction to the key concepts, models and issues in cognitive science, with an emphasis on the contrasts between human and artificial intelligence. </td>
+           <td rowspan="1">A good standard of computer literacy.</td>
+          </tr>
+         </tbody>
+        </table> 
+        <!--  Text: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:22112/text [end] --> 
+       <!--  CONTENT ELEMENT, uid:22111/text [begin] --> 
+       <div id="c22111" class="csc-frame csc-frame-rulerAfter"> 
+        <!--  Header: [begin] --> 
+        <div class="csc-header csc-header-n8">
+         <h1>Advanced and Master's level modules</h1>
+        </div> 
+        <!--  Header: [end] --> 
+        <!--  Text: [begin] --> 
+        <p>The following level 3 and Master's level modules require strong and informed commitment from the students, who will be expected to have taken enough interest in the area to convince the Tutor that they have some idea of the subject area other than just by reading the syllabus.&nbsp; You must seek the approval of the External Students' Tutor by registering via the dedicated MOODLE module, "Computer Science Elective Modules - Help and Guidance - &lt;<a href="https://moodle.ucl.ac.uk/course/view.php?id=18720" title="Opens external link in new window" target="_top">https://moodle.ucl.ac.uk/course/view.php?id=18720</a>&gt;&nbsp; </p> 
+        <p>Do not register on PORTICO until you have gained the Tutor's approval via MOODLE.</p>
+        <table class="greytable">
+         <thead>
+          <tr>
+           <th>Module </th>
+           <th>Term </th>
+           <th>Aims</th>
+           <th>Prerequisites</th>
+          </tr>
+         </thead>
+         <tbody>
+          <tr>
+           <td><a href="current_students/syllabus/undergrad/3004_computational_complexity/" title="Opens internal link in current window" class="internal-link">COMP3004<br>Computational Complexity </a></td>
+           <td>1</td>
+           <td>This module addresses the theoretical and practical limitations of computation. It provides a theoretical framework for modelling computation. The concepts of undecidability and intractability are introduced through a number of examples. The module will convey the proof techniques that are used to classify problems and it is intended that students learn how to apply them in order to classify unfamiliar problems for themselves.&nbsp; </td>
+           <td><a href="http://www.cs.ucl.ac.uk/?id=2587" title="Opens internal link in current window" target="_top">COMP202P Logic and Database Theory </a>(or, exceptionally, other equivalent experience). Note that this module involves considerable logic and a definite degree of "mathematical maturity"</td>
+          </tr>
+          <tr>
+           <td><a href="current_students/syllabus/undergrad/3058_artificial_intelligence_and_neural_computing/" title="Opens internal link in current window" class="internal-link">COMP3058 Artificial Intelligence and Neural Networks</a></td>
+           <td>2</td>
+           <td>The Artificial Intelligence section of this module introduces AI as both a technical subject and a field of intellectual activity. The overall targets are to present basic methods of expressing knowledge in forms suitable for holding in computing systems, together with methods for deriving consequences from that knowledge by automated reasoning, and to survey the general aims of AI and its links with other areas of Computer Science.&nbsp; The Neural Networks section of this module aims to give a general understanding of this new and rapidly-developing field, to equip students with the mathematical and conceptual tools which will give them access to the neural computing literature, to provide practical experience with neural network training and to promote a critical approach to the subject.&nbsp;</td>
+           <td>Familiarity with logic at the level guaranteed by any module in discrete mathematics (or in logic), plus some exposure to CS culture including at least one module in the use of a serious programming language.</td>
+          </tr>
+          <tr>
+           <td><a href="current_students/syllabus/undergrad/3072_image_processing/" title="Opens internal link in current window" class="internal-link">COMP3072 Image Processing</a></td>
+           <td>1</td>
+           <td>The first half of this&nbsp;module introduces the digital image, describes the main characteristics of monochrome digital images, how they are represented and how they differ from graphics objects. It covers basic algorithms for image manipulation, characterisation, segmentation and feature extraction in direct space. The second half of the&nbsp;module proceeds to a more formal treatment of image filtering with some indication of the role and implications of Fourier space, and more advanced characterisation and feature detection techniques such as edge and corner detection, together with multiresolution methods, treatment of colour images and template matching techniques. The course allows students to explore a range of practical techniques, by developing their own simple processing functions either in a language such as Java and/or by using library facilities and tools such as MatLab or IDL.<br>*Learning Outcomes:* To understand (ie be able to describe, analyse and reason about) how digital images are represented, manipulated, encoded and processed, with emphasis on algorithm design, implementation and performance evaluation.</td>
+           <td>Successful completion of years 1 and 2 of Physical Science or <br>Engineering programme with sufficient mathematical and programming content.</td>
+          </tr>
+          <tr>
+           <td><p><a href="http://www.cs.ucl.ac.uk/?id=2547" title="Opens external link in new window" target="_top" class="external-link-new-window">COMPM054 Machine Vision </a></p><p>Note: This is a Master's level module - the pass mark is 50%. </p></td>
+           <td>1</td>
+           <td>This module&nbsp;addresses algorithms for automated computer vision. It focuses on building mathematical models of images and objects and using these to perform inference. Students will learn how to use these models to automatically find, segment and track objects in scenes, perform face recognition and build three-dimensional models form images. </td>
+           <td>Successful completion of years 1 and 2 of Physical Sciences or Engineering programme with sufficient mathematical and programming content. </td>
+          </tr>
+         </tbody>
+        </table> 
+        <!--  Text: [end] --> 
+       </div> 
+       <!--  CONTENT ELEMENT, uid:22111/text [end] --> 
+      </div> 
+      <!-- End of div for main text --> 
+     </div> 
+     <!-- End of middle content --> 
+    </div> 
+    <!-- End of inner container --> 
+   </div> 
+   <!-- Start of main content div --> 
+   <!-- Start of footer div --> 
+   <div id="footer" class="page_layout clearblock"> 
+    <div id="owner"> 
+     <div class="tx-responsible-pi1">
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      <a href="mailto:S.Marchant@cs.ucl.ac.uk">Steve Marchant</a> 
+     </div> 
+    </div> 
+    <div id="footer_1" class="clearblock"> 
+     <div id="address"> 
+      <p>Computer Science Department </p> 
+      <p>University College London </p> 
+      <p>Gower Street </p> 
+      <p>London </p> 
+      <p>WC1E 6BT </p> 
+     </div> 
+     <div id="telephone"> 
+      <p> <img src="fileadmin/UCL-CS/web_assets/other_images/phone.gif" width="13" height="9" id="phone" alt="Telephone:"> +44 (0)20 7679 7214 </p> 
+     </div> 
+     <div id="engfac"> 
+      <a href="http://www.engineering.ucl.ac.uk/"> <img src="fileadmin/UCL-CS/web_assets/other_images/ucle_logo_trans.png" id="ucl_eng_logo" alt="UCL Engineering Logo"> </a> 
+     </div> 
+     <div class="page_layout clearblock"> 
+     </div> 
+    </div> 
+    <div id="footer_2" class="clearblock"> 
+     <div id="disclaimer"> 
+      <ul class="inlineList"> 
+       <li> <a href="http://www.ucl.ac.uk/disclaimer/" title="Disclaimer" target="_top">Disclaimer</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/cookies/" title="Cookies" target="_top">Cookies</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/accessibility/" title="Accessibility" target="_top">Accessibility</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/priv/" title="Privacy" target="_top">Privacy</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/advanced-search/" title="UCL Advanced Search" target="_top">Advanced Search</a>| </li> 
+       <li> <a href="http://www.cs.ucl.ac.uk/help/?noMobile=1" title="Help" target="_top">Help</a> </li> 
+      </ul> 
+     </div> 
+     <div id="copyright"> 
+      <p>Copyright © 1999- 2016 UCL </p> 
+     </div> 
+     <div class="page_layout clearblock"> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- End of footer div --> 
+   <div class="page_layout clearblock"></div> 
+  </div>  
+ </body>
+</html>

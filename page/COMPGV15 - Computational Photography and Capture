@@ -1,0 +1,386 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--?xml version="1.0" encoding="utf-8"?-->
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2016 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+--> 
+  <base href="http://www.cs.ucl.ac.uk/"> 
+  <link rel="shortcut icon" href="/fileadmin/UCL-CS/favicon.ico" type="image/x-icon; charset=binary"> 
+  <link rel="icon" href="/fileadmin/UCL-CS/favicon.ico" type="image/x-icon; charset=binary"> 
+  <meta name="generator" content="TYPO3 CMS"> 
+  <meta name="keywords" content="University, College, London, Computer Science"> 
+  <meta name="charset" content="utf-8"> 
+  <link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_1734292a8f.css?1458040091" media="all"> 
+  <link rel="stylesheet" type="text/css" href="fileadmin/UCL-CS/css/csCommon.css?1485355348" media="all"> 
+  <script src="uploads/tx_t3jquery/jquery-1.8.x-1.9.x-1.2.x.js?1383917144" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/googleAnalytics.js?1340190657" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/jqueryImageSlider2.js?1391601155" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/start.fader.js?1413468507" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/jquery.bxslider.js?1391781521" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/jquery.kinetic.js?1432630323" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/startKinetic.js?1432630719" type="text/javascript"></script> 
+  <title>
+			COMPGV15 - Computational Photography and Capture
+		</title> 
+  <link rel="stylesheet" type="text/css" href="fileadmin/UCL-CS/css/csDT2Col.css" media="all"> 
+ </head> 
+ <body> 
+  <div id="everything" class="page_layout"> 
+   <!-- Div for UCL banner --> 
+   <div id="banner" class="page_layout"> 
+    <div id="section_head">
+      Department of Computer Science 
+    </div> 
+    <div id="UCLLogo"> 
+     <a href="http://www.ucl.ac.uk/" target="_top"> <img id="ucl_logo" src="fileadmin/UCL-CS/web_assets/ucl_logo/ucl_logo_whitebg.png" alt="UCL - Home"></a> 
+    </div> 
+   </div> 
+   <!-- End of div for UCL banner --> 
+   <!-- Div for UCL divider --> 
+   <div id="ucl_divider" class="page_layout"> 
+    <!-- UCL Search - CS site--> 
+    <form class="searchForm" id="googlesearch" method="get" action="http://search2.ucl.ac.uk/s/search.html?collection=website-meta&amp;profile=_website&amp;tab=websites"> 
+     <input class="text" type="text" placeholder="Search UCL-CS" value="" accesskey="q" name="query"> 
+     <input class="button" type="submit" value="" name="Submit"> 
+     <input type="hidden" value="ucl-public-meta" name="collection"> 
+     <input type="hidden" value="cs" name="subsite"> 
+    </form> 
+    <div id="breadcrumb" class="breadcrumb"> 
+     <a href="home/">›&nbsp;Home</a>
+     <a href="current_students/">&nbsp;››&nbsp;Current Students</a>
+     <a href="current_students/syllabus/">&nbsp;››&nbsp;Syllabus</a>&nbsp;››&nbsp;GV15 - Computational Photography and Capture 
+    </div> 
+   </div> 
+   <!-- End of div for UCL divider --> 
+   <!-- Start of main content div --> 
+   <div id="mainDiv"> 
+    <!-- Start of inner container --> 
+    <div id="innerContainer"> 
+     <!-- Start of left content--> 
+     <div id="leftCol" class="leftContent"> 
+      <!-- left content start --> 
+      <!--  CONTENT ELEMENT, uid:19043/list [begin] --> 
+      <div id="c19043" class="csc-default"> 
+       <!--  Plugin inserted: [begin] --> 
+       <div class="tx-typoscript2ce"> 
+        <div id="mobileText">
+         <h3><a href="mobile/current_students/syllabus/msccgvi/gv15_computational_photography_and_capture/">Mobile Version</a></h3>
+        </div> 
+       </div> 
+       <!--  Plugin inserted: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19043/list [end] --> 
+      <!--  CONTENT ELEMENT, uid:19061/menu [begin] --> 
+      <div id="c19061" class="csc-default"> 
+       <!--  Menu/Sitemap element: [begin] --> 
+       <ul class="csc-menu csc-menu-def">
+        <li><a href="home/" title="Home">Home</a></li>
+        <li><a href="prospective_students/" title="Prospective Students">Prospective Students</a></li>
+        <li><a href="research/" title="Research">Research</a></li>
+        <li><a href="industry_outreach/" title="Industry &amp; Outreach">Industry &amp; Outreach</a></li>
+        <li><a href="careers/" title="Careers">Careers</a></li>
+        <li><a href="current_students/" title="Current Students"><span class="inPath">Current Students</span></a></li>
+        <li><a href="people/?no_cache=1" title="People">People</a></li>
+        <li><a href="about_us/" title="About Us">About Us</a></li>
+        <li><a href="wics/home/" title="Women in Computer Science">Women in Computer Science</a></li>
+        <li><a href="intranet/" title="Staff Intranet">Staff Intranet</a></li>
+       </ul> 
+       <!--  Menu/Sitemap element: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19061/menu [end] --> 
+      <!--  CONTENT ELEMENT, uid:23946/list [begin] --> 
+      <div id="c23946" class="csc-default"> 
+       <!--  Plugin inserted: [begin] --> 
+       <div class="tx-typoscript2ce"> 
+       </div> 
+       <!--  Plugin inserted: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:23946/list [end] --> 
+      <!--  CONTENT ELEMENT, uid:19046/image [begin] --> 
+      <div id="c19046" class="csc-default csc-space-before-50 csc-space-after-50"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-above">
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-imagerow csc-textpic-imagerow-last">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.facebook.com/pages/University-College-London-Computer-Science/132472916819198" target="_top"><img src="fileadmin/_processed_/csm_facebook_03_a3f147f505.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.linkedin.com/groups?gid=4046543&amp;trk=myg_ugrp_ovr" target="_top"><img src="fileadmin/_processed_/csm_linkedin_03_6c9523f528.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="https://twitter.com/#!/uclcs" target="_top"><img src="fileadmin/_processed_/csm_twitter_03_0c37f5536b.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.youtube.com/user/UCLComputerScience/videos" target="_top"><img src="fileadmin/_processed_/csm_youtube_04_6b8742f9fc.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19046/image [end] --> 
+      <!--  CONTENT ELEMENT, uid:19044/list [begin] --> 
+      <div id="c19044" class="csc-default csc-space-before-30 csc-space-after-50"> 
+       <!--  Header: [begin] --> 
+       <div class="csc-header csc-header-n5">
+        <h1><a href="events/">Forthcoming Events</a></h1>
+       </div> 
+       <!--  Header: [end] --> 
+       <!--  Plugin inserted: [begin] --> 
+       <div class="tx-typoscript2ce"> 
+        <div id="events_div" class="controlledTicker"> 
+         <ul> 
+          <li> New events will be posted here as soon as details become known. </li> 
+         </ul>
+        </div> 
+       </div> 
+       <!--  Plugin inserted: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19044/list [end] --> 
+      <!--  CONTENT ELEMENT, uid:26215/textpic [begin] --> 
+      <div id="c26215" class="csc-default csc-space-before-20"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-above">
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-image csc-textpic-last">
+          <a href="http://www.cs.ucl.ac.uk/degrees/" target="_top"><img src="fileadmin/_processed_/csm_bcs_85243c6ac1.png" width="105" height="43" alt="" border="0"></a>
+         </div>
+        </div>
+        <div class="csc-textpic-text"></div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:26215/textpic [end] --> 
+      <!--  CONTENT ELEMENT, uid:19047/textpic [begin] --> 
+      <div id="c19047" class="csc-default csc-space-before-5"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-below">
+        <div class="csc-textpic-text"></div>
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-imagerow csc-textpic-imagerow-last">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="https://www.itskillsacademy.org.uk/about-us/who-we-work-with/" target="_top"><img src="fileadmin/_processed_/csm_e_skills_d4087aff09.jpg" width="105" height="89" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.cs.ucl.ac.uk/computer_science_news/article/athena-swan-silver-award-for-ucl-computer-science/" target="_top"><img src="fileadmin/_processed_/csm_AthenaSwanLogo_silver_efa303f87a.jpg" width="105" height="58" alt="" border="0"></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19047/textpic [end] --> 
+      <!--  CONTENT ELEMENT, uid:21855/image [begin] --> 
+      <div id="c21855" class="csc-default csc-space-before-15"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-above">
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-imagerow">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.computingatschool.org.uk/" target="_top" title="Network of Excellence - Computer Science"><img src="fileadmin/_processed_/csm_NOE_image_a809f677bf.jpg" width="220" height="63" alt="Network of Excellence - Computer Science" border="0"></a>
+           </div>
+          </div>
+         </div> 
+         <div class="csc-textpic-imagerow csc-textpic-imagerow-last">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.epsrc.ac.uk/research/centres/acecybersecurity/" target="_top" title="Academic Centre of Excellence - Cyber Security Research"><img src="fileadmin/_processed_/csm_GCHQ_image_851b6cc992.jpg" width="220" height="64" alt="Academic Centre of Excellence - Cyber Security Research" border="0"></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:21855/image [end] --> 
+      <!-- left content end --> 
+     </div> 
+     <!-- End of left content --> 
+     <!-- Start ofmiddle content --> 
+     <div id="middleCol"> 
+      <div id="mainText" class="text"> 
+       <h1>COMPGV15 - Computational Photography and Capture</h1>
+       <p><strong>This database contains the 2016-17 versions of syllabuses.</strong> Syllabuses from the 2015-16 session are available&nbsp;<a href="current_students/syllabus_index_2015_2016/">here</a>.</p>
+       <p></p>
+       <p><strong>Note:</strong> Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).</p>
+       <div class="syllabus_page"> 
+        <!--  CONTENT ELEMENT, uid:4474/text [begin] --> 
+        <div id="c4474" class="csc-frame csc-frame-rulerBefore"> 
+         <!--  Text: [begin] --> 
+         <table class="deftable"> 
+          <tbody>
+           <tr>
+            <th>Code</th> 
+            <td>COMPGV15 (Also taught as: COMPM085) </td>
+           </tr>
+           <tr>
+            <th>Year</th> 
+            <td>MSc</td>
+           </tr>
+           <tr>
+            <th>Prerequisites</th> 
+            <td>A-Level maths and basic knowledge of Matlab</td>
+           </tr>
+           <tr>
+            <th>Term</th> 
+            <td>2</td>
+           </tr>
+           <tr>
+            <th>Taught By</th> 
+            <td>Tim Weyrich (50%), Gabriel Brostow (50%) </td>
+           </tr>
+           <tr>
+            <th>Aims</th> 
+            <td>The module is designed to be self-contained, introducing the theoretical and practical aspects of modern photography and capture algorithms to students with only limited mathematical background. The two primary aims are i) to introduce universal models of colour, computer-controlled cameras, lighting and shape capture, and ii) to motivate students to choose among the topics presented for either continuing study (for those considering MSc’s and PhD’s) or future careers in the fields of advanced imaging. </td>
+           </tr>
+           <tr>
+            <th>Learning Outcomes</th> 
+            <td>Students will develop in-depth knowledge and understanding of the main Computational Photography topics as listed in the attached outline syllabus. </td>
+           </tr> 
+          </tbody>
+         </table> 
+         <!--  Text: [end] --> 
+        </div> 
+        <!--  CONTENT ELEMENT, uid:4474/text [end] --> 
+        <!--  CONTENT ELEMENT, uid:4473/text [begin] --> 
+        <div id="c4473" class="csc-frame csc-frame-rulerBefore"> 
+         <!--  Header: [begin] --> 
+         <div class="csc-header csc-header-n2">
+          <h1>Content:</h1>
+         </div> 
+         <!--  Header: [end] --> 
+         <!--  Text: [begin] --> 
+         <p><b>Introduction to Computational Photography<br></b>More on cameras, sensors and colour<br>Blending and compositing<br>Background subtraction and matting<br>Warping, morphing, mosaics and panoramas<br>High-dynamic range imaging/tome mapping<br>Hybrid images<br>Flash photography<br>Stylised rendering using multi-flash </p> 
+         <p><b>Image Inpainting<br></b>Texture synthesis<br>Image quilting<br>Heeger and Bergen<br>Simplicial complex of morphable textures (Matusik 2005) </p> 
+         <p><b>Extension to the temporal domain<br></b>TIP, Video textures<br>Temporal sequence rendering<br>Ezzat speech anim, comtrolled video sprites<br>Video-based rendering: using photographs to enhance videos of a static scene<br>Motion magnification<br>Non-photorealistic rendering and animation <br> </p> 
+         <p><b>Colourization and colour transfercolorization using optimization</b><br>Colour transfer between images<br>N-Dimensional probability density function transfer and its application to colour transfer <br>Intrinsic images<br>Vectorising Raster images<br>Poisson image editing<br>Seam carving<br>De-blurring/ dehazing<br>Coded aperture imaging </p> 
+         <p><b>Image-based rendering<br></b>Image-based modelling and photo editing view dependence, light-dependence, plenoptic function<br>Selected ways to capture the above representations </p> 
+         <p><b>Extensions to the temporal domain<br></b>Factored time-lapse video<br>Computational time-lapse video<br>Video synopsis and indexing </p> 
+         <p><b style="line-height: 16.2000007629395px;">Capturing images with structured light<br></b>Laser-stripe projection<br>ShadowCuts<br>Stripe codes<br>Edge codes<br>Phase shift<br>Brief recap of stereo, spatio-temporal stereo<br>Photometric stereo<br>The Helmholtz wheel (Helmholtz reciprocity)&nbsp; </p> 
+         <p><b>Dual photography<br></b>Seeing around cornersdual light stage<br>Separation of global and local reflectance<br>Image-based BRDF measurements<br>Measuring the BSSRDF</p> 
+         <!--  Text: [end] --> 
+        </div> 
+        <!--  CONTENT ELEMENT, uid:4473/text [end] --> 
+        <!--  CONTENT ELEMENT, uid:4472/text [begin] --> 
+        <div id="c4472" class="csc-default"> 
+         <!--  Header: [begin] --> 
+         <div class="csc-header csc-header-n3">
+          <h1>Method of Instruction:</h1>
+         </div> 
+         <!--  Header: [end] --> 
+         <!--  Text: [begin] --> 
+         <p>Lecture presentations supplemented by practical lab demonstration sessions and substantial online content with other detailed examples, and links for both further reading and existing demo software. </p> 
+         <!--  Text: [end] --> 
+        </div> 
+        <!--  CONTENT ELEMENT, uid:4472/text [end] --> 
+        <!--  CONTENT ELEMENT, uid:4471/text [begin] --> 
+        <div id="c4471" class="csc-default"> 
+         <!--  Header: [begin] --> 
+         <div class="csc-header csc-header-n4">
+          <h1>Assessment:</h1>
+         </div> 
+         <!--  Header: [end] --> 
+         <!--  Text: [begin] --> 
+         <p>The course has the following assessment components: </p>
+         <ul>
+          <li>Individual Project (60%)</li>
+          <li>Coursework (40%)</li>
+         </ul> 
+         <p>To pass this course, students must: </p>
+         <ul>
+          <li>Obtain an overall pass mark of 50% for all sections combined.</li>
+          <li>Submit a proper attempt at the coursework component.</li>
+         </ul>
+         <p><br>(The Individual Project consists of the implementation and a written report. The Coursework consists of 2 separate pieces of coursework.)</p> 
+         <!--  Text: [end] --> 
+        </div> 
+        <!--  CONTENT ELEMENT, uid:4471/text [end] --> 
+        <!--  CONTENT ELEMENT, uid:4470/text [begin] --> 
+        <div id="c4470" class="csc-default"> 
+         <!--  Header: [begin] --> 
+         <div class="csc-header csc-header-n5">
+          <h1>Resources:</h1>
+         </div> 
+         <!--  Header: [end] --> 
+         <!--  Text: [begin] --> 
+         <p>Peter J Burt, Edward H Adelson. “The Laplacian pyramid as a compact image code,” [J]. IEEE Transaction on communications,1983, 231: 532–540<br>Patrick Pérez, Michel Gangnet, Andrew Blake, “Poisson image editing”, Proceedings of ACM SIGGRAPH 2003, Pages: 313 – 318.<br>Pradeep Sen and Billy Chen and Gaurav Garg and Stephen R. Marschner and Mark Horowitz and Marc Levoy and Hendrik P. A. Lensch,“Dual photography” ACM Trans. Graphics, vol 24, num 3, p 745-755.<br>Tim Hawkins, Per Einarsson, Paul Debevec, “A Dual Light Stage”, Proceedings Eurographics Symposium on Rendering 2005<br>Youichi Horry, Ken-Ichi Anjyo, Kiyoshi Arai, “Tour into the picture: using a spidery mesh interface to make animation froma single image”, Proceedings of Siggraph 1997, Pages: 225 – 232.<br>Thaddeus Beier, Shawn Neely, “Feature-based image metamorphosis”, Proceedings of ACM SIGGRAPH 1992, pages 35-42.<br>Levin, Lischinski, Weiss, “Colorization using Optimization”, SIGGRAPH 2004.<br>Reinhard, Ashikhmin, Gooch, Shirley, “Color Transfer Between Images”, CGandA 2001.<br>Pritch, Rav-Acha, Peleg, “Video Synopsis and Indexing”, ICCV 2007.<br>Pravin Bhat and C. Lawrence Zitnick and Noah Snavely and Aseem Agarwala and Maneesh Agrawala and Brian Curless and Michael&nbsp;Cohen and Sing Bing Kang, “Using Photographs to Enhance Videos of a Static Scene”, Proceedings Eurographics Symposium on Rendering&nbsp;2007, pp 327-338.<br>Arno Schödl, Richard Szeliski, David H. Salesin, and Irfan Essa, “Video Textures”, Proceedings of SIGGRAPH 2000, pages 489-498,&nbsp;July 2000.<br>Arno Schödl, Irfan Essa, “Controlled Animation of Video Sprites”, Symposium on Computer Animation 2002.<br>Pitié, Kokaram, Dahyot, “N-Dimensional Probability Density Function Transfer and its Application to Colour Transfer”, Proceedings&nbsp;of ICCV 2005, p.1434-1439.<br>Eric Bennett, Leonard McMillan, “Computational Time-Lapse Video”, ACM SIGGRAPH 2007, pp 102-108.<br>Sunkavalli, Matusik, Pfister, Rusinkiewicz, “Factored Time-Lapse Video”, Proceedings of Siggraph 2007.<br>Tony Ezzat, Gadi Geiger, Tomaso Poggio, “Trainable videorealistic speech animation”, Proceedings of Siggraph 2002, Pages:388 – 398.<br>Land and McCann, “Lightness and Retinex Theory” J. Opt. Soc. Am. 61, 1-11 (1971).<br>H.G. Barrow and J.M. Tenenbaum, “Recovering Intrinsic Scene Characteristics From Images”, Computer Vision Systems, A. Hanson&nbsp;and E. Riseman, eds., pp. 3-26. Academic Press, 1978.<br>P. Sinha, E.H. Adelson, “Recovering Reflectance and Illumination in a World of Painted Polyhedra”, Proceedings of ICCV 1993,p. 156-163,<br>Yair Weiss, “Deriving Intrinsic Images from Image Sequences”, Proceedings ICCV 2001, pp. 68—75.<br>Marshall F. Tappen, William T. Freeman, Edward H. Adelson, “Recovering Intrinsic Images from a Single Image”, pp1343-1350.<br>Graham D. Finlayson, Mark S. Drew, and Cheng Lu, “Intrinsic Images by Entropy Minimization”, in Proceedings of ECCV pp. 582—595,&nbsp;2004. </p> 
+         <p><a href="http://web4.cs.ucl.ac.uk/teaching/3085/" title="Opens external link in new window" target="_top" class="external-link-new-window">Module home page</a>.(NB this link currently points at the 2012/13 version)</p> 
+         <!--  Text: [end] --> 
+        </div> 
+        <!--  CONTENT ELEMENT, uid:4470/text [end] --> 
+       </div> 
+      </div> 
+      <!-- End of div for main text --> 
+     </div> 
+     <!-- End of middle content --> 
+    </div> 
+    <!-- End of inner container --> 
+   </div> 
+   <!-- Start of main content div --> 
+   <!-- Start of footer div --> 
+   <div id="footer" class="page_layout clearblock"> 
+    <div id="owner"> 
+     <div class="tx-responsible-pi1">
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      <a href="mailto:teachingadmin@cs.ucl.ac.uk">Teaching Administrator</a> 
+     </div> 
+    </div> 
+    <div id="footer_1" class="clearblock"> 
+     <div id="address"> 
+      <p>Computer Science Department </p> 
+      <p>University College London </p> 
+      <p>Gower Street </p> 
+      <p>London </p> 
+      <p>WC1E 6BT </p> 
+     </div> 
+     <div id="telephone"> 
+      <p> <img src="fileadmin/UCL-CS/web_assets/other_images/phone.gif" width="13" height="9" id="phone" alt="Telephone:"> +44 (0)20 7679 7214 </p> 
+     </div> 
+     <div id="engfac"> 
+      <a href="http://www.engineering.ucl.ac.uk/"> <img src="fileadmin/UCL-CS/web_assets/other_images/ucle_logo_trans.png" id="ucl_eng_logo" alt="UCL Engineering Logo"> </a> 
+     </div> 
+     <div class="page_layout clearblock"> 
+     </div> 
+    </div> 
+    <div id="footer_2" class="clearblock"> 
+     <div id="disclaimer"> 
+      <ul class="inlineList"> 
+       <li> <a href="http://www.ucl.ac.uk/disclaimer/" title="Disclaimer" target="_top">Disclaimer</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/cookies/" title="Cookies" target="_top">Cookies</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/accessibility/" title="Accessibility" target="_top">Accessibility</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/priv/" title="Privacy" target="_top">Privacy</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/advanced-search/" title="UCL Advanced Search" target="_top">Advanced Search</a>| </li> 
+       <li> <a href="http://www.cs.ucl.ac.uk/help/?noMobile=1" title="Help" target="_top">Help</a> </li> 
+      </ul> 
+     </div> 
+     <div id="copyright"> 
+      <p>Copyright © 1999- 2016 UCL </p> 
+     </div> 
+     <div class="page_layout clearblock"> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- End of footer div --> 
+   <div class="page_layout clearblock"></div> 
+  </div>  
+ </body>
+</html>

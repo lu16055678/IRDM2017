@@ -1,0 +1,432 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         UCL welcomes top software engineers from NII Tokyo
+ 
+         
+          
+          
+
+          
+          
+
+          
+          
+
+         
+ 
+         This was the fourth successful year of the International Software engineering event where students from the National Institute of Informatics (NII) Tokyo国立情報学研究所 collaborate on a research project with students from UCL computer science (UCLCS). 
+ 
+         The overall aim of this year’s big data research project was to see if Transport for London’s (TfL) cycle hire scheme could be optimised and the service improved for users and operators, using TfL’s publicly available Open Data. Dr Tanable Yoshinori brought students enrolled in NII’s TopSE (education program for top software engineers) to UCL for the first week of the academic year. Their studies were combined with UCL students taking the module COMP3001 Technology Management.
+ 
+         The research project was to be delivered in 10 weeks. Each of the six teams had one student from NII and interacted during that first week, planning their projects together, prioritising tasks and agreeing how they would communicate during the project. At the end of the first week all teams had formulated an initial plan so they were able to continue their collaboration via social media and video conferencing when their teammates returned to Japan.
+ 
+         Graham Collins and Teaching Assistant Marcia Murcia Lopez introduced the teams to the project management approaches as well as the engineering process required for big data analytics projects. The concept of big data life-cycles was outlined, showing that they would have to investigate and select appropriate data sets, before cleaning and visualising them to see if they were suitable, as well as, at the same time, clarifying the goals of their project.  The teams were encouraged to seek feedback from stakeholders with their initial goals, visualisations, findings and designs of apps. The initial guidance also included suggestions to conduct further research beyond the documents initially provided, select suitable architectures, NoSQL databases and visualisation tools. For some teams, task prioritisation led members to discuss ideas with researchers in other departments and Future Cities Catapult, a not-for profit organisation, to help prioritise their goals. 
+ 
+         The importance of feedback from management and operators of the scheme was reinforced during lectures and meetings, given the necessity to show return on investment as part of the project. This gave impetus to teams to prioritise their interactions with specific groups, such as the operator Serco for bicycle hire redistribution, and to obtain data for relocation cost for transporting trailers or vans with bicycles to calculate the average cost of relocation per bicycle. 
+ 
+         This project fitted well with the collaborative, sustainability and humanitarian aims of both UCL and UCL’s Grand Challenges and also NII’s initiatives in research to improve future value, social contributions, interdisciplinary approaches to information processing and extending partnerships and international research activities.
+ 
+         http://www.ucl.ac.uk/grand-challenges 
+ 
+         http://www.nii.ac.jp/en/about/mission/ 
+ 
+         One of the unique features of this joint project is that students from NII are post-graduates also working on engineering projects in industry, qualified at MSc level or PhD level. The students from UCL were final year undergraduate students. By collaborating in this way both the UCL and NII students were able to benefit from different training backgrounds and cultures. The benefit of international collaboration was recognised by the project groups. For example, in their project report, group 4 (Motive) cited their teammates from different countries including Japan as having “enhanced the  project with their international insight.”
+ 
+         Dr. Yoshinori and Graham Collins discussed the benefits. It became apparent that the UCL students gained from the expertise of the NII students with analysis of big data and the NII students gained in their particular experience in explaining data analytics concepts they had used. This helped improve their consulting skills, particularly discussing the problem, benefits and trade-offs of different approaches. Although the NII students were highly technically qualified, typically they had had limited experience in putting put their own ideas forward in a project setting. Dr Yoshinori explained that these opportunities for discussions and chance to question approaches would greatly enhance their project skills particularly in increasingly international project teams. Certainly, the same skills were enhanced for UCL students. Because of the impressive results produced by all teams, the lecturers encouraged groups to consider research in data analytics at UCL in the future.
+ 
+         All teams produced valuable insights and applications, providing sophisticated data analytics and, in some cases, machine learning. Apps included examples that could be used by cyclists to provide the optimal cycle route in distance, as well as an option to gain refunds by selecting or placing their bikes in a more suitable place for redistribution. Other teams provided improved real-time modeling to allow for better usage when there were periods of engineering disruption. All teams showed that their applications or APIs could be integrated to other data sets such as weather and, in some cases, showed examples for other cities, such as Toyko. TfL have mentioned the impact of these projects in the press this year, stating their intention to take many of the projects forward. 
+ 
+         We would like to express our thanks for invaluable support from Dr Daniel Hulme (suggesting the TfL open data sets and verifying the feasibility of the projects) and Dr Dean Mohamedally who, with Professor Anthony Finkelstein, initiated the NII collaboration, the support for student teams from the Centre for Advanced Spatial Analysis (CASA) at the Bartlett UCL, particularly Dr Stephen Pryke and Martin Austwick. 
+ 
+         
+ 
+         
+ 
+         
+           Posted 18 May 15 08:18 
+         
+ 
+          
+          
+           Next: Dr Sarah Meiklejohn... >
+
+          
+ 
+          
+           < Previous: Chirp is 1st UCL company...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 3 items
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

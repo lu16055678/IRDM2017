@@ -1,0 +1,234 @@
+
+  
+   
+   
+    User Manual for the ExerTran Coursework System
+
+    
+
+   
+
+   
+    	
+      Table of Contents
+     
+	
+      Overview
+     
+	
+      System Startup
+     
+	
+      Student Interface
+     
+	
+      Manager Interface
+     
+	
+      	
+        Username-password Table Sub-system
+       
+	
+        	
+          Selecting records
+         
+	
+          Row Display Functions
+         
+	
+          Cut and Copy Functions
+         
+	
+          Cut Buffers and Cut Buffer Functions
+         
+	
+          Paste Commands
+         
+	
+          Sort Function
+         
+	
+          New and Edit Functions
+         
+	
+          Load-from-file Function
+         
+	
+          Save-to-file Function
+         
+	
+          Save-to-Database Function
+         
+	
+          Show-Cut-Buffer Function
+         
+	
+          Clear-Cut-Buffer Function
+         
+	
+          Refresh Function
+         
+	
+          Close Function
+         
+	
+          AddPassword Function
+         
+	
+          AddRoles Function
+         
+	
+          MailPasswordsToUsers Function
+         
+
+
+       
+	
+        Question List Table Sub-system
+       
+	
+        	
+          Common Table Functions
+         
+	
+          Table Specific Functions
+         
+
+
+       
+	
+        Marks Table Sub-system
+       
+	
+        	
+          Common Table Functions
+         
+	
+          Table Specific Functions
+         
+
+
+       
+	
+        The Marks Aggragation Sub-system
+       
+	
+        Display logged in user details!
+       
+	
+        Display Question System
+       
+	
+        Management and XML Functions
+       
+	
+        Quit Management System"
+       
+	
+        Log files
+       
+
+
+     
+	
+      Question Generation
+     
+	
+      	
+        Generating the files from the XML definition
+       
+	
+        Question Document Elements and Attributes
+       
+	
+        	
+          Question Document XML Element: question-document
+         
+	
+          Question Document XML Element: topic
+         
+	
+          Question Document XML Element: question
+         
+	
+          Question Document XML Element: question-message
+         
+	
+          Question Document XML Element: image
+         
+	
+          Question Document XML Element: question-part
+         
+	
+          Question Document XML Element: variable
+         
+	
+          Question Document XML Element: set
+         
+	
+          Question Document XML Element: random
+         
+	
+          Question Document XML Element: fixed
+         
+	
+          Question Document XML Element: equation
+         
+	
+          Question Document XML Element: answer-integer
+         
+	
+          Question Document XML Element: answer-double
+         
+	
+          Question Document XML Element: answer-text
+         
+	
+          Question Document XML Element: question
+         
+	
+          Question Document XML Element: questionnaire
+         
+	
+          Question Document XML Element: sub-answer
+         
+	
+          Question Document XML Element: wrong-answer-response
+         
+	
+          Question Document XML Element: helpfile
+         
+	
+          Question Document XML Element: comment
+         
+	
+          Question Document XML Element: strings
+         
+
+
+       
+	
+        Question Document DTD File
+       
+
+
+     
+	
+      Recovery when marks fail to be stored in the database
+     
+
+
+   
+
+  
+
+  
+   
+
+   	<<< Previous	Home	Next >>>
+	The ExerTran Documentation	 	Overview
+
+
+  
+
+ 

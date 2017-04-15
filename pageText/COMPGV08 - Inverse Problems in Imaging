@@ -1,0 +1,467 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus ›› GV08 - Inverse Problems in Imaging 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGV08 - Inverse Problems in Imaging
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	 COMPGV08 
+	Year	MSc
+	Prerequisites	N/A
+	Term	2
+	Taught By	Simon Arridge (100%) 
+	Aims	To introduce the concepts of optimisation, and appropriate mathematical and numerical tools applications in image processing and image reconstruction. 
+	Learning Outcomes	To understand the principles of optimisation and to acquire skills in mathematical methods and programming techniques.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         Introduction
+Example problems; 
+Data Fitting Concepts;
+Variational and Iterative Concepts. 
+ 
+         Mathematical Tools 
+Linear Algebra: Solving Systems of Linear Equations; Over and Under Determined Problems; Eigen-Analysis and SVD; Preconditioning
+Variational Methods: Calculus of Variation; Multivariate Derivatives; Frechet and Gateaux Derivatives
+Regulariation: Tikhonov and Generalised Tikhonov Non-Quadratic Regularisation, Non-Convex Regularisation. 
+ 
+         Numerical Tools
+Non-Gradient Methods: Simplex Method; Powell's Method
+Descent Methods: Steepest Descent; Conjugate Gradients; Line Search
+Newton Methods: Gauss Newton and Full Newton; TrustRegion and Globalisation; Quasi-Newton; Inexact Newton 
+ 
+         Unconstrained Optimisation
+Least-Squares Problems: Linear Least Squares; Non-linear Lesat Squares
+Non-Quadratic Problems: Poisson Likelihood; Kullback-Leibler Divergence 
+ 
+ 
+         Regularisation Parameter Selection 
+Discrepancy Principles; The L-Curve Method; Generalised Cross-Validation 
+ 
+         Constrained Optimisation
+Equality Constraints: Lagranian Penalties
+Inequality Constraints: Positivity Constraints; Upper and Lower Bounds; Active Sets
+Primal-Dual Methods: Primal-Dual Interior Point Methods 
+ 
+ 
+         Bayesian Approach
+Bayesian Priors and Penalty Functions, Maximum Likelihood and Maximum A Posterior: Best Linear Unbiased Estimation; Expectation-Minimisation
+Posterior Sampling: Confidence-Limits; Monte Carlo Markov Chain; Applications Image Deblurring: Deconvolution; Anisotropic Denoising
+Linear Image Reconstruction: Tomographic Reconstruction; Reconstruction from Incomplete Data
+Non-Linear Parameter Estimation: General Concepts; Direct and Adjoint Differentiation 
+ 
+         Other Approaches
+Simulated Annealing; Genetic Algorithms
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lecture presentations with associated class coursework and laboratory sessions
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	 Written Examination (2.5 hours, 75%)
+	Coursework Section (2 pieces, 25%)
+
+
+         To pass this course, students must:  
+ 
+         	Obtain an overall pass mark of 50% for all sections combined.
+
+
+         
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         C.R. Vogel, Computational Methods for Inverse Problems (SIAM 2002)
+ 
+         J.E. Dennis and R.B Schnabel, Numerical Methods for Unconstrained Optimisation and Nonlinear Equations (SIAM 1996)
+ 
+         J. Nocedal and S.J Wright, Numercal Optimisation (Springer 1999)
+ 
+         S.Boyd and L.Vandenberghe, Convex Optimisation, (Cambridge University Press, 2004)
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

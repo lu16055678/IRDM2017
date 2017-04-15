@@ -1,0 +1,488 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus Index 2017-2018 (Provisional) ›› COMP311P - Systems Engineering 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMP311P - Systems Engineering
+
+       This database contains the 2017-18 versions of syllabuses. These are still being finalised and changes may occur before the start of the session.
+
+       Syllabuses from the 2016-17 session are available here.
+
+        
+         
+         
+          
+         	Code	COMP311P 
+	Year	3
+	Prerequisites	Introduction to Programming (COMP210P)
+	Term	2
+	Taught By	Rae Harbird (100%) 
+ 
+	Aims	This is a course for students with some prior experience of programming. Theprimary objective of the course is for the students to gain practical experience of specifying an information system using industry-recognised, object-oriented techniques.
+The students will gain experience via hands-on engagement on a weekly basis. Each week, or stage, serves as a checkpoint that progress is being made. Over the course of the term, students will undertake a substantial project in which they will work teams of three or four to produce a specification for a web-based information system. Support will be provided in the labs / tutorials. 
+Secondary goals are for the students to gain further experience with computational thinking. They will start by formulating an idea for a computer application and will subsequently translate this into a set of models such that the application could be developed and tested. Students will gain further experience of working in teams. 
+ 
+	Learning Outcomes	
+             	Understand that it is essential to use a software development process to control and manage information systems projects.
+	Understand how UP and Agile can be used to manage the software development process.
+	Understand the concept of object-oriented modelling and how this relates to object-oriented programming.
+	Understand which aspects of a software application can be modelled with the Unified Modelling Language (UML).
+	Use UML to model different views of an application.
+	Produce a coherent and cohesive specification containing a set of UML models for an application.
+
+These are skills that can only be learned through doing. The intended learning outcome is that the students become adept at applying these skills.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         The expected task outline set out below. The content may be varied according to the progress made by the students. The length of the course will depend upon the structure of the degree. At the moment. students taking the IEP have two scenario weeks in each term and modules are eight weeks in duration instead often. The content will be curtailed according to the number oi weeks available. There will be an in class test in one of the lecture slots. 
+ 
+         Week 1: What is Software Engineering and why do we need it? This foundation material will also cover: 
+ 
+         • The impact of software engineering artetacts throughout the project litecycle from initiation to testing and delivery. 
+ 
+         • Methodologies for managing software projects: the Unified Process and Agile development. 
+ 
+         • Managing large-scale, distributed and off-shore projects. 
+ 
+         • Team organisation and roles. 
+ 
+         Week 2: Requirements gathering: how to write and manage requirements. Translating requirements into use cases or user stories. 
+ 
+         Week 3: Introduction to object-oriented concepts and UML modelling. 
+ 
+         Week 4: Object oriented analysis: Finding candidate classes and creating the domain model. 
+ 
+         Week 5: Object oriented analysis: Process view with activity diagrams; logical view with class diagrams. 
+ 
+         Week 6: Reading week: no labs or lectures. 
+ 
+         Week 7: Classes in more detail. Showing object interaction with sequence diagrams. 
+ 
+         Week 8: Illustrating the life-cycle of an object with state machine diagrams and using package diagrams for a high-level application overview. 
+ 
+         Week 9: Modelling the deployed system with deployment diagrams. Object oriented design, modelling web applications. 
+ 
+         Week 10: There are a range of advanced topics that could be included, for example: design patterns and software architecture.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Topics will be introduced with a short video clip and students will be expected to attempt some simple problems before the class. The course content will be delivered as a series of lectures with further problem solving in class. 
+ 
+         There will be a strong emphasis on the tutorials / labs. Students will have a two- hour lab session every week which will be staffed by TAs. At the outset of the course students will be organised into teams and over the duration of the course teams will work on a specification for a web application. As they learn about the modelling techniques they will be expected to create the associated diagrams for their project. 
+ 
+         There will be an in class test in the latter half of the course to ensure that students understand the concepts. By the end of the course teams will submit a report containing the specification for the web application and a presentation for assessment.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components: 
+ 
+         In class test (20%) 
+ 
+         Final project (80%)
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Bibliography
+ 
+         Please note: the resources noted here are indicative and may be changed to keep up with the latest 
+ 
+         developments in the area. 
+ 
+          1. Ambler, S.W., 2004. The object primer: Agile model-driven development with UML 2.0. Cambridge University Press. 
+ 
+         2. Arlow, J. and Neustadt, I., 2005. UML 2 and the unified process: practical object-oriented analysis and design. Pearson Education. 
+ 
+         3. Gomaa, H., 2011. Software modeling and design: UML, use cases, patterns, and software architectures. 
+ 
+         Cambridge University Press. 
+ 
+         4. Highsmith. J., 2009. Agile project management: creating innovative products. Pearson Education. 
+ 
+         5. Holt. J.. 2004. UML for Systems Engineering: watching the wheels (Vol. 4). IET. 
+ 
+         6. Miles, H. and Hamilton. K., 2006. Learning UML 2.0. O'Heilly Media. Inc. 
+ 
+         7. Stellman, A. and Greene. J.. 2014. Learning agile: Understanding scrum, XP. lean. and kanban. O'Reilly 
+ 
+         Media, Inc. 
+ 
+         8. Varma, T., 2015. Agile Product Development: How to Design Innovative Products That Create Customer 
+ 
+         Value. Apress. 
+ 
+         9. Watkins, J., 2009. Agile testing: How to succeed in an extreme testing environment. Cambridge University Press.
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 03 Apr 2017 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

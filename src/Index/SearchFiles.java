@@ -1,5 +1,8 @@
 package Index;
-
+/**
+ * This code was based on the source code on tutorials of Apache Lucene website.
+ * It was modified by @author mingminlu.
+ */
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
@@ -25,7 +28,7 @@ public class SearchFiles {
 	private static final String DOCPATH = "pageText";
 	private String field = "contents";
 	private boolean raw = false;
-	private int hitsPerpage = 50;
+	private int hitsPerpage = 100;
 
 	public void Search(String queryString) throws IOException, ParseException {
 		IndexReader reader = DirectoryReader.open(FSDirectory.open(Paths.get(INDEXPATH)));
@@ -58,6 +61,7 @@ public class SearchFiles {
 
 		int start = 0;
 		int end = Math.min(numTotalHits, hitsPerPage);
+		//System.out.println(hits.length+" "+end);
 		while (true) {
 			if (end > hits.length) {
 				System.out.println("Only results 1 - " + hits.length + " of " + numTotalHits

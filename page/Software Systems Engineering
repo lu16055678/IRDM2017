@@ -1,0 +1,18 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+  <meta name="GENERATOR" content="Mozilla/4.5 (Macintosh; I; PPC) [Netscape]"> 
+  <title>Software Systems Engineering</title> 
+ </head> 
+ <body text="#1D2FBA" bgcolor="#DCE0FA" link="#ED181E" vlink="#6C18B0" alink="#ED181E"> 
+  <hr> 
+  <h2> <font face="Arial,Helvetica">Software Systems Engineering: a definition</font></h2> 
+  <font face="Arial,Helvetica"><font size="+1">Software Systems Engineering is the branch of systems engineering concerned with the development of large and complex software intensive systems. It focusses on: the real-world goals for, services provided by, and constraints on such systems; the precise specification of system structure and behaviour, and the implementation of these specifications; the activities required in order to develop an assurance that the specifications and real-world goals have been met; the evolution of such systems over time and across system families. It is also concerned with the processes, methods and tools for the development of software intensive systems in an economic and timely manner.</font></font> 
+  <br>
+  <font face="Arial,Helvetica"><font size="+1"></font></font>&nbsp; 
+  <p><font face="Arial,Helvetica"><font size="+1">{with apologies to Pamela Zave and others}</font></font> </p>
+  <p> </p>
+  <hr WIDTH="100%">   
+ </body>
+</html>

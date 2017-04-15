@@ -1,0 +1,450 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Students
+      ›› Syllabus
+      ›› MSc Financial Risk Management ›› G009 - Networks and Systemic Risk 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPG009 - Networks and Systemic Risk
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPG009 
+	Year	MSc
+	Prerequisites	Familiarity with basic probability and calculus; the coursework requires basic programming skills
+	Term	2
+	Taught By	Fabio Caccioli (100%)
+	Aims	The first part of the course presents a general introduction to complex networks and dynamical processes. The second part is focused on specific applications to the study of contagion in financial networks. Overall, the course represents an introduction to the topic of systemic risk and stress propagation in networked systems.
+
+	Learning Outcomes	The student will be able to 1) compute network metrics and provide a statistical description of networks, 2) analyze dynamical processes on networks, 3) implement simple algorithms for the analysis of financial contagion. 
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content
+
+         
+ 
+          
+          
+         Introduction to complex networks 
+
+         	Basic concepts of networks (graphs, subgraphs, adjacency matrix, undirected, directed and weighted networks), common metrics (degree, betweenness, centrality, clustering, degree distribution, excess degree distribution, mixing patterns, real world examples). 
+	Network models (random networks, configuration model, small world, preferential attachment). 
+
+ 
+         Collective behavior 
+
+         	Emergence of a giant cluster. Robustness to random and targeted attacks.
+	Spreading processes, master equation, approximate solution of the master equation, mean field approximation, computer simulations.
+	Cascade processes on networks.
+
+ 
+         Application to interbank networks and systemic risk
+
+         	Interbank lending networks, payment networks, and their properties.
+	Furfine default algorithm and cascades of defaults.
+	Clearing vector of payments and the Eisenberg-Noe model.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction
+
+         
+ 
+          
+          
+         30 hours of lectures plus homework and assignments
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	Coursework (50%, individual project on financial networks and written essay)
+	Written examination (2.5 hours, 50%)
+
+
+         To pass this course, students must: 
+ 
+         	Obtain an overall pass mark of 50% for all sections combined.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources
+
+         
+ 
+          
+          
+         Recommended texts
+Barrat, Bathelemy and Vespignani “Dynamical processes on complex  networks”, Cambridge University Press
+Newman “Networks: an introduction”, Oxford University Press  
+ 
+         Further reading
+Barabasi and Albert, “Statistical mechanics of complex networks ”Review of Modern Physics 74, 47
+Lorenz, Battiston and Schweitzer“Systemic Risk in a Unifying Framework for Cascading Processes on Networks” European Journal of Physics B 71, no 4 441-460
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

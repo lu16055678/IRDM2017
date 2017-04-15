@@ -1,0 +1,453 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus ›› GC05 - Algorithmics 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGC05 - Algorithmics
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPGC05 
+	Year	MSc
+	Prerequisites	This course should be taken in conjunction with the core courses for MSc Computer Science and MSc Financial Computing.
+	Term	2
+	Taught By	Denise Gorse (50%), Jens Krinke (50%) 
+	Aims	To introduce more formal aspects of algorithms and data structures than in the first term. Properties of data types such as queues and search trees. Techniques for analysing the complexity and decidability of algorithms. Formal models of computation. 
+	Learning Outcomes	Knowledge of a selection of standard data structures and abstract data types. The ability to choose appropriate data structures for programming problems. Understanding of a variety of common algorithms and why some are more efficient than others. Ability to discuss uncomputable and intractable algorithms. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         Course Introduction
+Introduction to data structures and abstract data types; Abstract data types and Java classes; Language facilities; Model of storage in imperative languages; Cells, l-values and r-values; Exceptions; Data aggregation: arrays, structures and object references. 
+ 
+         Linear abstract data types
+Stacks and queues; Implementations with arrays and linked lists; Applications;  Sequences; Circular and double linked lists; Inheritance relationships between linear linked lists. 
+ 
+         Tables
+Linear look-up table; Linear search; Binary search. 
+ 
+         Trees
+Definitions of trees; Binary search tree; Insertion, deletion, tree traversal and searching. 
+ 
+         Hash tables
+Chaining; Open addressing; Choice of hash function. 
+ 
+         Graphs
+Adjacency lists; Adjacency matrices; Depth and breadth first traversal. 
+ 
+         Sorting
+Insertion Sort; Mergesort; Quicksort. 
+ 
+         Analysis of Algorithms
+Empirical vs theoretical analysis; Algorithmic complexity; O notation; Best, worst, and average cases; Sums of series; Simple summation formulae. 
+ 
+         Analysis of earlier examples
+Includes linear and binary search. 
+ 
+         Limits of Computation
+Tractable and intractable problems; the complexity classes P, NP, NPC Undecidability; the Halting Problem.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lecture presentations, coursework and associated class problems.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components
+
+         	Written Examination (2.5 hours, 85%)
+	Coursework Section (15%, 5 pieces for 2% each, 1 piece for 5%)
+
+
+         To pass this course, students must:
+
+         	Obtain an overall pass mark of 50% for all sections combined.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Algorithmics - The Science of Computing. D.Harel, Addison-Wesley, 1989.
+
+Clifford A. Shaffer, "Data Structures and Algorithm Analysis”,  Edition 3.2 (Java Version) <http://people.cs.vt.edu/shaffer/Book/> 
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

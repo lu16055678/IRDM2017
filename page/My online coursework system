@@ -1,0 +1,246 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+  <meta name="ProgId" content="Word.Document"> 
+  <meta name="Generator" content="Microsoft Word 9"> 
+  <meta name="Originator" content="Microsoft Word 9"> 
+  <link rel="File-List" href="./courseworkDemo_files/filelist.xml"> 
+  <title>My online coursework system</title> 
+  <!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>WSG</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>rounce</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>6</o:TotalTime>
+  <o:Created>2005-07-04T15:42:00Z</o:Created>
+  <o:LastSaved>2005-07-04T15:42:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>640</o:Words>
+  <o:Characters>3651</o:Characters>
+  <o:Company>UCL</o:Company>
+  <o:Lines>30</o:Lines>
+  <o:Paragraphs>7</o:Paragraphs>
+  <o:CharactersWithSpaces>4483</o:CharactersWithSpaces>
+  <o:Version>9.4402</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--> 
+  <style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:20.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:red;
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:blue;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style> 
+ </head> 
+ <body lang="EN-GB" link="blue" vlink="purple" style="tab-interval:36.0pt"> 
+  <div class="Section1"> 
+   <p class="MsoTitle">My online coursework system</p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;">
+     <!--[if !supportEmptyParas]-->&nbsp;
+     <!--[endif]-->
+     <o:p></o:p></span></p> 
+   <p class="MsoBodyText">To try the coursework, click the following link and use the following username and password at the login prompt:</p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;">
+     <!--[if !supportEmptyParas]-->&nbsp;
+     <!--[endif]-->
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal" style="margin-left:27.0pt"><span style="font-family:Arial;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:blue">Username: </span><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;color:red">anonymous</span><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;color:blue">
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal" style="margin-left:27.0pt"><span style="font-family:Arial;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:blue">Password: </span><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;color:red">anonymous</span><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;color:blue">
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;">
+     <!--[if !supportEmptyParas]-->&nbsp;
+     <!--[endif]-->
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal" style="margin-left:54.0pt"><span style="font-family:Arial;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:red">Link to demo:</span><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;"><span style="mso-tab-count:2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><a href="https://sonic.cs.ucl.ac.uk:17443/GC03/x.html">computer architecture coursework</a>
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal" style="margin-left:54.0pt"><span style="font-family:Arial;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:red"><span style="mso-tab-count:
+4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;"><a href="https://sonic.cs.ucl.ac.uk:17443/2011/x.html">networks coursework</a>
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;">
+     <!--[if !supportEmptyParas]-->&nbsp;
+     <!--[endif]-->
+     <o:p></o:p></span></p> 
+   <p class="MsoBodyText">You can try out the questions, as much as you like.</p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:blue">
+     <!--[if !supportEmptyParas]-->&nbsp;
+     <!--[endif]-->
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:blue">Links to document sections:
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal" style="margin-left:81.0pt"><span style="font-family:Arial;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:blue"><a href="#rationale">Rationale for development</a>
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal" style="margin-left:81.0pt"><span style="font-family:Arial;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:blue"><a href="#qgeneration">Question generation and random elements</a>
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal" style="margin-left:81.0pt"><span style="font-family:Arial;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:blue"><a href="#minterface">Management Interface</a>
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal" style="margin-left:81.0pt"><span style="font-family:Arial;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:blue"><a href="#dstorage">Data Storage and other technical details</a>
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal" style="margin-left:81.0pt"><span style="font-family:Arial;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:blue">
+     <!--[if !supportEmptyParas]-->&nbsp;
+     <!--[endif]-->
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:blue">There is a<span style="mso-spacerun: yes">&nbsp; </span>much more detailed, partially complete <a href="http://www.cs.ucl.ac.uk/staff/P.Rounce/myhtml/elecTran_technical_manual/tech_manual.htm">technical manual</a>
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:blue">
+     <!--[if !supportEmptyParas]-->&nbsp;
+     <!--[endif]-->
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><a name="rationale"></a><b><span style="font-size:14.0pt;
+mso-bidi-font-size:12.0pt;font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">Rationale for development:
+      <o:p></o:p></span></b></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">
+     <!--[if !supportEmptyParas]-->&nbsp;
+     <!--[endif]-->
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">I developed this system as part of my drive to more fully understand web technologies such as JSP and Tomcat, and deepen my knowledge of JAVA. I also don’t like marking. However, I also don’t like questionnaire based courseworks, partcularly in my area of teaching, Computer Architecture and hardware, and I haven’t been able to find a similar system to this: admittedly I haven’t tried hard. Thus, I developed this coursework system where each question is generated from a combination of a JSP program that handles the user interface, and a Java object, that generates the question and answer. The system currently generates pure HTML so that the system should not be dependent on the client-side browser: the desire to make the system like this was based on my earlier experience of trying to use client-side applets in a coursework system.
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">
+     <!--[if !supportEmptyParas]-->&nbsp;
+     <!--[endif]-->
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><a name="qgeneration"></a><b><span style="font-size:14.0pt;
+mso-bidi-font-size:12.0pt;font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">Question generation and random elements:
+      <o:p></o:p></span></b></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">
+     <!--[if !supportEmptyParas]-->&nbsp;
+     <!--[endif]-->
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">The nature of the program generation is that it is particularly easy to generate questions based on some mathematical equation, and an automated question generation system is available to take a text based question description and generate the necessary JSP and Java file. One of the nice things about Java has been that it allows these files to be added to the coursework in a particularly easy way and without recourse to modifying the rest of the coursework system.
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">
+     <!--[if !supportEmptyParas]-->&nbsp;
+     <!--[endif]-->
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">Questions can have elements, which are generated on some random basis. In particular, numbers for questions can currently be random within a preset range and interval, (e.g. 200 to 1200 with an interval of 4), randomly selected from a set ( 12, 10, 36, 48 …..888). This allows a much wider range of questions to be generated than questionnaire based system, and allows students to have multiple attempts at a question to improve their performance and allows correct answers to be given to wrong answers as the same question is unlikely to appear very soon. Questions are automatically checked and marks are added to a database. Users are given login names and passwords, and currently connect is made via an SSL link, as SSL is used to manage the user’s session. 
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">Mor complex questions can be developed, but this requires a Java program to be written, which is much more time consuming. There are several instances of this on the demo where assembler programming and processor architecture understanding is tested.
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">
+     <!--[if !supportEmptyParas]-->&nbsp;
+     <!--[endif]-->
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">A help page can be associated with each question: currently this should be in Html.
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">
+     <!--[if !supportEmptyParas]-->&nbsp;
+     <!--[endif]-->
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><a name="minterface"></a><b><span style="font-size:14.0pt;
+mso-bidi-font-size:12.0pt;font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">Management Interface:
+      <o:p></o:p></span></b></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">
+     <!--[if !supportEmptyParas]-->&nbsp;
+     <!--[endif]-->
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">Besides the coursework presentation interface, there is a management interface for setting up and testing the question set, managing login names, passwords and their distribution, marks analysis and output. There is also a mechanism for generating questions from a text file (XML-based): questions can be manually produced in JSP and Java code. 
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">Question sets, individual and aggregated marks, and username and password details can be input and output to files in a form suitable for inport by Microsoft Excel and other spreadsheets.
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">
+     <!--[if !supportEmptyParas]-->&nbsp;
+     <!--[endif]-->
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><a name="dstorage"></a><b><span style="font-size:14.0pt;
+mso-bidi-font-size:12.0pt;font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">Data Storage and other technical details: 
+      <o:p></o:p></span></b></p> 
+   <p class="MsoNormal"><b><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;
+font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;color:navy">
+      <!--[if !supportEmptyParas]-->&nbsp;
+      <!--[endif]-->
+      <o:p></o:p></span></b></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">Data storage in the system is through a Mysql database. It should be straight-forward to change this to some other database, but this will need a small amount of Java programming to develop this. The Mysql database holds marks, username, passwords, and question sets.
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">The system is based on Tomcat and JSP, and there is no client-side code: just pure HTML.
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">However, there is no reason that client-side scripts cannot be inserted in the JSP file that manages a questions display.
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="font-family:Arial;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:navy">The SSL session system requires a cookie to be stored on the client side.
+     <o:p></o:p></span></p> 
+   <p class="MsoNormal"><span style="color:navy">
+     <!--[if !supportEmptyParas]-->&nbsp;
+     <!--[endif]-->
+     <o:p></o:p></span></p> 
+  </div>   
+ </body>
+</html>

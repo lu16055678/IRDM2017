@@ -1,0 +1,473 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus ›› GV11 - Geometry of Images 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGV11 - Geometry of Images
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	 COMPGV11 (Also taught as: COMPM081) 
+	Year	MSc
+	Prerequisites	N/A
+	Term	2
+	Taught By	Simon Arridge (50%) 
+Lewis Griffin (50%) 
+	Aims	To introduce the generalisation of image processing to n-Dimensional data : volume data, scale space, time-series and vectorial data. 
+	Learning Outcomes	To understand the principles of image processing in n-dimensions, time-series analysis and scale space, and to understand the relations between geometric objects and sampled images. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         0. Basic Image Operations
+Fourier Transforms
+Convolution and Differentiation in Fourier Domain Recursive Filters
+Marching Square/Cubes
+Level Set Methods 
+ 
+         1. Introduction to Differential Geometry
+1.1 Images as functions
+- Definitions
+- Taylor Series expansion and the Koenderick jet
+- Properties of the local Hessian
+- Definition of extrema and saddle points
+- Ridges in n-dimensions
+- Image invarients up to fourth order
+1.2 Curvature
+- Contour curvature
+- Image curvature
+- 3D curvature: the Weingarten mapping, Gaussian and mean curvatures  
+ 
+         2. Scale Space
+2.1 Linear Scale Space
+- Introduction and background
+- Formal properties
+- Gaussian kernels and their derivitives
+2.2 Non-linear Scale Space
+- Motivation
+- Edge-effected diffusion (Perona-Malik)
+- Classification of Alvarez and Morel
+- Euclidian and Affine shortening flow
+- Numerical methods for computing scale spaces 
+ 
+ 
+         3. Multispectral Images and Statistical Classification
+3.1 Feature Space
+- Introduction
+- Definitions of feature space
+- Clustering
+3.2 Statistical Methods
+- Linear and non-linear discriminant functions
+- Supervised learning
+- Unsupervised learning 
+ 
+         Bayesian and Information Theoretic Approaches
+Bayesian Image Restoration
+Markov Random Fields
+Definitions of Entropy and Mutual information
+Deconvolution with image priors (statistical and structural)
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lecture presentations with associated class coursework and laboratory sessions
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	 Written Examination (2.5 hours, 75%)
+	Coursework Section (2 pieces, 25%)
+
+
+         To pass this course, students must:
+
+         	Obtain an overall pass mark of 50% for all sections combined.
+
+
+         The examination rubric is:
+Choice of 3 questions from 5. All questions carry equal marks
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Copy of lecture notes/overheads, Coursework assignments, Guidance notes for courseworks
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

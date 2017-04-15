@@ -1,0 +1,415 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--?xml version="1.0" encoding="utf-8"?-->
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2016 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+--> 
+  <base href="http://www.cs.ucl.ac.uk/"> 
+  <link rel="shortcut icon" href="/fileadmin/UCL-CS/favicon.ico" type="image/x-icon; charset=binary"> 
+  <link rel="icon" href="/fileadmin/UCL-CS/favicon.ico" type="image/x-icon; charset=binary"> 
+  <meta name="generator" content="TYPO3 CMS"> 
+  <meta name="keywords" content="University, College, London, Computer Science"> 
+  <meta name="charset" content="utf-8"> 
+  <link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_1734292a8f.css?1458040091" media="all"> 
+  <link rel="stylesheet" type="text/css" href="fileadmin/UCL-CS/css/csCommon.css?1485355348" media="all"> 
+  <script src="uploads/tx_t3jquery/jquery-1.8.x-1.9.x-1.2.x.js?1383917144" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/googleAnalytics.js?1340190657" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/jqueryImageSlider2.js?1391601155" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/start.fader.js?1413468507" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/jquery.bxslider.js?1391781521" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/jquery.kinetic.js?1432630323" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/startKinetic.js?1432630719" type="text/javascript"></script> 
+  <title>
+			COMP3001 - Technology Management and Professional Issues
+		</title> 
+  <link rel="stylesheet" type="text/css" href="fileadmin/UCL-CS/css/csDT2Col.css" media="all"> 
+ </head> 
+ <body> 
+  <div id="everything" class="page_layout"> 
+   <!-- Div for UCL banner --> 
+   <div id="banner" class="page_layout"> 
+    <div id="section_head">
+      Department of Computer Science 
+    </div> 
+    <div id="UCLLogo"> 
+     <a href="http://www.ucl.ac.uk/" target="_top"> <img id="ucl_logo" src="fileadmin/UCL-CS/web_assets/ucl_logo/ucl_logo_whitebg.png" alt="UCL - Home"></a> 
+    </div> 
+   </div> 
+   <!-- End of div for UCL banner --> 
+   <!-- Div for UCL divider --> 
+   <div id="ucl_divider" class="page_layout"> 
+    <!-- UCL Search - CS site--> 
+    <form class="searchForm" id="googlesearch" method="get" action="http://search2.ucl.ac.uk/s/search.html?collection=website-meta&amp;profile=_website&amp;tab=websites"> 
+     <input class="text" type="text" placeholder="Search UCL-CS" value="" accesskey="q" name="query"> 
+     <input class="button" type="submit" value="" name="Submit"> 
+     <input type="hidden" value="ucl-public-meta" name="collection"> 
+     <input type="hidden" value="cs" name="subsite"> 
+    </form> 
+    <div id="breadcrumb" class="breadcrumb"> 
+     <a href="home/">›&nbsp;Home</a>
+     <a href="teaching_learning/">&nbsp;››&nbsp;Teaching &amp; Learning</a>
+     <a href="teaching_learning/syllabus_index_2015_2016/">&nbsp;››&nbsp;Syllabus Index (2015-2016)</a>&nbsp;››&nbsp;3001 - Technology Management and Professional Issues 
+    </div> 
+   </div> 
+   <!-- End of div for UCL divider --> 
+   <!-- Start of main content div --> 
+   <div id="mainDiv"> 
+    <!-- Start of inner container --> 
+    <div id="innerContainer"> 
+     <!-- Start of left content--> 
+     <div id="leftCol" class="leftContent"> 
+      <!-- left content start --> 
+      <!--  CONTENT ELEMENT, uid:19043/list [begin] --> 
+      <div id="c19043" class="csc-default"> 
+       <!--  Plugin inserted: [begin] --> 
+       <div class="tx-typoscript2ce"> 
+        <div id="mobileText">
+         <h3><a href="mobile/teaching_learning/syllabus_index_2015_2016/undergrad/3001_technology_management_and_professional_issues/">Mobile Version</a></h3>
+        </div> 
+       </div> 
+       <!--  Plugin inserted: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19043/list [end] --> 
+      <!--  CONTENT ELEMENT, uid:19061/menu [begin] --> 
+      <div id="c19061" class="csc-default"> 
+       <!--  Menu/Sitemap element: [begin] --> 
+       <ul class="csc-menu csc-menu-def">
+        <li><a href="home/" title="Home">Home</a></li>
+        <li><a href="prospective_students/" title="Prospective Students">Prospective Students</a></li>
+        <li><a href="research/" title="Research">Research</a></li>
+        <li><a href="industry_outreach/" title="Industry &amp; Outreach">Industry &amp; Outreach</a></li>
+        <li><a href="careers/" title="Careers">Careers</a></li>
+        <li><a href="current_students/" title="Current Students">Current Students</a></li>
+        <li><a href="people/?no_cache=1" title="People">People</a></li>
+        <li><a href="about_us/" title="About Us">About Us</a></li>
+        <li><a href="wics/home/" title="Women in Computer Science">Women in Computer Science</a></li>
+        <li><a href="intranet/" title="Staff Intranet">Staff Intranet</a></li>
+       </ul> 
+       <!--  Menu/Sitemap element: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19061/menu [end] --> 
+      <!--  CONTENT ELEMENT, uid:23946/list [begin] --> 
+      <div id="c23946" class="csc-default"> 
+       <!--  Plugin inserted: [begin] --> 
+       <div class="tx-typoscript2ce"> 
+       </div> 
+       <!--  Plugin inserted: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:23946/list [end] --> 
+      <!--  CONTENT ELEMENT, uid:19046/image [begin] --> 
+      <div id="c19046" class="csc-default csc-space-before-50 csc-space-after-50"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-above">
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-imagerow csc-textpic-imagerow-last">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.facebook.com/pages/University-College-London-Computer-Science/132472916819198" target="_top"><img src="fileadmin/_processed_/csm_facebook_03_a3f147f505.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.linkedin.com/groups?gid=4046543&amp;trk=myg_ugrp_ovr" target="_top"><img src="fileadmin/_processed_/csm_linkedin_03_6c9523f528.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="https://twitter.com/#!/uclcs" target="_top"><img src="fileadmin/_processed_/csm_twitter_03_0c37f5536b.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.youtube.com/user/UCLComputerScience/videos" target="_top"><img src="fileadmin/_processed_/csm_youtube_04_6b8742f9fc.png" width="30" height="30" alt="" border="0"></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19046/image [end] --> 
+      <!--  CONTENT ELEMENT, uid:19044/list [begin] --> 
+      <div id="c19044" class="csc-default csc-space-before-30 csc-space-after-50"> 
+       <!--  Header: [begin] --> 
+       <div class="csc-header csc-header-n5">
+        <h1><a href="events/">Forthcoming Events</a></h1>
+       </div> 
+       <!--  Header: [end] --> 
+       <!--  Plugin inserted: [begin] --> 
+       <div class="tx-typoscript2ce"> 
+        <div id="events_div" class="controlledTicker"> 
+         <ul> 
+          <li> New events will be posted here as soon as details become known. </li> 
+         </ul>
+        </div> 
+       </div> 
+       <!--  Plugin inserted: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19044/list [end] --> 
+      <!--  CONTENT ELEMENT, uid:26215/textpic [begin] --> 
+      <div id="c26215" class="csc-default csc-space-before-20"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-above">
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-image csc-textpic-last">
+          <a href="http://www.cs.ucl.ac.uk/degrees/" target="_top"><img src="fileadmin/_processed_/csm_bcs_85243c6ac1.png" width="105" height="43" alt="" border="0"></a>
+         </div>
+        </div>
+        <div class="csc-textpic-text"></div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:26215/textpic [end] --> 
+      <!--  CONTENT ELEMENT, uid:19047/textpic [begin] --> 
+      <div id="c19047" class="csc-default csc-space-before-5"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-below">
+        <div class="csc-textpic-text"></div>
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-imagerow csc-textpic-imagerow-last">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="https://www.itskillsacademy.org.uk/about-us/who-we-work-with/" target="_top"><img src="fileadmin/_processed_/csm_e_skills_d4087aff09.jpg" width="105" height="89" alt="" border="0"></a>
+           </div>
+          </div> 
+          <div class="csc-textpic-imagecolumn csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.cs.ucl.ac.uk/computer_science_news/article/athena-swan-silver-award-for-ucl-computer-science/" target="_top"><img src="fileadmin/_processed_/csm_AthenaSwanLogo_silver_efa303f87a.jpg" width="105" height="58" alt="" border="0"></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:19047/textpic [end] --> 
+      <!--  CONTENT ELEMENT, uid:21855/image [begin] --> 
+      <div id="c21855" class="csc-default csc-space-before-15"> 
+       <!--  Image block: [begin] --> 
+       <div class="csc-textpic csc-textpic-left csc-textpic-above">
+        <div class="csc-textpic-imagewrap">
+         <div class="csc-textpic-imagerow">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.computingatschool.org.uk/" target="_top" title="Network of Excellence - Computer Science"><img src="fileadmin/_processed_/csm_NOE_image_a809f677bf.jpg" width="220" height="63" alt="Network of Excellence - Computer Science" border="0"></a>
+           </div>
+          </div>
+         </div> 
+         <div class="csc-textpic-imagerow csc-textpic-imagerow-last">
+          <div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol">
+           <div class="csc-textpic-image csc-textpic-last">
+            <a href="http://www.epsrc.ac.uk/research/centres/acecybersecurity/" target="_top" title="Academic Centre of Excellence - Cyber Security Research"><img src="fileadmin/_processed_/csm_GCHQ_image_851b6cc992.jpg" width="220" height="64" alt="Academic Centre of Excellence - Cyber Security Research" border="0"></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div> 
+       <!--  Image block: [end] --> 
+      </div> 
+      <!--  CONTENT ELEMENT, uid:21855/image [end] --> 
+      <!-- left content end --> 
+     </div> 
+     <!-- End of left content --> 
+     <!-- Start ofmiddle content --> 
+     <div id="middleCol"> 
+      <div id="mainText" class="text"> 
+       <h1>COMP3001 - Technology Management and Professional Issues</h1>
+       <p><strong><span class="brighttext">This database contains 2015-16 versions of the syllabuses.</span></strong> For current versions please see&nbsp;<a href="teaching_learning/syllabus/">here</a>.</p>
+       <div class="syllabus_page"> 
+        <!--  CONTENT ELEMENT, uid:27024/text [begin] --> 
+        <div id="c27024" class="csc-frame csc-frame-rulerBefore"> 
+         <!--  Text: [begin] --> 
+         <table class="deftable">
+          <tbody>
+           <tr>
+            <th>Code</th>
+            <td>COMP3001</td>
+           </tr>
+           <tr>
+            <th>Year</th>
+            <td>3</td>
+           </tr>
+           <tr>
+            <th>Prerequisites</th>
+            <td></td>
+           </tr>
+           <tr>
+            <th>Term</th>
+            <td>1</td>
+           </tr>
+           <tr>
+            <th>Taught By</th>
+            <td><p>Graham Collins (Dept. of Management Science) (33%)<br>Hugh Varilly (Computer Science) and occasional guest lecturers (66%).</p></td>
+           </tr>
+           <tr>
+            <th>Aims</th>
+            <td>To develop an understanding of the issues that impinge on the management of computer technology systems and organisations, to provide an overview of the professional and ethical issues arising in the use, implementation, operation and monitoring of such systems and organisations, and the key management skills required in their effective utilisation and operation. To gain knowledge of a range of more advanced software and systems engineering concepts needed to effectively develop, implement and manage larger software systems.</td>
+           </tr>
+           <tr>
+            <th>Learning Outcome</th>
+            <td> <p>A sensitive appreciation of the key professional, ethical and management issues. The ability to access the appropriate technical, legal, professional, business and management literature. A broader knowledge of software engineering principles and strategies, and how they can be applied to design, implement, operate and maintain enterprise class systems. An appreciation of how innovation is fostered and managed in large enterprises, small and medium enterprises and in start-ups.</p> <p>In addition for the project management component, students should be more able to effectively contribute in teams to deliver projects using work practices that are used in innovative digital enterprises. Students should also be able to incorporate adaptive methods, reflective practices and process improvement.</p> </td>
+           </tr>
+          </tbody>
+         </table> 
+         <!--  Text: [end] --> 
+        </div> 
+        <!--  CONTENT ELEMENT, uid:27024/text [end] --> 
+        <!--  CONTENT ELEMENT, uid:27023/text [begin] --> 
+        <div id="c27023" class="csc-frame csc-frame-rulerBefore"> 
+         <!--  Header: [begin] --> 
+         <div class="csc-header csc-header-n2">
+          <h1>Content:</h1>
+         </div> 
+         <!--  Header: [end] --> 
+         <!--  Text: [begin] --> 
+         <p><b>Introduction to Technological Systems and Organisations (HV)</b><br>Organisational Structures.<br>Technical Leadership.<br>Time Management.<br>Technology Risk.<br>Release and Implementation Management.<br>Innovation Management.<br><br><b>Characteristics of Systems and Organisations (HV)</b><br>Design for Effective Implementation and Running.<br>Design for Performance and Availability.<br>Managing Systems during and after Deployment.<br>Small and Medium Enterprises. </p> 
+         <p><b>Professional Issues (HV)</b><br>Professional Bodies.<br>Membership and Accreditation.<br><br><b>L</b><b>egal Issues (HV)</b><br>Intellectual Property Protection.<br>Security and Risk.<br><br><b>Ethical Issues (HV)</b><br>Professional Codes.<br>Individual, Professional, Contractual, and Societal Responsibilities.<br><br><b>Consulting Methods (HV)</b><br>Issue Based Consulting.<br>Root Cause Analysis.<br>Common Technical Risks in Software Engineering Projects.<br><br><b>Applying Software Engineering (GC)</b><br>Software Architecture.<br>Agile Development.<br>Process improvement.<br><br><b>Project Management (GC)</b><br>Project Proposal.<br>Project Initiation.<br>Opportunity and Risk Management.<br><br><b>Skills of a Project Manager (GC)</b><br>Stakeholder Interaction.<br>Teamwork.<br>Leadership.<br><br><b>Resource Planning (GC)</b><br>Planning.<br>Estimating and Scheduling.<br>Sustainable delivery and Green IT.</p> 
+         <!--  Text: [end] --> 
+        </div> 
+        <!--  CONTENT ELEMENT, uid:27023/text [end] --> 
+        <!--  CONTENT ELEMENT, uid:27022/text [begin] --> 
+        <div id="c27022" class="csc-default"> 
+         <!--  Header: [begin] --> 
+         <div class="csc-header csc-header-n3">
+          <h1>Method of Instruction:</h1>
+         </div> 
+         <!--  Header: [end] --> 
+         <!--  Text: [begin] --> 
+         <p>Lectures, tutorials and readings supported by three assessed coursework assignments </p> 
+         <!--  Text: [end] --> 
+        </div> 
+        <!--  CONTENT ELEMENT, uid:27022/text [end] --> 
+        <!--  CONTENT ELEMENT, uid:27021/text [begin] --> 
+        <div id="c27021" class="csc-default"> 
+         <!--  Header: [begin] --> 
+         <div class="csc-header csc-header-n4">
+          <h1>Assessment:</h1>
+         </div> 
+         <!--  Header: [end] --> 
+         <!--  Text: [begin] --> 
+         <p>The course has the following assessment components:</p>
+         <ul>
+          <li>Coursework (80%)</li>
+          <li>Project (20%) </li>
+         </ul>
+         <p>To pass this course, students must: </p>
+         <ul>
+          <li>Obtain an overall pass mark of 40% for all components combined; </li>
+          <li>Obtain a minimum mark of 30% in each component worth ≥ 30% of the module as a whole. </li>
+         </ul>
+         <p><br>The Coursework component is assessed as follows:</p>
+         <ul>
+          <li>Project based Coursework (40%) – this will be a project carried out in groups of six to eight students. Students will be asked to develop a project management plan for a project, track and report its progress through planning and execution. The project will be kicked off on Tuesday October 6 with the final coursework to be handed in on Friday December 11</li>
+          <li>Report based Coursework 1 (20%) – this will be individual coursework to be handed out on Friday 9 October and handed in, through Moodle, on Wednesday 18 November</li>
+          <li>Report based Coursework 2 (20%) – this will be individual coursework to be handed out on Friday 16 October and handed in, through Moodle, on Thursday December 17 </li>
+         </ul>
+         <p>The Project component is assessed as follows:</p>
+         <ul>
+          <li>Change the World project (20%) - already completed at the end of second year, this project will count towards the overall COMP3001 mark</li>
+         </ul> 
+         <!--  Text: [end] --> 
+        </div> 
+        <!--  CONTENT ELEMENT, uid:27021/text [end] --> 
+        <!--  CONTENT ELEMENT, uid:27020/text [begin] --> 
+        <div id="c27020" class="csc-default"> 
+         <!--  Header: [begin] --> 
+         <div class="csc-header csc-header-n5">
+          <h1>Resources:</h1>
+         </div> 
+         <!--  Header: [end] --> 
+         <!--  Text: [begin] --> 
+         <p><b>Recommended reading for topics taught by Hugh Varilly</b> </p> 
+         <p>Rich Schiesser - IT Systems Management Second Edition, Prentice-Hall, 2012 This book covers the main processes and practices for successfully managing systems once they are deployed into production. </p> 
+         <p>Frank Bott, Professional Issues in Information Technology, Second Edition, BCS, 2014 </p> 
+         <p>John M Smith, Troubled IT Projects prevention and turnaround, Institution of Electrical Engineers, 2001. The author sets out the 40 root causes of troubled IT projects and explains how these can be avoided at each stage of the project life cycle. A very readable book. </p> 
+         <p>Kord Davis, Ethics of Big Data: Balancing Risk and Innovation, O’Reilly, 2012 </p> 
+         <p>Eric Reis, The Lean Startup, Penguin, 2011. Describes an effective, and very popular, approach to start-up innovation </p> 
+         <p>Andrew Keen, The Internet is Not The Answer, Atlantic Books, 2015. Offers a sceptical analysis of the full impact of digital technology </p> 
+         <p><b>Further background reading for specific topics</b> </p> 
+         <p>Michael Nygard,&nbsp; Release It! Design &amp; Deploy Production-Ready Software, Pragmatic Bookshelf, 2007. This book makes developers aware of the harsh realities that affect applications once deployed into the real, messy, world. Illustrated with any real life examples, this book shows how to architect and design applications to cope with demanding production conditions. </p> 
+         <p>McDermott, Mikulak and Bauregard, The Basics of FMEA, CRC Press, 2008. This is a short and readable introduction to Failure Mode Effect Analysis </p> 
+         <p>Dean L Gano, Apollo Root Cause Analysis, Apollonian Publications, 2003. This book presents a systematic method of problem solving based on the cause and effect principle. </p> 
+         <p>David Allen, Getting Things Done, Piatkus, 2001 This is one of the leading books on time management and the David Allen method will be taught in the module </p> 
+         <p>Martin Fowler, Patterns of Enterprise Application Architecture, Addison Wesley, 2003 </p> 
+         <p>Osterwalder and Pinguer, Business Model Generation, Wiley, 2010 </p> 
+         <p>Sidney Dekker, The Field Guide to Understanding Human Error, Ashgate, 2006 </p> 
+         <p>Jain, The Art of Computer Systems Performance Analysis, Wiley, 1991 </p> 
+         <p>Richard D Lewis, When Cultures Collide, Nicholas Brealey Publishing, 2006 </p> 
+         <p>Briggs Myers &amp; Myers, Gifts Differing: Understanding Personality Type, Davies-Black Publishing, 1980 </p> 
+         <p><b>Recommended reading for topics taught by Graham Collins</b> </p> 
+         <p>Eric Schmidt &amp; Jonathan Rosenberg with Alan Eagle, How Google Works, John Murray, 2014. Insights and rules for “smart creatives” to enhance decision-making, teamwork and innovation. </p> 
+         <p>Albert Lester, Project Management, Planning and Control: Managing Engineering, Construction and Manufacturing Projects to PMI, APM and BSI Standards, 6<sup>th</sup> Edition, Elsevier, 2013. “Covering the principles and techniques you need to successfully manage an engineering or technical project from start to finish.” Elsevier. The section Agile Project Management, by Graham Collins, will be provided within the course notes. </p> 
+         <p>Chris Chapman and Stephen Ward, How to Manage Project Opportunity and Risk: Why Uncertainty Management can be a much better approach than risk Management (updated 3<sup>rd</sup> Edition of Project Risk Management) Wiley, 2011. Comprehensive coverage of managing project and programme risk, highlighting that the process itself needs to be reviewed at each stage as well as the risks. </p> 
+         <p>Mike Cohn, Succeeding with Scrum, Addison-Wesley, 2010. Detailed guidelines using the development method Scrum and ensuring the appropriate project roles and processes are interpreted to facilitate effective teamwork. </p> 
+         <p><b>Further background reading for specific topics</b> </p> 
+         <p>Len Bass, Paul Clements and Rick Kazman, Software Architecture in practice, 2<sup>nd</sup> Edition, SEI Series in Software Engineering, Addison-Wesley, 2003 – Comprehensive coverage of concepts such as architecture views. </p> 
+         <p>Fredrick P. Brooks, The Mythical Man Month, Anniversary Edition, Addison-Wesley, 1995 - A seminal book covering concepts that are valid today as when the book was originally written. </p> 
+         <p>Ken Collier, Agile Analytics: A Value-Driven Approach to Business Intelligence and Data Warehousing, Addison-Wesley, 2012. </p> 
+         <p>Bernard Marr, Key Performance Indicators: The 75 measures every manager should know, FT Publishing an imprint of Pearson 2012 </p> 
+         <p>Alan Shalloway, Scott Bain, Ken Pugh and Amir Kolsky, Essential Skills for the Agile Developer, Addison-Wesley, 2012 </p> 
+         <p>There will be additional&nbsp;resources -&nbsp;short videos, blogs, recent research papers, business articles and conference materials outlined within the course notes stored in Moodle.</p> 
+         <!--  Text: [end] --> 
+        </div> 
+        <!--  CONTENT ELEMENT, uid:27020/text [end] --> 
+       </div> 
+      </div> 
+      <!-- End of div for main text --> 
+     </div> 
+     <!-- End of middle content --> 
+    </div> 
+    <!-- End of inner container --> 
+   </div> 
+   <!-- Start of main content div --> 
+   <!-- Start of footer div --> 
+   <div id="footer" class="page_layout clearblock"> 
+    <div id="owner"> 
+     <div class="tx-responsible-pi1">
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      <a href="mailto:g.knight@cs.ucl.ac.uk">Graham Knight</a> 
+     </div> 
+    </div> 
+    <div id="footer_1" class="clearblock"> 
+     <div id="address"> 
+      <p>Computer Science Department </p> 
+      <p>University College London </p> 
+      <p>Gower Street </p> 
+      <p>London </p> 
+      <p>WC1E 6BT </p> 
+     </div> 
+     <div id="telephone"> 
+      <p> <img src="fileadmin/UCL-CS/web_assets/other_images/phone.gif" width="13" height="9" id="phone" alt="Telephone:"> +44 (0)20 7679 7214 </p> 
+     </div> 
+     <div id="engfac"> 
+      <a href="http://www.engineering.ucl.ac.uk/"> <img src="fileadmin/UCL-CS/web_assets/other_images/ucle_logo_trans.png" id="ucl_eng_logo" alt="UCL Engineering Logo"> </a> 
+     </div> 
+     <div class="page_layout clearblock"> 
+     </div> 
+    </div> 
+    <div id="footer_2" class="clearblock"> 
+     <div id="disclaimer"> 
+      <ul class="inlineList"> 
+       <li> <a href="http://www.ucl.ac.uk/disclaimer/" title="Disclaimer" target="_top">Disclaimer</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/cookies/" title="Cookies" target="_top">Cookies</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/accessibility/" title="Accessibility" target="_top">Accessibility</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/priv/" title="Privacy" target="_top">Privacy</a>| </li> 
+       <li> <a href="http://www.ucl.ac.uk/advanced-search/" title="UCL Advanced Search" target="_top">Advanced Search</a>| </li> 
+       <li> <a href="http://www.cs.ucl.ac.uk/help/?noMobile=1" title="Help" target="_top">Help</a> </li> 
+      </ul> 
+     </div> 
+     <div id="copyright"> 
+      <p>Copyright © 1999- 2016 UCL </p> 
+     </div> 
+     <div class="page_layout clearblock"> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- End of footer div --> 
+   <div class="page_layout clearblock"></div> 
+  </div>  
+ </body>
+</html>

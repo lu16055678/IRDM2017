@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+  <meta name="GENERATOR" content="Mozilla/4.5 (Macintosh; I; PPC) [Netscape]"> 
+  <title>London Ambulance Service Computer Aided Despatch System</title> 
+ </head> 
+ <body text="#1822CD" bgcolor="#E1E4FA" link="#ED181E" vlink="#6C18B0" alink="#ED181E"> 
+  <hr> 
+  <h1> <font face="Arial,Helvetica"><font size="+2">London Ambulance Service<br> Computer Aided Despatch System</font></font></h1> 
+  <center> 
+   <hr>
+  </center> 
+  <h4> <font face="Arial,Helvetica"><font size="+1">NOTE: the location of this page has been changed. Please change your bookmarks and links.</font></font></h4> 
+  <font face="Arial,Helvetica"><font size="+1">This web page has been developed by <a href="http://www.cs.ucl.ac.uk/staff/A.Finkelstein">Anthony Finkelstein</a> at <a href="http://www.cs.ucl.ac.uk/">University College London</a>. It gives you access to the Report of the Inquiry Into the London Ambulance Service which examines the failure of the London Ambulance Service Computer Aided Despatch System (and its procurement) in October 1992.</font></font> 
+  <p><font face="Arial,Helvetica"><font size="+1">We would like to thank the Communications Directorate of South West Thames Regional Health Authority for permission to scan and distribute this document electronically. The original printed version is available as ISBN 0-905133-70-6.</font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1">The electronic version available <a href="http://www.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf">here</a> includes scanned images, 347K (This document is in Adobe Acrobat format (pdf). You need a public domain <a href="http://www.adobe.com/prodindex/acrobat/readstep.html">Adobe Acrobat Reader</a>).</font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1">If you want a copy provided in a text form suitable for extracting elements or preparing teaching material please contact <a href="mailto:acwf@cs.ucl.ac.uk">Anthony Finkelstein</a> giving reasons why this is required.</font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1">The following paper is also available:</font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1"><a href="http://www.cs.ucl.ac.uk/staff/a.finkelstein/papers/lascase.pdf">Finkelstein, A. &amp; Dowell, J. "A Comedy of Errors: the London Ambulance Service case study" in Proc. 8th International Workshop on Software Specification &amp; Design IWSSD-8, (IEEE CS Press), 1996, 2-4.</a></font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1">You may wish to visit <a href="http://www.lond-amb.sthames.nhs.uk/">The London Ambulance Service NHS Trust Home Page</a> which provides additional details on current developments.</font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1">They include some useful progress reports:</font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1"><a href="http://www.lond-amb.sthames.nhs.uk/http.dir/service/organisation/features/mayflwer.html">Operation Mayflower</a></font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1"><a href="http://www.lond-amb.sthames.nhs.uk/http.dir/service/organisation/features/calltake.html">Call Taking Computer System</a></font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1"><a href="http://www.lond-amb.sthames.nhs.uk/http.dir/service/organisation/features/attacd.html">Replacement 999 Telephone System</a></font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1">An interesting article on current state of the LAS CAD Development can be obtained <a href="http://www.bcs.org.uk/publicat/ebull/sept96/all.htm">Tighe, I. "All Systems Go!" in The Computer Bulletin, 8, 4, 20-21.</a></font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1">Some links to articles in the Risks bulletin relating to the LAS-CAD failure. Note that these are prior to the issue of the Inquiry report and based on press reports so are not wholly accurate:</font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1"><a href="http://128.240.150.127/Risks/13.88.html#subj1.2">London Ambulance Fiasco. 29-Oct-92</a></font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1"><a href="http://128.240.150.127/Risks/13.88.html#subj1.1">Ambulance chief quits after patients die in computer crash. 29-Oct-92</a></font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1"><a href="http://128.240.150.127/Risks/13.89.html#subj7">Software failure "may be behind ambulance crisis." 30-Oct-92</a></font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1"><a href="http://catless.ncl.ac.uk/Risks/14.02.html#subj9.1">London Ambulance Service computer fails again. 05-Nov-92</a></font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1"><a href="http://catless.ncl.ac.uk/Risks/14.02.html#subj9.2">London Ambulance Dispatch Computer. 05-Nov-92</a></font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1"><a href="http://catless.ncl.ac.uk/Risks/14.48.html#subj3">London Ambulance Service Inquiry Report (long). 24-Mar-93</a></font></font> </p>
+  <p><font face="Arial,Helvetica"><font size="+1"><a href="http://catless.ncl.ac.uk/Risks/17.39.html#subj1">Ambulance Dispatch System</a> <i>A similar case from Melbourne, Australia</i></font></font> <br>&nbsp;   </p>
+ </body>
+</html>

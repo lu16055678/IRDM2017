@@ -1,0 +1,451 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus ›› GC03 - Architecture and Hardware 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGC03 - Architecture and Hardware
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPGC03
+	Year	MSc 
+	Prerequisites	This course should be taken in conjunction with the core courses for MSc Computer Science.
+	Term	1
+	Taught By	Kevin Bryson (100%)
+	Aims	To 'demystify' computers - i.e. to provide a basic understanding of how computers execute programs. To show how the basic components of the computer can be built from simple electronic components such as transistors and logic gates. To understand why certain design decisions are made with respect to computer architectures.
+	Learning Outcomes	Students should understand how basic logical and arithmetic operations are implemented and performed using simple electronic components, which role each of the major components of a computer system performs, how instructions are executed, how memory is accessed and managed, etc. They should appreciate the main performance measures and constraints. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         Boolean algebra: the abstract language that allows us to represent logical circuits. 
+ 
+         Fundamentals of hardware: understanding of basic physics of electrical circuitry. 
+ 
+         Transistors and memory: the building blocks of computer systems. 
+ 
+         Binary and Hexadecimal: the representation of numbers used by computers. 
+ 
+         Numbers in Computers: understanding how basic arithmetics are implemented with logic circuits. 
+ 
+         Inside Computers: understanding a simple working model of a computer through a simulator. 
+ 
+         Processor: how CPU executes instructions of a program. 
+ 
+         MIPS: we investigate a real architecture, the structure of its instructions, and how to program at machine level. 
+ 
+         I/O: various methods through which CPU communicates with the external world. 
+ 
+         Memory and Disk: understanding basic concepts about primary and secondary storage, and learning their performance measures. 
+ 
+         Memory Management: how CPU actually uses memory during computer operation. 
+ 
+         CPU: to combine the machine level programming knowledge and the hardware components together through the MIPS example.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lectures and web-based exercises.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components: 
+ 
+         	Coursework Section using an electronic system with immediate feedback (1 piece, 10%)
+	Written Examination (2.5 hours, 90%)
+
+
+         To pass this course, students must: 
+ 
+         	Obtain an overall pass mark of 50% for all sections combined.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         The course does not have a single textbook; the following is only a recommended reading list for broader understanding of various subjects: 
+ 
+         'The Architecture of Computer Hardware and Systems Software (3rd Edition)', Irv Englander, Wiley, 2003 (ISBN 0- 471-0732) 
+ 
+         'Computer Organization and Design (3rd Edition)', Patterson and Hennessy, Morgan Kaufmann, 1999 (ISBN 1-55860- 4910-X) 
+ 
+         'Structured Computer Organisation (4th Edition)', Tanenbaum, Prenctice-Hall. 1999, ISBM 0-13-020435-8 'Computer Organisation and Architecture', B.S. Chalk, Palgrave-Hall. 1996 (ISBM 0-333-64551-0)
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

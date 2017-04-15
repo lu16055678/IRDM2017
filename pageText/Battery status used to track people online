@@ -1,0 +1,418 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› CS News Archive 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News Archive
+
+        
+ 
+         
+         
+         
+         Battery status used to track people online
+ 
+         
+          
+          
+
+         
+ 
+         Lukasz Olejnik, Research Associate at UCL Computer Science, has contributed to a debate on how battery status indicators might be used to track devices, leading to privacy exposure.
+ 
+         Security researchers from Princeton University have shown that the battery status indicator really is being used in the wild to track user, a year after a privacy warning was issued. By running a specially modified browser, Princeton's Steve Engelhard and Arvind Narayanan found two tracking scripts that used the API to “fingerprint” a specific device, allowing them to continuously identify it across multiple contexts.
+ 
+         The research was highlighted by Lukasz, one of the four researchers who first called attention to the potential issues with the battery status API in 2015. Although Luzasz achieved some success following his warning, with the body in charge of the web’s standards thanking his group for the privacy analysis, the API still has the potential for misuse. And while it is only tracking scripts using it now, Lukasz warns that unscrupulous actors could do more.
+ 
+         “Some companies may be analysing the possibility of monetising the access to battery levels,” he is quoted in The Guardian. “When battery is running low, people might be prone to some – otherwise different – decisions. In such circumstances, users will agree to pay more for a service.”
+ 
+         Read more from The Guardian at: 
+ 
+         https://www.theguardian.com/technology/2016/aug/02/battery-status-indicators-tracking-online 
+ 
+         Read Lukasz's blog at: 
+ 
+          https://blog.lukaszolejnik.com/battery-status-readout-as-a-privacy-risk/ 
+ 
+         
+ 
+         
+ 
+         
+           Posted 02 Aug 16 14:46 
+         
+ 
+          
+          
+           Next: Gordana Novakovic wins... >
+
+          
+ 
+          
+           < Previous: UCL success at GECCO...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News Archive
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         News Archive Menu
+
+        
+ 
+         
+         
+         
+         	2017: 3 items
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

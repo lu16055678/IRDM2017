@@ -1,0 +1,176 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--?xml version="1.0" encoding="utf-8"?-->
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2016 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+--> 
+  <base href="http://www.cs.ucl.ac.uk/"> 
+  <link rel="shortcut icon" href="/fileadmin/UCL-CS/favicon.ico" type="image/x-icon; charset=binary"> 
+  <link rel="icon" href="/fileadmin/UCL-CS/favicon.ico" type="image/x-icon; charset=binary"> 
+  <meta name="generator" content="TYPO3 CMS"> 
+  <link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_a551496ba9.css?1447690268" media="all"> 
+  <link rel="stylesheet" type="text/css" href="fileadmin/UCL-CS/WICS/css/wics_main.css?1448547507" media="all"> 
+  <script src="uploads/tx_t3jquery/jquery-1.8.x-1.9.x-1.2.x.js?1383917144" type="text/javascript"></script> 
+  <script src="fileadmin/UCL-CS/js/googleAnalytics.js?1340190657" type="text/javascript"></script> 
+  <title>                                   			
+			Celebrating Ada Lovelace Day @ UCL                            		
+		</title> 
+ </head> 
+ <body> 
+  <div id="everything" class="page_layout"> 
+   <!-- Div for UCL banner --> 
+   <div id="banner" class="page_layout"> 
+    <p>Department of Computer Science</p> 
+   </div> 
+   <!-- Start of section --> 
+   <div id="mainDiv" class="page_layout"> 
+    <!-- End of div for UCL banner --> 
+    <!-- Start of outer background --> 
+    <div id="threeColBack" class="container outerContainer"> 
+     <!-- Start of middle background --> 
+     <div id="twoColBack" class="container middleContainer"> 
+      <!-- Start of left background --> 
+      <div id="oneColBack" class="container leftContainer"> 
+       <!-- Start of left content --> 
+       <div id="leftCol" class="content leftContent"> 
+        <!-- left content start --> 
+        <!--  CONTENT ELEMENT, uid:15010/menu [begin] --> 
+        <div id="c15010" class="csc-default"> 
+         <!--  Menu/Sitemap element: [begin] --> 
+         <ul class="csc-menu csc-menu-1">
+          <li><a href="wics/home/" title="Home">Home</a></li>
+          <li><a href="wics/about_us/" title="About us">About us</a></li>
+          <li><a href="wics/athena_swan/" title="Athena Swan">Athena Swan</a></li>
+          <li><a href="wics/grants/" title="Grants">Grants</a></li>
+          <li><a href="wics/awards/" title="Awards">Awards</a></li>
+          <li><a href="wics/picture_galleries/" title="Picture Galleries">Picture Galleries</a></li>
+          <li><a href="wics/events/" title="Events">Events</a></li>
+          <li><a href="wics/news/" title="News">News</a></li>
+          <li><a href="wics/subscribe/" title="Subscribe">Subscribe</a></li>
+          <li><a href="wics/equalities/" title="Equalities">Equalities</a></li>
+          <li><a href="wics/contact_us/" title="Contact us">Contact us</a></li>
+         </ul> 
+         <!--  Menu/Sitemap element: [end] --> 
+        </div> 
+        <!--  CONTENT ELEMENT, uid:15010/menu [end] --> 
+        <!--  CONTENT ELEMENT, uid:25818/html [begin] --> 
+        <div id="c25818" class="csc-frame csc-frame-invisible"> 
+         <!--  Raw HTML content: [begin] --> 
+         <a class="twitter-timeline" href="https://twitter.com/WomeninCSUCL" data-widget-id="693070017093595137">Tweets by @WomeninCSUCL</a> 
+         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
+         <!--  Raw HTML content: [end] --> 
+        </div> 
+        <!--  CONTENT ELEMENT, uid:25818/html [end] --> 
+        <!-- left content end --> 
+       </div> 
+       <!-- End of left content --> 
+       <!-- Start of middle content --> 
+       <div id="middleCol" class="content middleContent"> 
+        <div id="mainText" class="text"> 
+         <!--  CONTENT ELEMENT, uid:25286/textpic [begin] --> 
+         <div id="c25286" class="csc-default"> 
+          <!--  Header: [begin] --> 
+          <div class="csc-header csc-header-n1">
+           <h1 class="csc-header-alignment-left csc-firstHeader">Celebrating Ada Lovelace Day @ UCL</h1>
+          </div> 
+          <!--  Header: [end] --> 
+          <!--  Image block: [begin] --> 
+          <div class="csc-textpic csc-textpic-center csc-textpic-above csc-textpic-equalheight">
+           <div class="csc-textpic-imagewrap">
+            <div class="csc-textpic-center-outer">
+             <div class="csc-textpic-center-inner">
+              <div class="csc-textpic-image csc-textpic-last">
+               <img src="fileadmin/_processed_/csm_040f142fb2_79b15b4797.jpg" width="160" height="120" alt="" border="0">
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="csc-textpic-text"> 
+            <!--  Text: [begin] --> 
+            <p class="align-justify">Local schools, eminent guests from industry and our own staff and students came together to celebrate Ada Lovelace Day @ UCL. Recognised internationally, Ada Lovelace Day is a&nbsp; celebration of the achievements of women in science, technology, engineering and maths (STEM) - taking the name of the first computer programmer - and is aimed at inspiring the next generation of computer scientists.</p>
+            <dl>
+             <dt></dt>
+             <dd></dd>
+            </dl>
+            <p class="align-justify">Sixty school students and their teachers spent the day with us discovering the interdisciplinary nature of Computer Science; hearing from our keynote speaker Lesley Payne, Global Institute of Digital Health Excellence Lead at Bupa; speed networking with our own researchers and students; and participating in a lively panel debate about the future of robotics.</p>
+            <dl>
+             <dt></dt>
+             <dd></dd>
+            </dl>
+            <p class="align-justify">Special thanks to Prof Steve Hailes who gave an excellent talk explaining that Computer Scientists are often rebels with bad habits; and that UCL graduate&nbsp;<a href="https://en.wikipedia.org/wiki/Mavis_Batey" target="_top">Mavis Batey</a>&nbsp;contributed to the success of the D-Day campaign during WWII through her code breaking activities.</p>
+            <dl>
+             <dt></dt>
+             <dd></dd>
+            </dl>
+            <p>Thanks also to our guest schools - Gladesmore Community School and UCL Academy - and for their positive feedback:</p>
+            <dl>
+             <dt></dt>
+             <dd></dd>
+            </dl>
+            <p class="align-justify">"A huge thank you for the day you put together, the pupils hugely enjoyed it and more importantly the girls particularly saw Computing as an option for their GCSEs next year."</p>
+            <dl>
+             <dt></dt>
+             <dd></dd>
+            </dl>
+            <p class="align-justify">Finally, thanks to our own contributors to the day:</p>
+            <dl>
+             <dt></dt>
+             <dd></dd>
+            </dl>
+            <p class="align-justify">Aleksandar Rusinov, Anna Zaremba, Charlene Jennett , Chinemelu Ezeh, Gabrielle Anderson, Giulia Barbareschi, Jane Butler, Leslie Payne, Niloy Mitra, Nilufer Tuptuk, Patricia Fenoy, Pontus Stenetorp, Ros Satar, Sarah Nicholson, Simon Oatley, Steve Hailes, Steve Marchant, Temitayo Olugbade, Venus Shum, Wendy Richards.</p> 
+            <!--  Text: [end] --> 
+           </div>
+          </div> 
+          <!--  Image block: [end] --> 
+         </div> 
+         <!--  CONTENT ELEMENT, uid:25286/textpic [end] --> 
+         <!--  CONTENT ELEMENT, uid:25294/text [begin] --> 
+         <div id="c25294" class="csc-default"> 
+          <!--  Header: [begin] --> 
+          <div class="csc-header csc-header-n2">
+           <h1 class="csc-header-alignment-left"><a href="http://www.cs.ucl.ac.uk/wics/news/" target="_top">Back</a></h1>
+          </div> 
+          <!--  Header: [end] --> 
+         </div> 
+         <!--  CONTENT ELEMENT, uid:25294/text [end] --> 
+        </div> 
+        <!-- End of div for main text --> 
+       </div> 
+       <!-- End of middle content --> 
+       <!-- Start of right content --> 
+       <div id="rightCol" class="content rightContent"> 
+        <div style="clear: both;">
+         &nbsp;
+        </div> 
+       </div> 
+       <!-- End of right content --> 
+      </div> 
+      <!-- End of left background --> 
+     </div> 
+     <!-- End of middle background --> 
+    </div> 
+    <!-- End of outer background --> 
+   </div> 
+   <!-- End of section --> 
+   <!-- Start of footer --> 
+   <div id="footer" class="page_layout clearblock"> 
+    <ul> 
+     <li><a href="http://www.ucl.ac.uk/disclaimer/">Disclaimer</a></li> 
+     <li><a href="http://www.ucl.ac.uk/foi/">Freedom of Information</a></li> 
+     <li><a href="http://www.ucl.ac.uk/accessibility/">Accessibility</a></li> 
+     <li><a href="http://www.ucl.ac.uk/privacy/">Privacy</a></li> 
+     <li><a href="http://www.ucl.ac.uk/cookies/">Cookies</a></li> 
+     <li><a href="http://ucl.ac.uk/advanced-search">Advanced Search</a></li> 
+     <li><a href="mailto:wics@ucl.ac.uk" target="_blank">Contact Us</a></li> 
+    </ul> 
+    <p> Computer Science Department, University College London, Gower Street, London, WC1E 6BT Tel: +44 (0) 20 3108 7001<br> © UCL 1999–2015 </p> 
+   </div> 
+   <!-- End of footer --> 
+  </div>  
+ </body>
+</html>

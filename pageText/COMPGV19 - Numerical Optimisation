@@ -1,0 +1,441 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus Index 2017-2018 (Provisional)
+      ›› COMPGV ›› COMPGV19 - Numerical Optimisation 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGV19 - Numerical Optimisation
+
+       This database contains the 2017-18 versions of syllabuses. These are still being finalised and changes may occur before the start of the session.
+
+       Syllabuses from the 2016-17 session are available here.
+
+        
+         
+         
+          
+         	Code	COMPGV19
+	Year	MSc
+	Prerequisites	None
+	Term	2
+	Taught By	Marta Betcke
+	Aims	To provide the students with an overview of the optimization landscape and a practical understanding of most popular optimization techniques and an ability to apply these methods to problems they encounter in their studies e.g. MSc project/dissertation and later in their professional career.
+	Learning Outcomes	
+             	Practical understanding of a comprehensive set of optimization techniques and their range of applicability.
+	Ability to implement mathematical methods.
+	Ability to apply these techniques to problems they encounter in their studies e.g. MSc project/dissertation and later in their professional carrier.
+	Ability to critically evaluate the results, which the methods produced for a given problem. 
+
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         This module teaches a comprehensive range of state of the art numerical optimization techniques. It covers a number of approaches to unconstrained and constrained problems, methods for smooth and non-smooth convex problems as well as basics of non-convex optimisation. 
+ 
+         This module is a core module in MSc in Scientific Computing. 
+ 
+         Syllabus:
+
+         	Mathematical formulation and types of optimisation problems
+	Unconstrained optimization theory e.g.: local minima, first and second order conditions
+	Unconstrained optimization methods e.g.: line-search, trust region, conjugate gradient, Newton, Quasi-Newton, inexact Newton
+	Smooth convex optimization: first order methods e.g. gradient descent, Nesterov, second order methods e.g. Newton
+	Least Squares problems
+	Constrained optimization theory e.g.: local and global solutions, first order optimality, second order optimality, constraints qualification, equality and inequality constraints, duality, KKT conditions
+	Constrained optimization methods e.g.: linear programming, quadratic programming, penalty, barrier and augmented Lagrangian methods, least squares with smooth and non-smooth regularization, nonlinear problems e.g. sequential quadratic programming
+	Non-smooth optimization e.g: subgradient calculus, subgradient methods, proximal ?operator, operator splitting, ADMM, non-smooth penalties e.g. L1 or TV.?
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Weekly three hour lecture accompanied by a one hour practical tutorial, where the students get to implement (whenever practicable) and test performance of the methods taught in the lectures.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	Coursework 1 (20%)
+	Coursework 2 (20%)
+	Project (60%)
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         	Numerical Optimization, Jorge Nocedal and Stephen J. Wright, 2nd edition, Springer
+	Primal-Dual Interior-Point Methods, Stephen J. Wright, SIAM
+	Convex Optimization, Stephen Boyd and Lieven Vandenberghe, Cambridge University Press
+
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 04 Apr 2017 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

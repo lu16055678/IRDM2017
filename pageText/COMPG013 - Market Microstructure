@@ -1,0 +1,454 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Students
+      ›› Syllabus
+      ›› MSc Financial Risk Management ›› G013 - Market Microstructure 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPG013 - Market Microstructure
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPG013
+	Year	MSc
+	Prerequisites	None
+
+	Term	2
+	Taught By	Julius Bonart
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content
+
+         
+ 
+          
+          
+         This course provides the student with a structured overview over both the main empirical facts and major theoretical approaches in market microstructure. It will comprise of five main parts: 
+ 
+         1) An introduction to limit order markets. 
+ 
+         The course explains the functioning and historical context of limit order driven markets and introduces the main concepts as well as regulatory issues. 
+ 
+         2) Empirical investigation of financial data. 
+ 
+         The course covers the main robust empirical facts found in order driven financial markets, such as the distribution of returns, correlations between price changes and the volatility, the intraday pattern of liquidity and the bid-ask spread, and the long memory of the trade sign process. Simple models for the correlated sign process are discussed.  
+ 
+         3) Price impact. 
+ 
+         This part focuses on the impact of order book events (market order submissions, limit order submissions, and cancellations) on the market price. Different price impact measures are introduced. The theoretical framework for trade sign correlations, impact and price efficiency is discussed. The impact of a trading strategy (meta-order) is introduced and different theories of meta-order impact are presented. 
+ 
+         4) The limit order book as a queuing system. 
+ 
+         This part introduces zero-intelligence models to describe the high-frequency fluctuations in financial markets. The so-called Santa Fe model, the Cont&Larrard model and more complex approaches are discussed. 
+ 
+         5) The relationship between impact, the bid-ask spread, the tick size, and liquidity. 
+ 
+         This part of the focus introduces regulatory issues related to limit order books. The most advanced theories which explain the relationship between the spread and impact on small-tick stocks, as well as the liquidity and impact on large-tick stocks, are presented. The course closes with a discussion on the optimal market design.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction
+
+         
+ 
+          
+          
+         The main channels of teaching are the lectures and class work. The students will be assigned exercises for homework. The teaching material will be provided.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment
+
+         
+ 
+          
+          
+         The course has the following assessment components: 
+ 
+         Written exam (70%) 
+ 
+         Coursework (30%)
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources
+
+         
+ 
+          
+          
+         Bibliography
+ 
+         Monographs
+ 
+         J.-P. Bouchaud & M. Potters, “Theory of Financial Risk and Derivative Pricing", Cambridge 
+ 
+         Universiry Press 2009. 
+ 
+         C.-A. Lehalle & S. Laruelle, “Market Microstructure in Practice", World Scientic 2013. 
+ 
+         Research Articles for Further Reading
+ 
+         Rama Cont, “Empirical properties of asset returns: stylized facts and statistical issues", Quantitative Finance, 1, 223-236 (2001) 
+ 
+         L. R. Glosten & P. R. Milgrom, “Bid, ask and transaction prices in a specialist market with heterogeneously informed traders", Journal of Financial Economics, 14, 71-100 (1985) 
+ 
+         J.-P. Bouchaud, J. D. Farmer, F. Lillo, “How markets slowly digest changes in supply and demand", http://arxiv.org/abs/0809.0822 (2009)
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

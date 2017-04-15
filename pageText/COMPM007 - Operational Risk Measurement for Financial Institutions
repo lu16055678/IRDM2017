@@ -1,0 +1,459 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus Index 2017-2018 (Provisional) ›› COMPM007 - Operational Risk Measurement for Financial Institutions 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPM007 - Operational Risk Measurement for Financial Institutions
+
+       This database contains the 2017-18 versions of syllabuses. These are still being finalised and changes may occur before the start of the session.
+
+       Syllabuses from the 2016-17 session are available here.
+
+        
+         
+         
+          
+         	Code	COMPM007 (also taught as COMPG007) 
+	Year	4 (Masters) 
+	Prerequisites	None
+	Term	1
+	Taught By	Ariane Chappelle 
+	Aims	The module aims to familiarise students with key concepts in the measurement and management of operational risk in the financial services. It will help them to understand the current issues and challenges faced by the sector, from a methodological, regulatory and financial standpoint. By detailing the most current debates in the field, the course aims at allowing the students to subsequently become positive agents of solutions in the market place and in research in operational risk. 
+	Learning Outcomes	Students will be able to select and apply the relevant methods to tackle issues in risk assessment, measurement and aggregation. On successful completion of the course, students should have a sound understanding of:
+
+             	the applications of essentials of data analysis and statistical estimation to operational risk measurement;
+	the methods of scenario analysis, stress testing and regulatory capital assessment;
+	the limitations of operational risk modelling and the ways to address them;
+	some of the essential features of operational risk management in financial institutions and how quantification can support decision-making.
+
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content
+
+         
+ 
+          
+          
+         The course is intended to introduce applied statistics to operational risk measurement and management in the financial services. The course is primarily focused on the techniques, impacts and benefits of using relevant statistical methods to support effective risk management in banks and insurance companies. 
+ 
+         The syllabus consists of the following parts: 
+ 
+         	 Operational risk data analysis. Internal and external loss data, distribution, tail risk, reporting and threshold and cut-off mix between internal and external data for loss distribution.
+
+
+	Operational risk framework. Regulation on operational risk, Capital and consequences for the financial industry. Large events and loss overview.
+
+
+	 LDA – Loss distribution approach. Frequency and Severity Distribution. Convolution of distributions. Heavy tails.
+
+
+	Scenario analysis and stress testing. Scenario identification and assessment process; Probabilities of rare events; Fault trees and event trees; Mixing quantitative and qualitative data. Stress testing Capital and financial robustness.
+
+
+	Risk correlations and indicators. Identification and selection of risk drivers. Correlations and determinants of losses.
+
+
+	Risk aggregation and diversification. Aggregating data from different sources, loss generating mechanisms, scaling and filtering of data. Copula-based approach for risk diversification. Remaining issues in operational risk modelling.
+
+
+         
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction
+
+         
+ 
+          
+          
+         There will be 30 hours of lectures, including occasional guest speakers who are practitioners in the field. 
+ 
+         There will be readings (recommended textbooks and academic papers). Readings will be discussed in class at the start of each lecture. 
+ 
+         Students will work on real industry case-studies in class and via assignments.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment
+
+         
+ 
+          
+          
+         The course has the following assessment component:
+
+         	Coursework (100%) (group or individual assignments. Additional individual tests are performed in class in lecture 5 and lecture 9)
+
+
+         To pass this course, students must: 
+ 
+         	 Obtain a minimum overall pass mark of 50%.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources
+
+         
+ 
+          
+          
+         Recommended books and additional readings 
+ 
+         	Fundamental Aspects of Operational Risk and Insurance Analytics: A Handbook of Operational Risk. Marcelo G. Cruz, Gareth W. Peters, Pavel V. Shevchenko, Wiley, ISBN: 978-1-118-11839-9, 928 pages, April 2015..
+	Operational Risk: A Guide to Basel II Capital Requirements, Models, and Analysis, A.Chernobai, Svetlozar T. Rachev, and Frank J. Fabozzi,  John Wiley & Sons, Wiley Finance series, 2007.
+	Operational Risk Assessment: The Commercial Imperative of a More Forensic and Transparent Approach, John Wiley & Sons, Wiley Finance series, B.Young and R. Coleman, 2009.
+	Relevant academic articles will be provided to students to illustrate each lecture.
+
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 03 Apr 2017 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

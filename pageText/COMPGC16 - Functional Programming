@@ -1,0 +1,465 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus ›› GC16 - Functional Programming 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGC16 - Functional Programming
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         
+
+         	Code	COMPGC16 (Also taught as: COMP3011) 
+	Year	MSc
+	Prerequisites	n/a
+	Term	2
+	Taught By	Chris Clack (100%) 
+	Aims	This course explores the functional programming paradigm and the implementation technology for functional programming languages. It aims to develop a broad understanding of the functional programming style and recursive programming techniques using the language Miranda, together with an understanding of implementation issues that are relevant not only to functional languages but also to other systems that require automatic dynamic memory management.
+
+	Learning Outcomes	To be able to: understand the basics of the lambda calculus and combinators and how they are used in the implementation of functional languages; understand the main features of a lazy functional language; write non-trivial functional programs; understand the computation and memory management issues affecting the sequential implementation of lazy functional languages; read and understand the research and technical literature on functional programming.
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         Context 
+Classification of Programming Languages 
+Distinctive Features of Functional Programming Languages 
+Differences between Haskell and Miranda 
+ 
+         The Lambda Calculus and Combinators 
+Versions of the Lambda Calculus - syntax and semantics 
+Reduction orders, strong normalisation 
+Combinators - computationally complete sets 
+ 
+         Types 
+A brief introduction to Hindley-Milner type inference 
+ 
+         Miranda 
+Programming Environment 
+Types 
+Recursion 
+Pattern-Matching 
+Lists 
+Higher-Order Functions 
+User-Defined Types 
+Recursive Programming Techniques 
+ 
+         Introduction to Implementation Techniques 
+Strict Evaluation and the SECD Machine 
+Lazy Evaluation and Graph Reduction 
+The Need for Automatic Memory Management 
+ 
+         Automatic Memory Management 
+Memory Allocation and Garbage Collection 
+Garbage Collection Techniques
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lecture presentations.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	 Written Examination (2.5 hours, 95%);
+	Coursework Section (1 piece, 5%). 
+
+
+         To pass this course, students must:
+
+         	Obtain an overall pass mark of 50% for all components combined.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         A full list of resources is available on the Moodle site for this module. 
+ 
+         Programming with Miranda, Clack, Myers and Poon, Prentice-Hall 1994 ISBN 0-13-192592-X. 
+ 
+         The Implementation of Functional Programming Languages, Peyton-Jones, Prentice-Hall 1986 
+ 
+         Garbage Collection: Algorithms for Automatic Dynamic Memory Management, Jones and Lins, Wiley 1996 ISBN 0 471 94148 4 
+ 
+         Research Directions in Parallel Functional Programming, Hammond and Michaelson (Eds.), Springer, ISBN 1-85233-092-9, 1999 
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

@@ -1,0 +1,451 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus ›› GC04 - Systems Infrastructure 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGC04 - Systems Infrastructure
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	Code	COMPGC04 
+	Year	MSc
+	Prerequisites	This course should be taken in conjunction with the core courses for this programme (ie GC01, GC02, GC03 and GC05)
+	Term	1
+	Taught By	John Dowell (50%), David Clark (25%), Rae Harbird  (25%)
+	Aims	This course is an amalgam of three different aspects of systems design and construction - operating systems, compilers and databases - each having approximately equal weight. The course is a fundamental one in the programme as a whole, in the sense that it introduces material that is built on elsewhere and, consequently, much of the material will be aimed at providing a basic understanding of the role that different systems components play within real computer systems, and how they go about achieving this. 
+	Learning Outcomes	Students should be able to describe and discuss the fundamentals of systems infrastructure outlined below and their interrelationships and interdependencies with other aspects drawn from the core MSc curriculum. They should be able to discriminate between different possible solutions to practical problems and, consequently, apply the knowledge gained in a practical way. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         A historical perspective
+A brief history of operating systems, compilers and databases; milestones in their development and changes driven by changes in both use and in the underlying hardware 
+ 
+         Process creation and management
+The virtual machine concept; data structures needed by operating systems
+Process state transition
+Scheduling algorithms and metrics for the analysis of performance 
+ 
+         Memory management
+Virtual memory
+Single and multi-level paging algorithms
+Caching 
+ 
+         Concurrency control
+Race conditions
+Semaphores
+Deadlock 
+ 
+         Compilation vs. interpretation 
+ 
+         Lexical analysis 
+ 
+         Parsing
+Recursive descent
+Table-driven techniques 
+ 
+         Code generation
+This will only be a brief overview to introduce the subject:
+1. Database management systems (DBMS) and the relational database:essential concepts, data model, architecture and and primary functions of the DBMS.
+2. SQL: use of SQL as a language for database construction and data manipulation.
+3. Database design: a structured method for designing relational databases through data modelling, schema specification, validation and normalisation.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lecture presentations with associated class problems.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	Coursework Section (3 pieces, 15%)
+	 Written Examination (2.5 hours, 85%)
+
+
+         To pass this course, students must: 
+
+         	Obtain an overall pass mark of 50% for all sections combined.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

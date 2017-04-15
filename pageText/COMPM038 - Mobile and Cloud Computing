@@ -1,0 +1,445 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Teaching & Learning
+      ›› Syllabus Index (2015-2016) ›› M038 - Mobile and Cloud Computing 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPM038 - Mobile and Cloud Computing
+
+       This database contains 2015-16 versions of the syllabuses. For current versions please see here.
+
+        
+         
+         
+          
+         	Code	COMPM038 (Also taught as: COMPGZ06) 
+	Year	4
+	Prerequisites	Students should have taken Networked Systems (COMP3035/GZ01) or have prior equivalent experience. 
+	Term	2
+	Taught By	Kyle Jamieson (100%) 
+	Aims	To explore recent research advances in wireless networked systems that combine wireless networking, mobile devices, and data-center-based services to provide new classes of applications. 
+	Learning Outcomes	Students will gain an introduction to research literature in wireless networking, mobile devices, and data-center-based services.  In the process, they will develop an understanding of what constitutes a good research problem, and what constitutes convincing scientific evidence that a design robustly solves a problem.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         Week 1 Class introduction.  Wireless introduction and wireless mesh networks.
+
+Week 2 Wireless basics: Adapting to the wireless channel.  Partial packet recovery and error control coding.
+
+Week 3 Advanced wireless topics: Wireless diversity.  Rateless error control codes.
+
+Week 4 Wireless meets mobile: Indoor WiFi localization.  Mobile sensor hints for wireless networking.
+
+Week 5 Cloud I: Peer-to-peer systems, consistent hashing, and DHTs. Cloud storage.
+
+Week 6 Cloud II: Hybrid mobile-cloud applications.  Parallelism in the cloud.
+
+Week 7 Cloud meets the Web: Photo caching on Facebook.  Building web applications atop encrypted data.
+
+Weeks 8 to 10 Student paper presentations.
+
+         
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         There are usually two class meetings per week. 
+ 
+         The class is organised in case-study fashion: student read about 20 recent research papers in the above areas, and critically discuss the systems described in these papers during class meetings. 
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The module has the following assessment components:
+
+         	Coursework (100%)
+
+
+          To pass this course, students must:
+
+         	 Obtain an overall pass mark of 50% for all sections combined.
+
+ 
+         The coursework will include various sub-components:
+
+         	To help gauge whether students are grasping the technical material in the assigned readings, at the start of lecture students turn in a one-page answer to a short question on the reading of the day (15%)
+	Students make oral presentations in the final two-three weeks of term, in which they critically evaluate a research paper of their choosing (10%)
+	There are three one-hour exams during the term, each focusing on papers discussed during the previous third of the term, though all prior material in the class is examinable (75%).
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Reading and further information for this module will be updated annually at the following web page: 
+ 
+         www0.cs.ucl.ac.uk/staff/k.jamieson/teaching.html
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

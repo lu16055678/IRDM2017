@@ -1,0 +1,441 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Current Students
+      ›› Syllabus Index 2017-2018 (Provisional) ›› COMPM082 - Affective Computing and Human-Robot Interaction 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPM082 - Affective Computing and Human-Robot Interaction
+
+       This database contains the 2017-18 versions of syllabuses. These are still being finalised and changes may occur before the start of the session.
+
+       Syllabuses from the 2016-17 session are available here.
+
+        
+         
+         
+          
+         	Code	COMPM082 (Also taught as: COMPGI17) 
+	Year	4
+	Prerequisites	Successful completion of years 1 and 2 of the Computer Science, Mathematics and Computer Science or other Physical Science or Engineering programme with sufficient mathematical and programming content. Fundamentals of calculus, probability, statistics or have taken COMPM055 Supervised Learning in term 1, or COMP3058 Artificial Intelligence and Neural Computing in the third year.
+	Term	2
+	Taught By	Nadia Berthouze (100%) 
+	Aims	The module targets students who have no previous knowledge in cognitive science and emotion theory and therefore the aim of Part 1 of the module is to give a basic introduction to the theory of emotion from psychology and neuroscience viewpoints and to understand its importance in human decision and communication processes. Part 2 will concentrate on the application of machine learning techniques to emotion recognition by looking at current applications in entertainment, education, and health. Part 3 will focus on the challenges in designing robots that are capable of socially interacting with humans. Examples of current applications in entertainment, education, health, therapy, rehabilitation, service robotics, rescue robots will be used to identify problems and discuss machine learning solutions for the topics taught in Parts 2 and 3. 
+	Learning Outcomes	To have a basic knowledge of emotion models and of how technology (e.g., robot) can be endowed with the ability to affectively and socially interact with its user. To understand the challenges that affective computing and HRI pose to the machine learning field and identify the advantages and disadvantages of different machine learning techniques to address those issues. To understand how traditional HCI methods need to be modified to be applied to the HRI field. 
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content:
+
+         
+ 
+          
+          
+         Emotion theory
+What is affect, emotion, mood?
+Why do we have emotions? Neurological and psychological perspectives.
+How do humans express and recognise emotions? Emotion expression models, appraisal and causal theories.
+Affective and social interaction. 
+
+Affective computing: emotion recognition
+Affective computing, definition and aims.
+Application of machine learning techniques for adaptive emotion recognition from single modality (e.g. facial expressions, biosignals).
+Adaptive multimodal emotion regognition: signal fusion. 
+
+Human-Robot Interaction (HRI)
+Social robotics: motivation and emotions in robots.
+Emotion based architecture.
+Evaluation methods for HRI research.
+Ethical issues in Affective Computing and HRI research. 
+
+
+
+         
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction:
+
+         
+ 
+          
+          
+         Lecture presentations, programming assignments.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment:
+
+         
+ 
+          
+          
+         The course has the following assessment components:
+
+         	Coursework Section (1 piece, 40%)
+	 Written Examination (2.5 hours, 60%)
+
+
+         To pass this course, students must: 
+ 
+         	Obtain an overall pass mark of 50% for all sections combined
+	Obtain a minimum mark of 40% in each component worth ≥ 30% of the module as a whole.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources:
+
+         
+ 
+          
+          
+         Resources are on Moodle.
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 04 Apr 2017 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

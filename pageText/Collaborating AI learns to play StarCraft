@@ -1,0 +1,419 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› News 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News
+
+        
+ 
+         
+         
+         
+         Collaborating AI learns to play StarCraft
+ 
+         
+          
+          
+
+         
+ 
+         Previously, single AI agents learned to play Go and card games, beating the most accomplished human players, but in this study, multiple AI agents have learned to collaborate to defeat multiple enemies in a real-time strategy game.
+ 
+         The discovery, published as a pre-print on arXiv, provides valuable insights into the way AI agents learn how to communicate and coordinate effectively. This could help scientists develop the next generation of AI for use in large-scale, real-world applications, advancing the AI currently used for gaming on the stock markets, predicting user interests and as competing agents bidding on online advertising exchanges.
+ 
+          “The AI agents learned how to play StarCraft without guidance, demonstration or human input. This allowed us to study how they communicate among themselves to be successful as individual players and as part of a team,” explained study lead, Dr Jun Wang, Senior Lecturer at UCL Computer Science.
+ 
+         “A big challenge in developing the next generation of AI is understanding how individual AI agents communicate in a similar way to humans, by embracing social and collective wisdom. Our discovery takes us closer towards this goal, providing us with opportunities to develop better models to help understand how language and social structures evolve, or to better predict economic outcomes where each AI agent might represent a company, for example,” he said.
+ 
+         The researchers chose StarCraft as a test scenario as it is considered one of the most difficult games for computers to handle, with far more parameters than Go.
+ 
+         “A major challenge with StarCraft is that the number of agents playing is dynamic, causing the parameters of the model to constantly fluctuate. This forces the AI agents to develop sophisticated behaviours through multi-agent learning, rather than just using a joint learner method,” added Dr Wang.
+ 
+         Existing networking techniques and deep reinforcement learning were used to teach multiple AI agents to complete a set of combat tasks with different level of difficulties in StarCraft.
+ 
+         The most successful approach was a multi-agent bidirectionally-coordinated network (BiCNet) with a reward function which handled different types of combats on diverse terrains with arbitrary numbers of AI agents on both sides. 
+ 
+         “We found that BiCNet automatically learns optimal strategies similar to those used by experienced StarCraft players to organise agents. These range from trivial moves – such as avoiding collisions with other players and a basic hit and run – to more sophisticated moves including coordinated cover attack and focus fire without overkill. BiCNet does this without any supervision such as human demonstrations or labelled data to coordinate agents, which is impressive,” said study lead Quan Yuan (Alibaba Group).
+ 
+         The BiCNet uses two bi-directional networks – the policy network and the Q-network. The policy network takes an overview of the current game as inputs and allows individual agents to inform collaborators of their actions. The Q-network provides feedback on whether an action is successful or not and rewards the individual and group accordingly, informing learning.
+ 
+         “Previously, others including Facebook have also studied how multiple AI play StarCraft but they used a different method to us that gives AI agents different priorities, such that the actions of one agent are considered as the input for the next agent to decide their next move. By contrast, our communication has a better balance between computational complexity and effectiveness by moving the dependency into hidden layers and making the communication bi-directional,” explained Dr Wang.
+ 
+         The team are now planning more studies into the reward function of the network as they identified it as an important factor in determining AI behaviour.
+ 
+         
+ 
+         
+ 
+         
+           Posted 10 Apr 17 11:01 
+         
+ 
+          
+          
+           Next: UCL recognised as... >
+
+          
+ 
+          
+           < Previous: EPSRC funds Blockchain...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+         
+         	2017: 3 items
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

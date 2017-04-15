@@ -1,0 +1,64 @@
+<!DOCTYPE publications SYSTEM "http://www0.cs.ucl.ac.uk/staff/P.Rounce/filelist/filelist.dtd"> <?xml-stylesheet href="http://www0.cs.ucl.ac.uk/staff/P.Rounce/filelist/filelist.xsl" type="text/xsl"?> 
+<notes_page> 
+ <title>Computer Hardware Handbook</title> 
+ <active> 
+  <pdf_file> 
+   <pdf_text>
+    Introduction, basic electricty and basic logic circuits 
+   </pdf_text> 
+   <pdf_link>
+    basic_electricity.pdf
+   </pdf_link> 
+  </pdf_file> 
+  <pdf_file> 
+   <pdf_text>
+    Semi-conductors, Diodes and MOS Transistor
+   </pdf_text> 
+   <pdf_link>
+    transistor.pdf
+   </pdf_link> 
+  </pdf_file> 
+  <pdf_file> 
+   <pdf_text>
+    NMOS and CMOS logic circuits 
+   </pdf_text> 
+   <pdf_link>
+    ncmoslog.pdf
+   </pdf_link> 
+  </pdf_file> 
+  <pdf_file> 
+   <pdf_text>
+    Basics of 1-bit storage: the RS flip-flop
+   </pdf_text> 
+   <pdf_link>
+    storage.pdf
+   </pdf_link> 
+  </pdf_file> 
+  <pdf_file> 
+   <pdf_text>
+    Static Memory circuits and timing diagrams
+   </pdf_text> 
+   <pdf_link>
+    memories.pdf
+   </pdf_link> 
+  </pdf_file> 
+  <pdf_file> 
+   <pdf_text>
+    Edge Triggered Flip-flops and Finite State Machines
+   </pdf_text> 
+   <pdf_link>
+    edgeTrig_and_fsm.pdf
+   </pdf_link> 
+  </pdf_file> 
+  <pdf_file> 
+   <pdf_text>
+    Input_output: the fridge door interfaces
+   </pdf_text> 
+   <pdf_link>
+    fridge_door_system.pdf
+   </pdf_link> 
+  </pdf_file> 
+ </active> 
+ <inactive> 
+ </inactive> 
+</notes_page>

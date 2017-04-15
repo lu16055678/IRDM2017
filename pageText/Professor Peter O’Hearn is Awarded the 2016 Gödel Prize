@@ -1,0 +1,420 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home ›› News 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        
+         Computer Science News
+
+        
+ 
+         
+         
+         
+         Professor Peter O’Hearn is Awarded the 2016 Gödel Prize
+ 
+         
+          
+          
+
+          
+          
+
+         
+ 
+          
+ 
+         Peter O’Hearn, Professor of Computer Science and member of UCL’s Programming Principles, Logic and Verification Research (PPLV) Group, has been awarded the 2016 Gödel Prize. Peter will receive the award jointly with Stephen Brookes, Professor of Computer Science at Carnegie Mellon University, at the 43rd International Colloquium On Automata, Languages and Programming (ICALP 2016), 12-15 July 2016, in Rome, Italy.
+ 
+         Peter’s paper Resources, Concurrency and Logical Reasoning introduces and advances the idea of Concurrent Separation Logic (CSL), which has had a far-reaching impact in both theoretical and practical realms.  
+ 
+         For the last thirty years experts have regarded shared-memory concurrency as one of the greatest challenges in program verification.  CSL is a revolutionary advance on previous approaches.  It builds on the Separation Logic for sequential programs due to Peter and the late John Reynolds, using the separation idea to support modular reasoning.
+ 
+         In the theoretical realm, almost all research papers developing concurrent program logics in the last decade are based on CSL, including work on permissions, refinement and atomicity, on adaptations to assembly languages and weak memory models, on higher-order variants, and on the logics for termination of concurrent programs. 
+ 
+         In the practical realm, the beauty of CSL is in its similarity to the programming idioms commonly used by working engineers. The fact that the logic matches the common programming idioms has the effect of greatly simplifying proofs. CSL’s simplicity and structure also facilitates automation. As a result, numerous tools and techniques in the research community are based on it, and it is attracting attention in companies such as Facebook, Microsoft, and Amazon. 
+ 
+         UCL’s PPLV Group is further advancing the theory and application of CSL. Head of Group, Professor David Pym:
+ 
+         ‘CSL is a beautiful mathematical tool that helps to solve significant engineering problems. Scientists with the ability to deliver at the highest level across that theory-to-application spectrum are very rare indeed, and Peter is one of the very best. When we began work on the underlying logical and semantic theory almost 20 years ago, the impact that CSL would have was not merely unknown, but quite unknowable. Scientists of Peter’s stature have the insight and creativity to deliver beyond what can be foreseen.’ 
+ 
+         Peter has been a member of UCL’s PPLV Group since 2012, and is currently an Engineering Manager at Facebook. He cofounded a verification start-up, Monoidics, which was acquired by Facebook in 2013. Peter has also held academic positions at Queen Mary University of London and at Syracuse University.
+ 
+         He is a past recipient of a Royal Society Wolfson Research Merit Award and a Most Influential POPL Paper award, and held a Royal Academy of Engineering/Microsoft Research Chair. He obtained his BS in Computer Science from Dalhousie University, Nova Scotia, and his MS and PhD Degrees in Computer Science from Queen’s University, Kingston, Canada.
+ 
+         The Gödel Prize is named in honour of Kurt Gödel, who was born in Austria-Hungary (now the Czech Republic) in 1906.  Gödel's work has had immense impact upon scientific and philosophical thinking in the 20th century.  The award is presented annually by ACM’s Special Interest Group on Algorithms and Computation Theory (SIGACT) and the European Association for Theoretical Computer Science (EATCS).  It recognizes major contributions to mathematical logic and the foundations of computer science and includes an award of $5,000.
+ 
+         
+ 
+         
+ 
+         
+           Posted 09 May 16 10:35 
+         
+ 
+          
+          
+           Next: Information Security... >
+
+          
+ 
+          
+           < Previous: Dr Venus Shum featured...
+
+          
+ 
+          
+ 
+         
+ 
+         
+ 
+          
+          < Back to: Computer Science News
+ 
+         
+ 
+         
+ 
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+         
+         	2017: 3 items
+	2016: 65 items
+	2015: 49 items
+	2014: 43 items
+	2013: 37 items
+
+ 
+        
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 25 Jan 2017 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2017 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

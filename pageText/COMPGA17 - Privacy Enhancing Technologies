@@ -1,0 +1,487 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Students
+      ›› Syllabus ›› GA17 - Privacy Enhancing Technologies 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+       COMPGA17 - Privacy Enhancing Technologies
+
+       This database contains the 2016-17 versions of syllabuses. Syllabuses from the 2015-16 session are available here.
+
+       
+
+       Note: Whilst every effort is made to keep the syllabus and assessment records correct, the precise details must be checked with the lecturer(s).
+
+        
+         
+         
+          
+         	 Code	COMPGA17 (Also taught as COMPM067)
+	Year	MSc 
+	Prerequisites	No (COMPGA01 -- Computer Security 1 recommended) 
+	Term	2 
+	Taught By	George Danezis (100%) 
+	Aims	Upon completion of the course the students are expected to be 
+             	specialists in understanding the issues around privacy in computer systems and on-line services; 
+	aware of the best available techniques for mitigating important privacy threats through appropriate security controls, namely the use of private communications, private authentication and private computations; 
+	be able to securely implement those techniques, as well as familiar with the process of building secure systems (design review, code review and white-box pen testing). 
+
+
+	Learning Outcomes	Key knowledge: 
+             	Basic and advanced conceptions of privacy; 
+	Techniques used for on-line tracking and pervasive surveillance infrastructures; 
+	Privacy in authentication; 
+	Selective disclosure credentials and zero-knowledge proofs; anonymous e-cash systems; 
+	Anonymous communications and Tor; Traffic analysis; 
+	Privacy in databases and storage systems; 
+	Censorship and censorship evasion; 
+	Private computations using homomorphic encryption and secret sharing. 
+
+Key understanding:  
+             	Different privacy paradigms. 
+	Incentives for protecting or violating privacy. 
+	Trade-offs between quality of protection and cost, bandwidth and latency in anonymous communications. 
+	Unconditional anonymity and long term attacks on imperfect schemes. 
+	Identity management and relation to privacy. 
+	Selective disclosure and its relation to authorization in computer security. 
+	Understanding of class of problems zero-knowledge techniques can address. 
+	Understanding of the completeness of private computation techniques. 
+	Trade-offs in the use of Homomorphic encryption versus multi-party computation. 
+	Appreciation for the computational complexity of expressing computations as circuits. 
+	Understanding of differential privacy properties and mechanisms. 
+	The inherent difficulty in anonymizing datasets instead of query results. 
+
+Key skills: 
+
+             	Can perform a privacy audit and a privacy impact assessment; 
+	Can draft a privacy notice. 
+	Can analyze an authentication protocol for privacy features. 
+	Can design a ZK protocol to prove linear, multiplicative relations of secrets. 
+	Can use a CL-signature to build a simple credential scheme. 
+	Can build a simple e-cash scheme. 
+	Can build a simple anonymity channel. 
+	Can perform a long term traffic analysis attack (statistical disclosure) 
+	Can analyze a protocol for differential privacy properties. 
+	Can devise tracker attacks against k-anonymous / ad-hoc anonymization schemes. 
+	Can write secure cryptographic software according to a specification. 
+	Can write conformance tests for cryptographic software. 
+	Can perform design and code reviews on cryptographic software. 
+	Can write bug reports and communicate mitigation to others. 
+	Can perform a white-box penetration text on cryptographic software. 
+
+
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Content
+
+         
+ 
+          
+          
+         The course covers in depth major issues in computer security related to protecting privacy as well as threats to the privacy of computer users. In particular is covers the theory and practice of: 
+ 
+         (1) Private communications, anonymous communications, censorship circumvention and traffic analysis. 
+ 
+         (2) Private authentication, selective disclosure credentials for identify management, and zero-knowledge proof techniques. 
+ 
+         (3) Private statistics and computations through homomorphic encryption and secure multi-party computation and differential privacy. 
+ 
+         Students are introduced to both privacy threats such as pervasive surveillance, profiling, location analysis, and traffic analysis, as well as the technical mitigation techniques relying on modern cryptography and differential privacy.  
+ 
+         The course starts with an introduction to the social, economic and legal context of privacy protection, privacy policies and standard privacy practices. At the same time standard threats to on-line privacy such as profiling, and location analysis are discussed.  
+ 
+         The course then covers in depth techniques to achieve strong private communications that hide both content and the meta-data associated with whom is talking to who (anonymous communications). These are studied in the context of private polling and elections.   
+ 
+         The students are then introduced to techniques to mitigate abuses arising from anonymous communication, while preserving privacy, through the use of private authentication, and selective disclosure credentials that can be used to build digital cash systems. The engineering of zero-knowledge proofs and their use as building blocks of privacy enhancing technologies will be studied in detail. 
+ 
+         Finally, students are introduced to the problem of computing on private data using simple homomorphic encryption schemes as well as modern secure multi-party computation techniques. Statistical disclosure control is discussed, ad-hoc techniques are analyzed and defeated, and techniques based on differential privacy discussed.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Method of Instruction
+
+         
+ 
+          
+          
+         The course is delivered in 30 hours split between 20 hours of lectures and 10 hours of supervised labs to support programming exercises. For the labs and programming exercises students, will be expected to run a pre-configured virtual machine using “VirtualBox” and be familiar with basic programming in C or Python.
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Assessment
+
+         
+ 
+          
+          
+         This module has the following assessments:
+
+         	Written Examination (2.5 hours) (50%)
+	Lab Work (30%)  
+	Course Work (20%)
+
+
+         To pass this module, students must:
+
+         	 Obtain an overall pass mark of 50% for the module overall.
+
+ 
+          
+        
+ 
+         
+         
+         
+          
+         
+          Resources
+
+         
+ 
+          
+          
+         See Moodle page
+ 
+          
+        
+ 
+         
+       
+ 
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Teaching Administrator 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

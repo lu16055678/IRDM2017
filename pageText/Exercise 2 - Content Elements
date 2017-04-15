@@ -1,0 +1,512 @@
+ 
+   
+    
+    
+    
+      Department of Computer Science 
+    
+ 
+     
+       
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+      
+      
+    
+ 
+     
+     › Home
+      ›› Help
+      ›› TYPO3
+      ›› Training ›› Exercise 2 
+    
+ 
+   
+ 
+    
+    
+    
+     
+     
+      
+      
+       
+       
+       
+        
+        
+        
+         Mobile Version
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       	Home
+	Prospective Students
+	Research
+	Industry & Outreach
+	Careers
+	Current Students
+	People
+	About Us
+	Women in Computer Science
+	Staff Intranet
+
+ 
+        
+      
+ 
+       
+       
+       
+        
+        
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        Forthcoming Events
+
+       
+ 
+        
+        
+        
+         
+         	 New events will be posted here as soon as details become known. 
+
+
+        
+ 
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+         
+
+        
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+
+        
+         
+          
+           
+            
+           
+
+          
+ 
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+       
+        
+       
+        
+         
+          
+           
+            
+           
+
+          
+
+         
+ 
+         
+          
+           
+            
+           
+
+          
+
+         
+
+        
+
+       
+ 
+        
+      
+ 
+       
+       
+     
+ 
+      
+      
+      
+       
+        
+        
+         
+        TYPO3 Exercise 2 - Content Elements
+ 
+        Step 1
+ 
+        In your editing window select the second sample page (click on the words "Sample page 2" in the TYPO3 tree view). You should see something like the image below, which shows a page with no content. You can verify this by clicking on the view icon (arrowed in red).
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         
+          
+           
+            
+             
+            
+
+           
+
+          
+
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        Step 2
+ 
+        TYPO3 pages are built from a list of "content elements". Often there is just one, which may contain text, images, tables etc. - the page you edited in Exercise 1 was like this. However, it is possible, and sometimes beneficial, to construct a page consisting of several separate content elements. We will begin by creating a "Regular text element" in our sample page. Start by clicking the  symbol (blue arrow) to create a new content element. On the page that appears, check the little circle next to "Regular text element". 
+ 
+        You have now created a content element - at least you will have once you save it by clicking the  icon. - which you should now do. 
+ 
+         
+       
+ 
+        
+        
+        
+         
+        Step 3
+ 
+        You now have a content element but it an empty one. Click on the symbol, type some content, save it and view the result. 
+ 
+        Give your content element a "Header" by typing in the box above the editing window. 
+ 
+        Step 4
+ 
+        Now select the sample page again as you did in Step 1. You should now see your new content element as in the image below. 
+ 
+        We are now going to add a second content element of type "Text & Images". Click on the "Add a new record at this place" button  (arrowed) to begin. Then select Text & Images.
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         
+          
+           
+            
+             
+            
+
+           
+
+          
+
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        Step 5
+ 
+        You should now see the screen below. Select the images tab. 
+ 
+        You can use this to select an image stored somewhere on your PC. To do this click on the "Select & upload files" button (arrowed in red - this might be labelled something different in your browser). 
+ 
+        Alternatively, click the Add image button (arrowed in blue) to select a file already stored within TYPO3.
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+         
+          
+           
+            
+             
+            
+
+           
+
+          
+
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        
+          
+           
+          You can edit the properties of the image you have added - see the example below. 
+ 
+          [If the properties are not visible click the little triangle (arrowed) next to the thumbnail.] 
+ 
+          You should always add a label to describe your image. This will help the visually impaired. 
+ 
+          Now select the General tab and add some text. Now select the Appearance tab and change the position or size of the image. Try adding additional images.
+ 
+           
+         
+
+         
+          
+           
+            
+             
+            
+
+           
+
+          
+
+         
+
+        
+ 
+         
+       
+ 
+        
+        
+        
+         
+        Step 6
+ 
+        Begin as you did in Step 1. You should now see the two content elements you have created. Click the icon on the first one. This enable you to edit the properties of the content element.  
+ 
+        Note. To see all the properties make sure "Show secondary options (palettes)" is checked. 
+ 
+        Some things to try:
+
+        	In the Appearances tab find the "Indentations and Frames" box. See the effect of setting "Divider After" etc.
+	In the Access tab try the effect of "Disable", and "Link To top" boxes.
+	In the General tab try adding a header..
+	In the General tab change the Type of the Regular text content element to "Text & images". You can now browse for an image as before and decide where it should be displayed.
+
+
+        You can now move on to Exercise 3. 
+ 
+         
+       
+ 
+        
+      
+ 
+       
+     
+ 
+      
+    
+ 
+     
+   
+ 
+    
+    
+    
+     
+     
+      This page was last modified on 13 Dec 2016 and is maintained by 
+      Graham Knight 
+     
+ 
+    
+ 
+     
+      
+      Computer Science Department 
+ 
+      University College London 
+ 
+      Gower Street 
+ 
+      London 
+ 
+      WC1E 6BT 
+ 
+     
+ 
+      
+        +44 (0)20 7679 7214 
+ 
+     
+ 
+      
+         
+     
+ 
+      
+     
+ 
+    
+ 
+     
+      
+      	 Disclaimer| 
+	 Cookies| 
+	 Accessibility| 
+	 Privacy| 
+	 Advanced Search| 
+	 Help 
+
+ 
+     
+ 
+      
+      Copyright © 1999- 2016 UCL 
+ 
+     
+ 
+      
+     
+ 
+    
+ 
+   
+ 
+    
+   
+ 
+  
+  
+ 

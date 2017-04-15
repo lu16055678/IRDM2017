@@ -4,12 +4,16 @@ package Index;
  * It was modified by @author mingminlu.
  */
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.LinkedList;
+import java.util.List;
 import java.util.Scanner;
-import java.nio.file.Path;
+import java.io.FileReader;
+
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
@@ -21,15 +25,14 @@ import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
-import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
 public class SearchFiles {
 	private static final String INDEXPATH = "index";
 	private static final String DOCPATH = "pageText";
 	private String field = "contents";
-	private boolean raw = false;
 	private int hitsPerpage = 100;
+	private static List<String> docList = new LinkedList<String>();
 
 	public void Search(String queryString) throws IOException, ParseException {
 		IndexReader reader = DirectoryReader.open(FSDirectory.open(Paths.get(INDEXPATH)));
@@ -42,7 +45,7 @@ public class SearchFiles {
 		Query query = parser.parse(queryString);
 		while (true) {
 			System.out.println("Searching for: " + query.toString(field));
-			doPagingSearch(in, searcher, query, hitsPerpage, raw, DOCPATH == null && queryString == null);
+			doPagingSearch(in, searcher, query, hitsPerpage, DOCPATH == null && queryString == null);
 			if (queryString != null) {
 				break;
 			}
@@ -51,7 +54,7 @@ public class SearchFiles {
 	}
 
 	public static void doPagingSearch(BufferedReader in, IndexSearcher searcher, Query query, int hitsPerPage,
-			boolean raw, boolean interactive) throws IOException {
+			boolean interactive) throws IOException {
 		// Collect enough docs to show 5 pages
 		TopDocs results = searcher.search(query, 5 * hitsPerPage);
 		ScoreDoc[] hits = results.scoreDocs;
@@ -74,17 +77,17 @@ public class SearchFiles {
 			}
 
 			end = Math.min(hits.length, start + hitsPerPage);
-
+			
 			for (int i = start; i < end; i++) {
-				if (raw) { // output raw format
-					System.out.println("doc=" + hits[i].doc + " score=" + hits[i].score);
-					continue;
-				}
-
+				
 				Document doc = searcher.doc(hits[i].doc);
 				
 				String path = doc.get("path");
 				if (path != null) {
+					
+					//File file = new File(path);
+					String fileContent = readFileContent(path);
+					docList.add(i,fileContent);
 					System.out.println((i + 1) + ". " + path);
 					String title = doc.get("title");
 					if (title != null) {
@@ -141,11 +144,36 @@ public class SearchFiles {
 			}
 		}
 	}
+	private static String readFileContent(String fileName) throws IOException {
+		  File file = new File(fileName);
+		  
+		  BufferedReader bf = new BufferedReader(new FileReader(file));
+		  
+		  String content = "";
+		  StringBuilder sb = new StringBuilder();
+		  
+		  while(content != null){
+		   content = bf.readLine();
+		   
+		   if(content == null){
+		    break;
+		   }
+		   
+		   sb.append(content.trim());
+		  }
+		  
+		bf.close();
+		  return sb.toString();
+		 }
+
 
 	public static void main(String args[]) throws IOException, ParseException {
 		SearchFiles search = new SearchFiles();
 		System.out.println("Enter a word to search:");
 		String input = new Scanner(System.in).nextLine();
 		search.Search(input);
+		for(int i=0;i<docList.size();i++){
+			System.out.println(docList.get(i)+"\n");
+		}
 	}
 }

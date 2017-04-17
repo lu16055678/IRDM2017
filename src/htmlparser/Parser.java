@@ -1,4 +1,4 @@
-package HtmlParser;
+package htmlparser;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -31,9 +31,11 @@ public class Parser {
 			FileOutputStream fs = new FileOutputStream(new File(OUTPUTDIR,inputFile.getName()));
 			PrintStream p = new PrintStream(fs);
 			p.println(handler.toString());
-
 		}
-
+	}
+	public static void main(String[] args) throws Exception{
+		Parser par = new Parser();
+		par.Parse();
 	}
 	
 }

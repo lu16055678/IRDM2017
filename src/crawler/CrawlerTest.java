@@ -1,4 +1,4 @@
-package Crawler;
+package crawler;
 
 /**
  * Cited From Stephen, 2014, which is available at

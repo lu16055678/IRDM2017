@@ -1,4 +1,4 @@
-package Crawler;
+package crawler;
 
 /**
  * Cited From Stephen, 2014, which is available at http://www.netinstructions.com/how-to-make-a-simple-web-crawler-in-java/

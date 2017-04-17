@@ -1,4 +1,4 @@
-package Index;
+package search;
 /**
  * This code was based on the source code on tutorials of Apache Lucene website.
  * It was modified by @author mingminlu.

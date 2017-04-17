@@ -1,4 +1,4 @@
-package Crawler;
+package crawler;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -40,13 +40,10 @@ public class CrawlerLeg {
 				Connection connection = Jsoup.connect(url).userAgent(USER_AGENT);
 				Document htmlDocument = connection.get();
 				this.htmlDocument = htmlDocument;
-				if (connection.response().statusCode() == 200) // 200 is the
-																// HTTP OK
-																// status code
-																// indicating
-																// that
-																// everything is
-																// great.
+				/**
+				 *   200 is the HTTP OK status code indicating that everything is good.
+				 */
+				if (connection.response().statusCode() == 200)
 				{
 					System.out.println("\n**Visiting** Received web page at " + url);
 					

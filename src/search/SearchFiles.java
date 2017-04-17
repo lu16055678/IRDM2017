@@ -209,7 +209,7 @@ public class SearchFiles {
 		}
 		for (int i = 0; i < docList.size(); i++) {
 			double tf = (double) docList.get(i).getCount() / docList.get(i).getWordCount();
-			double log = (double) docList.size() / allfile;
+			double log = (double) allfile / docList.size();
 			double idf = Math.log10(log);
 			double tfidf = tf * idf;
 			docList.get(i).setScore(tfidf);
@@ -225,7 +225,7 @@ public class SearchFiles {
 
 	public static void main(String args[]) throws IOException, ParseException {
 		SearchFiles search = new SearchFiles();
-		search.Search("gi15");		
+		search.Search("gi15");
 		Tfidf("gi15");
 
 	}

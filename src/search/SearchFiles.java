@@ -189,11 +189,13 @@ public class SearchFiles {
 			String content = docList.get(i).getContent().toLowerCase();
 
 			Pattern pattern = Pattern.compile(keyword);
-			Pattern word = Pattern.compile("[//s//p{Zs}]");
+			Pattern word = Pattern.compile("[a-zA-Z]+");
 			Matcher found = pattern.matcher(content);
 			Matcher match = word.matcher(content);
+			
 			while (match.find()) {
 				wordCount++;
+				
 			}
 			docList.get(i).setWordCount(wordCount);
 			System.out.println("the document has " + docList.get(i).getWordCount() + " words");
@@ -213,6 +215,7 @@ public class SearchFiles {
 			double idf = Math.log10(log);
 			double tfidf = tf * idf;
 			docList.get(i).setScore(tfidf);
+			System.out.println(docList.get(i).getScore());
 		}
 		// 在下面这个for循环对docList进行排序，docList.get(i)就是搜索到的文件。
 		// 用docList.get(i).getScore()来比较，大的排前面。

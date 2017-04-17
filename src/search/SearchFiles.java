@@ -42,6 +42,7 @@ public class SearchFiles {
 	private static List<ContentFile> docList = new LinkedList<ContentFile>();
 	private static int filecount = 0;
 	private static int allfile = 0;
+
 	public void Search(String queryString) throws IOException, ParseException {
 		IndexReader reader = DirectoryReader.open(FSDirectory.open(Paths.get(INDEXPATH)));
 		IndexSearcher searcher = new IndexSearcher(reader);
@@ -101,7 +102,6 @@ public class SearchFiles {
 					ContentFile content = new ContentFile();
 					content.setContent(fileContent);
 					docList.add(i, content);
-
 					System.out.println((i + 1) + ". " + path);
 					String title = doc.get("title");
 					if (title != null) {
@@ -173,61 +173,60 @@ public class SearchFiles {
 		}
 		return result;
 	}
+
 	/**
 	 * Implementation of TF-IDF and sort them;
+	 * 
 	 * @param keyword
 	 */
 	private static void Tfidf(String keyword) {
 		keyword = keyword.toLowerCase();
 		int wholeCount = 0;
-		//System.out.println(keyword.toLowerCase());
+		// System.out.println(keyword.toLowerCase());
 		for (int i = 0; i < docList.size(); i++) {
 			int articlecount = 0;
 			int wordCount = 0;
 			String content = docList.get(i).getContent().toLowerCase();
-			
+
 			Pattern pattern = Pattern.compile(keyword);
 			Pattern word = Pattern.compile("[//s//p{Zs}]");
 			Matcher found = pattern.matcher(content);
 			Matcher match = word.matcher(content);
-			while(match.find()){
+			while (match.find()) {
 				wordCount++;
 			}
 			docList.get(i).setWordCount(wordCount);
-			System.out.println("the document has "+docList.get(i).getWordCount()+" words");
+			System.out.println("the document has " + docList.get(i).getWordCount() + " words");
 			// Find all matches
 			while (found.find()) {
 				// Get the matching string
 				articlecount++;
 				wholeCount++;
-				//String digitNumList = found.group();				
+				// String digitNumList = found.group();
 			}
 			docList.get(i).setCount(articlecount);
-			System.out.println("for document "+(i+1)+"it has keyword: "+articlecount);			
+			System.out.println("for document " + (i + 1) + "it has keyword: " + articlecount);
 		}
-		for (int i = 0; i < docList.size(); i++){
-			double tf = docList.get(i).getCount()/docList.get(i).getWordCount();
-			double idf = Math.log10(docList.size()/allfile);
-			double tfidf = tf*idf;
+		for (int i = 0; i < docList.size(); i++) {
+			double tf = (double) docList.get(i).getCount() / docList.get(i).getWordCount();
+			double log = (double) docList.size() / allfile;
+			double idf = Math.log10(log);
+			double tfidf = tf * idf;
 			docList.get(i).setScore(tfidf);
 		}
-		//在下面这个for循环对docList进行排序，docList.get(i)就是搜索到的文件。
-		//用docList.get(i).getScore()来比较，大的排前面。
-		for(int i = 0; i < docList.size(); i++){
-			
-			
+		// 在下面这个for循环对docList进行排序，docList.get(i)就是搜索到的文件。
+		// 用docList.get(i).getScore()来比较，大的排前面。
+		for (int i = 0; i < docList.size(); i++) {
+
 		}
-		System.out.println("for the whole documents it has keyword: "+wholeCount+" there are "+allfile);
+		System.out.println("for the whole documents it has keyword: " + wholeCount + " there are " + allfile);
 
 	}
 
 	public static void main(String args[]) throws IOException, ParseException {
 		SearchFiles search = new SearchFiles();
-		System.out.println("Enter a word to search:");
-		String input = new Scanner(System.in).nextLine();
-		search.Search(input);
-		System.out.println(docList.get(0).getContent());
-		Tfidf(input);
+		search.Search("gi15");		
+		Tfidf("gi15");
 
 	}
 }

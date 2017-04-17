@@ -10,7 +10,7 @@ public class txttest {
      * @param file 想要读取的文件对象
      * @return 返回文件内容
      */
-    public static String txt2String(File file){
+    public static void txt2String(File file){
         StringBuilder result = new StringBuilder();
         try{
             BufferedReader br = new BufferedReader(new FileReader(file));//构造一个BufferedReader类来读取文件
@@ -22,11 +22,8 @@ public class txttest {
         }catch(Exception e){
             e.printStackTrace();
         }
-        return result.toString();
+        //return result.toString();
     }
     
-    public static void main(String[] args){
-        File file = new File("pageText/Tuanfeng Wang");
-        System.out.println(txt2String(file));
-    }
+    
 }

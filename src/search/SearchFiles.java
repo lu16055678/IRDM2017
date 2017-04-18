@@ -6,15 +6,17 @@ package search;
  */
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileOutputStream;
+//import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.LineNumberReader;
+//import java.io.LineNumberReader;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Scanner;
+//import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.io.FileReader;
@@ -32,13 +34,13 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.FSDirectory;
 
-import Rank.TFIDFCalculator;
+//import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils.Collections;
 
 public class SearchFiles {
 	private static final String INDEXPATH = "index";
 	private static final String DOCPATH = "pageText";
 	private String field = "contents";
-	private int hitsPerpage = 10;
+	private int hitsPerpage = 100;
 	private static List<ContentFile> docList = new LinkedList<ContentFile>();
 	private static int filecount = 0;
 	private static int allfile = 0;
@@ -59,7 +61,41 @@ public class SearchFiles {
 				break;
 			}
 		}
-		reader.close();
+		reader.close();		
+	}
+
+	private static void CalculateWholeCount() {
+		for (int i = 0; i < docList.size(); i++) {
+			String content = docList.get(i).getContent().toLowerCase();
+			int wordCount = 0;
+			Pattern wholeWord = Pattern.compile("[a-zA-Z0-9]+");
+			Matcher match = wholeWord.matcher(content);
+			while (match.find()) {
+				wordCount++;
+			}
+			docList.get(i).setWordCount(wordCount);
+			// System.out.println("the document has " +
+			// docList.get(i).getWordCount() + " words");
+			// Find all matches
+			// System.out.println("for document " + (i + 1) + "it has keyword: "
+			// + articlecount);
+		}
+	}
+
+	private static void CalculateQueryCount(String word) {
+		for (int i = 0; i < docList.size(); i++) {
+			String content = docList.get(i).getContent().toLowerCase();
+			int articlecount = 0;
+			Pattern pattern = Pattern.compile(word);
+			Matcher found = pattern.matcher(content);
+			while (found.find()) {
+				// Get the matching string
+				articlecount++;
+				// wholeCount++;
+				// String digitNumList = found.group();
+			}
+			docList.get(i).setCount(articlecount);
+		}
 	}
 
 	public static void doPagingSearch(BufferedReader in, IndexSearcher searcher, Query query, int hitsPerPage,
@@ -73,17 +109,15 @@ public class SearchFiles {
 		int start = 0;
 		int end = Math.min(numTotalHits, hitsPerPage);
 		while (true) {
-			if (end > hits.length) {
-				System.out.println("Only results 1 - " + hits.length + " of " + numTotalHits
-						+ " total matching documents collected.");
-				System.out.println("Collect more (y/n) ?");
-				String line = in.readLine();
-				if (line.length() == 0 || line.charAt(0) == 'n') {
-					break;
-				}
-
-				hits = searcher.search(query, numTotalHits).scoreDocs;
-			}
+			/**
+			 * if (end > hits.length) { System.out.println("Only results 1 - " +
+			 * hits.length + " of " + numTotalHits + " total matching documents
+			 * collected."); System.out.println("Collect more (y/n) ?"); String
+			 * line = in.readLine(); if (line.length() == 0 || line.charAt(0) ==
+			 * 'n') { break; }
+			 * 
+			 * hits = searcher.search(query, numTotalHits).scoreDocs; }
+			 **/
 
 			end = Math.min(hits.length, start + hitsPerPage);
 
@@ -101,12 +135,11 @@ public class SearchFiles {
 					// fos.write(fileContent.getBytes());
 					ContentFile content = new ContentFile();
 					content.setContent(fileContent);
+					content.setPath(path);
 					docList.add(i, content);
-					System.out.println((i + 1) + ". " + path);
-					String title = doc.get("title");
-					if (title != null) {
-						System.out.println("   Title: " + doc.get("title"));
-					}
+					docList.get(i).setFileName(file.getName());
+					//System.out.println(docList.get(i).getFileName());
+					//System.out.println((i + 1) + ". " + path);
 				} else {
 					System.out.println((i + 1) + ". " + "No path for this document");
 				}
@@ -117,54 +150,32 @@ public class SearchFiles {
 				break;
 			}
 
-			if (numTotalHits >= end) {
-				boolean quit = false;
-				while (true) {
-					System.out.print("Press ");
-					if (start - hitsPerPage >= 0) {
-						System.out.print("(p)revious page, ");
-					}
-					if (start + hitsPerPage < numTotalHits) {
-						System.out.print("(n)ext page, ");
-					}
-					System.out.println("(q)uit or enter number to jump to a page.");
-
-					String line = in.readLine();
-					if (line.length() == 0 || line.charAt(0) == 'q') {
-						quit = true;
-						break;
-					}
-					if (line.charAt(0) == 'p') {
-						start = Math.max(0, start - hitsPerPage);
-						break;
-					} else if (line.charAt(0) == 'n') {
-						if (start + hitsPerPage < numTotalHits) {
-							start += hitsPerPage;
-						}
-						break;
-					} else {
-						int page = Integer.parseInt(line);
-						if ((page - 1) * hitsPerPage < numTotalHits) {
-							start = (page - 1) * hitsPerPage;
-							break;
-						} else {
-							System.out.println("No such page");
-						}
-					}
-				}
-				if (quit)
-					break;
-				end = Math.min(numTotalHits, start + hitsPerPage);
-			}
+			/**
+			 * if (numTotalHits >= end) { boolean quit = false; while (true) {
+			 * System.out.print("Press "); if (start - hitsPerPage >= 0) {
+			 * System.out.print("(p)revious page, "); } if (start + hitsPerPage
+			 * < numTotalHits) { System.out.print("(n)ext page, "); }
+			 * System.out.println("(q)uit or enter number to jump to a page.");
+			 * 
+			 * String line = in.readLine(); if (line.length() == 0 ||
+			 * line.charAt(0) == 'q') { quit = true; break; } if (line.charAt(0)
+			 * == 'p') { start = Math.max(0, start - hitsPerPage); break; } else
+			 * if (line.charAt(0) == 'n') { if (start + hitsPerPage <
+			 * numTotalHits) { start += hitsPerPage; } break; } else { int page
+			 * = Integer.parseInt(line); if ((page - 1) * hitsPerPage <
+			 * numTotalHits) { start = (page - 1) * hitsPerPage; break; } else {
+			 * System.out.println("No such page"); } } } if (quit) break; end =
+			 * Math.min(numTotalHits, start + hitsPerPage); }
+			 **/
 		}
 	}
 
 	public static StringBuilder txt2String(File file) {
 		StringBuilder result = new StringBuilder();
 		try {
-			BufferedReader br = new BufferedReader(new FileReader(file));// 构造一个BufferedReader类来读取文件
+			BufferedReader br = new BufferedReader(new FileReader(file));
 			String s = null;
-			while ((s = br.readLine()) != null) {// 使用readLine方法，一次读一行
+			while ((s = br.readLine()) != null) {
 				result.append(System.lineSeparator() + s);
 			}
 			br.close();
@@ -181,55 +192,145 @@ public class SearchFiles {
 	 */
 	private static void Tfidf(String keyword) {
 		keyword = keyword.toLowerCase();
-		int wholeCount = 0;
-		// System.out.println(keyword.toLowerCase());
-		for (int i = 0; i < docList.size(); i++) {
-			int articlecount = 0;
-			int wordCount = 0;
-			String content = docList.get(i).getContent().toLowerCase();
-
-			Pattern pattern = Pattern.compile(keyword);
-			Pattern word = Pattern.compile("[a-zA-Z]+");
-			Matcher found = pattern.matcher(content);
-			Matcher match = word.matcher(content);
-			
-			while (match.find()) {
-				wordCount++;
-				
-			}
-			docList.get(i).setWordCount(wordCount);
-			System.out.println("the document has " + docList.get(i).getWordCount() + " words");
-			// Find all matches
-			while (found.find()) {
-				// Get the matching string
-				articlecount++;
-				wholeCount++;
-				// String digitNumList = found.group();
-			}
-			docList.get(i).setCount(articlecount);
-			System.out.println("for document " + (i + 1) + "it has keyword: " + articlecount);
+		CalculateWholeCount();	
+		List<String> queryString = new LinkedList<String>();
+		Pattern pattern = Pattern.compile("[a-zA-Z0-9]+");
+		Matcher match = pattern.matcher(keyword);
+		while (match.find()) {
+			queryString.add(match.group());
+			// System.out.println(match.group());
 		}
+		// int wholeCount = 0;
+		// System.out.println(keyword.toLowerCase());
+		double log = (double) allfile / docList.size();
+		double idf = Math.log10(log);
 		for (int i = 0; i < docList.size(); i++) {
-			double tf = (double) docList.get(i).getCount() / docList.get(i).getWordCount();
-			double log = (double) allfile / docList.size();
-			double idf = Math.log10(log);
+			double tf = 0;
+			double temp = 0;
+			for (int j = 0; j < queryString.size(); j++) {
+				CalculateQueryCount(queryString.get(j));
+				temp = (double) docList.get(i).getCount() / docList.get(i).getWordCount();
+				tf = tf + temp;		
+				//System.out.println("In document "+docList.get(i).getPath()+" For word "+queryString.get(j)+" the score is "+docList.get(i).getCount());
+			}
 			double tfidf = tf * idf;
 			docList.get(i).setScore(tfidf);
-			System.out.println(docList.get(i).getScore());
 		}
-		// 在下面这个for循环对docList进行排序，docList.get(i)就是搜索到的文件。
-		// 用docList.get(i).getScore()来比较，大的排前面。
+		// Sort Doc
+		for (int i = 0; i < docList.size() - 1; i++) {
+			for (int j = i + 1; j < docList.size(); j++) {
+				ContentFile file1;
+				ContentFile file2;
+				if (docList.get(j).getScore() > docList.get(i).getScore()) {
+					file1 = docList.get(j);
+					file2 = docList.get(i);
+					docList.add(j, file2);
+					docList.remove(i);
+					docList.add(i, file1);
+					docList.remove(j + 1);
+				}
+			}
+		}
+		// System.out.println("for the whole documents it has keyword: " +
+		// wholeCount + " there are " + allfile);
+		System.out.println("TF-IDF");
+		for (int k = 0; k < docList.size(); k++) {
+			//System.out.println(docList.get(k).getScore());
+			System.out.println(docList.get(k).getFileName());
+		}
+	}
+
+	private static void Pagerank(String keyword){
+		keyword = keyword.toLowerCase();
+		double alpha = 0.85;
+		for(int i=0;i<docList.size();i++){
+			double pr = 1;
+			String linkName = docList.get(i).getFileName();
+			double links = Double.valueOf(txt2String(new File("link",linkName)).toString());
+			docList.get(i).setPr(alpha+(1-alpha)*(pr/links));
+		}
+		for (int i = 0; i < docList.size() - 1; i++) {
+			for (int j = i + 1; j < docList.size(); j++) {
+				ContentFile file1;
+				ContentFile file2;
+				if (docList.get(j).getPr() > docList.get(i).getPr()) {
+					file1 = docList.get(j);
+					file2 = docList.get(i);
+					docList.add(j, file2);
+					docList.remove(i);
+					docList.add(i, file1);
+					docList.remove(j + 1);
+				}
+			}
+		}
+		System.out.println("Page Rank:");
+		for (int k = 0; k < docList.size(); k++) {
+			
+			System.out.println(docList.get(k).getFileName());
+		}
+	}
+	private static void Bm25(String keyword){
+		keyword = keyword.toLowerCase();
+		double totalWord = 0;
+		CalculateWholeCount();
+		List<String> queryString = new LinkedList<String>();
+		Pattern pattern = Pattern.compile("[a-zA-Z0-9]+");
+		Matcher match = pattern.matcher(keyword);
+		while (match.find()) {
+			queryString.add(match.group());
+			// System.out.println(match.group());
+		}
+		for(int i=0;i<docList.size();i++){
+			totalWord = totalWord+docList.get(i).getWordCount();
+		}
+		double log = (double) allfile / docList.size();
+		double idf = Math.log10(log);
+		double k = 2.0;
+		double b = 0.75;
+		double bm25 = 0;
+		double averageWord = totalWord/docList.size();
 		for (int i = 0; i < docList.size(); i++) {
-
+			double tf = 0;
+			double temp = 0;
+			for (int j = 0; j < queryString.size(); j++) {
+				CalculateQueryCount(queryString.get(j));
+				tf = (double) docList.get(i).getCount() / docList.get(i).getWordCount();				
+				temp = (idf*tf*(k+1))/(tf+k+(1-b+b*averageWord));
+				bm25 = bm25 + temp;
+			}
+			docList.get(i).setScore(bm25);
 		}
-		System.out.println("for the whole documents it has keyword: " + wholeCount + " there are " + allfile);
-
+		for (int i = 0; i < docList.size() - 1; i++) {
+			for (int j = i + 1; j < docList.size(); j++) {
+				ContentFile file1;
+				ContentFile file2;
+				if (docList.get(j).getScore() > docList.get(i).getScore()) {
+					file1 = docList.get(j);
+					file2 = docList.get(i);
+					docList.add(j, file2);
+					docList.remove(i);
+					docList.add(i, file1);
+					docList.remove(j + 1);
+				}
+			}
+		}
+		// System.out.println("for the whole documents it has keyword: " +
+		// wholeCount + " there are " + allfile);
+		System.out.println("BM25:");
+		for (int i = 0; i < docList.size(); i++) {
+			//System.out.println(i);
+			System.out.println(docList.get(i).getFileName());
+			
+		}
+		
 	}
 
 	public static void main(String args[]) throws IOException, ParseException {
 		SearchFiles search = new SearchFiles();
-		search.Search("gi15");
-		Tfidf("gi15");
-
+		String queryString = "Computer Science";
+		search.Search(queryString);
+		Tfidf(queryString);
+		//Pagerank(queryString);		
+		//Bm25(queryString);
 	}
 }

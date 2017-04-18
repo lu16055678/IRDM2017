@@ -11,13 +11,16 @@ public class Crawler {
 	private static final int MAX_PAGES_TO_SEARCH = 20000;
 	private Set<String> pageVisited = new HashSet<String>();
 	private List<String> pageToVisit = new LinkedList<String>();
-	private List<String> pageFound = new LinkedList<String>();
+	//private List<String> pageFound = new LinkedList<String>();
 	private static final Pattern FILTERS = Pattern.compile(".*(\\.(xml|pdf|css|js|bmp|gif|jpe?g"
 			+ "|png|tiff?|mid|mp2|mp3|mp4" + "|wav|avi|mov|mpeg|ram|m4v|pdf" + "|rm|smil|wmv|swf|wma|zip|rar|gz))$");
+	private String[][] pageList;
+	
 	public void search(String url) {	
 		Matcher match = FILTERS.matcher(url);
 		
 		if (!match.matches()) {
+			int i = 0;
 			while (this.pageVisited.size() < MAX_PAGES_TO_SEARCH) {
 				
 				String currentUrl;
@@ -31,9 +34,9 @@ public class Crawler {
 				}
 				boolean receive = leg.crawl(currentUrl);
 				if (receive) {
-					pageFound.add(0, currentUrl);
+					//pageFound.add(0, currentUrl);
 					// success = leg.searchForWord(searchWord);
-
+				
 				}
 				/**
 				 * if (success) { System.out.println(String.format("**Success**

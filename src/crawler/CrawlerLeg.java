@@ -1,11 +1,14 @@
 package crawler;
 
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileOutputStream;
+import java.io.FileWriter;
 /**
  * Cited From Stephen, 2014, which is available at http://www.netinstructions.com/how-to-make-a-simple-web-crawler-in-java/
  */
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -24,7 +27,7 @@ public class CrawlerLeg {
 	private Document htmlDocument;
 	// private List<String> context = new LinkedList<String>();
 	private static final String DIR = "page";
-
+	
 	/**
 	 * This performs all the work. It makes an HTTP request, checks the
 	 * response, and then gathers up all the links on the page. Perform a
@@ -45,11 +48,13 @@ public class CrawlerLeg {
 				 */
 				if (connection.response().statusCode() == 200)
 				{
-					System.out.println("\n**Visiting** Received web page at " + url);
+					//System.out.println("\n**Visiting** Received web page at " + url);
 					
 					Elements title = htmlDocument.getElementsByTag("title");
-					String name = title.text();					
+					String name = title.text();		
+					
 					File file = new File(DIR, name);
+					
 					if(!file.exists()){						
 						FileOutputStream fos = new FileOutputStream(file);
 						fos.write(htmlDocument.html().getBytes());
@@ -68,10 +73,25 @@ public class CrawlerLeg {
 
 				Elements linksOnPage = htmlDocument.select("a[href]");
 
-				System.out.println("Found (" + linksOnPage.size() + ") links");
+				//System.out.println("Found (" + linksOnPage.size() + ") links");
 				for (Element link : linksOnPage) {
 					this.links.add(link.absUrl("href"));
+					//System.out.println(links.get(0));
+					
 				}
+				Elements title = htmlDocument.getElementsByTag("title");
+				String name = title.text();		
+				//HtmlEntity entity = new HtmlEntity();
+				File file = new File("link", name);
+				
+				if(!file.exists()){						
+					PrintWriter writer = new PrintWriter(file);
+					double numberOfLinks = (double)getLinks().size();
+					writer.print(numberOfLinks);
+					writer.close();
+					
+				}
+				
 				// context.add(this.htmlDocument.body().text());
 				return true;
 			} else {

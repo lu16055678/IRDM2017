@@ -283,7 +283,14 @@ public class SearchFiles {
 		for(int i=0;i<docList.size();i++){
 			totalWord = totalWord+docList.get(i).getWordCount();
 		}
-		double log = (double) allfile / docList.size();
+
+
+/**
+ *
+ * BM25_modified
+ *
+ **/
+		double log = (double) (allfile - docList.size() + 0.5)/(docList.size() + 0.5);
 		double idf = Math.log10(log);
 		double k = 2.0;
 		double b = 0.75;
@@ -294,12 +301,36 @@ public class SearchFiles {
 			double temp = 0;
 			for (int j = 0; j < queryString.size(); j++) {
 				CalculateQueryCount(queryString.get(j));
-				tf = (double) docList.get(i).getCount() / docList.get(i).getWordCount();				
-				temp = (idf*tf*(k+1))/(tf+k+(1-b+b*averageWord));
-				bm25 = bm25 + temp;
+				temp = (double) docList.get(i).getCount() / docList.get(i).getWordCount();				
+				tf = tf + temp;
+				
 			}
+			bm25 = (idf*tf*(k+1))/(tf+k+(1-b+b*averageWord));
 			docList.get(i).setScore(bm25);
 		}
+		
+
+/**
+ *
+ * 	BM25_original 
+ *		double log = (double) allfile / docList.size();
+ *		double idf = Math.log10(log);
+ *		double k = 2.0;
+ *		double b = 0.75;
+ *		double bm25 = 0;
+ *		double averageWord = totalWord/docList.size();
+ *		for (int i = 0; i < docList.size(); i++) {
+ *			double tf = 0;
+ *			double temp = 0;
+ *
+ *				//CalculateQueryCount(queryString.get(j));
+ *				tf = (double) docList.get(i).getCount() / docList.get(i).getWordCount();				
+ *				temp = (idf*tf*(k+1))/(tf+k+(1-b+b*averageWord));
+ *				bm25 = bm25 + temp;
+ *			}
+ *			docList.get(i).setScore(bm25);
+ *		}
+ **/		
 		for (int i = 0; i < docList.size() - 1; i++) {
 			for (int j = i + 1; j < docList.size(); j++) {
 				ContentFile file1;
@@ -318,8 +349,9 @@ public class SearchFiles {
 		// wholeCount + " there are " + allfile);
 		System.out.println("BM25:");
 		for (int i = 0; i < docList.size(); i++) {
-			//System.out.println(i);
+			System.out.println(i);
 			System.out.println(docList.get(i).getFileName());
+			System.out.println(docList.get(i).getScore());
 			
 		}
 		
@@ -327,10 +359,10 @@ public class SearchFiles {
 
 	public static void main(String args[]) throws IOException, ParseException {
 		SearchFiles search = new SearchFiles();
-		String queryString = "Computer Science";
+		String queryString = "Information retrieval data mining";
 		search.Search(queryString);
-		Tfidf(queryString);
+		//Tfidf(queryString);
 		//Pagerank(queryString);		
-		//Bm25(queryString);
+		Bm25(queryString);
 	}
 }
